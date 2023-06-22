@@ -1,0 +1,64 @@
+
+        <html>
+            <head>
+                <title>RobKohr's Blog - angular</title>
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            <h2>Tag: angular</h2>
+    
+    <h2><a href="articles/angular-multi-level-componets">Angular multi-level componets</a></h2>
+    <div id="date">@date=2023-07-24</div>
+    <div id="tags">@tags: <a href="tags/coding">coding</a>, <a href="tags/angular">angular</a>, <a href="tags/wfs">wfs</a></div>
+    <article>
+        <p>For WFS I am working on the services page and the services need to be sortable in the settings, and then show the forms in the sorted order when making a new service request. Right now the order is hard coded, and each component has its own property set. I am going to create a wrapper for the components that will take all of the properties they need, and then pass them down to the component. The display order for the services can then load all of them in.</p>
+
+    </article>
+    
+    <h2><a href="articles/angular-is-just-easier-to-make-most-web-applications-in-than-react">Angular is just easier to make most web applications in than React</a></h2>
+    <div id="date">@date=2019-11-25</div>
+    <div id="tags">@tags: <a href="tags/angular">angular</a>, <a href="tags/react">react</a></div>
+    <article>
+        <p>UPDATE: My feelings about this have changed quite a bit, a follow up article is to come. The summary is that React has gotten so much easier with React hooks that my recommendations here have changed.</p>
+<h3>A little background</h3>
+<p>I did about 5 years of AngularJS (not newer Angular) development, 1.5 years of React, and now about 1 month of Angular, so I know my around a little bit of the the first two, and now with I have touch a bit on the third (I consider Angular and AngularJS to be fairly distant cousins).</p>
+<h3>What sets them apart</h3>
+<p>My impression is that React is a tidy powerful, elegant, and well engineered project that can suit practically any need, but especially that of a very unique web application that needs to be tackled creatively and with very modular code. It really delivers on the promise of functional programming, and is a joy to code with.</p>
+<p>That said, you have to do a fair amount of thinking and planning with React.</p>
+<h3>Where Angular thrives</h3>
+<p>Angular (and AngularJS), you don&#39;t have to think so much as just do. There really is not a huge variety in how you would slice up and build a web application with Angular, and that is nice when you are building 95% of the web applications out there on the internet. Do you need something with a load of interlinked web pages, where you can view data loaded from an API and occasionally submit some data back to said APIs. Well, then you have a friend in Angular.</p>
+<p>The lack of thought needed in such an opinionated framework is that makes it ideal, and it satisfies so many application needs, because frankly, as someone who has spent most of his life building web applications used by millions of people, all the apps start looking pretty damn much the same when you break them down to their basic functional parts.</p>
+<p><img src="donuts.jpg" alt="time to make the donuts"></p>
+<h3>Exceptions: where React thrives</h3>
+<p><img src="genie.jpg" alt="genie"></p>
+<p>Exceptions to this are more application type apps: web games, gmail, facebook, slack, google docs, twitter, photo editing, experimental stuff, etc.</p>
+<p>Basically things where the concepts of pages are meaningless, and interactions are fluid and different than the standard <a href="https://en.wikipedia.org/wiki/Create%2C_read%2C_update_and_delete">CRUD</a> based web web apps.</p>
+<p>I feel Angular and React can fullfil both basic CRUD apps and more interactive application type apps, but each are much better suited to their the specific app type with React being more flexible</p>
+<h3>Top down vs bottom up</h3>
+<p>Another little bit with the differences is with Angular, it seems to make more sense to build full pages from the top level, and then split them into components with services and you move through each of the pieces, where react you seem to build up more a lot of components to put things together.</p>
+<h3>Conclusion</h3>
+<p>I like React better, but when I just need to get the job done and do it fast, and the job is pretty straight forward, Angular is the tool I would reach for first.</p>
+
+    </article>
+    
+    <h2><a href="articles/godot-asset-store">Godot Asset Store</a></h2>
+    <div id="date">@date=2019-11-19</div>
+    <div id="tags">@tags: <a href="tags/godot">godot</a>, <a href="tags/godot-asset-store">godot-asset-store</a>, <a href="tags/projects">projects</a>, <a href="tags/in-progress">in-progress</a>, <a href="tags/angular">angular</a>, <a href="tags/nodejs">nodejs</a></div>
+    <article>
+        <p>I started developing the <a href="https://godotassetstore.org">Godot Asset Store</a> a few weeks ago. It is built with Angular and node.js as the backend api with nginx as the frontend.</p>
+<p>I am getting to the tricky parts now:</p>
+<ul>
+<li>Auth</li>
+<li>Fetching content from github</li>
+<li>payments</li>
+<li>splitting out payments</li>
+<li>accounting details</li>
+</ul>
+
+    </article>
+    
+            </body>
+        </html>
+    

@@ -1,0 +1,54 @@
+
+        <html>
+            <head>
+                <title>RobKohr's Blog - coding</title>
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            <h2>Tag: coding</h2>
+    
+    <h2><a href="articles/stackoverflow-instead-of-beating-your-head-against-the-wall">Stackoverflow instead of beating your head against the wall</a></h2>
+    <div id="date">@date=2023-06-22</div>
+    <div id="tags">@tags: <a href="tags/stackoverflow">stackoverflow</a>, <a href="tags/coding">coding</a>, <a href="tags/programming">programming</a></div>
+    <article>
+        <p>Often you will get deep in some code and come up against a wall. After working through it, and reading some documentation, if you haven&#39;t figured it out, it is time to go to stackoverflow.</p>
+<p>I have been on stackoverflow for a little over 14 years now, and while I don&#39;t answer a lot of questions (there is a lot of competition for that) I have a lot of questions that I have asked and have given me a pretty respectable score, putting me in the top 6% of users (<a href="https://stackoverflow.com/users/101909/robkohr">https://stackoverflow.com/users/101909/robkohr</a>). </p>
+<p>The best things to do, is clearly state the problem, provide <em>concise</em> code that shows the problem in a reproducible way, and then state what you would like to achieve. </p>
+<p>Sometimes when I work hard at making a clear question on stack overflow, I end up figuring out the answer myself. This is kinda like rubber duck debugging, but instead of a rubber duck, you are talking to the internet.</p>
+<p>Then you end up with being the person asking and answering the question and giving yourself double internet points... which is <em>oh so important</em> :)</p>
+
+    </article>
+    
+    <h2><a href="articles/angular-multi-level-componets">Angular multi-level componets</a></h2>
+    <div id="date">@date=2023-07-24</div>
+    <div id="tags">@tags: <a href="tags/coding">coding</a>, <a href="tags/angular">angular</a>, <a href="tags/wfs">wfs</a></div>
+    <article>
+        <p>For WFS I am working on the services page and the services need to be sortable in the settings, and then show the forms in the sorted order when making a new service request. Right now the order is hard coded, and each component has its own property set. I am going to create a wrapper for the components that will take all of the properties they need, and then pass them down to the component. The display order for the services can then load all of them in.</p>
+
+    </article>
+    
+    <h2><a href="articles/back-to-solidjs">Back to solidjs</a></h2>
+    <div id="date">@date=2023-06-12</div>
+    <div id="tags">@tags: <a href="tags/coding">coding</a>, <a href="tags/svelte">svelte</a>, <a href="tags/solidjs">solidjs</a></div>
+    <article>
+        <p>I delved into svelte pretty deep to get a grasp of it. I decided to try to make a set of components similar to material UI, just focusing on form elements. </p>
+<p>When it came to passing values, references, functions up and down the component stack, it just became much more difficult than doing it in React, which makes things pretty trivial.</p>
+<p>I got hit with the feeling that I was just playing with magic that I didn&#39;t understand. </p>
+<p>This past week I built two static sites for running my school board campaign using solidjs. It has some basic routing and property passing, so I haven&#39;t really given it a good trial yet, but so far it seems to be an easy stand in for React. I&#39;ll need to give it eventually the same sort of test I did with Svelte.</p>
+<p>I have a desire to move to SolidJs to move away from some of the re-rendering inefficiencies and difficulties in passing values around in React.</p>
+
+    </article>
+    
+    <h2><a href="articles/svelte">Svelte</a></h2>
+    <div id="date">@date=2023-02-28</div>
+    <div id="tags">@tags: <a href="tags/coding">coding</a>, <a href="tags/svelte">svelte</a></div>
+    <article>
+        <p>The best tutorial on it<br><a href="https://www.youtube.com/watch?v=AXwgpUvLiwk&list=PLVvjrrRCBy2KpGl3-s_ELqKd4hiNCN6yz&index=16">https://www.youtube.com/watch?v=AXwgpUvLiwk&amp;list=PLVvjrrRCBy2KpGl3-s_ELqKd4hiNCN6yz&amp;index=16</a></p>
+
+    </article>
+    
+            </body>
+        </html>
+    

@@ -1,0 +1,30 @@
+
+        <html>
+            <head>
+                <title>RobKohr's Blog - doodles</title>
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            <h2>Tag: doodles</h2>
+    
+    <h2><a href="articles/place-setting">place setting</a></h2>
+    <div id="date">@date=2020-10-07</div>
+    <div id="tags">@tags: <a href="tags/doodles">doodles</a></div>
+    <article>
+        <p><img src="2020-10-07-22-43-47.png" alt=""></p>
+
+    </article>
+    
+    <h2><a href="articles/cats">cats</a></h2>
+    <div id="date">@date=2020-10-07</div>
+    <div id="tags">@tags: <a href="tags/doodles">doodles</a></div>
+    <article>
+        <p><img src="2020-10-07-22-42-37.png" alt=""></p>
+
+    </article>
+    
+            </body>
+        </html>
+    

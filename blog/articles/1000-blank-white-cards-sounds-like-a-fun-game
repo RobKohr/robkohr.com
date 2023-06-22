@@ -1,0 +1,45 @@
+
+        <html>
+            <head>
+                <title>RobKohr's Blog - 1000 Blank White cards sounds like a fun game</title>
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/1000-blank-white-cards-sounds-like-a-fun-game">1000 Blank White cards sounds like a fun game</a></h2>
+    <div id="date">@date=2020-05-20</div>
+    <div id="tags">@tags: <a href="tags/boardgames">boardgames</a></div>
+    <article>
+        <p><img src="https://cf.geekdo-images.com/itemrep/img/4qsEyUFfqBt4GtsJGGq0WD7YeCs=/fit-in/246x300/pic606721.jpg" alt="">
+I was reading this BGG page:</p>
+<p><a href="https://boardgamegeek.com/boardgame/4550/1000-blank-white-cards">https://boardgamegeek.com/boardgame/4550/1000-blank-white-cards</a></p>
+<p>And it looks like a fun game to play, especially with some jumbo index cards.</p>
+<p>Some ideas for a good ruleset based on what I read in the forums:</p>
+<ul>
+<li>At the beginning of the first game, each player makes 6 cards and leave 4 blank cards. All cards get shuffled in. On subsequent games each player makes 4 cards, chooses 4 cards from archive, and also inserts 4 blank cards.</li>
+<li>Each player draws 5 cards from the deck</li>
+<li>The starting ruleset for the game is draw a card, play a card</li>
+<li>If you have a blank card in your hand, you can turn it into a new card. New cards should have a name, a drawing, a type, and a description.
+<img src="http://www.dvorakgame.co.uk/images/f/fd/Examplecards.gif" alt="">
+<img src="https://cf.geekdo-images.com/imagepage/img/tv6SDSCIJyhBmUT8IV3jlKggmSE=/fit-in/900x600/filters:no_upscale()/pic377521.jpg" alt=""></li>
+<li>The game ends when there is no cards left to draw</li>
+<li>Each card is one of the following types:<ul>
+<li><strong>action</strong> - do what it says and then discard it</li>
+<li><strong>thing</strong> - modifies a player state (add/subtract from score score or giving a special ability). Place in front of you (keeper) or another player (giver)</li>
+<li><strong>modifier</strong> can be played on things to change them - such as give them armor, make them bald, fast, green. Could change values of the card it is modifying</li>
+<li><strong>new rule</strong> - change how the game is played</li>
+</ul>
+</li>
+<li>Point values for things can range from -100 to +100</li>
+<li>Actions are usually discarded after play</li>
+<li>Cards can have suits (I am thinking colored stampers) and colors which makes it so they can be targeted by other cards.</li>
+<li>No skip turn cards - seems to be the least fun cards</li>
+</ul>
+
+    </article>
+    
+            </body>
+          </html>
+          

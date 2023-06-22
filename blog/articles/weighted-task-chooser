@@ -1,0 +1,36 @@
+
+        <html>
+            <head>
+                <title>RobKohr's Blog - Weighted Task Chooser</title>
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/weighted-task-chooser">Weighted Task Chooser</a></h2>
+    <div id="date">@date=2020-04-09</div>
+    <div id="tags">@tags: <a href="tags/projects">projects</a>, <a href="tags/launched">launched</a></div>
+    <article>
+        <p><img src="2020-06-12-08-34-20.png" alt=""></p>
+<p><a href="https://github.com/RobKohr/weighted-task-chooser">Weighted task chooser</a> is a command line node script that will select a randomly weighted task to do out of a tasklist markdown file.</p>
+<p>So you have a list of tasks to do in a markdown file:</p>
+<ul>
+<li><input disabled="" type="checkbox"> Task 1</li>
+<li><input disabled="" type="checkbox"> Task 2</li>
+<li>[4] Task 3<ul>
+<li><input disabled="" type="checkbox"> Subtask of 3</li>
+</ul>
+</li>
+<li><input disabled="" type="checkbox"> Task 4
+Some notes on task 4</li>
+<li><input checked="" disabled="" type="checkbox"> Task 5 - done, don&#39;t every pick this</li>
+<li><input disabled="" type="checkbox"> Task 6</li>
+</ul>
+<p>This will randomly choose one of the parent tasks from that file. It also does weighting, where each task has a default weight based on the value in the brackets.</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

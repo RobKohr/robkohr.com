@@ -1,0 +1,29 @@
+
+        <html>
+            <head>
+                <title>RobKohr's Blog - Godot Asset Store</title>
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/godot-asset-store">Godot Asset Store</a></h2>
+    <div id="date">@date=2019-11-19</div>
+    <div id="tags">@tags: <a href="tags/godot">godot</a>, <a href="tags/godot-asset-store">godot-asset-store</a>, <a href="tags/projects">projects</a>, <a href="tags/in-progress">in-progress</a>, <a href="tags/angular">angular</a>, <a href="tags/nodejs">nodejs</a></div>
+    <article>
+        <p>I started developing the <a href="https://godotassetstore.org">Godot Asset Store</a> a few weeks ago. It is built with Angular and node.js as the backend api with nginx as the frontend.</p>
+<p>I am getting to the tricky parts now:</p>
+<ul>
+<li>Auth</li>
+<li>Fetching content from github</li>
+<li>payments</li>
+<li>splitting out payments</li>
+<li>accounting details</li>
+</ul>
+
+    </article>
+    
+            </body>
+          </html>
+          

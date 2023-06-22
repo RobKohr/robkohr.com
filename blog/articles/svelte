@@ -1,0 +1,21 @@
+
+        <html>
+            <head>
+                <title>RobKohr's Blog - Svelte</title>
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/svelte">Svelte</a></h2>
+    <div id="date">@date=2023-02-28</div>
+    <div id="tags">@tags: <a href="tags/coding">coding</a>, <a href="tags/svelte">svelte</a></div>
+    <article>
+        <p>The best tutorial on it<br><a href="https://www.youtube.com/watch?v=AXwgpUvLiwk&list=PLVvjrrRCBy2KpGl3-s_ELqKd4hiNCN6yz&index=16">https://www.youtube.com/watch?v=AXwgpUvLiwk&amp;list=PLVvjrrRCBy2KpGl3-s_ELqKd4hiNCN6yz&amp;index=16</a></p>
+
+    </article>
+    
+            </body>
+          </html>
+          

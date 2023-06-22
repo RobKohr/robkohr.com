@@ -1,0 +1,27 @@
+
+        <html>
+            <head>
+                <title>RobKohr's Blog - Movies for me to watch... again</title>
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/movies-for-me-to-watch----again">Movies for me to watch... again</a></h2>
+    <div id="date">@date=2020-05-07</div>
+    <div id="tags">@tags: <a href="tags/movies-to-watch">movies-to-watch</a></div>
+    <article>
+        <p><img src="2020-06-12-08-32-08.png" alt=""></p>
+<ul>
+<li><input disabled="" type="checkbox"> New jack city (again)</li>
+<li><input disabled="" type="checkbox"> Nick cage movies</li>
+<li><input disabled="" type="checkbox"> being john malcovich (again)</li>
+<li><input disabled="" type="checkbox"> Matilda</li>
+</ul>
+
+    </article>
+    
+            </body>
+          </html>
+          

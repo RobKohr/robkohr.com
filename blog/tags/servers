@@ -1,0 +1,33 @@
+
+        <html>
+            <head>
+                <title>RobKohr's Blog - servers</title>
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            <h2>Tag: servers</h2>
+    
+    <h2><a href="articles/aws">AWS</a></h2>
+    <div id="date">@date=2023-02-28</div>
+    <div id="tags">@tags: <a href="tags/aws">aws</a>, <a href="tags/servers">servers</a></div>
+    <article>
+        <p>And just like that, I now understand so many more aws services
+<a href="https://www.youtube.com/watch?v=JIbIYCM48to">https://www.youtube.com/watch?v=JIbIYCM48to</a>
+I like that you can tap into things like brackets to work with quantum computers.</p>
+
+    </article>
+    
+    <h2><a href="articles/easy-instant-github-branch-deployment">Easy instant github branch deployment</a></h2>
+    <div id="date">@date=2021-04-23</div>
+    <div id="tags">@tags: <a href="tags/servers">servers</a>, <a href="tags/web-dev">web-dev</a>, <a href="tags/react">react</a></div>
+    <article>
+        <p>Want to have your server update itself whenever you deploy to a github branch? Piece of cake:</p>
+<p><a href="https://github.com/RobKohr/github-hook-handler">https://github.com/RobKohr/github-hook-handler</a></p>
+
+    </article>
+    
+            </body>
+        </html>
+    

@@ -1,0 +1,34 @@
+
+        <html>
+            <head>
+                <title>RobKohr's Blog - productivity</title>
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            <h2>Tag: productivity</h2>
+    
+    <h2><a href="articles/concepts-for-work-time">Concepts for work time</a></h2>
+    <div id="date">@date=2021-08-27</div>
+    <div id="tags">@tags: <a href="tags/productivity">productivity</a></div>
+    <article>
+        <p>Allow 30 minute blocks for things, and only have one active task at a time. Count how many 30 minute blocks you use... this should be equal to the points... maybe? Not really very scrummy, but might be a good thing to track.</p>
+<p>6 points a day = 30 points a week.z</p>
+
+    </article>
+    
+    <h2><a href="articles/7-days-away-from-the-time-wasting-websites">7 days away from the time wasting websites</a></h2>
+    <div id="date">@date=2020-10-07</div>
+    <div id="tags">@tags: <a href="tags/productivity">productivity</a></div>
+    <article>
+        <p>I have a problem with time wasting websites such as youtube, facebook, twitter, etc. I start going down rabbit holes that suck away my work day.</p>
+<p>As such, I am putting all social media sites on a 7 day time out. I have added them all to my /etc/hosts file so that visiting them just goes to an error.</p>
+<p>Also, installed the mac app called &quot;Time Out&quot; which every hour forces me to take a 10 minute break, during which I am allowing myself some time to work on my current task list, draw pictures, play piano, or write articles like this in my blog (the app covers the screen with a semi-transparent image making it so you can&#39;t click a mouse, but you can type, which is great a forcing what kind of things I can do).</p>
+<p>The idea being that taking 10 minutes out of my day to unfocus from work will allow me to think a little more, and instead of distracting myself with social media, I can do something a little more meditative.</p>
+
+    </article>
+    
+            </body>
+        </html>
+    

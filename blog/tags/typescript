@@ -1,0 +1,27 @@
+
+        <html>
+            <head>
+                <title>RobKohr's Blog - typescript</title>
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            <h2>Tag: typescript</h2>
+    
+    <h2><a href="articles/on-typescript">On typescript</a></h2>
+    <div id="date">@date=2021-08-15</div>
+    <div id="tags">@tags: <a href="tags/typescript">typescript</a>, <a href="tags/webdev">webdev</a></div>
+    <article>
+        <p><img src="2021-08-15-11-32-29.png" alt=""></p>
+<p>After working with typescript a lot on work projects, I typically skip it on personal projects as it just seems tedious at times.</p>
+<p>Well, I just threw it into the neverall project while working on an alerting system, and by golly did it help clean up some things.</p>
+<p>The issues I find are related to the type &quot;any&quot;, which seems like sacrilege to use in projects, and for good reason. In a big team, it is easy for an individual contributor to fly under the radar tossing any in all sorts of places.</p>
+<p>The flip side of it is that the ROI on sorting out some type stuff is just not worth the effort. Yep, it might come bite you in the ass, but sometimes mitigating the risk just takes too long, and for personal projects, the in between of sometimes using any when you don&#39;t really care is nice.</p>
+<p>Throw in other devs though, and banning &quot;any&quot; starts to look real attractive.</p>
+
+    </article>
+    
+            </body>
+        </html>
+    

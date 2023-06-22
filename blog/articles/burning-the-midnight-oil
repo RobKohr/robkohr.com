@@ -1,0 +1,21 @@
+
+        <html>
+            <head>
+                <title>RobKohr's Blog - Burning the midnight oil</title>
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/burning-the-midnight-oil">Burning the midnight oil</a></h2>
+    <div id="date">@date=2019-11-20</div>
+    <div id="tags">@tags: <a href="tags/habits">habits</a></div>
+    <article>
+        <p>3am is often the time I wake up, eat some cereal and do about an hour or so of hacking before heading back to bed at 5am. It just seems to be the most productive time for me (assuming I don&#39;t get wrapped up in social media).</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

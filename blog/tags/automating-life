@@ -1,0 +1,23 @@
+
+        <html>
+            <head>
+                <title>RobKohr's Blog - automating-life</title>
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            <h2>Tag: automating-life</h2>
+    
+    <h2><a href="articles/remove-annoying-eu-cookie-banners">Remove annoying EU cookie banners</a></h2>
+    <div id="date">@date=2019-12-05</div>
+    <div id="tags">@tags: <a href="tags/css">css</a>, <a href="tags/govt">govt</a>, <a href="tags/automating-life">automating-life</a></div>
+    <article>
+        <p><img src="2020-06-12-08-43-25.png" alt=""></p>
+<p>Tired of having to annoyingly see those accept cookies messages that EU bureaucrats have foisted upon us all? Use the <a href="https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha">StyleBot</a> chrome extension and then open stylebot-&gt;options-&gt;Edit Global Style Sheet, and then copy paste <a href="https://raw.githubusercontent.com/Manoz/Cookies-F-cker/master/app/style.css">this css in</a></p>
+
+    </article>
+    
+            </body>
+        </html>
+    

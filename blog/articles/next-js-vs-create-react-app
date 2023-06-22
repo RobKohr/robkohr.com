@@ -1,0 +1,32 @@
+
+        <html>
+            <head>
+                <title>RobKohr's Blog - Next.js vs Create-React-App</title>
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/next-js-vs-create-react-app">Next.js vs Create-React-App</a></h2>
+    <div id="date">@date=2020-10-08</div>
+    <div id="tags">@tags: <a href="tags/web-dev">web-dev</a>, <a href="tags/react">react</a></div>
+    <article>
+        <p>When doing react, I have on worked with CRA up until now. I just took over a next.js app, and when built and deployed, it is speedy, but didn&#39;t like some of the details of development:</p>
+<ul>
+<li>myApp/pages/page-name/index.js is how you create a route for /page-name. While quick and friendly, I prefer the following:<ul>
+<li>Defining my own route rules in details with reach-router. I am just to particular about routing to accept the trade off of simplicity against customizability. Also, defining routes is simple, and it is good for rearranging things without renaming components.</li>
+<li>I really don&#39;t like dozens of index.js files in my codebase. I prefer to call pages pages/page-name/page-name.js so it is clear by the file name what things are for.</li>
+</ul>
+</li>
+<li>making changes when development are a little fluky when it comes to live updates, css doesn&#39;t seem to live update nicely, and there are just too many times that I have to kill the server and restart it to see my changes. This is even worse because it all seems unpredictable as to if/when changes would appear and a little frustrating</li>
+</ul>
+<p>These are little nitpicks, and if CRA didn&#39;t exist, I would go with next, but I love the way CRA is more customizable regarding routing, and is just snappy for responsiveness. I also feel there is just too much gray area as to if something is being rendered on the server or the client, and as an ex-apache/php guy, I really am not a fan of worrying about server side rendering anymore.</p>
+<p>The case where I would likely use next would be if I were building a static content based site where SEO and first page load times were everything. I also know gatsby is supposed to be good for this too, so I would do some side by side comparisons. Also SEO with react is pretty good as is.</p>
+<p>In the end though, that isn&#39;t really something I do much of, so I&#39;ll be on CRA for the forseeable future.</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

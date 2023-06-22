@@ -1,0 +1,22 @@
+
+        <html>
+            <head>
+                <title>RobKohr's Blog - Glico rating system</title>
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/glico-rating-system">Glico rating system</a></h2>
+    <div id="date">@date=2012-04-28</div>
+    <div id="tags">@tags: <a href="tags/projects">projects</a>, <a href="tags/launched">launched</a>, <a href="tags/open-source">open-source</a></div>
+    <article>
+        <p><a href="https://github.com/RobKohr/glicko">Javascript implementation of glicko-2 rating system along with a ffa-team based setup.</a></p>
+<p><img src="Elo_rating_graph.svg.png" alt="Glico"></p>
+
+    </article>
+    
+            </body>
+          </html>
+          

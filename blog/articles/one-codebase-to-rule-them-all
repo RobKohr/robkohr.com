@@ -1,0 +1,53 @@
+
+        <html>
+            <head>
+                <title>RobKohr's Blog - One codebase to rule them all</title>
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/one-codebase-to-rule-them-all">One codebase to rule them all</a></h2>
+    <div id="date">@date=2021-05-25</div>
+    <div id="tags">@tags: <a href="tags/web-dev">web-dev</a>, <a href="tags/react">react</a>, <a href="tags/seo">seo</a>, <a href="tags/adhd">adhd</a></div>
+    <article>
+        <p>A little over a decade ago, I went on a binge and made a bunch of web apps of various sorts:</p>
+<ul>
+<li><a href="http://editthis.info">EditThis.info wiki hosting</a></li>
+<li><a href="http://cueflash.com">Cueflash flashcards study system</a></li>
+<li><a href="http://constantsail.com">ConstantSail pirate and trading game</a></li>
+<li>And atari combat and astroids clones</li>
+<li>A dice rolling program</li>
+</ul>
+<p>Since then, I have built up a huge list of projects I would like to build, I get started on some of them, but then fail to get them off the ground.</p>
+<p>Issues that I blame on this:</p>
+<ul>
+<li>I also had a messy divorce and custody struggle that for a good 6 years encompassed all of my attention (and a good chunk of $money), making it pretty impossible to focus on anything else, and really got me out of my routine for doing side projects</li>
+<li>Being overcommitted to work</li>
+<li><a href="https://www.forbes.com/sites/davidsturt/2015/06/11/decision-paralysis-why-its-prevalent-and-3-ways-to-end-it/?sh=1ad1dd1735b2">decision paralysis</a> - that big list of ideas is so big it has it&#39;s own organization structure. Settling down with one idea is really challenging<ul>
+<li>I am ADD as all hell (like 100% on most tests)... hence the giant list of ideas</li>
+</ul>
+</li>
+<li>The startup to any project involves too much overhead to keep me involved.
+Ok, I am working my normal job, and I am creating a new project: creating the css, the layout, the database, the authentication system, the different pages, etc, and by the time I get to the meat of what makes something unique, I am on to the next project.</li>
+</ul>
+<p>The first of these bullets is &quot;resolved&quot;, the middle ones aren&#39;t really resolvable, but that last one, I think that is tackle-able, and able to be handled with my scattered mind.</p>
+<p>So I created a website called <a href="http://neverall.com">neverall.com</a> (the domain name was from a <a href="http://mixmatch.com">domain name generator</a> I created called mixmatch.com that helps you find short domain names). I also created a single create-react-app repo for neverall.com, and am using it for a rebuild of the <a href="http://godotassetstore.org">godot asset store</a>. Instead of creating a bunch of domain names and a bunch of git repos and separate projects, I am going to build one site to rule them all, and everything will just be basically a &quot;subdirectory&quot; of neverall.com. This will have a few benefits:</p>
+<ul>
+<li>All of the basic site setup stuff will always be there, so it will be easy to just create a new directory and use the same common db for all of them</li>
+<li>Improvements to the design and components can be done all in one place, and so everything gets a face lift (though I do like individual projects to have their own look and feel)</li>
+<li>A little SEO hacking as projects on different domain names don&#39;t share page rank, so my projects don&#39;t really help eachother out much, except for interlinking.</li>
+</ul>
+<p>This last point is an interesting one, as it is nice to tell people, check out someCoolWebApp.com instead of neverall.com/someCoolWebApp.</p>
+<p>The thing is, both are things that can be done at the same time. Using nginx, I can point all of the domain names to the same code base, but when you go to someCoolWebApp.com, it will show you the same content as neverall.com/someCoolWebApp, and this can all be handled in the React router code (I use reach router, which is awesome).</p>
+<p>Now, duplicate content on the internet is a big SEO no-no, and google will ding you hard for it. Also, all that SEO juice flowing to someCoolWebApp.com doesn&#39;t benefit the collections of other apps that I am building. ... except it can!</p>
+<p><a href="https://developers.google.com/search/docs/advanced/crawling/consolidate-duplicate-urls">Canonical URLs</a> are things you can put in the head of your site documents. They tell google where the &quot;real&quot; original content is, and so that real content gets the SEO page ranking rather than wherever people are linking to. So I can tell everyone all about someCoolWebApp.com, and they can all be lining to it, but really neverall.com/someCoolWebApp.com gets all the benefits.</p>
+<p>Another side benefit is that since everything is in one repo, I can bounce around between directories, reuse components, and work on whatever I feel tickles my fancy any day without having to decide what repo to work on and just being stuck on that. I can start writing code anywhere for anything and it will be useable without needing to start up much or even finish anything at any time.</p>
+<p>All in all, an experiment into ADD programmer side project productivity. Maybe I will update you here on the progress... or maybe I will just be creating things.</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

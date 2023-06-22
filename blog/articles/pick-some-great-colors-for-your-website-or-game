@@ -1,0 +1,23 @@
+
+        <html>
+            <head>
+                <title>RobKohr's Blog - Pick some great colors for your website or game</title>
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/pick-some-great-colors-for-your-website-or-game">Pick some great colors for your website or game</a></h2>
+    <div id="date">@date=2021-05-25</div>
+    <div id="tags">@tags: <a href="tags/web-design">web-design</a></div>
+    <article>
+        <p><a href="https://javier.xyz/cohesive-colors/">Cohesive colors</a> is a color palette randomizer that does a great job picking a set of 5 colors that work really well together, and also allows you to throw a hue adjustment on them all.</p>
+<p>This would be good for a quick way to colorize game levels or websites to make them look distinctive without too much effort.</p>
+<p>For websites, I like to come up with a set of base colors, assign them to variables, and then lighten them to various degrees to use in different contexts.</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

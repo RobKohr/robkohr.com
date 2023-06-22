@@ -1,0 +1,21 @@
+
+        <html>
+            <head>
+                <title>RobKohr's Blog - Island Warfare</title>
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/island-warfare">Island Warfare</a></h2>
+    <div id="date">@date=2008-08-30</div>
+    <div id="tags">@tags: <a href="tags/projects">projects</a>, <a href="tags/suspended">suspended</a></div>
+    <article>
+        <p><a href="http://islandwarfare.com">Island Warfare</a> will be a game where you build up your islands and the armies on your island to go take over other user&#39;s islands</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

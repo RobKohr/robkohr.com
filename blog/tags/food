@@ -1,0 +1,30 @@
+
+        <html>
+            <head>
+                <title>RobKohr's Blog - food</title>
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            <h2>Tag: food</h2>
+    
+    <h2><a href="articles/good-fermented-foods-for-probiotics">Good fermented foods for probiotics</a></h2>
+    <div id="date">@date=2020-05-07</div>
+    <div id="tags">@tags: <a href="tags/food">food</a></div>
+    <article>
+        <p><img src="2020-06-12-08-32-42.png" alt=""></p>
+<ul>
+<li>Yogurt</li>
+<li>Kimchi</li>
+<li>Sauerkraut</li>
+<li>Kefir</li>
+<li>Kombucha</li>
+<li>Tempeh</li>
+</ul>
+
+    </article>
+    
+            </body>
+        </html>
+    

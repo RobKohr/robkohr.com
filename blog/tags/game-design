@@ -1,0 +1,42 @@
+
+        <html>
+            <head>
+                <title>RobKohr's Blog - game-design</title>
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            <h2>Tag: game-design</h2>
+    
+    <h2><a href="articles/on-game-design--make-them-cry">On game design: make them cry</a></h2>
+    <div id="date">@date=2019-11-26</div>
+    <div id="tags">@tags: <a href="tags/game-design">game-design</a>, <a href="tags/other-peoples-projects">other-peoples-projects</a>, <a href="tags/game-review">game-review</a></div>
+    <article>
+        <p><img src="nes-cry.jpg" alt="nes-cry"></p>
+<p>I was talking with <a href="http://twitter.com/octagon_game_st">@octagon_game_st</a> about his game <a href="https://play.google.com/store/apps/details?id=com.octagon.octomaze_demo">Octomaze</a></p>
+<p>I didn&#39;t finish the demo, and well, I figured I should paste it in as I think it is a good breakdown of game design for a mechanics based puzzle:</p>
+<hr>
+<p>I didn&#39;t finish the demo, and it didn&#39;t entice me enough to go back in and do so, and I have been thinking about why exactly that is.</p>
+<p>I always liked the game mechanics of the early nes games. They introduced a simple mechanic, and then for a stretch introduced no other mechanics, but just kept on increasing the difficulty in that one mechanic before it got really hard, and then once it got hard, the dropped the difficulty and threw another mechanic at you and repeated the cycle.</p>
+<p>It seems you put a lot of the mechanics in the first levels (I only went up till the buttons with the wall turns), so you were giving a lot of the goods first without the users earning/trying at all, where the new mechanics should be considered the reward. Otherwise it is like they already know everything that the game is going to provide, and now it is just going to keep getting harder. The reward shouldn&#39;t be the puzzles, but the novelty of a new way to work through puzzles.</p>
+<p>And ramp that difficulty up faster.</p>
+<p>Example level plan:</p>
+<ul>
+<li>Mechanic level (just simple navigating a maze- then 2 levels of difficulty to very hard</li>
+<li>another mechanic level - a level that mixes that with the first mechanic, then a really hard level with the two</li>
+</ul>
+<p>Then continue.</p>
+<p>Keep in mind your target audience:</p>
+<ul>
+<li>Mobile, so they want something engaging fast</li>
+<li>Smart, or at least they think so, since they are choosing a puzzle game. Don&#39;t coddle them. Make them hate you and want to throw their phone within the first minute. If they wanted to just plod along, they would have chosen candy crush.</li>
+<li>Distracted, so once they pick their phone back up and check it for cracks, and beat that 3rd level that shouldn&#39;t have been so damn hard, you give them a new mechanic to chew on.</li>
+</ul>
+<p>Give them 3 mechanics (maze moving, buttons, then a challenging monster... not a simple one) and 3 levels on each making the last one of each pain inducing, and then hit them with a paywall to go get the full version chumps where the octopus will make you cry for momma, if you think you can handle it. Be a little rude, have some fun with the players. When you play test you should see them fluxuate between happiness and suffering.</p>
+
+    </article>
+    
+            </body>
+        </html>
+    

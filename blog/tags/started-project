@@ -1,0 +1,25 @@
+
+        <html>
+            <head>
+                <title>RobKohr's Blog - started-project</title>
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            <h2>Tag: started-project</h2>
+    
+    <h2><a href="articles/started-working-on-the-godot-asset-store">Started working on the Godot Asset store</a></h2>
+    <div id="date">@date=2019-10-25</div>
+    <div id="tags">@tags: <a href="tags/godot-asset-store">godot-asset-store</a>, <a href="tags/started-project">started-project</a>, <a href="tags/projects">projects</a>, <a href="tags/godot">godot</a></div>
+    <article>
+        <p>10/25/2019 is the day I started the Godot Asset Store, and so I am inserting this entry for that day. After creating my first godot app (the tutorial dodge game), and after years of dipping my toe into Unity but never making much of anything, I see great potential in Godot.</p>
+<p>One of the biggest pain points is that there is no commercial storefront. Yes, there is a free storefront, and with many many great open source projects, but the majority of those projects are ones that were personally made to try something out as an experiment, or to suit someone&#39;s own personal needs to finish their own game, with little long term updates and support. Yes, there are great exceptions to that, but then there are many that haven&#39;t been updated in 2 years, and aren&#39;t even compatible with the current version.</p>
+<p>The Unity and Unreal storefronts are lively bustling communities with thousands of assets updated frequently to suit the requests of people who purchase and review those assets. Throwing in a monetary reward for developers to keep there assets improving, maintained, and version compatible is a great boon for the assets and those who depend on them.</p>
+<p>So, I am working on the Godot Asset Store with the goal of filling that need for Godot to help it become an equal to, and one day surpass the other game development engines, because I believe in it, and feel the gaming world (both developers and players) will be better off with such a well built engine in use. I am not much of C programmer, and can&#39;t contribute much to the core of the project, but hopefully with this I will be able to help a little. I have built many of web applications, and even some e-commerce for some big companies, and it would be great to put those skills to use for this.</p>
+
+    </article>
+    
+            </body>
+        </html>
+    

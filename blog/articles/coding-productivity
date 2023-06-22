@@ -1,0 +1,31 @@
+
+        <html>
+            <head>
+                <title>RobKohr's Blog - Coding productivity</title>
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/coding-productivity">Coding productivity</a></h2>
+    <div id="date">@date=2020-12-04</div>
+    <div id="tags">@tags: <a href="tags/programming">programming</a></div>
+    <article>
+        <p>One thing that I find that helps is to open up a text file and start typing what your thoughts are and be unfiltered (I sometimes look away from my screen so I don&#39;t proofread). Try and get everything out, and let yourself brainstorm.</p>
+<p>Keeping it all in a conversation in your head creates too many threads to keep track of and you end up looping around worrying about this or that.
+Then after that, I take the blob of text and try to organize it into categories such as &quot;issues to resolve&quot;, &quot;action items&quot;, … etc</p>
+<p>Writing also slows down your thoughts a bit and keeps you from bouncing too much.</p>
+<p>I also have a thing on my desk that I do rubber duck debugging with:
+<a href="https://en.wikipedia.org/wiki/Rubber_duck_debugging">https://en.wikipedia.org/wiki/Rubber_duck_debugging</a></p>
+<p>I also turn this app on when I am trying to force myself to be productive:
+<a href="https://apps.apple.com/us/app/loud-typer/id1493508558?mt=12">https://apps.apple.com/us/app/loud-typer/id1493508558?mt=12</a></p>
+<p>and this for music:
+<a href="https://coderadio.freecodecamp.org/">https://coderadio.freecodecamp.org/</a></p>
+<p>The sound of the typing makes me feel more productive, which reinforces it, and the music gives me a rhythm.</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

@@ -1,0 +1,24 @@
+
+        <html>
+            <head>
+                <title>RobKohr's Blog - review</title>
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            <h2>Tag: review</h2>
+    
+    <h2><a href="articles/octomaze-review">Octomaze review</a></h2>
+    <div id="date">@date=2019-12-08</div>
+    <div id="tags">@tags: <a href="tags/other-peoples-projects">other-peoples-projects</a>, <a href="tags/review">review</a></div>
+    <article>
+        <p><a href="https://play.google.com/store/apps/details?id=com.octagon.octomaze">Octomaze</a> is a A good puzzler that gets you thinking, is challenging, but not so much that I have gotten stuck yet.</p>
+<p>The mechanics and style of this game concept are great, but what really makes this shine is how much obvious thought the dev put into the level design, which progresses with a smooth increase in difficulty.</p>
+<p>I just bought the full version after beating the demo, and it gets even better after that. New themes, dangers and enemies come in world two.</p>
+
+    </article>
+    
+            </body>
+        </html>
+    

@@ -1,0 +1,32 @@
+
+        <html>
+            <head>
+                <title>RobKohr's Blog - 3d-printing</title>
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            <h2>Tag: 3d-printing</h2>
+    
+    <h2><a href="articles/standardizing-portable-board-games">Standardizing portable board games</a></h2>
+    <div id="date">@date=2021-04-23</div>
+    <div id="tags">@tags: <a href="tags/3d-printing">3d-printing</a>, <a href="tags/boardgames">boardgames</a></div>
+    <article>
+        <p>I have a bit of a thought that 3d printing boardgames would be great, particularly portable ones with
+nice cases.</p>
+<p>For sizing, I am thinking of basing it off of the <a href="https://en.wikipedia.org/wiki/ISO_216">iso 216 paper sizing formats</a>. Most people will think of this relating to the A4 printer paper size.</p>
+<p>The reason for focusing on this format is that is a standard that works well with doubling. There are 3 sizings in this iso standard. A, B and C. For reasons that I am not sure I fully know, B is the biggest of the lines, and then C, and then A. What is nice about this, is if we use size B6 for a standard sized box, it is 125mm x 176mm, and A6 paper is 105mm x 148mm. This means the box will fall nicely inside the print sizes for most printers, and make it possible to print pieces beside the box so things can be printed in one shot, and A6 paper can be used as the print size for instructions. A6 paper can be made by cutting an A4 sheet into quarters, so instructions could be print on A4 and then cut into 4.</p>
+<p>The boxes will have an overhang at the top so that game boards can be stacked. The lid can be a simple circle with a finger hole in the middle.</p>
+<p><img src="2021-04-23-17-09-31.png" alt="Diagram with lips on 4 sides"></p>
+<p>One issue is that with this being the size of a b6, two b7&#39;s couldn&#39;t fit inside since the lips would push up against each other. One way to remedy this is to only have two sides of each box have lips on that stick out on the sides like so:</p>
+<p><img src="2021-04-23-17-24-28.png" alt="Diagram with lips on 2 sides"></p>
+<p>So two half sized boxes can fit into a rim of a lower box and then they can tightly stack on top of each other.</p>
+<p>Alternative idea: have no sides stick out, and then have pegs that stick out of the top of each lid that fit into holes in the bottom of the box above it. The floor thickness would need to be such that it can accommodate that.</p>
+<p>This might be simpler, and as long as the hole sizes are big enough that they don&#39;t grip the peg below. This can create issues though as having holes on the bottom of models can create issues.</p>
+
+    </article>
+    
+            </body>
+        </html>
+    

@@ -1,0 +1,44 @@
+
+        <html>
+            <head>
+                <title>RobKohr's Blog - design</title>
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            <h2>Tag: design</h2>
+    
+    <h2><a href="articles/thoughts-on-using-grommet-for-web-app-design">Thoughts on using grommet for web app design</a></h2>
+    <div id="date">@date=2020-10-08</div>
+    <div id="tags">@tags: <a href="tags/web-dev">web-dev</a>, <a href="tags/design">design</a>, <a href="tags/react">react</a></div>
+    <article>
+        <p>I used <a href="https://icons.grommet.io/">Grommet</a> for a react project, and here are some of my thoughts on it.</p>
+<p>Things I like</p>
+<ul>
+<li>Works out of the box for most use cases</li>
+<li>Nice for form elements</li>
+<li>Gives a standard look and feel for the site without any need to work out details</li>
+</ul>
+<p>Things I don&#39;t like</p>
+<ul>
+<li>A grommet element is a wrapper for an entire dom structure that you can&#39;t directly style as it doesn&#39;t have any classes you can apply css to; a simple parent classname that you can have as a starting point would work wonders</li>
+<li>The Box wrapper and other wrappers for grid layouts just reimplement html features but in a more limited and difficult to adjust way</li>
+<li>It basically sucks for doing anything new stylistically (such as building a static landing page).</li>
+<li>It&#39;s design is kinda bla and minimal as far as customization</li>
+</ul>
+<p>If I were to do a application in the future I would:</p>
+<ul>
+<li>I&#39;d still use grommet for all of its components, but not it&#39;s layout</li>
+<li>Create a thin layer interface over grommet that just passes down props. This way a mvp can be quickly pushable, but the styles would be easily updatable<ul>
+<li>But more likely, unless styles don&#39;t matter at all, I would just do my own component library based on mocks as really stying components isn&#39;t too hard</li>
+</ul>
+</li>
+</ul>
+<p>Well structured scss is really easy to manage, and while grommet is good for building quick and dirty UI, scss custom built ui components are better to build for a project that is going to be something that will be used for a long term project.</p>
+
+    </article>
+    
+            </body>
+        </html>
+    

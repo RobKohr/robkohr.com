@@ -1,0 +1,23 @@
+
+        <html>
+            <head>
+                <title>RobKohr's Blog - random</title>
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            <h2>Tag: random</h2>
+    
+    <h2><a href="articles/6-degrees-of-separation-on-wikipedia">6 degrees of separation on wikipedia</a></h2>
+    <div id="date">@date=2020-10-08</div>
+    <div id="tags">@tags: <a href="tags/random">random</a></div>
+    <article>
+        <p>This is pretty fascinating stuff: <a href="https://www.sixdegreesofwikipedia.com/blog/search-results-analysis">https://www.sixdegreesofwikipedia.com/blog/search-results-analysis</a></p>
+<p>With just 3 clicks on average, you can get from any wikipedia article to any other wikipedia article.</p>
+
+    </article>
+    
+            </body>
+        </html>
+    

@@ -1,0 +1,55 @@
+
+        <html>
+            <head>
+                <title>RobKohr's Blog - webdev</title>
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            <h2>Tag: webdev</h2>
+    
+    <h2><a href="articles/getting-a-little-torn-between-svelte-and-solidjs">Getting a little torn between svelte and SolidJS</a></h2>
+    <div id="date">@date=2023-03-09</div>
+    <div id="tags">@tags: <a href="tags/webdev">webdev</a></div>
+    <article>
+        <p>I have been playing with svelte, and liking it, but things just seem to mysterious. With SolidJS, I know what to expect.</p>
+<p>I got to creating some input components with svelte and started to do a registration form. Going to try again with SolidJS to build the same thing. Let&#39;s see if it goes a little better.</p>
+
+    </article>
+    
+    <h2><a href="articles/on-typescript">On typescript</a></h2>
+    <div id="date">@date=2021-08-15</div>
+    <div id="tags">@tags: <a href="tags/typescript">typescript</a>, <a href="tags/webdev">webdev</a></div>
+    <article>
+        <p><img src="2021-08-15-11-32-29.png" alt=""></p>
+<p>After working with typescript a lot on work projects, I typically skip it on personal projects as it just seems tedious at times.</p>
+<p>Well, I just threw it into the neverall project while working on an alerting system, and by golly did it help clean up some things.</p>
+<p>The issues I find are related to the type &quot;any&quot;, which seems like sacrilege to use in projects, and for good reason. In a big team, it is easy for an individual contributor to fly under the radar tossing any in all sorts of places.</p>
+<p>The flip side of it is that the ROI on sorting out some type stuff is just not worth the effort. Yep, it might come bite you in the ass, but sometimes mitigating the risk just takes too long, and for personal projects, the in between of sometimes using any when you don&#39;t really care is nice.</p>
+<p>Throw in other devs though, and banning &quot;any&quot; starts to look real attractive.</p>
+
+    </article>
+    
+    <h2><a href="articles/bringing-things-under-one-roof">Bringing things under one roof</a></h2>
+    <div id="date">@date=2020-10-20</div>
+    <div id="tags">@tags: <a href="tags/webdev">webdev</a>, <a href="tags/seo">seo</a></div>
+    <article>
+        <p>This is a great article about using subdomains vs subfolders for seo:</p>
+<p><a href="https://www.seoquake.com/blog/subdomains-vs-subfolders/">subdomains vs subfolders</a></p>
+<p>I looks pretty clear that subfolders are the way to go.</p>
+<p>With a single server with nginx on it, you can reverse proxy to multiple servers using the location /somedirectory tag.</p>
+<p>I am pondering the idea of making a bunch of mini apps, and then having them all under one domain (maybe this one) and then using subdirectories rather than creating separate names domains for everything. As of right now, this site is just me talking to myself as viewership is basically nil.</p>
+<p>As I am coming back to working on instaboardgame, maybe it should be under tentoncreations.com/fun/boardgame. Cueflash.com could go under tentoncreations.com/flashcards. Constantsail.com could go under tentoncreations/fun/constantsail.</p>
+<p>Editthis.info/create_your_own_adventure -&gt; tentoncreations.com/wiki/create_your_own_adventure</p>
+<p>and so on.</p>
+<p>I might not want to do that with editthis.info as the content on there can be adult in nature, and would make it so google adsense wouldn&#39;t be allowed on the other sites.</p>
+<p>This blog could end up going under /blog, or just stay at the root.</p>
+<p>I was also messing around with <a href="https://wordoid.com/">wordoid</a> trying to come up with something shorter than TenTonCreations.com. It is a tough call as that is a pretty long domain name, but it is easy to spell, and I think sounds pretty cool. It also makes more sense then undrix.com or lagon.com (two examples of available domain names). The choices between short and meaningful is a tough one with domain names.</p>
+<p>Some sites I am thinking would be good to build: a site for feedback.</p>
+
+    </article>
+    
+            </body>
+        </html>
+    

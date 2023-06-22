@@ -1,0 +1,92 @@
+
+        <html>
+            <head>
+                <title>RobKohr's Blog - web-development</title>
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            <h2>Tag: web-development</h2>
+    
+    <h2><a href="articles/cloudflare-effects-on-users">Cloudflare effects on users</a></h2>
+    <div id="date">@date=2020-09-22</div>
+    <div id="tags">@tags: <a href="tags/editthis.info">editthis.info</a>, <a href="tags/web-development">web-development</a></div>
+    <article>
+        <p>For the last few years I have been using cloudflare in front of editthis.info. On the 21st I dropped it, and saw an immediate decrease in average load times (from google analytics):</p>
+<p><img src="2020-09-22-15-12-53.png" alt=""></p>
+<p>This was without any changes to the system at all, and with about 800-900 active users per day.</p>
+<p>Also, as mentioned in my previous blog post, in cloudflare&#39;s dashboard, it reports a massive number of malicious attacks that they have thwarted.</p>
+<p><img src="2020-09-21-10-26-35.png" alt=""></p>
+<p>These are either inflated numbers, or more worrying actual users who couldn&#39;t get past their overly vigorous captcha screening process.</p>
+<p>I look forward to seeing how this effects user counts overall - some could be from the speed boast and some from lack of captchas. In either case, I won&#39;t be using cloudfront again. I am going to set up a simple nginx proxy in front of the website, and implement some caching there to help increase the speed even further.</p>
+
+    </article>
+    
+    <h2><a href="articles/setup-ssl-websockets-from-node-using-nginx-and-certbot">Setup ssl websockets from node using nginx and certbot</a></h2>
+    <div id="date">@date=2020-06-04</div>
+    <div id="tags">@tags: <a href="tags/nginx">nginx</a>, <a href="tags/nodejs">nodejs</a>, <a href="tags/web-development">web-development</a>, <a href="tags/instaboardgame">instaboardgame</a>, <a href="tags/websockets">websockets</a></div>
+    <article>
+        <p><img src="2020-06-12-08-30-59.png" alt=""></p>
+<p>Certbot is the tool from <a href="https://letsencrypt.org">letsencrypt.org</a> that lets you generate ssl certificates for your site without having to pay the likes of Verisign ever again. Basically I love the heck out of them for what they do.</p>
+<p>Nginx runs on your server to redirect examplesite.com to localhost:1234 if you happen to be running your node express server on that port.</p>
+<p>Now if you want to have a socket connection to your server to receive constant updates(for example if you are building an <a href="https://instaboardgame.com">online sandbox styled board game system</a>) you could use the npm module <code>ws</code> to create that websocket for your javascript code to connect to on some port, such as port 8080. This however will not be encrypted, and it will also be kinda ugly and not firewall friendly since it isn&#39;t running on a standard open port.</p>
+<p>But you can run all that through nginx so that you get to have ssl encryption and also use the same port as your node.js express server.</p>
+<h3>How to do it</h3>
+<p>For the client side javascript, you can route your calls to wss://examplesite.com/websocket</p>
+<ul>
+<li>In the nginx config, set up the connection to close when header is set to &#39;&#39;.</li>
+<li>create an upstream to your websocket port</li>
+<li>add the /websocket location</li>
+</ul>
+<pre><code>
+map $http_upgrade $connection_upgrade {
+    default upgrade;
+    &#39;&#39; close;
+}
+
+upstream websocket {
+   server 127.0.0.1:8080;
+}
+
+server {
+    server_name examplesite.com;
+    location /websocket {
+            proxy_pass http://websocket;
+            proxy_http_version 1.1;
+            proxy_set_header Upgrade $http_upgrade;
+            proxy_set_header Connection $connection_upgrade;
+            proxy_set_header Host $host;
+    }
+
+# after this is just an example of the rest of the nginx config for a node server on 8675
+# that has a static build directory (for react or whatever)
+    location / {
+        proxy_pass http://127.0.0.1:8675;
+        proxy_http_version 1.1;
+        proxy_set_header Upgrade $http_upgrade;
+        proxy_set_header Connection &#39;upgrade&#39;;
+        proxy_set_header Host $host;
+        proxy_cache_bypass $http_upgrade;
+        proxy_set_header X-Real-IP $remote_addr;
+    }
+    location ~ \.(gif|jpg|png|js|txt|html|mp3|css|woff2)$ {
+        root /root/examplesite.com/build/;
+        expires 30d;
+    }
+
+    listen 443 ssl; # managed by Certbot
+    ssl_certificate /etc/letsencrypt/live/examplesite.com/fullchain.pem; # managed by Certbot
+    ssl_certificate_key /etc/letsencrypt/live/examplesite.com/privkey.pem; # managed by Certbot
+    include /etc/letsencrypt/options-ssl-nginx.conf; # managed by Certbot
+    ssl_dhparam /etc/letsencrypt/ssl-dhparams.pem; # managed by Certbot
+
+}
+</code></pre>
+<p>You can use <a href="https://www.npmjs.com/package/wscat">https://www.npmjs.com/package/wscat</a> to test out your local ws://...:8080 and your wss://.../websocket connection, and both should now return the same thing.</p>
+
+    </article>
+    
+            </body>
+        </html>
+    

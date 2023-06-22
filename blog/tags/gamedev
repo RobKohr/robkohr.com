@@ -1,0 +1,34 @@
+
+        <html>
+            <head>
+                <title>RobKohr's Blog - gamedev</title>
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            <h2>Tag: gamedev</h2>
+    
+    <h2><a href="articles/on-game-development">On game development</a></h2>
+    <div id="date">@date=2022-12-05</div>
+    <div id="tags">@tags: <a href="tags/gamedev">gamedev</a></div>
+    <article>
+        <p>My mind gets such a buzz from taking an idea and spinning it into the concept for a game and then making it so (the last part being so ardurious that it rarely comes into being). This fun open ended thought process that then needs to be rangled by the realities of time and effort to actually make it real, and if you don&#39;t wrangle it well enough, and commit hard enough, it just gets stacked on the bin of ideas that never see the light of day (which is surprising considering that that hill is taller than any mountain in the known universe).</p>
+<p>I love the work that I do, but hell if I wouldn&#39;t love to be just making my income making games instead... but for myself, not working at a game company. That sounds about as much fun as loving donuts and getting hired at a donut factory.</p>
+
+    </article>
+    
+    <h2><a href="articles/game-performance-by-tag-and-modding">Game performance by tag and modding</a></h2>
+    <div id="date">@date=2020-10-23</div>
+    <div id="tags">@tags: <a href="tags/gamedev">gamedev</a></div>
+    <article>
+        <p>This is a <a href="https://www.gamasutra.com/blogs/DannyWeinbaum/20191115/353349/Genre_Viability_on_Steam_and_Other_Trends__An_Analysis_Using_Review_Count.php">great article about what games perform well on steam based upon their tags (categories)</a>.</p>
+<p>Some games like strategy war games, which I have a great love for, make great money, and there are also very few of them. Other games like puzzlers are plentiful and don&#39;t make much. He also goes into the normal lifespan of a game and its revenue stream which tapers off after 5 years.</p>
+<p>There were so many good tidbits in there, and even a multipage spreadsheet of useful sales data, which is like gold now that steamspy can no longer function.</p>
+<p>One thing that seems to really make great money is the tag &quot;moddable.&quot; Definitely not easy to do in something like godot (or anything else for that matter) but it seems to make a big impact on profitability.</p>
+
+    </article>
+    
+            </body>
+        </html>
+    

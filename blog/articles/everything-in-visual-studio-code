@@ -1,0 +1,22 @@
+
+        <html>
+            <head>
+                <title>RobKohr's Blog - Everything in visual studio code</title>
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/everything-in-visual-studio-code">Everything in visual studio code</a></h2>
+    <div id="date">@date=2020-03-19</div>
+    <div id="tags"></div>
+    <article>
+        <p><img src="2020-06-12-08-40-09.png" alt=""></p>
+<p>It amazes me how much can be done with VS code. It is really the perfect editor thanks to all of the extensions.</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

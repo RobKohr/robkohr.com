@@ -1,0 +1,21 @@
+
+        <html>
+            <head>
+                <title>RobKohr's Blog - place setting</title>
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/place-setting">place setting</a></h2>
+    <div id="date">@date=2020-10-07</div>
+    <div id="tags">@tags: <a href="tags/doodles">doodles</a></div>
+    <article>
+        <p><img src="2020-10-07-22-43-47.png" alt=""></p>
+
+    </article>
+    
+            </body>
+          </html>
+          

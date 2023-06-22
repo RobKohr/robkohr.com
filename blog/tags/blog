@@ -1,0 +1,33 @@
+
+        <html>
+            <head>
+                <title>RobKohr's Blog - blog</title>
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            <h2>Tag: blog</h2>
+    
+    <h2><a href="articles/a-blog-generator">A blog generator</a></h2>
+    <div id="date">@date=2019-11-20</div>
+    <div id="tags">@tags: <a href="tags/blog">blog</a>, <a href="tags/projects">projects</a>, <a href="tags/announcements">announcements</a>, <a href="tags/github">github</a>, <a href="tags/open-source">open-source</a></div>
+    <article>
+        <p>And just like that, now we have a dead simple blog generator tool:</p>
+<p><a href="https://github.com/RobKohr/dead-simple-markdown-to-static-blog-creator">Github / dead-simple-markdown-to-static-blog-creator</a></p>
+<p>This was used to create the site you are currently on!</p>
+
+    </article>
+    
+    <h2><a href="articles/a-very-very-simple-blog">A very very simple blog</a></h2>
+    <div id="date">@date=2019-11-20</div>
+    <div id="tags">@tags: <a href="tags/blog">blog</a></div>
+    <article>
+        <p>This blog was created with a simple markdown file and a directory of images. Trying to come up with a good way to host it will be interesting</p>
+<p>I should come up with a new username on twitter and domain name to match it.</p>
+
+    </article>
+    
+            </body>
+        </html>
+    

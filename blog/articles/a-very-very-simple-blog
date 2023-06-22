@@ -1,0 +1,22 @@
+
+        <html>
+            <head>
+                <title>RobKohr's Blog - A very very simple blog</title>
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/a-very-very-simple-blog">A very very simple blog</a></h2>
+    <div id="date">@date=2019-11-20</div>
+    <div id="tags">@tags: <a href="tags/blog">blog</a></div>
+    <article>
+        <p>This blog was created with a simple markdown file and a directory of images. Trying to come up with a good way to host it will be interesting</p>
+<p>I should come up with a new username on twitter and domain name to match it.</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

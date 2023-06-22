@@ -1,0 +1,24 @@
+
+        <html>
+            <head>
+                <title>RobKohr's Blog - aws</title>
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            <h2>Tag: aws</h2>
+    
+    <h2><a href="articles/aws">AWS</a></h2>
+    <div id="date">@date=2023-02-28</div>
+    <div id="tags">@tags: <a href="tags/aws">aws</a>, <a href="tags/servers">servers</a></div>
+    <article>
+        <p>And just like that, I now understand so many more aws services
+<a href="https://www.youtube.com/watch?v=JIbIYCM48to">https://www.youtube.com/watch?v=JIbIYCM48to</a>
+I like that you can tap into things like brackets to work with quantum computers.</p>
+
+    </article>
+    
+            </body>
+        </html>
+    

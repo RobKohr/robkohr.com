@@ -1,0 +1,22 @@
+
+        <html>
+            <head>
+                <title>RobKohr's Blog - notebook</title>
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            <h2>Tag: notebook</h2>
+    
+    <h2><a href="articles/going-through-notebook-directory">Going through notebook directory</a></h2>
+    <div id="date">@date=2020-05-07</div>
+    <div id="tags">@tags: <a href="tags/notebook">notebook</a></div>
+    <article>
+        <p>I am going through my notebook directory where I have a bunch of little jottings, and these next posts are from those files all brought into this blog so they can be deleted.</p>
+
+    </article>
+    
+            </body>
+        </html>
+    

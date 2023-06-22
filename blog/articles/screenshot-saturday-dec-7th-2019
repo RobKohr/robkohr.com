@@ -1,0 +1,39 @@
+
+        <html>
+            <head>
+                <title>RobKohr's Blog - Screenshot Saturday Dec 7th 2019</title>
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/screenshot-saturday-dec-7th-2019">Screenshot Saturday Dec 7th 2019</a></h2>
+    <div id="date">@date=2019-12-07</div>
+    <div id="tags">@tags: <a href="tags/godot-asset-store">godot-asset-store</a>, <a href="tags/screenshot-saturday">screenshot-saturday</a></div>
+    <article>
+        <p><img src="screenshot-saturday-2019-12-07.gif" alt="screenshot gif 2019-12-07"></p>
+<p><a href="https://youtu.be/JEbzAdhQo3k">On youtube</a></p>
+<p>Progress update on <a href="https://godotassetstore.org">https://godotassetstore.org</a></p>
+<p>What works</p>
+<ul>
+<li>Browse assets</li>
+<li>Individual Asset Page</li>
+<li>Downloading an Asset</li>
+</ul>
+<p>In progress</p>
+<ul>
+<li>Registration Submission</li>
+</ul>
+<p>Next Up</p>
+<ul>
+<li>Finish registration and login</li>
+<li>Make it so you can add github account</li>
+<li>Fetch asset data from github public and private repos</li>
+</ul>
+
+    </article>
+    
+            </body>
+          </html>
+          

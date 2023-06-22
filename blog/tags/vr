@@ -1,0 +1,41 @@
+
+        <html>
+            <head>
+                <title>RobKohr's Blog - vr</title>
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            <h2>Tag: vr</h2>
+    
+    <h2><a href="articles/idea--vr-game-where-you-play-with-fairies">Idea: VR game where you play with fairies</a></h2>
+    <div id="date">@date=2020-04-02</div>
+    <div id="tags">@tags: <a href="tags/vr">vr</a>, <a href="tags/software-ideas">software-ideas</a></div>
+    <article>
+        <p><img src="2020-04-02-11-03-44.png" alt=""></p>
+
+    </article>
+    
+    <h2><a href="articles/oculus-quest">Oculus Quest</a></h2>
+    <div id="date">@date=2019-11-21</div>
+    <div id="tags">@tags: <a href="tags/vr">vr</a>, <a href="tags/oculus">oculus</a>, <a href="tags/vive">vive</a></div>
+    <article>
+        <p>My vive has died in all the ways:</p>
+<ul>
+<li>One lighthouse got so bad that if you faced it, it would totally lose tracking</li>
+<li>The audiostrap headset snapped</li>
+<li>The display often messed up and showed two images on one eye</li>
+<li>One of the controller trackpads would not click anymore</li>
+<li>And finally: The screen just goes black after about a minute of use. I tried a different hdmi cable and that didn&#39;t fix it.</li>
+</ul>
+<p>I was reading a review that the new Vive that uses inside out tracking was performing very poorly regarding tracking, so won&#39;t be buying that as a replacement, and the Valve index is way too pricey.</p>
+<p>So, it looks like the Quest is the machine I will be going with. This is nice, as I was never a fan of the cables attached to your head, and with <a href="https://riftcat.com/vridge">Vridge</a> those PC games supposedly can be streamed to the quest. This is great because I have bought a ton of VR games on steam, and have plenty more in my wishlist.</p>
+<p>Perhaps getting back into VR development again would be fun too. Maybe git back to making a VR swordfighting game.</p>
+<p><img src="vr-sword.jpg" alt="VR sword fighting game"></p>
+
+    </article>
+    
+            </body>
+        </html>
+    

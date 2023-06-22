@@ -1,0 +1,22 @@
+
+        <html>
+            <head>
+                <title>RobKohr's Blog - Mix Match Domains</title>
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/mix-match-domains">Mix Match Domains</a></h2>
+    <div id="date">@date=2019-01-24</div>
+    <div id="tags">@tags: <a href="tags/projects">projects</a>, <a href="tags/launched">launched</a></div>
+    <article>
+        <p><a href="https://mixmatchdomains.com">Generate domain names from keywords</a> using <a href="https://mixmatchdomains.com">mixmatchdomains.com</a></p>
+<p><img src="mixmatch.png" alt="Mix Match Domains"></p>
+
+    </article>
+    
+            </body>
+          </html>
+          

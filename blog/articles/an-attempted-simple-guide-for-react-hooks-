@@ -1,0 +1,117 @@
+
+        <html>
+            <head>
+                <title>RobKohr's Blog - An attempted simple guide for react hooks.</title>
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/an-attempted-simple-guide-for-react-hooks-">An attempted simple guide for react hooks.</a></h2>
+    <div id="date">@date=2020-05-14</div>
+    <div id="tags">@tags: <a href="tags/react">react</a>, <a href="tags/programming">programming</a>, <a href="tags/guides">guides</a></div>
+    <article>
+        <p><img src="2020-05-14-14-46-05.png" alt=""> React hooks is what got me to actually like React enough to make it my primary web development framework (at least at this date). They break away from the ugly class based heavily nested object form of React, and make it truly more functional, while giving allowances for managing state in a stateless system.</p>
+<p>The first thing to grasp about react is that components re-render with every change in the props that come into them, and thus every time they are run (which is every time an input changes), all internal values are wiped out. It should also be noted that internal hook state changes also trigger these re-renders.</p>
+<p>The following hooks help keep all of this from getting washed away with each re-render so that your components can continue to function.</p>
+<h3>useState</h3>
+<p>This one you will likely use the most.</p>
+<p><code>const [state, setState] = useState(initialState);</code></p>
+<p>Sets a value for the initial state, and gives you something to update that state with <code>setState</code>.</p>
+<p>Updating the state will cause a rerender, but the state value will be maintained.</p>
+<p>Note that the left hand side of the equal sign is an array, not an object. state and setState are variables that you make up, and could be called anything, and it is really the order of the outputs from useState that causes state and setState to be set correctly. For example:</p>
+<p><code>const [burgersAreDoneCooking, setBurgersAreDoneCooking] = useState(false);</code></p>
+<p>Would be how you would track the state of the burgers in your cooking app.</p>
+<h3>useContext</h3>
+<p>This can be used to subscribe to a context value set higher up in the tree.</p>
+<pre><code>function Grandparent() {
+  const [favoriteColor, setFavoriteColor] = useState(&#39;blue&#39;);
+  return (
+    &lt;FavoriteColor.Provider value={favoriteColor}&gt;
+      &lt;Parent /&gt;
+    &lt;/FavoriteColor.Provider&gt;
+  );
+}
+function Parent(){
+  return (
+    &lt;div&gt;
+      &lt;Grandchild /&gt;
+    &lt;/div&gt;
+  );
+}
+function Grandchild(){
+   const grandpasFavColor = useContext(FavoriteColor);
+   return (&lt;div&gt;My grandpa&#39;s favorite color is {grandpasFavColor}&lt;/div&gt;)
+}
+</code></pre>
+<h3>useReducer</h3>
+<p>Outputs a state and a dispatcher. The dispatch is a function that will call the reducer with the current state and an action, and that reducer then returners an entirely new object that is a mutation of the original state to provide a new state value.</p>
+<pre><code>const initialState = {count: 0, otherValues:[&#39;a&#39;, &#39;b&#39;, &#39;c&#39;]};
+
+function countReducer(state, action){
+  switch (action.type) {
+    case &#39;increment&#39;:
+      return {...state, count:state.count+1};
+    case &#39;decrement&#39;:
+      return {...state, count:state.count-1};
+    default:
+      return state;
+  }
+}
+
+function Counter() {
+  const [state, dispatch] = useReducer(reducer, initialState);
+  return (
+    &lt;&gt;
+      Count: {state.count}
+      &lt;button onClick={() =&gt; dispatch({type:&#39;decrement&#39;})}&gt;-&lt;/button&gt;
+      &lt;button onClick={() =&gt; dispatch({type:&#39;increment&#39;})}&gt;+&lt;/button&gt;
+    &lt;/&gt;
+  );
+}
+</code></pre>
+<h3>useEffect</h3>
+<p>This is run after the page renders, and if you leave out the dependency array, it will rerun every single time. Usually you only want this to run once though, so setting it to depend on some variables changing, or at a minimum, just passing it [] as the second parameter will keep it from repeatedly running</p>
+<pre><code>useEffect(
+  () =&gt; {
+    /*Do something just once after rendering, unless depends array changes*/
+  },
+  [somethingToDependOn],
+);
+</code></pre>
+<h3>useMemo</h3>
+<p>Only re-run when the dependency changes. This is useful for expensive calculations. It can be used as a watcher for a dependency that will then cause a function to run.</p>
+<pre><code>largestPrime = useMemo(
+() =&gt; calculateLargestPrimeOfNumber(newNumber),
+[newNumber]
+);
+</code></pre>
+<p>This will update the messageHistory every time a new value comes in for lastMessage</p>
+<h3>useRef</h3>
+<pre><code>const refContainer = useRef(initialValue);
+</code></pre>
+<p>Returns an object with a property .current that you can mutate whenever. The object will persist and so you get to keep access to current. This is sometimes used with</p>
+<p><code>&lt;div ref={yourRefObj}&gt;</code>. When react rerenders the dom, it will reapply your object to it, and your yourRefObj.current will always point to the dom element</p>
+<h3>useCallback</h3>
+<p>Stores a callback on a variable so you can use it on children elements and won&#39;t cause a render of the children for every time the parent changes. Since in the below, the reference to onChildChange always stays the same on re-renders, it makes it so <Child> doesn&#39;t detect a change in it&#39;s passed in values.</p>
+<p>We use &quot;a&quot; as a dependency so that the callback is updated when the state of &quot;a&quot; is updated.</p>
+<pre><code>function Parent({ ... }) {
+  const [a, setA] = useState(0);
+  const onChildChange = useCallback(() =&gt;
+   {doSomething(a);}, [a]);
+  ...
+  return (
+  ...
+    &lt;Child onChange={onChildChange} /&gt;
+  );
+}
+</code></pre>
+<h3>Some others</h3>
+<p>I skipped useImperativeHandle, useLayoutEffect, useDebugValue as those are rarely used. You can read <a href="https://reactjs.org/docs/hooks-reference.html">the documentation about them here.</a></p>
+
+    </article>
+    
+            </body>
+          </html>
+          

@@ -1,0 +1,37 @@
+
+        <html>
+            <head>
+                <title>RobKohr's Blog - completed-projects</title>
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            <h2>Tag: completed-projects</h2>
+    
+    <h2><a href="articles/editthis-info-overhaul">Editthis.info overhaul</a></h2>
+    <div id="date">@date=2020-09-21</div>
+    <div id="tags">@tags: <a href="tags/editthis.info">editthis.info</a>, <a href="tags/completed-projects">completed-projects</a></div>
+    <article>
+        <p><a href="http://Editthis.info">EditThis.info</a> has long been overdue for an upgrade. I&#39;ve been postponing it for a while, and now that I have just finished a big move, a wedding, and a honeymoon in Disney (covid be damned), I am circling back on it.</p>
+<p>Task list (this article will be updated as things are completed):</p>
+<ul>
+<li><input checked="" disabled="" type="checkbox"> Clone current server instance</li>
+<li><input disabled="" type="checkbox"> Remove cloudfront - it constantly causes problems, and I think it is blocking a lot of users worldwide that it considers &quot;malicious&quot;</li>
+<li><input disabled="" type="checkbox"> Set dev.editthis.info to new server instance</li>
+<li><input disabled="" type="checkbox"> Add nginx with caching (this will hopefully fulfill the role of cloudflare better as I can customize it as needed)</li>
+<li><input disabled="" type="checkbox"> upgrade php</li>
+<li><input disabled="" type="checkbox"> upgrade mediawiki<ul>
+<li><input disabled="" type="checkbox"> Convert an absurd of dbs to the new mediawiki db structure</li>
+</ul>
+</li>
+<li><input disabled="" type="checkbox"> Point editthis.info to new server</li>
+</ul>
+<p>Along the way I expect a lot of hick-ups and course corrections, but EDI is a very active site despite it&#39;s poor network performance. I think it is reasonable to expect that with a bit of an overhaul I can achieve a 10x increase in usage, which would make it much more lively than it is now.</p>
+<p>Screenshot showing how much cloudflare is blocking (basically a count of failed or skipped annoying captchas): <img src="2020-09-21-10-26-35.png" alt=""></p>
+
+    </article>
+    
+            </body>
+        </html>
+    

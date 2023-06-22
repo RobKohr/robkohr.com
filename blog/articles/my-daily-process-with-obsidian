@@ -1,0 +1,28 @@
+
+        <html>
+            <head>
+                <title>RobKohr's Blog - My daily process with Obsidian</title>
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/my-daily-process-with-obsidian">My daily process with Obsidian</a></h2>
+    <div id="date">@date=2023-06-09</div>
+    <div id="tags">@tags: <a href="tags/obsidian">obsidian</a></div>
+    <article>
+        <p>I have grown to love Obsidian, the notetaking app. </p>
+<ul>
+<li>I use it as a place to throw ideas that I don&#39;t have time to devote to. </li>
+<li>I use it as a place to keep a daily task list that I keep up with about half the time</li>
+<li>I use it to write this blog here.</li>
+</ul>
+<p>I think about making a blogging app, but I like what I do. I have one long markdown file with articles separated by headers and with some date and tags added to it. </p>
+<p>I need to create something for my blogging better.</p>
+
+    </article>
+    
+            </body>
+          </html>
+          
