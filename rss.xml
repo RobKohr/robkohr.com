@@ -5,24 +5,10 @@
             <link>https://robkohr.com</link>
             <description>RobKohr's Blog</description>
             <language>en-us</language>
-            <lastBuildDate>Mon, 26 Jun 2023 16:28:48 GMT</lastBuildDate>
-            <pubDate>Mon, 26 Jun 2023 16:28:48 GMT</pubDate>
+            <lastBuildDate>Mon, 26 Jun 2023 16:31:21 GMT</lastBuildDate>
+            <pubDate>Mon, 26 Jun 2023 16:31:21 GMT</pubDate>
             <ttl>1800</ttl>
 
-            <item>
-                <title></title>
-                <link>https://robkohr.com/articles/</link>
-                <description></description>
-                <pubDate>Invalid Date</pubDate>
-            </item>
-    
-            <item>
-                <title>Navigation</title>
-                <link>https://robkohr.com/articles/navigation</link>
-                <description>Navigation</description>
-                <pubDate>Invalid Date</pubDate>
-            </item>
-    
             <item>
                 <title>Angular multi-level componets</title>
                 <link>https://robkohr.com/articles/angular-multi-level-componets</link>
@@ -357,6 +343,20 @@
                 <link>https://robkohr.com/articles/cats</link>
                 <description>cats</description>
                 <pubDate>Wed, 07 Oct 2020 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <title>7 days away from the time wasting websites</title>
+                <link>https://robkohr.com/articles/7-days-away-from-the-time-wasting-websites</link>
+                <description>7 days away from the time wasting websites</description>
+                <pubDate>Wed, 07 Oct 2020 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <title>Cloudflare effects on users</title>
+                <link>https://robkohr.com/articles/cloudflare-effects-on-users</link>
+                <description>Cloudflare effects on users</description>
+                <pubDate>Tue, 22 Sep 2020 00:00:00 GMT</pubDate>
             </item>
     
         </channel>

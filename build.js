@@ -250,6 +250,10 @@ articles
   .filter(function (article) {
     return article !== null;
   })
+  .filter(function (article) {
+    //remove articles that have no date
+    return article.variables.date;
+  })
   .sort(function (a, b) {
     return new Date(b.variables.date) - new Date(a.variables.date);
   })
