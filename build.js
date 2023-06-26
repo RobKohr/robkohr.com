@@ -234,4 +234,42 @@ output += `
 `;
 fs.writeFileSync(`tags/index.html`, output);
 
+/* create an rss feed of the last 50 articles */
+output = `
+    <rss version="2.0">
+        <channel>
+            <title>RobKohr's Blog</title>
+            <link>https://robkohr.com</link>
+            <description>RobKohr's Blog</description>
+            <language>en-us</language>
+            <lastBuildDate>${new Date().toUTCString()}</lastBuildDate>
+            <pubDate>${new Date().toUTCString()}</pubDate>
+            <ttl>1800</ttl>
+`;
+articles
+  .filter(function (article) {
+    return article !== null;
+  })
+  .sort(function (a, b) {
+    return new Date(b.variables.date) - new Date(a.variables.date);
+  })
+  .slice(0, 50)
+  .forEach(function (article) {
+    output += `
+            <item>
+                <title>${article.title}</title>
+                <link>https://robkohr.com/articles/${toKebab(article.title)}</link>
+                <description>${article.html}</description>
+                <pubDate>${new Date(article.variables.date).toUTCString()}</pubDate>
+            </item>
+    `;
+  });
+output += `
+        </channel>
+    </rss>
+`;
+fs.writeFileSync(`rss.xml`, output);
+
+
+
 console.log("done");
