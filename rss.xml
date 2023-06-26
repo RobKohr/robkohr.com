@@ -5,8 +5,8 @@
             <link>https://robkohr.com</link>
             <description>RobKohr's Blog</description>
             <language>en-us</language>
-            <lastBuildDate>Mon, 26 Jun 2023 16:22:54 GMT</lastBuildDate>
-            <pubDate>Mon, 26 Jun 2023 16:22:54 GMT</pubDate>
+            <lastBuildDate>Mon, 26 Jun 2023 16:24:21 GMT</lastBuildDate>
+            <pubDate>Mon, 26 Jun 2023 16:24:21 GMT</pubDate>
             <ttl>1800</ttl>
 
             <item>
@@ -24,6 +24,7 @@
 <li><a href="tags/index.html">Tags</a></li>
 <li><a href="articles/projects">Projects</a></li>
 <li><a href="articles/other-writing">Other Writing</a></li>
+<li><a href="rss.xml">RSS feed</a></li>
 </ul>
 </description>
                 <pubDate>Invalid Date</pubDate>
@@ -35,14 +36,6 @@
                 <description><p>For WFS I am working on the services page and the services need to be sortable in the settings, and then show the forms in the sorted order when making a new service request. Right now the order is hard coded, and each component has its own property set. I am going to create a wrapper for the components that will take all of the properties they need, and then pass them down to the component. The display order for the services can then load all of them in.</p>
 </description>
                 <pubDate>Mon, 24 Jul 2023 00:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <title>Test to see if blog updates by cron job</title>
-                <link>https://robkohr.com/articles/test-to-see-if-blog-updates-by-cron-job</link>
-                <description><p>Just ignore this.. or don&#39;t as you already read it :) I just set up my domain to do a git pull every hour to be automatically updated.</p>
-</description>
-                <pubDate>Mon, 26 Jun 2023 00:00:00 GMT</pubDate>
             </item>
     
             <item>
@@ -633,6 +626,14 @@ Then after that, I take the blob of text and try to organize it into categories 
                 <title>place setting</title>
                 <link>https://robkohr.com/articles/place-setting</link>
                 <description><p><img src="2020-10-07-22-43-47.png" alt=""></p>
+</description>
+                <pubDate>Wed, 07 Oct 2020 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <title>cats</title>
+                <link>https://robkohr.com/articles/cats</link>
+                <description><p><img src="2020-10-07-22-42-37.png" alt=""></p>
 </description>
                 <pubDate>Wed, 07 Oct 2020 00:00:00 GMT</pubDate>
             </item>
