@@ -3,7 +3,8 @@ import { marked } from "marked";
 
 
 /* Get html content from analytics.html */
-var analytics = fs.readFileSync("analytics.html", "utf8");
+var headerExtras = fs.readFileSync("analytics.html", "utf8");
+headerExtras+=`<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />`
 
 
 /* 
@@ -109,12 +110,11 @@ var articles = articlesFull.map(function (article) {
   };
 });
 
-// insert analytics into head of html 
 let output = `
     <html>
         <head>
             <title>RobKohr's Blog</title>
-${analytics}
+${headerExtras}
             <link rel="stylesheet" href="neat.css">
             
         </head>
@@ -166,7 +166,7 @@ articles.forEach(function (article) {
         <html>
             <head>
                 <title>RobKohr's Blog - ${article.title}</title>
-${analytics}
+${headerExtras}
                 <link rel="stylesheet" href="../neat.css">
                 <base href="../">
             </head>
@@ -194,7 +194,7 @@ Object.keys(tagPages).forEach(function (tag) {
         <html>
             <head>
                 <title>RobKohr's Blog - ${tag}</title>
-${analytics}
+${headerExtras}
                 <link rel="stylesheet" href="../neat.css">
                 <base href="../">
             </head>
@@ -217,7 +217,7 @@ output = `
     <html>
         <head>
             <title>RobKohr's Blog - Tags</title>
-${analytics}
+${headerExtras}
             <link rel="stylesheet" href="../neat.css">
             <base href="../">
         </head>
