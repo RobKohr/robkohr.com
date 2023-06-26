@@ -2,12 +2,36 @@
         <html>
             <head>
                 <title>RobKohr's Blog - coding</title>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
                 <link rel="stylesheet" href="../neat.css">
                 <base href="../">
             </head>
             <body>
             <a href="./index.html">Home</a>
             <h2>Tag: coding</h2>
+    
+    <h2><a href="articles/created-a-new-blog-render">Created a new blog render</a></h2>
+    <div id="date">@date=2023-06-26</div>
+    <div id="tags">@tags=<a href="tags/coding">coding</a>, <a href="tags/blog">blog</a>, <a href="tags/obsidian">obsidian</a></div>
+    <article>
+        <p>I wiped out RobKohr.com as I haven&#39;t touched it in over 5 years, and replaced it with this blog. </p>
+<p>It was built just using one long markdown file called blog.md that I edit in obsidian and each article is separated by ## Blog titles, and under that I use @date and @tags to specify those two values</p>
+<p>I created a build.js file that reads that file, splits it into separate articles, renders the md-&gt;html, applies some extra rendering and css, and spits them all out into a large collection of individual files. This makes for a very simple light weight site builder that is just serving static files. </p>
+<p>Source code is here for those who want to do something similar:
+<a href="https://github.com/RobKohr/robkohr.com">https://github.com/RobKohr/robkohr.com</a></p>
+
+    </article>
     
     <h2><a href="articles/stackoverflow-instead-of-beating-your-head-against-the-wall">Stackoverflow instead of beating your head against the wall</a></h2>
     <div id="date">@date=2023-06-22</div>
