@@ -259,7 +259,7 @@ articles
             <item>
                 <title>${article.title}</title>
                 <link>https://robkohr.com/articles/${toKebab(article.title)}</link>
-                <description>${article.html}</description>
+                <description>${article.title}</description>
                 <pubDate>${new Date(article.variables.date).toUTCString()}</pubDate>
             </item>
     `;

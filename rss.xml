@@ -5,8 +5,8 @@
             <link>https://robkohr.com</link>
             <description>RobKohr's Blog</description>
             <language>en-us</language>
-            <lastBuildDate>Mon, 26 Jun 2023 16:24:21 GMT</lastBuildDate>
-            <pubDate>Mon, 26 Jun 2023 16:24:21 GMT</pubDate>
+            <lastBuildDate>Mon, 26 Jun 2023 16:28:48 GMT</lastBuildDate>
+            <pubDate>Mon, 26 Jun 2023 16:28:48 GMT</pubDate>
             <ttl>1800</ttl>
 
             <item>
@@ -19,622 +19,343 @@
             <item>
                 <title>Navigation</title>
                 <link>https://robkohr.com/articles/navigation</link>
-                <description><ul>
-<li><a href="articles/about">About</a></li>
-<li><a href="tags/index.html">Tags</a></li>
-<li><a href="articles/projects">Projects</a></li>
-<li><a href="articles/other-writing">Other Writing</a></li>
-<li><a href="rss.xml">RSS feed</a></li>
-</ul>
-</description>
+                <description>Navigation</description>
                 <pubDate>Invalid Date</pubDate>
             </item>
     
             <item>
                 <title>Angular multi-level componets</title>
                 <link>https://robkohr.com/articles/angular-multi-level-componets</link>
-                <description><p>For WFS I am working on the services page and the services need to be sortable in the settings, and then show the forms in the sorted order when making a new service request. Right now the order is hard coded, and each component has its own property set. I am going to create a wrapper for the components that will take all of the properties they need, and then pass them down to the component. The display order for the services can then load all of them in.</p>
-</description>
+                <description>Angular multi-level componets</description>
                 <pubDate>Mon, 24 Jul 2023 00:00:00 GMT</pubDate>
             </item>
     
             <item>
                 <title>Created a new blog render</title>
                 <link>https://robkohr.com/articles/created-a-new-blog-render</link>
-                <description><p>I wiped out RobKohr.com as I haven&#39;t touched it in over 5 years, and replaced it with this blog. </p>
-<p>It was built just using one long markdown file called blog.md that I edit in obsidian and each article is separated by ## Blog titles, and under that I use @date and @tags to specify those two values</p>
-<p>I created a build.js file that reads that file, splits it into separate articles, renders the md-&gt;html, applies some extra rendering and css, and spits them all out into a large collection of individual files. This makes for a very simple light weight site builder that is just serving static files. </p>
-<p>Source code is here for those who want to do something similar:
-<a href="https://github.com/RobKohr/robkohr.com">https://github.com/RobKohr/robkohr.com</a></p>
-</description>
+                <description>Created a new blog render</description>
                 <pubDate>Mon, 26 Jun 2023 00:00:00 GMT</pubDate>
             </item>
     
             <item>
                 <title>AI generated image of a mushroom house - Midjourney</title>
                 <link>https://robkohr.com/articles/ai-generated-image-of-a-mushroom-house---midjourney</link>
-                <description><p><img src="images/Mushroom House.png" alt="Mushroom House.png" style="max-width: 100%;" /></p>
-</description>
+                <description>AI generated image of a mushroom house - Midjourney</description>
                 <pubDate>Mon, 26 Jun 2023 00:00:00 GMT</pubDate>
             </item>
     
             <item>
                 <title>Stackoverflow instead of beating your head against the wall</title>
                 <link>https://robkohr.com/articles/stackoverflow-instead-of-beating-your-head-against-the-wall</link>
-                <description><p>Often you will get deep in some code and come up against a wall. After working through it, and reading some documentation, if you haven&#39;t figured it out, it is time to go to stackoverflow.</p>
-<p>I have been on stackoverflow for a little over 14 years now, and while I don&#39;t answer a lot of questions (there is a lot of competition for that) I have a lot of questions that I have asked and have given me a pretty respectable score, putting me in the top 6% of users (<a href="https://stackoverflow.com/users/101909/robkohr">https://stackoverflow.com/users/101909/robkohr</a>). </p>
-<p>The best things to do, is clearly state the problem, provide <em>concise</em> code that shows the problem in a reproducible way, and then state what you would like to achieve. </p>
-<p>Sometimes when I work hard at making a clear question on stack overflow, I end up figuring out the answer myself. This is kinda like rubber duck debugging, but instead of a rubber duck, you are talking to the internet.</p>
-<p>Then you end up with being the person asking and answering the question and giving yourself double internet points... which is <em>oh so important</em> :)</p>
-</description>
+                <description>Stackoverflow instead of beating your head against the wall</description>
                 <pubDate>Thu, 22 Jun 2023 00:00:00 GMT</pubDate>
             </item>
     
             <item>
                 <title>Popular YouTubers - look at their old stuff</title>
                 <link>https://robkohr.com/articles/popular-youtubers---look-at-their-old-stuff</link>
-                <description><p>I kinda love going to a popular youtuber&#39;s channel, going to their videos section, and sorting by oldest. </p>
-<p>What is now a polished producer of content that makes you feel intimidated to even attempt to make videos was once someone with a crappy camera, shooting in their back yard with a bad audio setup. </p>
-<p>Everyone had to learn to walk before they could run. Whatever you do, that you are doing bad and are discouraged, know that failing is just the first step on the long road to greatness (or the medium length road to goodness if you don&#39;t want to overcommit yourself). </p>
-<p>It isn&#39;t that you lack an innate gift that others have, it is simply that you haven&#39;t put in the focused effort over time to achieve. Just keep on grinding and leveling up, because remember, everyone sucked at first.</p>
-</description>
+                <description>Popular YouTubers - look at their old stuff</description>
                 <pubDate>Thu, 22 Jun 2023 00:00:00 GMT</pubDate>
             </item>
     
             <item>
                 <title>Learned how to spell Labyrinth</title>
                 <link>https://robkohr.com/articles/learned-how-to-spell-labyrinth</link>
-                <description><p>Just remember it starts with Laby. </p>
-<p>Just a word I gave up on trying to spell right long ago. I have never been a good speller, and I think I have a slight bit of dyslexia, so I never really saw the inner spelling of the word, but finally I just decided to split the word into pieces, and remember how the first part goes, and now it is easy :)</p>
-<p>Anyway, I found this Labyrinth RPG game that is great for kids here:</p>
-<p><a href="https://www.amazon.com/dp/1916011551?psc=1&smid=A10N5GI8B3O43K&ref_=chk_typ_imgToDp">https://www.amazon.com/dp/1916011551?psc=1&amp;smid=A10N5GI8B3O43K&amp;ref_=chk_typ_imgToDp</a></p>
-<p>and I am going to watch the movie of it with them, and then surprise them with the game.</p>
-<p>Reading through the game, it sounds like it would make a great video game/VR experience.</p>
-</description>
+                <description>Learned how to spell Labyrinth</description>
                 <pubDate>Thu, 22 Jun 2023 00:00:00 GMT</pubDate>
             </item>
     
             <item>
                 <title>Every day I am shuffling</title>
                 <link>https://robkohr.com/articles/every-day-i-am-shuffling</link>
-                <description><p>Consistency is what I have been progressing more to. It helps to have lots of ideas and passion, but to do something big: build strength, learning a music instrument, run for office, build a side project, etc, requires doing something every day towards that goal in an endless way. I am actually doing all of those things right now, while raising kids and working full time.</p>
-<p>To achieve it all - each thing needs 20-60 minutes per day to care and feed a goal to reach maturity.</p>
-<p>I don&#39;t beat myself up though. I just have a daily checklist in a markdown textfile, and I can see how many I do each day and try to do them all. I frequently fail, but I try to get done what I can.</p>
-</description>
+                <description>Every day I am shuffling</description>
                 <pubDate>Tue, 20 Jun 2023 00:00:00 GMT</pubDate>
             </item>
     
             <item>
                 <title>Reddits fall - maybe turn Neverall into a Reddit clone?</title>
                 <link>https://robkohr.com/articles/reddits-fall---maybe-turn-neverall-into-a-reddit-clone-</link>
-                <description><p>Finish up the analytics part, and then create a reddit clone on Neverall. The url could be something like neverall.com/n and then the subreddit name. I could have neverall.com/g be for games, and neverall.com/s for sites, and neverall.com/p for projects, and neverall.com/b for blogs, and neverall.com/d for docs, and neverall.com/qa for a stackoverflow like forum.</p>
-</description>
+                <description>Reddits fall - maybe turn Neverall into a Reddit clone?</description>
                 <pubDate>Fri, 16 Jun 2023 00:00:00 GMT</pubDate>
             </item>
     
             <item>
                 <title>How you move a mountain, one stone at a time</title>
                 <link>https://robkohr.com/articles/how-you-move-a-mountain--one-stone-at-a-time</link>
-                <description><p>I have been working out using a google spreadsheet to track workouts. I aim to do a 20 rep max each week for each exercise that is slightly above the previous week. So far, it has lead to a nice continuous improvement... assuming I don&#39;t ever skip weeks. Each time I skip more than 2 weeks it pushes me back a little bit. More when I skip a month.</p>
-<p>Using Wathen&#39;s formula from <a href="https://en.wikipedia.org/wiki/One-repetition_maximum">https://en.wikipedia.org/wiki/One-repetition_maximum</a> for 1RM, I can calculate my 1RM from my 20RM, and I also use it to calculate my 10 rep max. After experimenting with it, I found it to be a really accurate formula as I tested it going down to 3 reps. </p>
-<p>What this means for me is I can keep doing 20 reps as my target, and it will always keep my 1RM and 10RM improving. This is great as being someone in their mid-40s the strain on my body when doing lower rep maxes is not worth it as I frequently end up hurting myself with lower reps. </p>
-<p>Based on the equation, an increase of just 1 pound in weight is equal to 1.64 pounds in 1RM. This means that I am increasing my 1 rep max faster by doing 20 reps than I would be if I was aiming on doing 1 rep.</p>
-</description>
+                <description>How you move a mountain, one stone at a time</description>
                 <pubDate>Fri, 16 Jun 2023 00:00:00 GMT</pubDate>
             </item>
     
             <item>
                 <title>Cardboard boat regatta</title>
                 <link>https://robkohr.com/articles/cardboard-boat-regatta</link>
-                <description><p>Scott and I are building a 5 person boat for the Longview Go 4th cardboard boat regatta. It is difficult to find time to work on it though.</p>
-</description>
+                <description>Cardboard boat regatta</description>
                 <pubDate>Thu, 15 Jun 2023 00:00:00 GMT</pubDate>
             </item>
     
             <item>
                 <title>attempt 2 at making sourdough starter</title>
                 <link>https://robkohr.com/articles/attempt-2-at-making-sourdough-starter</link>
-                <description><p>First one dried out from a day of neglect.</p>
-<p>I am attempting to do this to make bread at home to help with Ella&#39;s gluten intolerance. Apparently even rustic breads from the grocery store are very high in gluten from the sped up process of bread making that helps keep it fluffy and more shelf stable.</p>
-<p>I am hoping that more traditional sourdough bread will have more broken down gluten protein. 
-<img src="images/Yeast starter.jpg" alt="Yeast starter.jpg" style="max-width: 100%;" /></p>
-</description>
+                <description>attempt 2 at making sourdough starter</description>
                 <pubDate>Tue, 13 Jun 2023 00:00:00 GMT</pubDate>
             </item>
     
             <item>
                 <title>Back to solidjs</title>
                 <link>https://robkohr.com/articles/back-to-solidjs</link>
-                <description><p>I delved into svelte pretty deep to get a grasp of it. I decided to try to make a set of components similar to material UI, just focusing on form elements. </p>
-<p>When it came to passing values, references, functions up and down the component stack, it just became much more difficult than doing it in React, which makes things pretty trivial.</p>
-<p>I got hit with the feeling that I was just playing with magic that I didn&#39;t understand. </p>
-<p>This past week I built two static sites for running my school board campaign using solidjs. It has some basic routing and property passing, so I haven&#39;t really given it a good trial yet, but so far it seems to be an easy stand in for React. I&#39;ll need to give it eventually the same sort of test I did with Svelte.</p>
-<p>I have a desire to move to SolidJs to move away from some of the re-rendering inefficiencies and difficulties in passing values around in React.</p>
-</description>
+                <description>Back to solidjs</description>
                 <pubDate>Mon, 12 Jun 2023 00:00:00 GMT</pubDate>
             </item>
     
             <item>
                 <title>My daily process with Obsidian</title>
                 <link>https://robkohr.com/articles/my-daily-process-with-obsidian</link>
-                <description><p>I have grown to love Obsidian, the notetaking app. </p>
-<ul>
-<li>I use it as a place to throw ideas that I don&#39;t have time to devote to. </li>
-<li>I use it as a place to keep a daily task list that I keep up with about half the time</li>
-<li>I use it to write this blog here.</li>
-</ul>
-<p>I think about making a blogging app, but I like what I do. I have one long markdown file with articles separated by headers and with some date and tags added to it. </p>
-<p>I need to create something for my blogging better.</p>
-</description>
+                <description>My daily process with Obsidian</description>
                 <pubDate>Fri, 09 Jun 2023 00:00:00 GMT</pubDate>
             </item>
     
             <item>
                 <title>future space lady</title>
                 <link>https://robkohr.com/articles/future-space-lady</link>
-                <description><p><img src="images/TheVindicationCover.jpg" alt="TheVindicationCover.jpg" style="max-width: 100%;" /></p>
-</description>
+                <description>future space lady</description>
                 <pubDate>Wed, 07 Jun 2023 00:00:00 GMT</pubDate>
             </item>
     
             <item>
                 <title>Haiku - woodworking</title>
                 <link>https://robkohr.com/articles/haiku---woodworking</link>
-                <description><p>sawdust in my prints
-Grinding dust - I imagine
-stacking in warm light</p>
-</description>
+                <description>Haiku - woodworking</description>
                 <pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
             </item>
     
             <item>
                 <title>Getting a little torn between svelte and SolidJS</title>
                 <link>https://robkohr.com/articles/getting-a-little-torn-between-svelte-and-solidjs</link>
-                <description><p>I have been playing with svelte, and liking it, but things just seem to mysterious. With SolidJS, I know what to expect.</p>
-<p>I got to creating some input components with svelte and started to do a registration form. Going to try again with SolidJS to build the same thing. Let&#39;s see if it goes a little better.</p>
-</description>
+                <description>Getting a little torn between svelte and SolidJS</description>
                 <pubDate>Thu, 09 Mar 2023 00:00:00 GMT</pubDate>
             </item>
     
             <item>
                 <title>I made a thing for a school auction</title>
                 <link>https://robkohr.com/articles/i-made-a-thing-for-a-school-auction</link>
-                <description><p><img src="images/Letter Board.jpg" alt="Letter Board.jpg" style="max-width: 100%;" /></p>
-</description>
+                <description>I made a thing for a school auction</description>
                 <pubDate>Thu, 09 Mar 2023 00:00:00 GMT</pubDate>
             </item>
     
             <item>
                 <title>You gotta ...</title>
                 <link>https://robkohr.com/articles/you-gotta----</link>
-                <description><p>know when to hold em, know when to fold em, know when to walk away, know when to run</p>
-</description>
+                <description>You gotta ...</description>
                 <pubDate>Sat, 04 Mar 2023 00:00:00 GMT</pubDate>
             </item>
     
             <item>
                 <title>Telemarketing speed bump</title>
                 <link>https://robkohr.com/articles/telemarketing-speed-bump</link>
-                <description><p>Start a timer and see if you can beat your all time score. Just listen and talk to them. Remember, every 10 seconds you are on the phone, they are losing out on harassing someone else - you are really helping a lot of people and costing them money, thus destroying a bit of their scammy business. I call it being a telemarketing speedbump.</p>
-<p>Find out everything about their product, but be hesitant and hard to sell to, but eventually relent. The best are vacation or auto warranty scams because there are an infinite amount of questions you can ask and ask again.</p>
-<p>You will move up their call center to their top guys that close the deal. Then when you are need to give them your cc or ssn number, make something up. For the cc, use the first 8 digits of a real cc as those verify that it is real and associated with a provider. I then write out the last made up digits so I can repeat them. Each time you read the card number, read it fast, and switch around the digits and mumble.</p>
-<p>Eventually they will figure out that you have been fucking with them, and oh boy the series of curses that will flow out of them. Eventually they will put you on a do not talk to list. They will call you, some times go “oh”, or maybe be pissy and hang up.</p>
-<p>I think the service that calls you is different then who you eventually talk to. They hire the robodialer company, and sometimes they hire another agency to do the initial screening. Then they have the low level person that gets all of your info, and if they think they got a deal (a sucker) in hand, then they move you up to the real closer.</p>
-<p>It is fun, and I have some made up names I rotate through and how many kids and all kinds of stuff. I am never rude - maybe a bit playful. I am not mad at the low pay workers that are grinding at this.</p>
-<p>It is really their entire business that I hate. Almost all of them are built to fleece gullible people out of their money. Travel deals, auto warranties, student loan debts, computer virus fakers, amazon false charges, etc are not real businesses. Some really try to get into your phone and computer to rob your bank accounts. Student loan debt companies try to get into your federal student loan system and become your debt collector, but never paying off your loan.</p>
-<p>They are EVIL, and the only way we take them down is by patiently talking to them… forever! If just 1% of people did this and acted like convincing targets, and kept them on for 10 minutes at a time, their business models would crumble. If you are reading this, you are now part of that 1% army that needs to be happily agreeable (but sometimes act skeptical to reel them in) to save the other 99% of mankind from this plague that has beset us. Take up your phone and take up the fight. If you record the call, post it up to tictok, youtube, or whatever with the hashtag <code>#telemarketingspeedbump</code></p>
-</description>
+                <description>Telemarketing speed bump</description>
                 <pubDate>Wed, 01 Mar 2023 00:00:00 GMT</pubDate>
             </item>
     
             <item>
                 <title>AWS</title>
                 <link>https://robkohr.com/articles/aws</link>
-                <description><p>And just like that, I now understand so many more aws services
-<div><iframe width="560" height="315" src="https://www.youtube.com/embed/JIbIYCM48to" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-I like that you can tap into things like brackets to work with quantum computers.</p>
-</description>
+                <description>AWS</description>
                 <pubDate>Tue, 28 Feb 2023 00:00:00 GMT</pubDate>
             </item>
     
             <item>
                 <title>Svelte</title>
                 <link>https://robkohr.com/articles/svelte</link>
-                <description><p>The best tutorial on it<br><div><iframe width="560" height="315" src="https://www.youtube.com/embed/AXwgpUvLiwk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></p>
-</description>
+                <description>Svelte</description>
                 <pubDate>Tue, 28 Feb 2023 00:00:00 GMT</pubDate>
             </item>
     
             <item>
                 <title>Movie Review: Press Play</title>
                 <link>https://robkohr.com/articles/movie-review--press-play</link>
-                <description><p>Being a fan of time travel movies, and my wife being a fan of romantic time-travel movies, this was an easy choice. This is a story of a girl who lost the love her life in a tragic accident, and getting a chance to go back in time to save him with at time traveling mix tape. The catch is that she can only go back to individual moments captured by the songs in the mix tape and only for the length of that song. </p>
-<p>The love this couple felt for each other really got me in the heartstrings. If you have ever been truly head over heels for someone that you would be willing to throw your whole life away for them and even die just to be with them a little longer (or at least dream of that love) then this movie will be instantly relatable to you. This is not a cutesy Meg Ryan kinda romance. This one hits hard, and is amazing.</p>
-<p>The time travel mechanic slice of the movie is also amazing as well. It is great with how limited it is, and the main character, with how deeply she is damaged with his death, and how much she wants to save him is reckless and not carefully logical with how she uses it, which helps create some pain for the audience, but in a good way, and the resolution of the what she chooses shows how she grows as a character and leads to one of the most satisfying endings I have seen in a movie in a long time.</p>
-<p>This movie really has you connect deeply to her struggle, from the death that you can never get over, even when others are moving on, to the pain of having what you have be so close, but you can never quite fix things. </p>
-<p>The lead character was deep, flawed, interesting, and so well formed that I could get a good feel on who she really was as a person. The boyfriend and sister also did a fine job, and it was a pleasant surprise to see Danny Glover pop up in this movie, and while old, definitely not too old for this shit. He plays a record shop owner, and general wise old man who dishes out some advice - advice that I found as questionable as the lead character found, but gosh did he do it in a charming way. </p>
-<p>Anyway, go see this darn movie. It is currently streaming on Hulu.</p>
-</description>
+                <description>Movie Review: Press Play</description>
                 <pubDate>Mon, 05 Dec 2022 00:00:00 GMT</pubDate>
             </item>
     
             <item>
                 <title>On game development</title>
                 <link>https://robkohr.com/articles/on-game-development</link>
-                <description><p>My mind gets such a buzz from taking an idea and spinning it into the concept for a game and then making it so (the last part being so ardurious that it rarely comes into being). This fun open ended thought process that then needs to be rangled by the realities of time and effort to actually make it real, and if you don&#39;t wrangle it well enough, and commit hard enough, it just gets stacked on the bin of ideas that never see the light of day (which is surprising considering that that hill is taller than any mountain in the known universe).</p>
-<p>I love the work that I do, but hell if I wouldn&#39;t love to be just making my income making games instead... but for myself, not working at a game company. That sounds about as much fun as loving donuts and getting hired at a donut factory.</p>
-</description>
+                <description>On game development</description>
                 <pubDate>Mon, 05 Dec 2022 00:00:00 GMT</pubDate>
             </item>
     
             <item>
                 <title>Inserting political messaging into education</title>
                 <link>https://robkohr.com/articles/inserting-political-messaging-into-education</link>
-                <description><p><img src="images/10 Other books to ban immediately.png" alt="10 Other books to ban immediately.png" style="max-width: 100%;" /></p>
-<p>The actual samples of things the press actually show from the rejection list are things like math textbooks using &quot;What me, racist?&quot; and then having the student use racial bias data that is questionable to solve a problem. This is subtly pushing the racial focused narrative, and they are finding it in a huge number of textbooks, which clearly is a way of pushing a message into kids with a million little cuts.</p>
-<p>The message may be right or wrong depending on your opinion, but even if right, it is wrong to try to indoctrinate a belief by sprinkling it throughout all coursework. That is propaganda and with the subtleness that they are doing it, brainwashing.</p>
-<p>Also, note that the American Federation of Teachers president that shared a list of banned books retracted it, because the books were not actually banned and the information was fake.</p>
-<p>This is much more nuanced, and there is a real problem that is being addressed. If conservatives were controlling education and trying to insert their message everywhere in subtle ways to little kids, wouldn&#39;t you feel pretty pissed off? It is tempting to indoctrinate the mass of future adults with your beliefs through little levers as they are a captive audience in the education system, but that is not a situation that should be abused for even righteous goals. Let them form their own opinions and just teach them the subject they are being taught.</p>
-</description>
+                <description>Inserting political messaging into education</description>
                 <pubDate>Mon, 22 Aug 2022 00:00:00 GMT</pubDate>
             </item>
     
             <item>
                 <title>On Nostalgia In The Evolution of Music</title>
                 <link>https://robkohr.com/articles/on-nostalgia-in-the-evolution-of-music</link>
-                <description><p>I looked up 2000&#39;s music yesterday on spotify. I am a child of the 80&#39;s and 90&#39;s and when I listen to music, I really lean heavy into those decades, and like most people when they hit middle age, they tune into the newest music on the radio, and feel that the music of their childhood is way superior.</p>
-<p>We are now in the 2020&#39;s, and so the &#39;00&#39;s music would be basically retro today, as depressing as that sounds. Also, admittedly, I don&#39;t know any of the music except for a few hits from the 2000&#39;s, so I was surprised to be enjoying the mix, where I was hating the current top 40&#39;s.</p>
-<p>Then I was hit with a realization... and probably a pretty obvious realization. </p>
-<p>This realization stemmed also from listening to top 40 countdowns by year from the 80&#39;s and 90&#39;s... </p>
-<p>Whatever the time period, most music kinda sucks. Those songs from your childhood - they were the cream of the crop; the ultra-fit songs that survived the brutal process of musical natural selection. There are plenty of them, but they only account for 5% of the stuff that was playing on the radio all the time. This is why you remember them. It was exciting when something really good came on the radio. </p>
-<p>This is why the 2000&#39;s top hits mix is so much better than what is in the top 40 today, and even without the rose colored lenses of nostalgia. They are the ones that people made sure to include in the mix, and it is chosen from a full 10 years of music. Radio stations that are playing the newest hits, aren&#39;t playing things from 4 years ago, because it has become dated and it isn&#39;t hip, but when that music graduates on to a decades channel when those that are young and hip now become adults, they will continue the trend of thinking their music was the best.</p>
-<p>Yeah, nostalgia makes the decades you grew up in warm and fuzzy. But go back and listen to music of the 60&#39;s and 70&#39;s, eras you didn&#39;t grow up in, and that music is also fantastic, even if less familiar. It is simply that choosing the top 40 of a decade 10 years after that decade ends will result in a much better collection of music than if you are just choosing whatever is in vogue today.</p>
-<p>This can be extended to movies, clothing fashions, cars, catch phrases, and anything. The stuff that was good enough to stick in your brain 10 years later has battled it out with whatever was cool at any time, and yeah it might have been played out at the time, you can be damn sure you are singing along and talking a yarn about how great it was today to your kids who just look at you as some senile old parent who just doesn&#39;t get it.</p>
-<p>And thus the cycle goes on.</p>
-</description>
+                <description>On Nostalgia In The Evolution of Music</description>
                 <pubDate>Mon, 14 Feb 2022 00:00:00 GMT</pubDate>
             </item>
     
             <item>
                 <title>Favorite Movies List</title>
                 <link>https://robkohr.com/articles/favorite-movies-list</link>
-                <description><p>To be updated with new ones from time to time:</p>
-<ul>
-<li>Scott Pilgrim Vs The World</li>
-</ul>
-</description>
+                <description>Favorite Movies List</description>
                 <pubDate>Mon, 20 Sep 2021 00:00:00 GMT</pubDate>
             </item>
     
             <item>
                 <title>Mind racing, can't nap</title>
                 <link>https://robkohr.com/articles/mind-racing--can-t-nap</link>
-                <description><p>Put a note pad next to your bed. Write down everything going through your mind. Keep writing while you are thinking until everything is covered. Now no more reason to think about things and you go to sleep. You can review the stuff when you wake up.</p>
-</description>
+                <description>Mind racing, can't nap</description>
                 <pubDate>Fri, 27 Aug 2021 00:00:00 GMT</pubDate>
             </item>
     
             <item>
                 <title>Concepts for work time</title>
                 <link>https://robkohr.com/articles/concepts-for-work-time</link>
-                <description><p>Allow 30 minute blocks for things, and only have one active task at a time. Count how many 30 minute blocks you use... this should be equal to the points... maybe? Not really very scrummy, but might be a good thing to track.</p>
-<p>6 points a day = 30 points a week.z</p>
-</description>
+                <description>Concepts for work time</description>
                 <pubDate>Fri, 27 Aug 2021 00:00:00 GMT</pubDate>
             </item>
     
             <item>
                 <title>John Cleese On Creativity Summary</title>
                 <link>https://robkohr.com/articles/john-cleese-on-creativity-summary</link>
-                <description><p>Original video
-<div><iframe width="560" height="315" src="https://www.youtube.com/embed/Pb5oIIPO62g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></p>
-<p>(There are also some other videos of him talking about creativity)</p>
-<p>Creativity is derived from play.</p>
-<p>We exist in one of two states: Open and Closed</p>
-<p>Closed is for when creativity is decided on and should be the follow up to being open. Don&#39;t try to be creative when closed, focus on implementing - kinda like if you are doing a motorcycle jump, you don&#39;t want to be thinking of how to change it up when you are in the processes of making the jump.</p>
-<p>The open system is where creativity flourishes.</p>
-<p>It needs the following:</p>
-<h3>Space</h3>
-<p>A place carved out without any tasks to do.</p>
-<p>When you are in this space, you will start out trying to think of all the things in life that you need to do. It will take some time to get over them, but don&#39;t engage with them. Don&#39;t try to complete any tasks in open mode.</p>
-<h3>Time</h3>
-<p>A set of time with a specific endpoint. This part is important. It isn&#39;t playtime without an endpoint to play. You need to have more than 30min to get life tasks out of the way though, so don&#39;t choose too short of a time. Also, it can be exausting to go for too long. Having 1.5 hrs should be the cap.</p>
-<h3>Time (yes again)</h3>
-<p>When you come up with an idea, don&#39;t just grab it and go with it. John talked about a fellow script writer that did this and that persons scripts were as fully realized.</p>
-<p>Let the idea set and keep playing with it.</p>
-<p>Also keep in mind there is nothing right or wrong. Throw out complete drivel. Good ideas are often the joining of two concepts that lead to something greater. But there are an infinite amount of bad combinations. Feel free to explore whatever, as sometimes bad combinations lead to great ones.</p>
-<h3>Confidence</h3>
-<p>There is nothing wrong and there is no mistakes. Let Humor rule as that can lead to great things. You can still be funny with something serious. Avoid being solumn. There is always room for levity in coming up with solutions.</p>
-<p>When exploring ideas, just keep thoughts gently around the subject matter, but don&#39;t worry about being to tight. As long as it lightly is grazing the goal, it will settle back into what you are looking for.</p>
-<p>Always be positive and avoid saying no... kinda like sketch comedy, you always want to give a path for more and not shut things down.</p>
-<p>Phrases like:</p>
-<ul>
-<li>Go on</li>
-<li>can you explain that better</li>
-</ul>
-<p>He finishes off talking about how the japanese have meetings with no plan, and importantly let the junior people talk first. This way, they don&#39;t have to be in a position where they would have to disagree with their superiors.</p>
-</description>
+                <description>John Cleese On Creativity Summary</description>
                 <pubDate>Fri, 27 Aug 2021 00:00:00 GMT</pubDate>
             </item>
     
             <item>
                 <title>Balancing and doing side projects</title>
                 <link>https://robkohr.com/articles/balancing-and-doing-side-projects</link>
-                <description><p>Consistency with side projects is only accomplished with scheduling tasks on a consistent basis.</p>
-</description>
+                <description>Balancing and doing side projects</description>
                 <pubDate>Sun, 15 Aug 2021 00:00:00 GMT</pubDate>
             </item>
     
             <item>
                 <title>Pivotal tracker for personal use</title>
                 <link>https://robkohr.com/articles/pivotal-tracker-for-personal-use</link>
-                <description><p><img src="2021-08-15-11-30-33.png" alt=""></p>
-<p>Having a family, side projects, main work, hobbies, etc can just be too much to keep track of, and also to allot time to. How often do you say &quot;I&#39;ll do X around the house&quot; and you just never get around to it.</p>
-<p>Recently I have fallen in love with Pivotal Tracker for work purposes in managing tasks, and have replaced my text based task tracking system with PT for my personal life. What is nice about PT is you don&#39;t decide what you can accomplish in a sprint, it tells you based upon the average of your velocity in previous sprints. You can resort the backlog to prioritize things, but the sprint end marker will still just envelope a certain number of points.</p>
-<p>Put too many things in your sprint, and you might not get to the things you wanna do, but you can easily see that happen before the week starts.</p>
-<p>To make things better from a planning point of view, I add 7 epochs labeled Monday, Tuesday, ...Sunday. I put them in the sprint so I can figure out what I am going to do that day, and mark the day as done when all the tasks are done that day.</p>
-<p>Lots of labels are used for what kind of things that need to be done, and all this helps me balance work, fun, chores, etc.</p>
-<p>The mobile app for PT is pretty snappy, and allows for the creation of stories without any details really quickly, and puts them at the top of the backlog, making it a handy todo list app.</p>
-<p>You can also use PT workspaces to see a combined view of different projects and your personal tasks, but I found it more clunky, and just create clone of work tasks in my personal tasks project.</p>
-</description>
+                <description>Pivotal tracker for personal use</description>
                 <pubDate>Sun, 15 Aug 2021 00:00:00 GMT</pubDate>
             </item>
     
             <item>
                 <title>On typescript</title>
                 <link>https://robkohr.com/articles/on-typescript</link>
-                <description><p><img src="2021-08-15-11-32-29.png" alt=""></p>
-<p>After working with typescript a lot on work projects, I typically skip it on personal projects as it just seems tedious at times.</p>
-<p>Well, I just threw it into the neverall project while working on an alerting system, and by golly did it help clean up some things.</p>
-<p>The issues I find are related to the type &quot;any&quot;, which seems like sacrilege to use in projects, and for good reason. In a big team, it is easy for an individual contributor to fly under the radar tossing any in all sorts of places.</p>
-<p>The flip side of it is that the ROI on sorting out some type stuff is just not worth the effort. Yep, it might come bite you in the ass, but sometimes mitigating the risk just takes too long, and for personal projects, the in between of sometimes using any when you don&#39;t really care is nice.</p>
-<p>Throw in other devs though, and banning &quot;any&quot; starts to look real attractive.</p>
-</description>
+                <description>On typescript</description>
                 <pubDate>Sun, 15 Aug 2021 00:00:00 GMT</pubDate>
             </item>
     
             <item>
                 <title>Boston dynamics dancing robots</title>
                 <link>https://robkohr.com/articles/boston-dynamics-dancing-robots</link>
-                <description><p><div><iframe width="560" height="315" src="https://www.youtube.com/embed/03QJJBN2hGI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></p>
-<p>I wonder how long it took to create this script and how much it was don&#39;t virtually without the machine, and how much of it was done directly with the machine.</p>
-<p>These are glorious self balancing machines that have perfected the challenging AI task of physical motion. It is important to remember though, that they have no understanding of what they are doing, and the amount of work to create this dance number was mind boggling.</p>
-<p>I could see these things dropped in a battle field, given waypoints, and objectives to shoot anything that looks humanoid or moves. They&#39;d be dumb as dirt, but still very dangerous. It makes me want to think up what countermeasures would be effective ... false targets, traps they can&#39;t handle that humans have no trouble with, body shape camo, etc. Then there is the difficult task of taking them out as shooting at them would be marginally effective.</p>
-<p>Other fun bits would be that they would be cheaper built and more mass produced in a war setting, but power consumption would always be a thing for them. The walking robot probably would keel over at 20 min, where the wheeled one could go much longer, but have a tougher time with rough terrain. Then there is the cost/benefit of using these vs just bombing an area. Bombs would be cheaper, so maybe this would be more of a semi-autonomous thing that went with a group of troops and kills would be more guided, and built around securing an area but without total destruction.</p>
-<p>Communications with the devices would be key, so having soldiers close by and in the loop would be important. And of course, this tech, while impressive, will be easily replicated over time. It&#39;ll be interesting to see how forces fight against each other. Probably going after the living soldiers controlling the machines would be more effective then having machines just slug it out with each other, but then, having further tele-presense would be better, and then you come back to the distance =&gt; easier signal interference.</p>
-<p>The paper-rock-sissors of future wars will be fascinating to those don&#39;t have to be in the thick of them.</p>
-</description>
+                <description>Boston dynamics dancing robots</description>
                 <pubDate>Mon, 19 Jul 2021 00:00:00 GMT</pubDate>
             </item>
     
             <item>
                 <title>Pick some great colors for your website or game</title>
                 <link>https://robkohr.com/articles/pick-some-great-colors-for-your-website-or-game</link>
-                <description><p><a href="https://javier.xyz/cohesive-colors/">Cohesive colors</a> is a color palette randomizer that does a great job picking a set of 5 colors that work really well together, and also allows you to throw a hue adjustment on them all.</p>
-<p>This would be good for a quick way to colorize game levels or websites to make them look distinctive without too much effort.</p>
-<p>For websites, I like to come up with a set of base colors, assign them to variables, and then lighten them to various degrees to use in different contexts.</p>
-</description>
+                <description>Pick some great colors for your website or game</description>
                 <pubDate>Tue, 25 May 2021 00:00:00 GMT</pubDate>
             </item>
     
             <item>
                 <title>Web based free replacement for photoshop</title>
                 <link>https://robkohr.com/articles/web-based-free-replacement-for-photoshop</link>
-                <description><p><a href="https://pixlr.com/x/">Pixlr photo editor</a> really fulfills what I am looking for in a photoshop replacement without spending big bucks on what is basically 31 year old technology.</p>
-<p>As someone who way the hell back in the late 90s liked to do silly things with mashing up different photos and doing basic things with the magic wand tool, layers, and doodling, pixlr gives me what I need. Yep, I am far from a graphic designer, and my needs are probably basic compared to professionals in the field, but as far a graphic editing ability compared to fellow programmers, I am pretty good, and I don&#39;t run up to any limitations in doing what I need with what it provides.</p>
-<p>Each of the tools are detailed with many sliders and adjustment factors that are easily used. Layers work great as do transformations. The pen tool works great with different sizes and strength.</p>
-</description>
+                <description>Web based free replacement for photoshop</description>
                 <pubDate>Tue, 25 May 2021 00:00:00 GMT</pubDate>
             </item>
     
             <item>
                 <title>One codebase to rule them all</title>
                 <link>https://robkohr.com/articles/one-codebase-to-rule-them-all</link>
-                <description><p>A little over a decade ago, I went on a binge and made a bunch of web apps of various sorts:</p>
-<ul>
-<li><a href="http://editthis.info">EditThis.info wiki hosting</a></li>
-<li><a href="http://cueflash.com">Cueflash flashcards study system</a></li>
-<li><a href="http://constantsail.com">ConstantSail pirate and trading game</a></li>
-<li>And atari combat and astroids clones</li>
-<li>A dice rolling program</li>
-</ul>
-<p>Since then, I have built up a huge list of projects I would like to build, I get started on some of them, but then fail to get them off the ground.</p>
-<p>Issues that I blame on this:</p>
-<ul>
-<li>I also had a messy divorce and custody struggle that for a good 6 years encompassed all of my attention (and a good chunk of $money), making it pretty impossible to focus on anything else, and really got me out of my routine for doing side projects</li>
-<li>Being overcommitted to work</li>
-<li><a href="https://www.forbes.com/sites/davidsturt/2015/06/11/decision-paralysis-why-its-prevalent-and-3-ways-to-end-it/?sh=1ad1dd1735b2">decision paralysis</a> - that big list of ideas is so big it has it&#39;s own organization structure. Settling down with one idea is really challenging<ul>
-<li>I am ADD as all hell (like 100% on most tests)... hence the giant list of ideas</li>
-</ul>
-</li>
-<li>The startup to any project involves too much overhead to keep me involved.
-Ok, I am working my normal job, and I am creating a new project: creating the css, the layout, the database, the authentication system, the different pages, etc, and by the time I get to the meat of what makes something unique, I am on to the next project.</li>
-</ul>
-<p>The first of these bullets is &quot;resolved&quot;, the middle ones aren&#39;t really resolvable, but that last one, I think that is tackle-able, and able to be handled with my scattered mind.</p>
-<p>So I created a website called <a href="http://neverall.com">neverall.com</a> (the domain name was from a <a href="http://mixmatch.com">domain name generator</a> I created called mixmatch.com that helps you find short domain names). I also created a single create-react-app repo for neverall.com, and am using it for a rebuild of the <a href="http://godotassetstore.org">godot asset store</a>. Instead of creating a bunch of domain names and a bunch of git repos and separate projects, I am going to build one site to rule them all, and everything will just be basically a &quot;subdirectory&quot; of neverall.com. This will have a few benefits:</p>
-<ul>
-<li>All of the basic site setup stuff will always be there, so it will be easy to just create a new directory and use the same common db for all of them</li>
-<li>Improvements to the design and components can be done all in one place, and so everything gets a face lift (though I do like individual projects to have their own look and feel)</li>
-<li>A little SEO hacking as projects on different domain names don&#39;t share page rank, so my projects don&#39;t really help eachother out much, except for interlinking.</li>
-</ul>
-<p>This last point is an interesting one, as it is nice to tell people, check out someCoolWebApp.com instead of neverall.com/someCoolWebApp.</p>
-<p>The thing is, both are things that can be done at the same time. Using nginx, I can point all of the domain names to the same code base, but when you go to someCoolWebApp.com, it will show you the same content as neverall.com/someCoolWebApp, and this can all be handled in the React router code (I use reach router, which is awesome).</p>
-<p>Now, duplicate content on the internet is a big SEO no-no, and google will ding you hard for it. Also, all that SEO juice flowing to someCoolWebApp.com doesn&#39;t benefit the collections of other apps that I am building. ... except it can!</p>
-<p><a href="https://developers.google.com/search/docs/advanced/crawling/consolidate-duplicate-urls">Canonical URLs</a> are things you can put in the head of your site documents. They tell google where the &quot;real&quot; original content is, and so that real content gets the SEO page ranking rather than wherever people are linking to. So I can tell everyone all about someCoolWebApp.com, and they can all be lining to it, but really neverall.com/someCoolWebApp.com gets all the benefits.</p>
-<p>Another side benefit is that since everything is in one repo, I can bounce around between directories, reuse components, and work on whatever I feel tickles my fancy any day without having to decide what repo to work on and just being stuck on that. I can start writing code anywhere for anything and it will be useable without needing to start up much or even finish anything at any time.</p>
-<p>All in all, an experiment into ADD programmer side project productivity. Maybe I will update you here on the progress... or maybe I will just be creating things.</p>
-</description>
+                <description>One codebase to rule them all</description>
                 <pubDate>Tue, 25 May 2021 00:00:00 GMT</pubDate>
             </item>
     
             <item>
                 <title>Easy instant github branch deployment</title>
                 <link>https://robkohr.com/articles/easy-instant-github-branch-deployment</link>
-                <description><p>Want to have your server update itself whenever you deploy to a github branch? Piece of cake:</p>
-<p><a href="https://github.com/RobKohr/github-hook-handler">https://github.com/RobKohr/github-hook-handler</a></p>
-</description>
+                <description>Easy instant github branch deployment</description>
                 <pubDate>Fri, 23 Apr 2021 00:00:00 GMT</pubDate>
             </item>
     
             <item>
                 <title>Standardizing portable board games</title>
                 <link>https://robkohr.com/articles/standardizing-portable-board-games</link>
-                <description><p>I have a bit of a thought that 3d printing boardgames would be great, particularly portable ones with
-nice cases.</p>
-<p>For sizing, I am thinking of basing it off of the <a href="https://en.wikipedia.org/wiki/ISO_216">iso 216 paper sizing formats</a>. Most people will think of this relating to the A4 printer paper size.</p>
-<p>The reason for focusing on this format is that is a standard that works well with doubling. There are 3 sizings in this iso standard. A, B and C. For reasons that I am not sure I fully know, B is the biggest of the lines, and then C, and then A. What is nice about this, is if we use size B6 for a standard sized box, it is 125mm x 176mm, and A6 paper is 105mm x 148mm. This means the box will fall nicely inside the print sizes for most printers, and make it possible to print pieces beside the box so things can be printed in one shot, and A6 paper can be used as the print size for instructions. A6 paper can be made by cutting an A4 sheet into quarters, so instructions could be print on A4 and then cut into 4.</p>
-<p>The boxes will have an overhang at the top so that game boards can be stacked. The lid can be a simple circle with a finger hole in the middle.</p>
-<p><img src="2021-04-23-17-09-31.png" alt="Diagram with lips on 4 sides"></p>
-<p>One issue is that with this being the size of a b6, two b7&#39;s couldn&#39;t fit inside since the lips would push up against each other. One way to remedy this is to only have two sides of each box have lips on that stick out on the sides like so:</p>
-<p><img src="2021-04-23-17-24-28.png" alt="Diagram with lips on 2 sides"></p>
-<p>So two half sized boxes can fit into a rim of a lower box and then they can tightly stack on top of each other.</p>
-<p>Alternative idea: have no sides stick out, and then have pegs that stick out of the top of each lid that fit into holes in the bottom of the box above it. The floor thickness would need to be such that it can accommodate that.</p>
-<p>This might be simpler, and as long as the hole sizes are big enough that they don&#39;t grip the peg below. This can create issues though as having holes on the bottom of models can create issues.</p>
-</description>
+                <description>Standardizing portable board games</description>
                 <pubDate>Fri, 23 Apr 2021 00:00:00 GMT</pubDate>
             </item>
     
             <item>
                 <title>Considering surfing</title>
                 <link>https://robkohr.com/articles/considering-surfing</link>
-                <description><p>I am thinking it would be fun to go surfing at the oregon and washington coast this summer.</p>
-</description>
+                <description>Considering surfing</description>
                 <pubDate>Sun, 03 Jan 2021 00:00:00 GMT</pubDate>
             </item>
     
             <item>
                 <title>Coding productivity</title>
                 <link>https://robkohr.com/articles/coding-productivity</link>
-                <description><p>One thing that I find that helps is to open up a text file and start typing what your thoughts are and be unfiltered (I sometimes look away from my screen so I don&#39;t proofread). Try and get everything out, and let yourself brainstorm.</p>
-<p>Keeping it all in a conversation in your head creates too many threads to keep track of and you end up looping around worrying about this or that.
-Then after that, I take the blob of text and try to organize it into categories such as &quot;issues to resolve&quot;, &quot;action items&quot;, … etc</p>
-<p>Writing also slows down your thoughts a bit and keeps you from bouncing too much.</p>
-<p>I also have a thing on my desk that I do rubber duck debugging with:
-<a href="https://en.wikipedia.org/wiki/Rubber_duck_debugging">https://en.wikipedia.org/wiki/Rubber_duck_debugging</a></p>
-<p>I also turn this app on when I am trying to force myself to be productive:
-<a href="https://apps.apple.com/us/app/loud-typer/id1493508558?mt=12">https://apps.apple.com/us/app/loud-typer/id1493508558?mt=12</a></p>
-<p>and this for music:
-<a href="https://coderadio.freecodecamp.org/">https://coderadio.freecodecamp.org/</a></p>
-<p>The sound of the typing makes me feel more productive, which reinforces it, and the music gives me a rhythm.</p>
-</description>
+                <description>Coding productivity</description>
                 <pubDate>Fri, 04 Dec 2020 00:00:00 GMT</pubDate>
             </item>
     
             <item>
                 <title>Game performance by tag and modding</title>
                 <link>https://robkohr.com/articles/game-performance-by-tag-and-modding</link>
-                <description><p>This is a <a href="https://www.gamasutra.com/blogs/DannyWeinbaum/20191115/353349/Genre_Viability_on_Steam_and_Other_Trends__An_Analysis_Using_Review_Count.php">great article about what games perform well on steam based upon their tags (categories)</a>.</p>
-<p>Some games like strategy war games, which I have a great love for, make great money, and there are also very few of them. Other games like puzzlers are plentiful and don&#39;t make much. He also goes into the normal lifespan of a game and its revenue stream which tapers off after 5 years.</p>
-<p>There were so many good tidbits in there, and even a multipage spreadsheet of useful sales data, which is like gold now that steamspy can no longer function.</p>
-<p>One thing that seems to really make great money is the tag &quot;moddable.&quot; Definitely not easy to do in something like godot (or anything else for that matter) but it seems to make a big impact on profitability.</p>
-</description>
+                <description>Game performance by tag and modding</description>
                 <pubDate>Fri, 23 Oct 2020 00:00:00 GMT</pubDate>
             </item>
     
             <item>
                 <title>Bringing things under one roof</title>
                 <link>https://robkohr.com/articles/bringing-things-under-one-roof</link>
-                <description><p>This is a great article about using subdomains vs subfolders for seo:</p>
-<p><a href="https://www.seoquake.com/blog/subdomains-vs-subfolders/">subdomains vs subfolders</a></p>
-<p>I looks pretty clear that subfolders are the way to go.</p>
-<p>With a single server with nginx on it, you can reverse proxy to multiple servers using the location /somedirectory tag.</p>
-<p>I am pondering the idea of making a bunch of mini apps, and then having them all under one domain (maybe this one) and then using subdirectories rather than creating separate names domains for everything. As of right now, this site is just me talking to myself as viewership is basically nil.</p>
-<p>As I am coming back to working on instaboardgame, maybe it should be under tentoncreations.com/fun/boardgame. Cueflash.com could go under tentoncreations.com/flashcards. Constantsail.com could go under tentoncreations/fun/constantsail.</p>
-<p>Editthis.info/create_your_own_adventure -&gt; tentoncreations.com/wiki/create_your_own_adventure</p>
-<p>and so on.</p>
-<p>I might not want to do that with editthis.info as the content on there can be adult in nature, and would make it so google adsense wouldn&#39;t be allowed on the other sites.</p>
-<p>This blog could end up going under /blog, or just stay at the root.</p>
-<p>I was also messing around with <a href="https://wordoid.com/">wordoid</a> trying to come up with something shorter than TenTonCreations.com. It is a tough call as that is a pretty long domain name, but it is easy to spell, and I think sounds pretty cool. It also makes more sense then undrix.com or lagon.com (two examples of available domain names). The choices between short and meaningful is a tough one with domain names.</p>
-<p>Some sites I am thinking would be good to build: a site for feedback.</p>
-</description>
+                <description>Bringing things under one roof</description>
                 <pubDate>Tue, 20 Oct 2020 00:00:00 GMT</pubDate>
             </item>
     
             <item>
                 <title>The uneasy peace of nuclear weapons.</title>
                 <link>https://robkohr.com/articles/the-uneasy-peace-of-nuclear-weapons-</link>
-                <description><p>Just some thoughts I had after watching this video:</p>
-<p>Simulation of a Nuclear Blast in a Major City</p>
-<p><a href="https://www.youtube.com/watch?v=Z3RzNEzJyzo&ab_channel=NeilHalloran">https://www.youtube.com/watch?v=Z3RzNEzJyzo&amp;ab_channel=NeilHalloran</a></p>
-<p>Nuclear weapons are the reason we haven&#39;t had multiple world wars since WWII. The game mechanics of warfare changed when any major conflict could lead to complete annihilation on both sides.</p>
-<p>All wars since then have only be proxy wars through countries that are not nuclear armed. It makes it clear why countries such as NK and Iran would like to have these weapons. It makes them essentially un-invadable.</p>
-<p>It reminds me of the movie bedazzled. I could imagine someone war-weary after WWII making a deal with the devil to make it so no major war won&#39;t happen again in their lifetime, and the wish was granted with nukes.</p>
-<p>I wonder how many lives were saved by making the cold war not a hot war thanks to nukes, and if long run the debt of saving all those lives will have to be paid in full plus interest.</p>
-</description>
+                <description>The uneasy peace of nuclear weapons.</description>
                 <pubDate>Tue, 13 Oct 2020 00:00:00 GMT</pubDate>
             </item>
     
             <item>
                 <title>Thoughts on using grommet for web app design</title>
                 <link>https://robkohr.com/articles/thoughts-on-using-grommet-for-web-app-design</link>
-                <description><p>I used <a href="https://icons.grommet.io/">Grommet</a> for a react project, and here are some of my thoughts on it.</p>
-<p>Things I like</p>
-<ul>
-<li>Works out of the box for most use cases</li>
-<li>Nice for form elements</li>
-<li>Gives a standard look and feel for the site without any need to work out details</li>
-</ul>
-<p>Things I don&#39;t like</p>
-<ul>
-<li>A grommet element is a wrapper for an entire dom structure that you can&#39;t directly style as it doesn&#39;t have any classes you can apply css to; a simple parent classname that you can have as a starting point would work wonders</li>
-<li>The Box wrapper and other wrappers for grid layouts just reimplement html features but in a more limited and difficult to adjust way</li>
-<li>It basically sucks for doing anything new stylistically (such as building a static landing page).</li>
-<li>It&#39;s design is kinda bla and minimal as far as customization</li>
-</ul>
-<p>If I were to do a application in the future I would:</p>
-<ul>
-<li>I&#39;d still use grommet for all of its components, but not it&#39;s layout</li>
-<li>Create a thin layer interface over grommet that just passes down props. This way a mvp can be quickly pushable, but the styles would be easily updatable<ul>
-<li>But more likely, unless styles don&#39;t matter at all, I would just do my own component library based on mocks as really stying components isn&#39;t too hard</li>
-</ul>
-</li>
-</ul>
-<p>Well structured scss is really easy to manage, and while grommet is good for building quick and dirty UI, scss custom built ui components are better to build for a project that is going to be something that will be used for a long term project.</p>
-</description>
+                <description>Thoughts on using grommet for web app design</description>
                 <pubDate>Thu, 08 Oct 2020 00:00:00 GMT</pubDate>
             </item>
     
             <item>
                 <title>Next.js vs Create-React-App</title>
                 <link>https://robkohr.com/articles/next-js-vs-create-react-app</link>
-                <description><p>When doing react, I have on worked with CRA up until now. I just took over a next.js app, and when built and deployed, it is speedy, but didn&#39;t like some of the details of development:</p>
-<ul>
-<li>myApp/pages/page-name/index.js is how you create a route for /page-name. While quick and friendly, I prefer the following:<ul>
-<li>Defining my own route rules in details with reach-router. I am just to particular about routing to accept the trade off of simplicity against customizability. Also, defining routes is simple, and it is good for rearranging things without renaming components.</li>
-<li>I really don&#39;t like dozens of index.js files in my codebase. I prefer to call pages pages/page-name/page-name.js so it is clear by the file name what things are for.</li>
-</ul>
-</li>
-<li>making changes when development are a little fluky when it comes to live updates, css doesn&#39;t seem to live update nicely, and there are just too many times that I have to kill the server and restart it to see my changes. This is even worse because it all seems unpredictable as to if/when changes would appear and a little frustrating</li>
-</ul>
-<p>These are little nitpicks, and if CRA didn&#39;t exist, I would go with next, but I love the way CRA is more customizable regarding routing, and is just snappy for responsiveness. I also feel there is just too much gray area as to if something is being rendered on the server or the client, and as an ex-apache/php guy, I really am not a fan of worrying about server side rendering anymore.</p>
-<p>The case where I would likely use next would be if I were building a static content based site where SEO and first page load times were everything. I also know gatsby is supposed to be good for this too, so I would do some side by side comparisons. Also SEO with react is pretty good as is.</p>
-<p>In the end though, that isn&#39;t really something I do much of, so I&#39;ll be on CRA for the forseeable future.</p>
-</description>
+                <description>Next.js vs Create-React-App</description>
                 <pubDate>Thu, 08 Oct 2020 00:00:00 GMT</pubDate>
             </item>
     
             <item>
                 <title>6 degrees of separation on wikipedia</title>
                 <link>https://robkohr.com/articles/6-degrees-of-separation-on-wikipedia</link>
-                <description><p>This is pretty fascinating stuff: <a href="https://www.sixdegreesofwikipedia.com/blog/search-results-analysis">https://www.sixdegreesofwikipedia.com/blog/search-results-analysis</a></p>
-<p>With just 3 clicks on average, you can get from any wikipedia article to any other wikipedia article.</p>
-</description>
+                <description>6 degrees of separation on wikipedia</description>
                 <pubDate>Thu, 08 Oct 2020 00:00:00 GMT</pubDate>
             </item>
     
             <item>
                 <title>place setting</title>
                 <link>https://robkohr.com/articles/place-setting</link>
-                <description><p><img src="2020-10-07-22-43-47.png" alt=""></p>
-</description>
+                <description>place setting</description>
                 <pubDate>Wed, 07 Oct 2020 00:00:00 GMT</pubDate>
             </item>
     
             <item>
                 <title>cats</title>
                 <link>https://robkohr.com/articles/cats</link>
-                <description><p><img src="2020-10-07-22-42-37.png" alt=""></p>
-</description>
+                <description>cats</description>
                 <pubDate>Wed, 07 Oct 2020 00:00:00 GMT</pubDate>
             </item>
     
