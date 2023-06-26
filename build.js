@@ -240,6 +240,7 @@ output = `
         <channel>
             <title>RobKohr's Blog</title>
             <link>https://robkohr.com</link>
+            <atom:link href="https://robkohr.com/rss.xml" rel="self" type="application/rss+xml" />
             <description>RobKohr's Blog</description>
             <language>en-us</language>
             <lastBuildDate>${new Date().toUTCString()}</lastBuildDate>
