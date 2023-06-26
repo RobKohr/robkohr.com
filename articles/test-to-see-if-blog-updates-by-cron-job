@@ -1,0 +1,33 @@
+
+        <html>
+            <head>
+                <title>RobKohr's Blog - Test to see if blog updates by cron job</title>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/test-to-see-if-blog-updates-by-cron-job">Test to see if blog updates by cron job</a></h2>
+    <div id="date">@date=2023-06-26</div>
+    <div id="tags">@tags=<a href="tags/coding">coding</a>, <a href="tags/git">git</a></div>
+    <article>
+        <p>Just ignore this.. or don&#39;t as you already read it :) I just set up my domain to do a git pull every hour to be automatically updated.</p>
+
+    </article>
+    
+            </body>
+          </html>
+          
