@@ -10,7 +10,7 @@
             
     <h2><a href="articles/hacker-newsletter">Hacker Newsletter</a></h2>
     <div id="date">@date=2020-08-28</div>
-    <div id="tags">@tags: <a href="tags/reading">reading</a>, <a href="tags/tech">tech</a></div>
+    <div id="tags">@tags=<a href="tags/reading">reading</a>, <a href="tags/tech">tech</a></div>
     <article>
         <p>I use rss feeds, reddit, twitter, news sites, etc, etc, but the most distilled grouping of great new things to read on the web regarding programming, science, design, and many other things is <a href="https://www.hackernewsletter.com/">Hacker Newsletter</a>. It is a weekly email newsletter that is a curated list of the best stuff that appears on <a href="https://news.ycombinator.com/">Hacker News</a>. The trouble with hacker news is there is too much content and the top list of articles are by popularity rather than quality, so it provides lots of distraction, but without the focus on substance. Hacker newsletter fixes that with some excellent curation.</p>
 

@@ -10,9 +10,9 @@
             
     <h2><a href="articles/future-space-lady">future space lady</a></h2>
     <div id="date">@date=2023-06-07</div>
-    <div id="tags">@tags: <a href="tags/cassette-futurism">cassette-futurism</a></div>
+    <div id="tags">@tags=<a href="tags/cassette-futurism">cassette-futurism</a></div>
     <article>
-        <p>![[20230607_140456.jpg]]</p>
+        <p><img src="images/TheVindicationCover.jpg" alt="TheVindicationCover.jpg" style="max-width: 100%;" /></p>
 
     </article>
     

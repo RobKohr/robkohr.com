@@ -11,7 +11,7 @@
     
     <h2><a href="articles/stackoverflow-instead-of-beating-your-head-against-the-wall">Stackoverflow instead of beating your head against the wall</a></h2>
     <div id="date">@date=2023-06-22</div>
-    <div id="tags">@tags: <a href="tags/stackoverflow">stackoverflow</a>, <a href="tags/coding">coding</a>, <a href="tags/programming">programming</a></div>
+    <div id="tags">@tags=<a href="tags/stackoverflow">stackoverflow</a>, <a href="tags/coding">coding</a>, <a href="tags/programming">programming</a></div>
     <article>
         <p>Often you will get deep in some code and come up against a wall. After working through it, and reading some documentation, if you haven&#39;t figured it out, it is time to go to stackoverflow.</p>
 <p>I have been on stackoverflow for a little over 14 years now, and while I don&#39;t answer a lot of questions (there is a lot of competition for that) I have a lot of questions that I have asked and have given me a pretty respectable score, putting me in the top 6% of users (<a href="https://stackoverflow.com/users/101909/robkohr">https://stackoverflow.com/users/101909/robkohr</a>). </p>
@@ -23,7 +23,7 @@
     
     <h2><a href="articles/stack-overflow">Stack overflow</a></h2>
     <div id="date">@date=2019-11-01</div>
-    <div id="tags">@tags: <a href="tags/stackoverflow">stackoverflow</a></div>
+    <div id="tags">@tags=<a href="tags/stackoverflow">stackoverflow</a></div>
     <article>
         <p>Stack Overflow is like a magic wish granting genie, if all your wishes are constrained to be answers to technical problems. Pretty much and far flung technical question I put in there, the right person comes along and provides an answer.</p>
 

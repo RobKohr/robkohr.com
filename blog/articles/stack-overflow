@@ -10,7 +10,7 @@
             
     <h2><a href="articles/stack-overflow">Stack overflow</a></h2>
     <div id="date">@date=2019-11-01</div>
-    <div id="tags">@tags: <a href="tags/stackoverflow">stackoverflow</a></div>
+    <div id="tags">@tags=<a href="tags/stackoverflow">stackoverflow</a></div>
     <article>
         <p>Stack Overflow is like a magic wish granting genie, if all your wishes are constrained to be answers to technical problems. Pretty much and far flung technical question I put in there, the right person comes along and provides an answer.</p>
 

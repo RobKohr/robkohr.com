@@ -10,7 +10,7 @@
             
     <h2><a href="articles/getting-a-little-torn-between-svelte-and-solidjs">Getting a little torn between svelte and SolidJS</a></h2>
     <div id="date">@date=2023-03-09</div>
-    <div id="tags">@tags: <a href="tags/webdev">webdev</a></div>
+    <div id="tags">@tags=<a href="tags/webdev">webdev</a></div>
     <article>
         <p>I have been playing with svelte, and liking it, but things just seem to mysterious. With SolidJS, I know what to expect.</p>
 <p>I got to creating some input components with svelte and started to do a registration form. Going to try again with SolidJS to build the same thing. Let&#39;s see if it goes a little better.</p>

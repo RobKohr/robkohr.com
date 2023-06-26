@@ -11,7 +11,7 @@
     
     <h2><a href="articles/bringing-back-the-pipes">Bringing back the pipes</a></h2>
     <div id="date">@date=2019-11-30</div>
-    <div id="tags">@tags: <a href="tags/tools">tools</a></div>
+    <div id="tags">@tags=<a href="tags/tools">tools</a></div>
     <article>
         <p><img src="2020-06-12-08-44-16.png" alt=""></p>
 <p><a href="https://nodered.org/">Node red</a> this is a very similar thing to yahoo pipes back in the day. It is a self hosted tool to pipe things into each other and do operations on them (best to watch the video there).</p>

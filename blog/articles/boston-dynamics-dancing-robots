@@ -10,9 +10,9 @@
             
     <h2><a href="articles/boston-dynamics-dancing-robots">Boston dynamics dancing robots</a></h2>
     <div id="date">@date=2021-07-19</div>
-    <div id="tags">@tags: <a href="tags/robots">robots</a></div>
+    <div id="tags">@tags=<a href="tags/robots">robots</a></div>
     <article>
-        <p><a href="https://www.youtube.com/watch?v=03QJJBN2hGI">https://www.youtube.com/watch?v=03QJJBN2hGI</a></p>
+        <p><div><iframe width="560" height="315" src="https://www.youtube.com/embed/03QJJBN2hGI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></p>
 <p>I wonder how long it took to create this script and how much it was don&#39;t virtually without the machine, and how much of it was done directly with the machine.</p>
 <p>These are glorious self balancing machines that have perfected the challenging AI task of physical motion. It is important to remember though, that they have no understanding of what they are doing, and the amount of work to create this dance number was mind boggling.</p>
 <p>I could see these things dropped in a battle field, given waypoints, and objectives to shoot anything that looks humanoid or moves. They&#39;d be dumb as dirt, but still very dangerous. It makes me want to think up what countermeasures would be effective ... false targets, traps they can&#39;t handle that humans have no trouble with, body shape camo, etc. Then there is the difficult task of taking them out as shooting at them would be marginally effective.</p>

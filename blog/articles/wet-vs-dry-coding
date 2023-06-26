@@ -10,7 +10,7 @@
             
     <h2><a href="articles/wet-vs-dry-coding">WET vs DRY coding</a></h2>
     <div id="date">@date=2020-04-09</div>
-    <div id="tags">@tags: <a href="tags/programming">programming</a></div>
+    <div id="tags">@tags=<a href="tags/programming">programming</a></div>
     <article>
         <p><img src="2020-06-12-08-35-31.png" alt=""></p>
 <p>This is roughly a reply to/inspired by <a href="https://dev.to/wuz/stop-trying-to-be-so-dry-instead-write-everything-twice-wet-5g33">Write everything twice, just not a third time.</a></p>

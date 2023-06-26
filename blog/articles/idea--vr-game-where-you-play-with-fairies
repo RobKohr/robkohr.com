@@ -10,7 +10,7 @@
             
     <h2><a href="articles/idea--vr-game-where-you-play-with-fairies">Idea: VR game where you play with fairies</a></h2>
     <div id="date">@date=2020-04-02</div>
-    <div id="tags">@tags: <a href="tags/vr">vr</a>, <a href="tags/software-ideas">software-ideas</a></div>
+    <div id="tags">@tags=<a href="tags/vr">vr</a>, <a href="tags/software-ideas">software-ideas</a></div>
     <article>
         <p><img src="2020-04-02-11-03-44.png" alt=""></p>
 

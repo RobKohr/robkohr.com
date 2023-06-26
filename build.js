@@ -1,10 +1,43 @@
 import fs from "fs";
 import { marked } from "marked";
 
+
+
+/* 
+A function that will take a string like this:
+![[Yeast starter.jpg]]
+and replace it with this:
+<img src="Yeast starter.jpg" alt="Yeast starter" />
+*/
+
+function replaceImageLinks(text) {
+  return text.replace(
+    /!\[\[(.+)\]\]/g,
+    '<img src="images/$1" alt="$1" style="max-width: 100%;" />'
+  );
+}
+
+/* 
+remove link tags from any youtube urls and replace them with an iframe 
+Also allow for query perameters to be passed to the youtube url
+*/
+function convertYoutubeUrlsIntoHtml(text) {
+  return text.replace(
+    /<a href="https:\/\/www.youtube.com\/watch\?v=(\w+)">(.+)<\/a>/g,
+    '<div><iframe width="560" height="315" src="https://www.youtube.com/embed/$1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>'
+  );
+}
+
+function htmlUpdaters(text) {
+  return convertYoutubeUrlsIntoHtml(
+      replaceImageLinks(text)
+    );
+}
+
 marked.use({
   gfm: true,
   headerIds: false,
-  mangle: false
+  mangle: false,
 });
 
 console.log("starting app");
@@ -23,7 +56,7 @@ var articles = articlesFull.map(function (article) {
   /* 
         content contains variables that start with @date= or @tags=
         Those lines should be removed from the content and added to the article object
-        */
+        */ 
   var variables = {};
 
   content = content.replace(/@(\w+)=(.*)/g, function (match, key, value) {
@@ -41,7 +74,7 @@ var articles = articlesFull.map(function (article) {
     return "";
   });
 
-  const html = marked.parse(content);
+  const html = htmlUpdaters(marked.parse(content));
   /*
         convert markdown content to html
     */
@@ -81,7 +114,14 @@ let output = `
         </head>
         <body>
         <p></p>
+        
         <h1>RobKohr's Blog</h1>
+        <p><i>
+        My father says almost the whole world's asleep. Everybody you know, everybody you see, everybody you talk to. He says only a few people are awake. And they live in a state of constant total amazement.
+        </i><br/>
+        -Joe Vs. The Volcano
+        
+        </p>
 `;
 
 const toKebab = function (str) {
@@ -100,8 +140,8 @@ function addArticleToOutput(article, output) {
     output +
     `
     <h2><a href="articles/${kabab}">${article.title}</a></h2>
-    <div id="date">${`@date=${article.variables.date}`}</div>
-    <div id="tags">${tags ? `@tags: ${tags}` : ""}</div>
+    <div id="date">${article.variables.date ? `@date=${article.variables.date}`: ''}</div>
+    <div id="tags">${tags ? `@tags=${tags}` : ""}</div>
     <article>
         ${article.html}
     </article>
@@ -113,8 +153,9 @@ articles.forEach(function (article) {
   if (article === null) {
     return;
   }
-  output = addArticleToOutput(article, output);
-
+  if(!article.variables.page){
+    output = addArticleToOutput(article, output);
+  }
   const articleStartHtml = `
         <html>
             <head>
@@ -140,7 +181,7 @@ output += `
     </html>
 `;
 fs.writeFileSync("blog/index.html", output);
- 
+
 Object.keys(tagPages).forEach(function (tag) {
   let output = `
         <html>
@@ -163,9 +204,38 @@ Object.keys(tagPages).forEach(function (tag) {
   fs.writeFileSync(`blog/tags/${tag}`, output);
 });
 
-// console.log(JSON.stringify(articles, null, 4));
+/* Create an index page that lists all the tags and the count of articles under each tag */
+output = `
+    <html>
+        <head>
+            <title>RobKohr's Blog - Tags</title>
+            <link rel="stylesheet" href="../neat.css">
+            <base href="../">
+        </head>
+        <body>
+        <a href="./index.html">Home</a>
+        <h2>Tags</h2>
+`;
+Object.keys(tagPages).forEach(function (tag) {
+  output += `<a href="tags/${tag}">${tag}</a> (${tagPages[tag].length})<br/>`;
+});
+output += `
+        </body>
+    </html>
+`;
+fs.writeFileSync(`blog/tags/index.html`, output);
 
 /* copy neat.css to blog folder */
 fs.copyFileSync("./neat.css", "blog/neat.css");
+
+/* make directory for blog/images if it doesn't exist */
+if (!fs.existsSync("blog/images")) {
+  fs.mkdirSync("blog/images");
+}
+
+/* copy all images from images/ to blog/images/ */
+fs.readdirSync("./images").forEach(function (filename) {
+  fs.copyFileSync(`./images/${filename}`, `blog/images/${filename}`);
+});
 
 console.log("done");

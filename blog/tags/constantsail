@@ -11,7 +11,7 @@
     
     <h2><a href="articles/constantsail-doing-surprisingly-well">ConstantSail doing surprisingly well</a></h2>
     <div id="date">@date=2019-11-21</div>
-    <div id="tags">@tags: <a href="tags/projects">projects</a>, <a href="tags/constantsail">constantsail</a></div>
+    <div id="tags">@tags=<a href="tags/projects">projects</a>, <a href="tags/constantsail">constantsail</a></div>
     <article>
         <p><a href="http://constantsail.com">Constant Sail Pirates and Traders</a> analytics seems to do consistently well despite being a page with no content on it other than an old video. I should make it a priority to make this game again with newer tech to support more users than before as there is just a continuous latent interest in this game that doesn&#39;t even exist.</p>
 <p><img src="constantsail-analytics.png" alt="ConstantSail"></p>

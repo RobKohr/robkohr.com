@@ -11,7 +11,7 @@
     
     <h2><a href="articles/registered-godotassetstore-org">registered godotassetstore.org</a></h2>
     <div id="date">@date=2019-11-21</div>
-    <div id="tags">@tags: <a href="tags/projects">projects</a>, <a href="tags/godot-asset-store">godot-asset-store</a>, <a href="tags/nginx">nginx</a>, <a href="tags/certbot">certbot</a></div>
+    <div id="tags">@tags=<a href="tags/projects">projects</a>, <a href="tags/godot-asset-store">godot-asset-store</a>, <a href="tags/nginx">nginx</a>, <a href="tags/certbot">certbot</a></div>
     <article>
         <p>I just registered godotassetstore.org for the <a href="https://godotassetstore.org">Godot Asset Store</a>. It seems like it would be an easier name to share with people and the media than godotasset.store, which just seems a little odd. I&#39;ll have to set an nginx redirect for it on the server and set up certbot to do the https for it.</p>
 

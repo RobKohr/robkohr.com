@@ -10,7 +10,7 @@
             
     <h2><a href="articles/i-want-to-try-out-your-indie-local-multiplayer-game">I want to try out your Indie Local Multiplayer Game</a></h2>
     <div id="date">@date=2019-11-27</div>
-    <div id="tags">@tags: <a href="tags/games">games</a></div>
+    <div id="tags">@tags=<a href="tags/games">games</a></div>
     <article>
         <p>I have a PC hooked up to a TV with a bunch of controllers, and I love local multiplayer games with my kids. If you have a game you would like us to beta test, and write a review of, just send me a message on twitter.</p>
 

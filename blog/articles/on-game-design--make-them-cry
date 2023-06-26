@@ -10,7 +10,7 @@
             
     <h2><a href="articles/on-game-design--make-them-cry">On game design: make them cry</a></h2>
     <div id="date">@date=2019-11-26</div>
-    <div id="tags">@tags: <a href="tags/game-design">game-design</a>, <a href="tags/other-peoples-projects">other-peoples-projects</a>, <a href="tags/game-review">game-review</a></div>
+    <div id="tags">@tags=<a href="tags/game-design">game-design</a>, <a href="tags/other-peoples-projects">other-peoples-projects</a>, <a href="tags/game-review">game-review</a></div>
     <article>
         <p><img src="nes-cry.jpg" alt="nes-cry"></p>
 <p>I was talking with <a href="http://twitter.com/octagon_game_st">@octagon_game_st</a> about his game <a href="https://play.google.com/store/apps/details?id=com.octagon.octomaze_demo">Octomaze</a></p>

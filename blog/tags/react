@@ -11,7 +11,7 @@
     
     <h2><a href="articles/one-codebase-to-rule-them-all">One codebase to rule them all</a></h2>
     <div id="date">@date=2021-05-25</div>
-    <div id="tags">@tags: <a href="tags/web-dev">web-dev</a>, <a href="tags/react">react</a>, <a href="tags/seo">seo</a>, <a href="tags/adhd">adhd</a></div>
+    <div id="tags">@tags=<a href="tags/web-dev">web-dev</a>, <a href="tags/react">react</a>, <a href="tags/seo">seo</a>, <a href="tags/adhd">adhd</a></div>
     <article>
         <p>A little over a decade ago, I went on a binge and made a bunch of web apps of various sorts:</p>
 <ul>
@@ -51,7 +51,7 @@ Ok, I am working my normal job, and I am creating a new project: creating the cs
     
     <h2><a href="articles/easy-instant-github-branch-deployment">Easy instant github branch deployment</a></h2>
     <div id="date">@date=2021-04-23</div>
-    <div id="tags">@tags: <a href="tags/servers">servers</a>, <a href="tags/web-dev">web-dev</a>, <a href="tags/react">react</a></div>
+    <div id="tags">@tags=<a href="tags/servers">servers</a>, <a href="tags/web-dev">web-dev</a>, <a href="tags/react">react</a></div>
     <article>
         <p>Want to have your server update itself whenever you deploy to a github branch? Piece of cake:</p>
 <p><a href="https://github.com/RobKohr/github-hook-handler">https://github.com/RobKohr/github-hook-handler</a></p>
@@ -60,7 +60,7 @@ Ok, I am working my normal job, and I am creating a new project: creating the cs
     
     <h2><a href="articles/thoughts-on-using-grommet-for-web-app-design">Thoughts on using grommet for web app design</a></h2>
     <div id="date">@date=2020-10-08</div>
-    <div id="tags">@tags: <a href="tags/web-dev">web-dev</a>, <a href="tags/design">design</a>, <a href="tags/react">react</a></div>
+    <div id="tags">@tags=<a href="tags/web-dev">web-dev</a>, <a href="tags/design">design</a>, <a href="tags/react">react</a></div>
     <article>
         <p>I used <a href="https://icons.grommet.io/">Grommet</a> for a react project, and here are some of my thoughts on it.</p>
 <p>Things I like</p>
@@ -90,7 +90,7 @@ Ok, I am working my normal job, and I am creating a new project: creating the cs
     
     <h2><a href="articles/next-js-vs-create-react-app">Next.js vs Create-React-App</a></h2>
     <div id="date">@date=2020-10-08</div>
-    <div id="tags">@tags: <a href="tags/web-dev">web-dev</a>, <a href="tags/react">react</a></div>
+    <div id="tags">@tags=<a href="tags/web-dev">web-dev</a>, <a href="tags/react">react</a></div>
     <article>
         <p>When doing react, I have on worked with CRA up until now. I just took over a next.js app, and when built and deployed, it is speedy, but didn&#39;t like some of the details of development:</p>
 <ul>
@@ -109,7 +109,7 @@ Ok, I am working my normal job, and I am creating a new project: creating the cs
     
     <h2><a href="articles/an-attempted-simple-guide-for-react-hooks-">An attempted simple guide for react hooks.</a></h2>
     <div id="date">@date=2020-05-14</div>
-    <div id="tags">@tags: <a href="tags/react">react</a>, <a href="tags/programming">programming</a>, <a href="tags/guides">guides</a></div>
+    <div id="tags">@tags=<a href="tags/react">react</a>, <a href="tags/programming">programming</a>, <a href="tags/guides">guides</a></div>
     <article>
         <p><img src="2020-05-14-14-46-05.png" alt=""> React hooks is what got me to actually like React enough to make it my primary web development framework (at least at this date). They break away from the ugly class based heavily nested object form of React, and make it truly more functional, while giving allowances for managing state in a stateless system.</p>
 <p>The first thing to grasp about react is that components re-render with every change in the props that come into them, and thus every time they are run (which is every time an input changes), all internal values are wiped out. It should also be noted that internal hook state changes also trigger these re-renders.</p>
@@ -213,7 +213,7 @@ function Counter() {
     
     <h2><a href="articles/angular-is-just-easier-to-make-most-web-applications-in-than-react">Angular is just easier to make most web applications in than React</a></h2>
     <div id="date">@date=2019-11-25</div>
-    <div id="tags">@tags: <a href="tags/angular">angular</a>, <a href="tags/react">react</a></div>
+    <div id="tags">@tags=<a href="tags/angular">angular</a>, <a href="tags/react">react</a></div>
     <article>
         <p>UPDATE: My feelings about this have changed quite a bit, a follow up article is to come. The summary is that React has gotten so much easier with React hooks that my recommendations here have changed.</p>
 <h3>A little background</h3>

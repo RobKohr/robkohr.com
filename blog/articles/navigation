@@ -1,0 +1,26 @@
+
+        <html>
+            <head>
+                <title>RobKohr's Blog - Navigation</title>
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/navigation">Navigation</a></h2>
+    <div id="date"></div>
+    <div id="tags"></div>
+    <article>
+        <ul>
+<li><a href="articles/about">About</a></li>
+<li><a href="tags/index.html">Tags</a></li>
+<li><a href="articles/projects">Projects</a></li>
+<li><a href="articles/other-writing">Other Writing</a></li>
+</ul>
+
+    </article>
+    
+            </body>
+          </html>
+          

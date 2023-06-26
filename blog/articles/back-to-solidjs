@@ -10,7 +10,7 @@
             
     <h2><a href="articles/back-to-solidjs">Back to solidjs</a></h2>
     <div id="date">@date=2023-06-12</div>
-    <div id="tags">@tags: <a href="tags/coding">coding</a>, <a href="tags/svelte">svelte</a>, <a href="tags/solidjs">solidjs</a></div>
+    <div id="tags">@tags=<a href="tags/coding">coding</a>, <a href="tags/svelte">svelte</a>, <a href="tags/solidjs">solidjs</a></div>
     <article>
         <p>I delved into svelte pretty deep to get a grasp of it. I decided to try to make a set of components similar to material UI, just focusing on form elements. </p>
 <p>When it came to passing values, references, functions up and down the component stack, it just became much more difficult than doing it in React, which makes things pretty trivial.</p>

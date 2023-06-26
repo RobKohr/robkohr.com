@@ -10,7 +10,7 @@
             
     <h2><a href="articles/editthis-info">Editthis.info</a></h2>
     <div id="date">@date=2005-01-13</div>
-    <div id="tags">@tags: <a href="tags/projects">projects</a>, <a href="tags/launched">launched</a></div>
+    <div id="tags">@tags=<a href="tags/projects">projects</a>, <a href="tags/launched">launched</a></div>
     <article>
         <p><a href="https://editthis.info">Editthis.info</a> is a wiki hosting service where you can create your own wiki in seconds for free!</p>
 <p><img src="editthis.png" alt="Editthis.info"></p>

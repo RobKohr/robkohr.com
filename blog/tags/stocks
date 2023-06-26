@@ -11,7 +11,7 @@
     
     <h2><a href="articles/buying-cheap-during-coronavirus">Buying cheap during coronavirus</a></h2>
     <div id="date">@date=2020-03-19</div>
-    <div id="tags">@tags: <a href="tags/stocks">stocks</a></div>
+    <div id="tags">@tags=<a href="tags/stocks">stocks</a></div>
     <article>
         <p><img src="2020-06-12-08-39-31.png" alt=""></p>
 <p>A lot of stocks are really down, some much more than average: Cruise ships, amusement parks, Dave and Busters, movie theater chains.</p>

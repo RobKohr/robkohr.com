@@ -1,0 +1,42 @@
+
+        <html>
+            <head>
+                <title>RobKohr's Blog - Projects</title>
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/projects">Projects</a></h2>
+    <div id="date"></div>
+    <div id="tags"></div>
+    <article>
+        <p>These are personal, non-work-related projects. Contact my g-mail account at RobKohr for my resume to see what I built for others.</p>
+<p>Other little projects are at my <a href="https://github.com/robkohr">github page</a></p>
+<h3>Cueflash.com</h3>
+<p><img src="http://robkohr.com/images/projects/cueflash.png" alt="project icon">
+<a href="https://cueflash.com">https://cueflash.com</a></p>
+<p>A flashcard based collaborative learning site which focuses on cards you don&#39;t know using an adaptive algorithm.</p>
+<h3>EditThis.info</h3>
+<p><img src="http://robkohr.com/images/projects/editthis.png" alt="project icon"></p>
+<p><a href="https://editthis.info">https://editthis.info</a></p>
+<p>Shake-n-bake instant MediaWikis for groups, topics, or whatever</p>
+<h3>Mix-Match Domains</h3>
+<p><img src="http://robkohr.com/images/projects/mixmatch.png" alt="project icon">
+<a href="https://mixmatchdomains.com">https://mixmatchdomains.com</a></p>
+<p>Generate domains using related words to terms you provide. Terms can be individual words or comma seperated lists of words to randomly select from.</p>
+<h3>ConstantSail.com</h3>
+<p><img src="http://robkohr.com/images/projects/constantsail.png" alt="project icon">
+<a href="https://constantsail.com">https://constantsail.com</a></p>
+<p>In-progress pirate, sailing, and trading game</p>
+<h3>Glicko</h3>
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Elo_rating_graph.svg/600px-Elo_rating_graph.svg.png" alt="project icon"></p>
+<p><a href="https://github.com/RobKohr/glicko">https://github.com/RobKohr/glicko</a></p>
+<p>Javascript implementation of glicko-2 rating system along with a ffa-team based setup.</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

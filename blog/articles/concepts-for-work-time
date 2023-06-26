@@ -10,7 +10,7 @@
             
     <h2><a href="articles/concepts-for-work-time">Concepts for work time</a></h2>
     <div id="date">@date=2021-08-27</div>
-    <div id="tags">@tags: <a href="tags/productivity">productivity</a></div>
+    <div id="tags">@tags=<a href="tags/productivity">productivity</a></div>
     <article>
         <p>Allow 30 minute blocks for things, and only have one active task at a time. Count how many 30 minute blocks you use... this should be equal to the points... maybe? Not really very scrummy, but might be a good thing to track.</p>
 <p>6 points a day = 30 points a week.z</p>

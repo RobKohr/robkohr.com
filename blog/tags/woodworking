@@ -11,9 +11,9 @@
     
     <h2><a href="articles/i-made-a-thing-for-a-school-auction">I made a thing for a school auction</a></h2>
     <div id="date">@date=2023-03-09</div>
-    <div id="tags">@tags: <a href="tags/woodworking">woodworking</a></div>
+    <div id="tags">@tags=<a href="tags/woodworking">woodworking</a></div>
     <article>
-        <p>![[20230308_213347.jpg]]</p>
+        <p><img src="images/Letter Board.jpg" alt="Letter Board.jpg" style="max-width: 100%;" /></p>
 
     </article>
     

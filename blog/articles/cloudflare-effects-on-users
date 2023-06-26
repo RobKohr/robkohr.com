@@ -10,7 +10,7 @@
             
     <h2><a href="articles/cloudflare-effects-on-users">Cloudflare effects on users</a></h2>
     <div id="date">@date=2020-09-22</div>
-    <div id="tags">@tags: <a href="tags/editthis.info">editthis.info</a>, <a href="tags/web-development">web-development</a></div>
+    <div id="tags">@tags=<a href="tags/editthis.info">editthis.info</a>, <a href="tags/web-development">web-development</a></div>
     <article>
         <p>For the last few years I have been using cloudflare in front of editthis.info. On the 21st I dropped it, and saw an immediate decrease in average load times (from google analytics):</p>
 <p><img src="2020-09-22-15-12-53.png" alt=""></p>

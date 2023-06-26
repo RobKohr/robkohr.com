@@ -10,7 +10,7 @@
             
     <h2><a href="articles/learned-how-to-spell-labyrinth">Learned how to spell Labyrinth</a></h2>
     <div id="date">@date=2023-06-22</div>
-    <div id="tags">@tags: <a href="tags/life-goals">life-goals</a>, <a href="tags/rpg">rpg</a></div>
+    <div id="tags">@tags=<a href="tags/life-goals">life-goals</a>, <a href="tags/rpg">rpg</a></div>
     <article>
         <p>Just remember it starts with Laby. </p>
 <p>Just a word I gave up on trying to spell right long ago. I have never been a good speller, and I think I have a slight bit of dyslexia, so I never really saw the inner spelling of the word, but finally I just decided to split the word into pieces, and remember how the first part goes, and now it is easy :)</p>

@@ -11,7 +11,7 @@
     
     <h2><a href="articles/back-to-solidjs">Back to solidjs</a></h2>
     <div id="date">@date=2023-06-12</div>
-    <div id="tags">@tags: <a href="tags/coding">coding</a>, <a href="tags/svelte">svelte</a>, <a href="tags/solidjs">solidjs</a></div>
+    <div id="tags">@tags=<a href="tags/coding">coding</a>, <a href="tags/svelte">svelte</a>, <a href="tags/solidjs">solidjs</a></div>
     <article>
         <p>I delved into svelte pretty deep to get a grasp of it. I decided to try to make a set of components similar to material UI, just focusing on form elements. </p>
 <p>When it came to passing values, references, functions up and down the component stack, it just became much more difficult than doing it in React, which makes things pretty trivial.</p>
@@ -23,9 +23,9 @@
     
     <h2><a href="articles/svelte">Svelte</a></h2>
     <div id="date">@date=2023-02-28</div>
-    <div id="tags">@tags: <a href="tags/coding">coding</a>, <a href="tags/svelte">svelte</a></div>
+    <div id="tags">@tags=<a href="tags/coding">coding</a>, <a href="tags/svelte">svelte</a></div>
     <article>
-        <p>The best tutorial on it<br><a href="https://www.youtube.com/watch?v=AXwgpUvLiwk&list=PLVvjrrRCBy2KpGl3-s_ELqKd4hiNCN6yz&index=16">https://www.youtube.com/watch?v=AXwgpUvLiwk&amp;list=PLVvjrrRCBy2KpGl3-s_ELqKd4hiNCN6yz&amp;index=16</a></p>
+        <p>The best tutorial on it<br><div><iframe width="560" height="315" src="https://www.youtube.com/embed/AXwgpUvLiwk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></p>
 
     </article>
     

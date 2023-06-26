@@ -10,7 +10,7 @@
             
     <h2><a href="articles/programming-elevator-action">Programming Elevator Action</a></h2>
     <div id="date">@date=2019-12-02</div>
-    <div id="tags">@tags: <a href="tags/other-peoples-projects">other-peoples-projects</a>, <a href="tags/games">games</a></div>
+    <div id="tags">@tags=<a href="tags/other-peoples-projects">other-peoples-projects</a>, <a href="tags/games">games</a></div>
     <article>
         <p><img src="2020-06-12-08-43-51.png" alt=""></p>
 <p><a href="https://play.elevatorsaga.com/">Elevator Saga</a> is a javascript programming game where you have to write code to control elevators in the most efficient possible manner to be increasingly difficult levels. Warning: this is totally a nerd trap that will suck your attention if you are a programmer.</p>

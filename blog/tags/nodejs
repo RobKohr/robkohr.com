@@ -11,7 +11,7 @@
     
     <h2><a href="articles/setup-ssl-websockets-from-node-using-nginx-and-certbot">Setup ssl websockets from node using nginx and certbot</a></h2>
     <div id="date">@date=2020-06-04</div>
-    <div id="tags">@tags: <a href="tags/nginx">nginx</a>, <a href="tags/nodejs">nodejs</a>, <a href="tags/web-development">web-development</a>, <a href="tags/instaboardgame">instaboardgame</a>, <a href="tags/websockets">websockets</a></div>
+    <div id="tags">@tags=<a href="tags/nginx">nginx</a>, <a href="tags/nodejs">nodejs</a>, <a href="tags/web-development">web-development</a>, <a href="tags/instaboardgame">instaboardgame</a>, <a href="tags/websockets">websockets</a></div>
     <article>
         <p><img src="2020-06-12-08-30-59.png" alt=""></p>
 <p>Certbot is the tool from <a href="https://letsencrypt.org">letsencrypt.org</a> that lets you generate ssl certificates for your site without having to pay the likes of Verisign ever again. Basically I love the heck out of them for what they do.</p>
@@ -75,7 +75,7 @@ server {
     
     <h2><a href="articles/godot-asset-store">Godot Asset Store</a></h2>
     <div id="date">@date=2019-11-19</div>
-    <div id="tags">@tags: <a href="tags/godot">godot</a>, <a href="tags/godot-asset-store">godot-asset-store</a>, <a href="tags/projects">projects</a>, <a href="tags/in-progress">in-progress</a>, <a href="tags/angular">angular</a>, <a href="tags/nodejs">nodejs</a></div>
+    <div id="tags">@tags=<a href="tags/godot">godot</a>, <a href="tags/godot-asset-store">godot-asset-store</a>, <a href="tags/projects">projects</a>, <a href="tags/in-progress">in-progress</a>, <a href="tags/angular">angular</a>, <a href="tags/nodejs">nodejs</a></div>
     <article>
         <p>I started developing the <a href="https://godotassetstore.org">Godot Asset Store</a> a few weeks ago. It is built with Angular and node.js as the backend api with nginx as the frontend.</p>
 <p>I am getting to the tricky parts now:</p>

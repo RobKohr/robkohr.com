@@ -11,7 +11,7 @@
     
     <h2><a href="articles/editthis-info-overhaul">Editthis.info overhaul</a></h2>
     <div id="date">@date=2020-09-21</div>
-    <div id="tags">@tags: <a href="tags/editthis.info">editthis.info</a>, <a href="tags/completed-projects">completed-projects</a></div>
+    <div id="tags">@tags=<a href="tags/editthis.info">editthis.info</a>, <a href="tags/completed-projects">completed-projects</a></div>
     <article>
         <p><a href="http://Editthis.info">EditThis.info</a> has long been overdue for an upgrade. I&#39;ve been postponing it for a while, and now that I have just finished a big move, a wedding, and a honeymoon in Disney (covid be damned), I am circling back on it.</p>
 <p>Task list (this article will be updated as things are completed):</p>

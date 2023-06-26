@@ -11,9 +11,9 @@
     
     <h2><a href="articles/inserting-political-messaging-into-education">Inserting political messaging into education</a></h2>
     <div id="date">@date=2022-08-22</div>
-    <div id="tags">@tags: <a href="tags/politics">politics</a></div>
+    <div id="tags">@tags=<a href="tags/politics">politics</a></div>
     <article>
-        <p>![[Pasted image 20220822102546.png]]</p>
+        <p><img src="images/10 Other books to ban immediately.png" alt="10 Other books to ban immediately.png" style="max-width: 100%;" /></p>
 <p>The actual samples of things the press actually show from the rejection list are things like math textbooks using &quot;What me, racist?&quot; and then having the student use racial bias data that is questionable to solve a problem. This is subtly pushing the racial focused narrative, and they are finding it in a huge number of textbooks, which clearly is a way of pushing a message into kids with a million little cuts.</p>
 <p>The message may be right or wrong depending on your opinion, but even if right, it is wrong to try to indoctrinate a belief by sprinkling it throughout all coursework. That is propaganda and with the subtleness that they are doing it, brainwashing.</p>
 <p>Also, note that the American Federation of Teachers president that shared a list of banned books retracted it, because the books were not actually banned and the information was fake.</p>
@@ -23,7 +23,7 @@
     
     <h2><a href="articles/the-uneasy-peace-of-nuclear-weapons-">The uneasy peace of nuclear weapons.</a></h2>
     <div id="date">@date=2020-10-13</div>
-    <div id="tags">@tags: <a href="tags/war">war</a>, <a href="tags/politics">politics</a></div>
+    <div id="tags">@tags=<a href="tags/war">war</a>, <a href="tags/politics">politics</a></div>
     <article>
         <p>Just some thoughts I had after watching this video:</p>
 <p>Simulation of a Nuclear Blast in a Major City</p>

@@ -11,7 +11,7 @@
     
     <h2><a href="articles/standardizing-portable-board-games">Standardizing portable board games</a></h2>
     <div id="date">@date=2021-04-23</div>
-    <div id="tags">@tags: <a href="tags/3d-printing">3d-printing</a>, <a href="tags/boardgames">boardgames</a></div>
+    <div id="tags">@tags=<a href="tags/3d-printing">3d-printing</a>, <a href="tags/boardgames">boardgames</a></div>
     <article>
         <p>I have a bit of a thought that 3d printing boardgames would be great, particularly portable ones with
 nice cases.</p>

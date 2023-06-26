@@ -150,3 +150,8 @@ h2 a{
     text-decoration: none;
     color: var(--dark);
 }
+
+article {
+    border-bottom: dashed 4px var(--dark);
+    margin-bottom: 2em;
+}

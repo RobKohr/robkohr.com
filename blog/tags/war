@@ -11,7 +11,7 @@
     
     <h2><a href="articles/the-uneasy-peace-of-nuclear-weapons-">The uneasy peace of nuclear weapons.</a></h2>
     <div id="date">@date=2020-10-13</div>
-    <div id="tags">@tags: <a href="tags/war">war</a>, <a href="tags/politics">politics</a></div>
+    <div id="tags">@tags=<a href="tags/war">war</a>, <a href="tags/politics">politics</a></div>
     <article>
         <p>Just some thoughts I had after watching this video:</p>
 <p>Simulation of a Nuclear Blast in a Major City</p>

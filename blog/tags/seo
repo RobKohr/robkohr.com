@@ -11,7 +11,7 @@
     
     <h2><a href="articles/one-codebase-to-rule-them-all">One codebase to rule them all</a></h2>
     <div id="date">@date=2021-05-25</div>
-    <div id="tags">@tags: <a href="tags/web-dev">web-dev</a>, <a href="tags/react">react</a>, <a href="tags/seo">seo</a>, <a href="tags/adhd">adhd</a></div>
+    <div id="tags">@tags=<a href="tags/web-dev">web-dev</a>, <a href="tags/react">react</a>, <a href="tags/seo">seo</a>, <a href="tags/adhd">adhd</a></div>
     <article>
         <p>A little over a decade ago, I went on a binge and made a bunch of web apps of various sorts:</p>
 <ul>
@@ -51,7 +51,7 @@ Ok, I am working my normal job, and I am creating a new project: creating the cs
     
     <h2><a href="articles/bringing-things-under-one-roof">Bringing things under one roof</a></h2>
     <div id="date">@date=2020-10-20</div>
-    <div id="tags">@tags: <a href="tags/webdev">webdev</a>, <a href="tags/seo">seo</a></div>
+    <div id="tags">@tags=<a href="tags/webdev">webdev</a>, <a href="tags/seo">seo</a></div>
     <article>
         <p>This is a great article about using subdomains vs subfolders for seo:</p>
 <p><a href="https://www.seoquake.com/blog/subdomains-vs-subfolders/">subdomains vs subfolders</a></p>

@@ -10,7 +10,7 @@
             
     <h2><a href="articles/faangs-are-sucking-us-dry">FAANGs are sucking us dry</a></h2>
     <div id="date">@date=2020-02-22</div>
-    <div id="tags">@tags: <a href="tags/business">business</a>, <a href="tags/startups">startups</a></div>
+    <div id="tags">@tags=<a href="tags/business">business</a>, <a href="tags/startups">startups</a></div>
     <article>
         <p><img src="2020-06-12-08-42-12.png" alt="">
 The FAANG&#39;s of the world are doing us a big disservice. They filter out the best of the best programmers in the world, and then shackle them with 300K+ golden handcuffs to work on meaningless tasks on already developed products.</p>

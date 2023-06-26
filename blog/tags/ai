@@ -1,0 +1,22 @@
+
+        <html>
+            <head>
+                <title>RobKohr's Blog - ai</title>
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            <h2>Tag: ai</h2>
+    
+    <h2><a href="articles/ai-generated-image-of-a-mushroom-house---midjourney">AI generated image of a mushroom house - Midjourney</a></h2>
+    <div id="date">@date=2023-06-26</div>
+    <div id="tags">@tags=<a href="tags/ai">ai</a></div>
+    <article>
+        <p><img src="images/Mushroom House.png" alt="Mushroom House.png" style="max-width: 100%;" /></p>
+
+    </article>
+    
+            </body>
+        </html>
+    

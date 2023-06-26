@@ -1,0 +1,22 @@
+
+        <html>
+            <head>
+                <title>RobKohr's Blog - Other Writing</title>
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/other-writing">Other Writing</a></h2>
+    <div id="date"></div>
+    <div id="tags"></div>
+    <article>
+        <p><a href="http://discretethought.tumblr.com/">Tumbler</a></p>
+<p><a href="http://twitter.com/rkohr">Twitter</a></p>
+
+    </article>
+    
+            </body>
+          </html>
+          

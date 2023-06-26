@@ -11,7 +11,7 @@
     
     <h2><a href="articles/my-daily-process-with-obsidian">My daily process with Obsidian</a></h2>
     <div id="date">@date=2023-06-09</div>
-    <div id="tags">@tags: <a href="tags/obsidian">obsidian</a></div>
+    <div id="tags">@tags=<a href="tags/obsidian">obsidian</a></div>
     <article>
         <p>I have grown to love Obsidian, the notetaking app. </p>
 <ul>

@@ -10,9 +10,9 @@
             
     <h2><a href="articles/svelte">Svelte</a></h2>
     <div id="date">@date=2023-02-28</div>
-    <div id="tags">@tags: <a href="tags/coding">coding</a>, <a href="tags/svelte">svelte</a></div>
+    <div id="tags">@tags=<a href="tags/coding">coding</a>, <a href="tags/svelte">svelte</a></div>
     <article>
-        <p>The best tutorial on it<br><a href="https://www.youtube.com/watch?v=AXwgpUvLiwk&list=PLVvjrrRCBy2KpGl3-s_ELqKd4hiNCN6yz&index=16">https://www.youtube.com/watch?v=AXwgpUvLiwk&amp;list=PLVvjrrRCBy2KpGl3-s_ELqKd4hiNCN6yz&amp;index=16</a></p>
+        <p>The best tutorial on it<br><div><iframe width="560" height="315" src="https://www.youtube.com/embed/AXwgpUvLiwk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></p>
 
     </article>
     

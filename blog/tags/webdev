@@ -11,7 +11,7 @@
     
     <h2><a href="articles/getting-a-little-torn-between-svelte-and-solidjs">Getting a little torn between svelte and SolidJS</a></h2>
     <div id="date">@date=2023-03-09</div>
-    <div id="tags">@tags: <a href="tags/webdev">webdev</a></div>
+    <div id="tags">@tags=<a href="tags/webdev">webdev</a></div>
     <article>
         <p>I have been playing with svelte, and liking it, but things just seem to mysterious. With SolidJS, I know what to expect.</p>
 <p>I got to creating some input components with svelte and started to do a registration form. Going to try again with SolidJS to build the same thing. Let&#39;s see if it goes a little better.</p>
@@ -20,7 +20,7 @@
     
     <h2><a href="articles/on-typescript">On typescript</a></h2>
     <div id="date">@date=2021-08-15</div>
-    <div id="tags">@tags: <a href="tags/typescript">typescript</a>, <a href="tags/webdev">webdev</a></div>
+    <div id="tags">@tags=<a href="tags/typescript">typescript</a>, <a href="tags/webdev">webdev</a></div>
     <article>
         <p><img src="2021-08-15-11-32-29.png" alt=""></p>
 <p>After working with typescript a lot on work projects, I typically skip it on personal projects as it just seems tedious at times.</p>
@@ -33,7 +33,7 @@
     
     <h2><a href="articles/bringing-things-under-one-roof">Bringing things under one roof</a></h2>
     <div id="date">@date=2020-10-20</div>
-    <div id="tags">@tags: <a href="tags/webdev">webdev</a>, <a href="tags/seo">seo</a></div>
+    <div id="tags">@tags=<a href="tags/webdev">webdev</a>, <a href="tags/seo">seo</a></div>
     <article>
         <p>This is a great article about using subdomains vs subfolders for seo:</p>
 <p><a href="https://www.seoquake.com/blog/subdomains-vs-subfolders/">subdomains vs subfolders</a></p>

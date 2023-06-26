@@ -11,7 +11,7 @@
     
     <h2><a href="articles/place-setting">place setting</a></h2>
     <div id="date">@date=2020-10-07</div>
-    <div id="tags">@tags: <a href="tags/doodles">doodles</a></div>
+    <div id="tags">@tags=<a href="tags/doodles">doodles</a></div>
     <article>
         <p><img src="2020-10-07-22-43-47.png" alt=""></p>
 
@@ -19,7 +19,7 @@
     
     <h2><a href="articles/cats">cats</a></h2>
     <div id="date">@date=2020-10-07</div>
-    <div id="tags">@tags: <a href="tags/doodles">doodles</a></div>
+    <div id="tags">@tags=<a href="tags/doodles">doodles</a></div>
     <article>
         <p><img src="2020-10-07-22-42-37.png" alt=""></p>
 

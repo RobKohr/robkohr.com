@@ -11,7 +11,7 @@
     
     <h2><a href="articles/stackoverflow-instead-of-beating-your-head-against-the-wall">Stackoverflow instead of beating your head against the wall</a></h2>
     <div id="date">@date=2023-06-22</div>
-    <div id="tags">@tags: <a href="tags/stackoverflow">stackoverflow</a>, <a href="tags/coding">coding</a>, <a href="tags/programming">programming</a></div>
+    <div id="tags">@tags=<a href="tags/stackoverflow">stackoverflow</a>, <a href="tags/coding">coding</a>, <a href="tags/programming">programming</a></div>
     <article>
         <p>Often you will get deep in some code and come up against a wall. After working through it, and reading some documentation, if you haven&#39;t figured it out, it is time to go to stackoverflow.</p>
 <p>I have been on stackoverflow for a little over 14 years now, and while I don&#39;t answer a lot of questions (there is a lot of competition for that) I have a lot of questions that I have asked and have given me a pretty respectable score, putting me in the top 6% of users (<a href="https://stackoverflow.com/users/101909/robkohr">https://stackoverflow.com/users/101909/robkohr</a>). </p>
@@ -23,7 +23,7 @@
     
     <h2><a href="articles/angular-multi-level-componets">Angular multi-level componets</a></h2>
     <div id="date">@date=2023-07-24</div>
-    <div id="tags">@tags: <a href="tags/coding">coding</a>, <a href="tags/angular">angular</a>, <a href="tags/wfs">wfs</a></div>
+    <div id="tags">@tags=<a href="tags/coding">coding</a>, <a href="tags/angular">angular</a>, <a href="tags/wfs">wfs</a></div>
     <article>
         <p>For WFS I am working on the services page and the services need to be sortable in the settings, and then show the forms in the sorted order when making a new service request. Right now the order is hard coded, and each component has its own property set. I am going to create a wrapper for the components that will take all of the properties they need, and then pass them down to the component. The display order for the services can then load all of them in.</p>
 
@@ -31,7 +31,7 @@
     
     <h2><a href="articles/back-to-solidjs">Back to solidjs</a></h2>
     <div id="date">@date=2023-06-12</div>
-    <div id="tags">@tags: <a href="tags/coding">coding</a>, <a href="tags/svelte">svelte</a>, <a href="tags/solidjs">solidjs</a></div>
+    <div id="tags">@tags=<a href="tags/coding">coding</a>, <a href="tags/svelte">svelte</a>, <a href="tags/solidjs">solidjs</a></div>
     <article>
         <p>I delved into svelte pretty deep to get a grasp of it. I decided to try to make a set of components similar to material UI, just focusing on form elements. </p>
 <p>When it came to passing values, references, functions up and down the component stack, it just became much more difficult than doing it in React, which makes things pretty trivial.</p>
@@ -43,9 +43,9 @@
     
     <h2><a href="articles/svelte">Svelte</a></h2>
     <div id="date">@date=2023-02-28</div>
-    <div id="tags">@tags: <a href="tags/coding">coding</a>, <a href="tags/svelte">svelte</a></div>
+    <div id="tags">@tags=<a href="tags/coding">coding</a>, <a href="tags/svelte">svelte</a></div>
     <article>
-        <p>The best tutorial on it<br><a href="https://www.youtube.com/watch?v=AXwgpUvLiwk&list=PLVvjrrRCBy2KpGl3-s_ELqKd4hiNCN6yz&index=16">https://www.youtube.com/watch?v=AXwgpUvLiwk&amp;list=PLVvjrrRCBy2KpGl3-s_ELqKd4hiNCN6yz&amp;index=16</a></p>
+        <p>The best tutorial on it<br><div><iframe width="560" height="315" src="https://www.youtube.com/embed/AXwgpUvLiwk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></p>
 
     </article>
     

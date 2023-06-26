@@ -11,7 +11,7 @@
     
     <h2><a href="articles/started-on-a-shareable-web-based-boardgame-system">Started on a shareable web based boardgame system</a></h2>
     <div id="date">@date=2020-05-07</div>
-    <div id="tags">@tags: <a href="tags/shareable-board-game">shareable-board-game</a>, <a href="tags/software-ideas">software-ideas</a>, <a href="tags/instaboardgame">instaboardgame</a>, <a href="tags/boardgames">boardgames</a></div>
+    <div id="tags">@tags=<a href="tags/shareable-board-game">shareable-board-game</a>, <a href="tags/software-ideas">software-ideas</a>, <a href="tags/instaboardgame">instaboardgame</a>, <a href="tags/boardgames">boardgames</a></div>
     <article>
         <p><img src="2020-05-07-11-13-10.png" alt=""></p>
 <p><img src="2020-05-07-11-13-49.png" alt=""></p>
