@@ -6,6 +6,7 @@ http://robkohr.com/articles/created-a-new-blog-render
 
 ## How to use
 
+- clone this repo into a folder in your obsidian directory. This will host your blog.
 - Move example-rename-me-to-blog.md to blog.md
 	- update the content, using the format as an example
 - update an analytics.html file to root directory with your analytics html code
