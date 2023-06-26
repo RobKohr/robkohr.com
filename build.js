@@ -173,14 +173,14 @@ articles.forEach(function (article) {
   const articleHtml = articleStartHtml + addArticleToOutput(article, '') + articleEndHtml;
   const filename = `${toKebab(article.title)}`
   if(filename){
-    fs.writeFileSync(`blog/articles/${filename}`, articleHtml);
+    fs.writeFileSync(`articles/${filename}`, articleHtml);
   }  
 });
 output += `
         </body>
     </html>
 `;
-fs.writeFileSync("blog/index.html", output);
+fs.writeFileSync("index.html", output);
 
 Object.keys(tagPages).forEach(function (tag) {
   let output = `
@@ -201,7 +201,7 @@ Object.keys(tagPages).forEach(function (tag) {
             </body>
         </html>
     `;
-  fs.writeFileSync(`blog/tags/${tag}`, output);
+  fs.writeFileSync(`tags/${tag}`, output);
 });
 
 /* Create an index page that lists all the tags and the count of articles under each tag */
@@ -223,19 +223,6 @@ output += `
         </body>
     </html>
 `;
-fs.writeFileSync(`blog/tags/index.html`, output);
-
-/* copy neat.css to blog folder */
-fs.copyFileSync("./neat.css", "blog/neat.css");
-
-/* make directory for blog/images if it doesn't exist */
-if (!fs.existsSync("blog/images")) {
-  fs.mkdirSync("blog/images");
-}
-
-/* copy all images from images/ to blog/images/ */
-fs.readdirSync("./images").forEach(function (filename) {
-  fs.copyFileSync(`./images/${filename}`, `blog/images/${filename}`);
-});
+fs.writeFileSync(`tags/index.html`, output);
 
 console.log("done");
