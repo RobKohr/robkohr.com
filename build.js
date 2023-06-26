@@ -259,12 +259,16 @@ articles
   })
   .slice(0, 50)
   .forEach(function (article) {
+    /* create a utc string date from article.variables.date, correcting issue where month is off by one */
+    const date = new Date(article.variables.date);
+    date.setMonth(date.getMonth() - 1);
+    const dateString = date.toUTCString();
     output += `
             <item>
                 <title>${article.title}</title>
                 <link>https://robkohr.com/articles/${toKebab(article.title)}</link>
                 <description>${article.title}</description>
-                <pubDate>${new Date(article.variables.date).toUTCString()}</pubDate>
+                <pubDate>${dateString}</pubDate>
             </item>
     `;
   });
