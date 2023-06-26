@@ -21,6 +21,14 @@
             <a href="./index.html">Home</a>
             <h2>Tag: coding</h2>
     
+    <h2><a href="articles/test-to-see-if-blog-updates-by-cron-job">Test to see if blog updates by cron job</a></h2>
+    <div id="date">@date=2023-06-26</div>
+    <div id="tags">@tags=<a href="tags/coding">coding</a>, <a href="tags/git">git</a></div>
+    <article>
+        <p>Just ignore this.. or don&#39;t as you already read it :) I just set up my domain to do a git pull every hour to be automatically updated.</p>
+
+    </article>
+    
     <h2><a href="articles/created-a-new-blog-render">Created a new blog render</a></h2>
     <div id="date">@date=2023-06-26</div>
     <div id="tags">@tags=<a href="tags/coding">coding</a>, <a href="tags/blog">blog</a>, <a href="tags/obsidian">obsidian</a></div>
