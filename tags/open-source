@@ -44,7 +44,7 @@
     </div>
     <article>
         <p><a href="https://github.com/RobKohr/glicko">Javascript implementation of glicko-2 rating system along with a ffa-team based setup.</a></p>
-<p><img src="Elo_rating_graph.svg.png" alt="Glico"></p>
+<p><img src="images/Elo_rating_graph.svg.png" alt="Elo_rating_graph.svg.png" style="max-width: 100%;" /></p>
 
     </article>
     
