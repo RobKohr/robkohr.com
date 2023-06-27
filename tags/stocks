@@ -1,7 +1,8 @@
 
         <html>
             <head>
-                <title>RobKohr's Blog - stocks</title>
+                <title>stocks - RobKohr's Blog</title>
+
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
 <script>
@@ -13,7 +14,10 @@
 
   gtag("config", "UA-600316-3");
 </script>
+
 <link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+
                 <link rel="stylesheet" href="../neat.css">
                 <base href="../">
             </head>
@@ -25,9 +29,10 @@
     <div id="date">@date=2020-03-19</div>
     <div id="tags">@tags=<a href="tags/stocks">stocks</a></div>
     <article>
-        <p><img src="2020-06-12-08-39-31.png" alt=""></p>
+        <p><img src="images/2020-06-12-08-39-31.png" alt="2020-06-12-08-39-31.png" style="max-width: 100%;" /></p>
 <p>A lot of stocks are really down, some much more than average: Cruise ships, amusement parks, Dave and Busters, movie theater chains.</p>
 <p>Selling all of my stock index funds and buying up whatever is cheap.</p>
+<p>UPDATE 2 years later: everything went great :D</p>
 
     </article>
     

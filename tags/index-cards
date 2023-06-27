@@ -1,7 +1,8 @@
 
         <html>
             <head>
-                <title>RobKohr's Blog - index-cards</title>
+                <title>index-cards - RobKohr's Blog</title>
+
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
 <script>
@@ -13,7 +14,10 @@
 
   gtag("config", "UA-600316-3");
 </script>
+
 <link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+
                 <link rel="stylesheet" href="../neat.css">
                 <base href="../">
             </head>
@@ -27,7 +31,7 @@
     <article>
         <p>I started working with using index cards for writing ideas similar to the slipcard (Zettelkasten Method). I started working with 3x5&#39;s but found they were too small to write ideas on. Now I am using 5x8&#39;s. This works well, because I use them in portrait orientation and they fit in the <a href="https://www.amazon.com/gp/product/B07XZ3B7F2/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1">box I got for them</a>. I also got some <a href="https://www.amazon.com/gp/product/B0784FP7BW/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1">heavy duty cards</a> that stand up well in the box and are nice to write on.</p>
 <p>Here is the first card in the box. Instead of using it as an index, I am using the first one as a list of ideas for what cards could be; this is helpful as it is always the card that is visible in front of the stack.</p>
-<p><img src="2020-03-30-16-17-51.png" alt=""></p>
+<p><img src="images/2020-03-30-16-17-51.png" alt="2020-03-30-16-17-51.png" style="max-width: 100%;" /></p>
 <p>So far I have made about 15-20 cards, and most are ending up under number 4 (following the system, things under 4 would be 4a, 4b, ...etc) which is where software ideas go. I don&#39;t know if this is a great choice compared to always tacking a new idea or concept at the end of the stack. The downside might be that I am always inserting most of the cards at that point as most of my ideas are software ideas. The upside is that I can have them always together so I can flip through them to see what I wanna work on next.</p>
 
     </article>

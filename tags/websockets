@@ -1,7 +1,8 @@
 
         <html>
             <head>
-                <title>RobKohr's Blog - websockets</title>
+                <title>websockets - RobKohr's Blog</title>
+
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
 <script>
@@ -13,7 +14,10 @@
 
   gtag("config", "UA-600316-3");
 </script>
+
 <link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+
                 <link rel="stylesheet" href="../neat.css">
                 <base href="../">
             </head>
@@ -25,7 +29,7 @@
     <div id="date">@date=2020-06-04</div>
     <div id="tags">@tags=<a href="tags/nginx">nginx</a>, <a href="tags/nodejs">nodejs</a>, <a href="tags/web-development">web-development</a>, <a href="tags/instaboardgame">instaboardgame</a>, <a href="tags/websockets">websockets</a></div>
     <article>
-        <p><img src="2020-06-12-08-30-59.png" alt=""></p>
+        <p><img src="images/2020-06-12-08-30-59.png" alt="2020-06-12-08-30-59.png" style="max-width: 100%;" /></p>
 <p>Certbot is the tool from <a href="https://letsencrypt.org">letsencrypt.org</a> that lets you generate ssl certificates for your site without having to pay the likes of Verisign ever again. Basically I love the heck out of them for what they do.</p>
 <p>Nginx runs on your server to redirect examplesite.com to localhost:1234 if you happen to be running your node express server on that port.</p>
 <p>Now if you want to have a socket connection to your server to receive constant updates(for example if you are building an <a href="https://instaboardgame.com">online sandbox styled board game system</a>) you could use the npm module <code>ws</code> to create that websocket for your javascript code to connect to on some port, such as port 8080. This however will not be encrypted, and it will also be kinda ugly and not firewall friendly since it isn&#39;t running on a standard open port.</p>

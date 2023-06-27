@@ -1,7 +1,8 @@
 
         <html>
             <head>
-                <title>RobKohr's Blog - WET vs DRY coding</title>
+                <title>WET vs DRY coding - RobKohr's Blog</title>
+
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
 <script>
@@ -13,7 +14,10 @@
 
   gtag("config", "UA-600316-3");
 </script>
+
 <link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+
                 <link rel="stylesheet" href="../neat.css">
                 <base href="../">
             </head>
@@ -24,7 +28,7 @@
     <div id="date">@date=2020-04-09</div>
     <div id="tags">@tags=<a href="tags/programming">programming</a></div>
     <article>
-        <p><img src="2020-06-12-08-35-31.png" alt=""></p>
+        <p><img src="images/2020-06-12-08-35-31.png" alt="2020-06-12-08-35-31.png" style="max-width: 100%;" /></p>
 <p>This is roughly a reply to/inspired by <a href="https://dev.to/wuz/stop-trying-to-be-so-dry-instead-write-everything-twice-wet-5g33">Write everything twice, just not a third time.</a></p>
 <p>This is really a heavy &quot;it depends&quot;. The goals of making it so you have one source of things to be debugged and modified are great when we are talking about a decent number lines of code (or more importantly conceptual pieces). The other side of things is that DRY pushes to creating modules/components/functions that are nameable sections of code that increases readability of the code. An example of this is to take 20 lines of code that does one &quot;Thing&quot;, and replace it with a function call to Thing() that contains those 20 lines. Yeah, you don&#39;t save anything as far as line count of code, but you make it so when reading things, you don&#39;t have to parse apart the functionality of that 20 lines, and you can test it and know you never need to think about it again besides calling it&#39;s name.
 The DRY to WET side of things start to slip over to the wet side (pun intended) when the cost of making it DRY and the ongoing costs of the DRY structure is more then just leaving it wet. This typically comes from when over-engineering leads to a tower of babel like structure of things wrapping things wrapping things to the point where it becomes challenging to make a change:

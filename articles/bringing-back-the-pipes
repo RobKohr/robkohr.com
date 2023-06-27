@@ -1,7 +1,8 @@
 
         <html>
             <head>
-                <title>RobKohr's Blog - Bringing back the pipes</title>
+                <title>Bringing back the pipes - RobKohr's Blog</title>
+
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
 <script>
@@ -13,7 +14,10 @@
 
   gtag("config", "UA-600316-3");
 </script>
+
 <link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+
                 <link rel="stylesheet" href="../neat.css">
                 <base href="../">
             </head>
@@ -24,7 +28,7 @@
     <div id="date">@date=2019-11-30</div>
     <div id="tags">@tags=<a href="tags/tools">tools</a></div>
     <article>
-        <p><img src="2020-06-12-08-44-16.png" alt=""></p>
+        <p><img src="images/2020-06-12-08-44-16.png" alt="2020-06-12-08-44-16.png" style="max-width: 100%;" /></p>
 <p><a href="https://nodered.org/">Node red</a> this is a very similar thing to yahoo pipes back in the day. It is a self hosted tool to pipe things into each other and do operations on them (best to watch the video there).</p>
 
     </article>

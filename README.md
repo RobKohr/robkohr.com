@@ -4,6 +4,9 @@ Blog article about this blog renderer:
 
 http://robkohr.com/articles/created-a-new-blog-render
 
+Example of it being hosted:
+https://robkohr.com
+
 ## How to use
 
 - clone this repo into a folder in your obsidian directory. This will host your blog.
@@ -11,7 +14,7 @@ http://robkohr.com/articles/created-a-new-blog-render
 	- update the content, using the format as an example
 - update an analytics.html file to root directory with your analytics html code
 - empty tags, articles, images directories
-- update build.js to use a different title then Rob Kohr's Blog
+- update build.js to use a different title than Rob Kohr's Blog
 - run 
 ```
 npm install

@@ -1,7 +1,8 @@
 
         <html>
             <head>
-                <title>RobKohr's Blog - other-peoples-projects</title>
+                <title>other-peoples-projects - RobKohr's Blog</title>
+
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
 <script>
@@ -13,7 +14,10 @@
 
   gtag("config", "UA-600316-3");
 </script>
+
 <link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+
                 <link rel="stylesheet" href="../neat.css">
                 <base href="../">
             </head>
@@ -35,7 +39,7 @@
     <div id="date">@date=2019-12-02</div>
     <div id="tags">@tags=<a href="tags/other-peoples-projects">other-peoples-projects</a>, <a href="tags/games">games</a></div>
     <article>
-        <p><img src="2020-06-12-08-43-51.png" alt=""></p>
+        <p><img src="images/2020-06-12-08-43-51.png" alt="2020-06-12-08-43-51.png" style="max-width: 100%;" /></p>
 <p><a href="https://play.elevatorsaga.com/">Elevator Saga</a> is a javascript programming game where you have to write code to control elevators in the most efficient possible manner to be increasingly difficult levels. Warning: this is totally a nerd trap that will suck your attention if you are a programmer.</p>
 
     </article>

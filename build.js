@@ -3,8 +3,11 @@ import { marked } from "marked";
 
 
 /* Get html content from analytics.html */
-var headerExtras = fs.readFileSync("analytics.html", "utf8");
-headerExtras+=`<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />`
+var headerExtras = `
+${fs.readFileSync("analytics.html", "utf8")}
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+`;
 
 
 /* 
@@ -116,11 +119,10 @@ let output = `
             <title>RobKohr's Blog</title>
 ${headerExtras}
             <link rel="stylesheet" href="neat.css">
-            <link rel="shortcut icon" type="image/ico" href="favicon.ico">
         </head>
         <body>
         <p></p>
-        
+        <img src="headshot.png" alt="Rob Kohr" style="max-width: 105px;float:left;margin:1em;border-radius:1em;" />
         <h1>RobKohr's Blog</h1>
         <p><i>
         My father says almost the whole world's asleep. Everybody you know, everybody you see, everybody you talk to. He says only a few people are awake. And they live in a state of constant total amazement.
@@ -165,7 +167,7 @@ articles.forEach(function (article) {
   const articleStartHtml = `
         <html>
             <head>
-                <title>RobKohr's Blog - ${article.title}</title>
+                <title>${article.title} - RobKohr's Blog</title>
 ${headerExtras}
                 <link rel="stylesheet" href="../neat.css">
                 <base href="../">
@@ -193,7 +195,7 @@ Object.keys(tagPages).forEach(function (tag) {
   let output = `
         <html>
             <head>
-                <title>RobKohr's Blog - ${tag}</title>
+                <title>${tag} - RobKohr's Blog</title>
 ${headerExtras}
                 <link rel="stylesheet" href="../neat.css">
                 <base href="../">
@@ -216,7 +218,7 @@ ${headerExtras}
 output = `
     <html>
         <head>
-            <title>RobKohr's Blog - Tags</title>
+            <title>Tags - RobKohr's Blog</title>
 ${headerExtras}
             <link rel="stylesheet" href="../neat.css">
             <base href="../">
@@ -225,7 +227,12 @@ ${headerExtras}
         <a href="./index.html">Home</a>
         <h2>Tags</h2>
 `;
-Object.keys(tagPages).forEach(function (tag) {
+
+const tagsSortedByArticleCountDesc = Object.keys(tagPages).sort(function (a, b) {
+  return tagPages[b].length - tagPages[a].length;
+});
+
+tagsSortedByArticleCountDesc.forEach(function (tag) {
   output += `<a href="tags/${tag}">${tag}</a> (${tagPages[tag].length})<br/>`;
 });
 output += `

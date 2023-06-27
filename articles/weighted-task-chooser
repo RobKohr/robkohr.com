@@ -1,7 +1,8 @@
 
         <html>
             <head>
-                <title>RobKohr's Blog - Weighted Task Chooser</title>
+                <title>Weighted Task Chooser - RobKohr's Blog</title>
+
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
 <script>
@@ -13,7 +14,10 @@
 
   gtag("config", "UA-600316-3");
 </script>
+
 <link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+
                 <link rel="stylesheet" href="../neat.css">
                 <base href="../">
             </head>
@@ -24,7 +28,7 @@
     <div id="date">@date=2020-04-09</div>
     <div id="tags">@tags=<a href="tags/projects">projects</a>, <a href="tags/launched">launched</a></div>
     <article>
-        <p><img src="2020-06-12-08-34-20.png" alt=""></p>
+        <p><img src="images/2020-06-12-08-34-20.png" alt="2020-06-12-08-34-20.png" style="max-width: 100%;" /></p>
 <p><a href="https://github.com/RobKohr/weighted-task-chooser">Weighted task chooser</a> is a command line node script that will select a randomly weighted task to do out of a tasklist markdown file.</p>
 <p>So you have a list of tasks to do in a markdown file:</p>
 <ul>
