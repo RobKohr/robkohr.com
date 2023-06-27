@@ -34,6 +34,9 @@
         <p>And just like that, I now understand so many more aws services
 <div><iframe width="560" height="315" src="https://www.youtube.com/embed/JIbIYCM48to" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 I like that you can tap into things like brackets to work with quantum computers.</p>
+<p>I still do think that AWS is like sticky fly paper to tech organizations. Yes, come use all of our fancy small services... oh, yes, you liked that, but now good luck every leaving. </p>
+<p>And it works great on nerds like me who like to fiddle with something quickly, then start building a project with this new tool, and then it becomes part of a larger thing.</p>
+<p>If you just get commodity VPS or dedicated servers, and spread them across different data centers and providers, you can achieve the same uptime, and with some open source packages you can achieve most of what those aws services provide for a fraction of the cost.</p>
 
     </article>
     

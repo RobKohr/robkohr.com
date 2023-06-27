@@ -31,7 +31,7 @@
     <div class="tags">@tags=<a href="tags/getting-things-done">getting-things-done</a>, <a href="tags/scrum">scrum</a></div>
     </div>
     <article>
-        <p>![[2021-08-15-11-30-33.png]</p>
+        <p><img src="images/2021-08-15-11-30-33.png" alt="2021-08-15-11-30-33.png" style="max-width: 100%;" /></p>
 <p>Having a family, side projects, main work, hobbies, etc can just be too much to keep track of, and also to allot time to. How often do you say &quot;I&#39;ll do X around the house&quot; and you just never get around to it.</p>
 <p>Recently I have fallen in love with Pivotal Tracker for work purposes in managing tasks, and have replaced my text based task tracking system with PT for my personal life. What is nice about PT is you don&#39;t decide what you can accomplish in a sprint, it tells you based upon the average of your velocity in previous sprints. You can resort the backlog to prioritize things, but the sprint end marker will still just envelope a certain number of points.</p>
 <p>Put too many things in your sprint, and you might not get to the things you wanna do, but you can easily see that happen before the week starts.</p>

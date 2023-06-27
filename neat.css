@@ -7,6 +7,10 @@ fonts/Courier_Prime fonts/Cutive fonts/Fira_Code fonts/IBM_Plex_Mono fonts/Kosug
     font-family: 'Courier Prime';
     src: url('fonts/Courier_Prime/CourierPrime-Regular.ttf') format('truetype');
 }
+article{
+b}
+
+/* 
 @font-face {
     font-family: 'Cutive';
     src: url('fonts/Cutive/Cutive-Regular.ttf') format('truetype');
@@ -26,33 +30,26 @@ fonts/Courier_Prime fonts/Cutive fonts/Fira_Code fonts/IBM_Plex_Mono fonts/Kosug
 @font-face {
     font-family: 'Source Code Pro';
     src: url('fonts/Source_Code_Pro/fonts/SourceCodePro-VariableFont_wght.ttf') format('truetype');
-}
+} */
 @font-face {
     font-family: 'Special Elite';
     src: url('fonts/Special_Elite/SpecialElite-Regular.ttf') format('truetype');
 }
-@font-face {
-    font-family: 'Syne Mono';
-    src: url('fonts/Syne_Mono/SyneMono-Regular.ttf') format('truetype');
-}
-@font-face {
-    font-family: 'VT323';
-    src: url('fonts/VT323/VT323-Regular.ttf') format('truetype');
-}
-
-/* create a variable for font family */
-:root {
-    --font-family: 'VT323';
-}
-
 
 h2{
     /* use font family variable */
     font-family:'Special Elite';
 }
-
-article{
-    /* font-family: var(--font-family); */
+/* @font-face {
+    font-family: 'Syne Mono';
+    src: url('fonts/Syne_Mono/SyneMono-Regular.ttf') format('truetype');
+} */
+@font-face {
+    font-family: 'VT323';
+    src: url('fonts/VT323/VT323-Regular.ttf') format('truetype');
+}
+.variables{
+    font-family:'VT323';
 }
 
 :root {
