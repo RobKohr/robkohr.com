@@ -225,7 +225,12 @@ ${headerExtras}
         <a href="./index.html">Home</a>
         <h2>Tags</h2>
 `;
-Object.keys(tagPages).forEach(function (tag) {
+
+const tagsSortedByArticleCountDesc = Object.keys(tagPages).sort(function (a, b) {
+  return tagPages[b].length - tagPages[a].length;
+});
+
+tagsSortedByArticleCountDesc.forEach(function (tag) {
   output += `<a href="tags/${tag}">${tag}</a> (${tagPages[tag].length})<br/>`;
 });
 output += `
