@@ -116,7 +116,7 @@ let output = `
             <title>RobKohr's Blog</title>
 ${headerExtras}
             <link rel="stylesheet" href="neat.css">
-            
+            <link rel="shortcut icon" type="image/ico" href="favicon.ico">
         </head>
         <body>
         <p></p>
