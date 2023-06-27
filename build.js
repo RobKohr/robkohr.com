@@ -243,6 +243,12 @@ output += `
 `;
 fs.writeFileSync(`tags/index.html`, output);
 
+/* create a date string, but set the time to midnight */
+const basicDate = function (date) {
+  return new Date(date.getFullYear(), date.getMonth(), date.getDate()).toUTCString();
+}
+
+
 /* create an rss feed of the last 50 articles */
 output = `
     <rss version="2.0">
@@ -251,8 +257,8 @@ output = `
             <link>https://robkohr.com</link>
             <description>RobKohr's Blog</description>
             <language>en-us</language>
-            <lastBuildDate>${new Date().toUTCString()}</lastBuildDate>
-            <pubDate>${new Date().toUTCString()}</pubDate>
+            <lastBuildDate>${basicDate}</lastBuildDate>
+            <pubDate>${basicDate}</pubDate>
             <ttl>1800</ttl>
 `;
 articles
