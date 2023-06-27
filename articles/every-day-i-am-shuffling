@@ -22,7 +22,7 @@
             
     <h2><a href="articles/every-day-i-am-shuffling">Every day I am shuffling</a></h2>
     <div id="date">@date=2023-06-20</div>
-    <div id="tags">@tags=<a href="tags/side-projects">side-projects</a>, <a href="tags/focus">focus</a></div>
+    <div id="tags">@tags=<a href="tags/side-projects">side-projects</a>, <a href="tags/focus">focus</a>, <a href="tags/motivation">motivation</a></div>
     <article>
         <p>Consistency is what I have been progressing more to. It helps to have lots of ideas and passion, but to do something big: build strength, learning a music instrument, run for office, build a side project, etc, requires doing something every day towards that goal in an endless way. I am actually doing all of those things right now, while raising kids and working full time.</p>
 <p>To achieve it all - each thing needs 20-60 minutes per day to care and feed a goal to reach maturity.</p>
