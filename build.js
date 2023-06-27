@@ -244,9 +244,8 @@ output += `
 fs.writeFileSync(`tags/index.html`, output);
 
 /* create a date string, but set the time to midnight */
-const basicDate = function (date) {
-  return new Date(date.getFullYear(), date.getMonth(), date.getDate()).toUTCString();
-}
+const date = new Date();
+const basicDate =  new Date(date.getFullYear(), date.getMonth(), date.getDate()).toUTCString();
 
 
 /* create an rss feed of the last 50 articles */

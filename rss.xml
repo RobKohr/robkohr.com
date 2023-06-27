@@ -5,12 +5,8 @@
             <link>https://robkohr.com</link>
             <description>RobKohr's Blog</description>
             <language>en-us</language>
-            <lastBuildDate>function (date) {
-  return new Date(date.getFullYear(), date.getMonth(), date.getDate()).toUTCString();
-}</lastBuildDate>
-            <pubDate>function (date) {
-  return new Date(date.getFullYear(), date.getMonth(), date.getDate()).toUTCString();
-}</pubDate>
+            <lastBuildDate>Tue, 27 Jun 2023 07:00:00 GMT</lastBuildDate>
+            <pubDate>Tue, 27 Jun 2023 07:00:00 GMT</pubDate>
             <ttl>1800</ttl>
 
             <item>
