@@ -36,7 +36,7 @@ b}
     src: url('fonts/Special_Elite/SpecialElite-Regular.ttf') format('truetype');
 }
 
-h2{
+h2, h1, h3{
     /* use font family variable */
     font-family:'Special Elite';
 }
