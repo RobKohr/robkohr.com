@@ -1,0 +1,38 @@
+
+        <html>
+            <head>
+                <title>RobKohr's Blog - Tenacity</title>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/tenacity">Tenacity</a></h2>
+    <div id="date">@date=2023-06-27</div>
+    <div id="tags">@tags=<a href="tags/motivation">motivation</a></div>
+    <article>
+        <p>Do the imperfect.</p>
+<p>Do that which is tedious in whatever way gets you through it.</p>
+<p>Though it may suck, both the doing and how well you do it, it is far better than to not do the thing you are looking to do.</p>
+<p>Everyone is always intimidated that the thing they want to do is populated by those who are producing such quality. Remember that everyone starts out at the bottom. (example: <a href="http://robkohr.com/articles/popular-youtubers---look-at-their-old-stuff">http://robkohr.com/articles/popular-youtubers---look-at-their-old-stuff</a>)</p>
+<p>But remember anything is better than zero, and being persistently bad is how you get to be good. </p>
+<p>To help, log, chart, keep records of how bad you are with whatever you are looking to achieve. What seems demotivating now will help remind you of how those minuscule daily improvements lead to greater things.</p>
+
+    </article>
+    
+            </body>
+          </html>
+          
