@@ -40,7 +40,7 @@ pull out pieces and drop them in, and you and others who have joined can start p
     <article>
         <p><a href="http://tentoncreations.com/a/Started-on-a-shareable-web-based-boardgame-system/">Last month</a> I made a doodle post of an idea for an instant online board game system.</p>
 <p>Well, progress is coming along fast:</p>
-<p><img src="2020-06-04-15-12-03.png" alt=""></p>
+<p><img src="images/2020-06-04-15-12-03.png" alt="2020-06-04-15-12-03.png" style="max-width: 100%;" /></p>
 <p>So far I have:</p>
 <ul>
 <li>a react site which directs <a href="https://instaboardgame.com/game/test">/game/test</a> to a test boardgame</li>
@@ -73,7 +73,7 @@ pull out pieces and drop them in, and you and others who have joined can start p
     <div id="date">@date=2020-06-04</div>
     <div id="tags">@tags=<a href="tags/nginx">nginx</a>, <a href="tags/nodejs">nodejs</a>, <a href="tags/web-development">web-development</a>, <a href="tags/instaboardgame">instaboardgame</a>, <a href="tags/websockets">websockets</a></div>
     <article>
-        <p><img src="2020-06-12-08-30-59.png" alt=""></p>
+        <p><img src="images/2020-06-12-08-30-59.png" alt="2020-06-12-08-30-59.png" style="max-width: 100%;" /></p>
 <p>Certbot is the tool from <a href="https://letsencrypt.org">letsencrypt.org</a> that lets you generate ssl certificates for your site without having to pay the likes of Verisign ever again. Basically I love the heck out of them for what they do.</p>
 <p>Nginx runs on your server to redirect examplesite.com to localhost:1234 if you happen to be running your node express server on that port.</p>
 <p>Now if you want to have a socket connection to your server to receive constant updates(for example if you are building an <a href="https://instaboardgame.com">online sandbox styled board game system</a>) you could use the npm module <code>ws</code> to create that websocket for your javascript code to connect to on some port, such as port 8080. This however will not be encrypted, and it will also be kinda ugly and not firewall friendly since it isn&#39;t running on a standard open port.</p>
@@ -137,9 +137,9 @@ server {
     <div id="date">@date=2020-05-07</div>
     <div id="tags">@tags=<a href="tags/shareable-board-game">shareable-board-game</a>, <a href="tags/software-ideas">software-ideas</a>, <a href="tags/instaboardgame">instaboardgame</a>, <a href="tags/boardgames">boardgames</a></div>
     <article>
-        <p><img src="2020-05-07-11-13-10.png" alt=""></p>
-<p><img src="2020-05-07-11-13-49.png" alt=""></p>
-<p><img src="2020-05-07-11-14-09.png" alt=""></p>
+        <p><img src="images/2020-05-07-11-13-10.png" alt="2020-05-07-11-13-10.png" style="max-width: 100%;" /></p>
+<p><img src="images/2020-05-07-11-13-49.png" alt="2020-05-07-11-13-49.png" style="max-width: 100%;" /></p>
+<p><img src="images/2020-05-07-11-14-09.png" alt="2020-05-07-11-14-09.png" style="max-width: 100%;" /></p>
 
     </article>
     

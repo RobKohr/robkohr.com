@@ -24,7 +24,7 @@
     <div id="date">@date=2020-10-07</div>
     <div id="tags">@tags=<a href="tags/doodles">doodles</a></div>
     <article>
-        <p><img src="2020-10-07-22-42-37.png" alt=""></p>
+        <p><img src="images/2020-10-07-22-42-37.png" alt="2020-10-07-22-42-37.png" style="max-width: 100%;" /></p>
 
     </article>
     

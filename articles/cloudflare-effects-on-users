@@ -25,10 +25,10 @@
     <div id="tags">@tags=<a href="tags/editthis.info">editthis.info</a>, <a href="tags/web-development">web-development</a></div>
     <article>
         <p>For the last few years I have been using cloudflare in front of editthis.info. On the 21st I dropped it, and saw an immediate decrease in average load times (from google analytics):</p>
-<p><img src="2020-09-22-15-12-53.png" alt=""></p>
+<p><img src="images/2020-09-22-15-12-53.png" alt="2020-09-22-15-12-53.png" style="max-width: 100%;" /></p>
 <p>This was without any changes to the system at all, and with about 800-900 active users per day.</p>
 <p>Also, as mentioned in my previous blog post, in cloudflare&#39;s dashboard, it reports a massive number of malicious attacks that they have thwarted.</p>
-<p><img src="2020-09-21-10-26-35.png" alt=""></p>
+<p><img src="images/2020-09-21-10-26-35.png" alt="2020-09-21-10-26-35.png" style="max-width: 100%;" /></p>
 <p>These are either inflated numbers, or more worrying actual users who couldn&#39;t get past their overly vigorous captcha screening process.</p>
 <p>I look forward to seeing how this effects user counts overall - some could be from the speed boast and some from lack of captchas. In either case, I won&#39;t be using cloudfront again. I am going to set up a simple nginx proxy in front of the website, and implement some caching there to help increase the speed even further.</p>
 

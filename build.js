@@ -120,7 +120,7 @@ ${headerExtras}
         </head>
         <body>
         <p></p>
-        
+        <img src="headshot.png" alt="Rob Kohr" style="max-width: 105px;float:left;margin:1em;border-radius:1em;" />
         <h1>RobKohr's Blog</h1>
         <p><i>
         My father says almost the whole world's asleep. Everybody you know, everybody you see, everybody you talk to. He says only a few people are awake. And they live in a state of constant total amazement.

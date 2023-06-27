@@ -25,7 +25,7 @@
     <div id="date">@date=2019-11-30</div>
     <div id="tags">@tags=<a href="tags/tools">tools</a></div>
     <article>
-        <p><img src="2020-06-12-08-44-16.png" alt=""></p>
+        <p><img src="images/2020-06-12-08-44-16.png" alt="2020-06-12-08-44-16.png" style="max-width: 100%;" /></p>
 <p><a href="https://nodered.org/">Node red</a> this is a very similar thing to yahoo pipes back in the day. It is a self hosted tool to pipe things into each other and do operations on them (best to watch the video there).</p>
 
     </article>

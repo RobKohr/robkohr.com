@@ -24,7 +24,7 @@
     <div id="date">@date=2020-05-07</div>
     <div id="tags">@tags=<a href="tags/food">food</a></div>
     <article>
-        <p><img src="2020-06-12-08-32-42.png" alt=""></p>
+        <p><img src="images/2020-06-12-08-32-42.png" alt="2020-06-12-08-32-42.png" style="max-width: 100%;" /></p>
 <ul>
 <li>Yogurt</li>
 <li>Kimchi</li>

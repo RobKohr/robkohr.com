@@ -25,9 +25,9 @@
     <div id="date">@date=2020-05-07</div>
     <div id="tags">@tags=<a href="tags/shareable-board-game">shareable-board-game</a>, <a href="tags/software-ideas">software-ideas</a>, <a href="tags/instaboardgame">instaboardgame</a>, <a href="tags/boardgames">boardgames</a></div>
     <article>
-        <p><img src="2020-05-07-11-13-10.png" alt=""></p>
-<p><img src="2020-05-07-11-13-49.png" alt=""></p>
-<p><img src="2020-05-07-11-14-09.png" alt=""></p>
+        <p><img src="images/2020-05-07-11-13-10.png" alt="2020-05-07-11-13-10.png" style="max-width: 100%;" /></p>
+<p><img src="images/2020-05-07-11-13-49.png" alt="2020-05-07-11-13-49.png" style="max-width: 100%;" /></p>
+<p><img src="images/2020-05-07-11-14-09.png" alt="2020-05-07-11-14-09.png" style="max-width: 100%;" /></p>
 
     </article>
     
@@ -35,7 +35,7 @@
     <div id="date">@date=2020-04-02</div>
     <div id="tags">@tags=<a href="tags/vr">vr</a>, <a href="tags/software-ideas">software-ideas</a></div>
     <article>
-        <p><img src="2020-04-02-11-03-44.png" alt=""></p>
+        <p><img src="images/2020-04-02-11-03-44.png" alt="2020-04-02-11-03-44.png" style="max-width: 100%;" /></p>
 
     </article>
     
@@ -43,7 +43,7 @@
     <div id="date">@date=2020-03-19</div>
     <div id="tags">@tags=<a href="tags/software-ideas">software-ideas</a></div>
     <article>
-        <p><img src="2020-06-12-08-37-23.png" alt=""></p>
+        <p><img src="images/2020-06-12-08-37-23.png" alt="2020-06-12-08-37-23.png" style="max-width: 100%;" /></p>
 <p>Using a long notebook file has made it easier to keep track of what I need to do each day. On any day I grab things from the backlog, and stick them under the header for today&#39;s date. Then I checkmark competed items. Incomplete items just move to the next day (or back to the backlog).</p>
 <p>Perhaps a react app for the phone would be ideal for this?</p>
 
