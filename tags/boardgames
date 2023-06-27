@@ -26,8 +26,10 @@
             <h2>Tag: boardgames</h2>
     
     <h2><a href="articles/standardizing-portable-board-games">Standardizing portable board games</a></h2>
-    <div id="date">@date=2021-04-23</div>
-    <div id="tags">@tags=<a href="tags/3d-printing">3d-printing</a>, <a href="tags/boardgames">boardgames</a></div>
+    <div class="variables">
+    <div class="date">@date=2021-04-23</div>
+    <div class="tags">@tags=<a href="tags/3d-printing">3d-printing</a>, <a href="tags/boardgames">boardgames</a></div>
+    </div>
     <article>
         <p>I have a bit of a thought that 3d printing boardgames would be great, particularly portable ones with
 nice cases.</p>
@@ -44,8 +46,10 @@ nice cases.</p>
     </article>
     
     <h2><a href="articles/1000-blank-white-cards-sounds-like-a-fun-game">1000 Blank White cards sounds like a fun game</a></h2>
-    <div id="date">@date=2020-05-20</div>
-    <div id="tags">@tags=<a href="tags/boardgames">boardgames</a></div>
+    <div class="variables">
+    <div class="date">@date=2020-05-20</div>
+    <div class="tags">@tags=<a href="tags/boardgames">boardgames</a></div>
+    </div>
     <article>
         <p><img src="https://cf.geekdo-images.com/itemrep/img/4qsEyUFfqBt4GtsJGGq0WD7YeCs=/fit-in/246x300/pic606721.jpg" alt="">
 I was reading this BGG page:</p>
@@ -76,8 +80,10 @@ I was reading this BGG page:</p>
     </article>
     
     <h2><a href="articles/started-on-a-shareable-web-based-boardgame-system">Started on a shareable web based boardgame system</a></h2>
-    <div id="date">@date=2020-05-07</div>
-    <div id="tags">@tags=<a href="tags/shareable-board-game">shareable-board-game</a>, <a href="tags/software-ideas">software-ideas</a>, <a href="tags/instaboardgame">instaboardgame</a>, <a href="tags/boardgames">boardgames</a></div>
+    <div class="variables">
+    <div class="date">@date=2020-05-07</div>
+    <div class="tags">@tags=<a href="tags/shareable-board-game">shareable-board-game</a>, <a href="tags/software-ideas">software-ideas</a>, <a href="tags/instaboardgame">instaboardgame</a>, <a href="tags/boardgames">boardgames</a></div>
+    </div>
     <article>
         <p><img src="images/2020-05-07-11-13-10.png" alt="2020-05-07-11-13-10.png" style="max-width: 100%;" /></p>
 <p><img src="images/2020-05-07-11-13-49.png" alt="2020-05-07-11-13-49.png" style="max-width: 100%;" /></p>

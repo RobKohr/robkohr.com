@@ -26,8 +26,10 @@
             <h2>Tag: playhouse</h2>
     
     <h2><a href="articles/submarine-playhouse">submarine playhouse</a></h2>
-    <div id="date">@date=2019-04-24</div>
-    <div id="tags">@tags=<a href="tags/concept-art">concept-art</a>, <a href="tags/playhouse">playhouse</a></div>
+    <div class="variables">
+    <div class="date">@date=2019-04-24</div>
+    <div class="tags">@tags=<a href="tags/concept-art">concept-art</a>, <a href="tags/playhouse">playhouse</a></div>
+    </div>
     <article>
         <p><img src="2019-04-24%20submarine%20playhouse.jpg" alt="Submarine playhouse"></p>
 

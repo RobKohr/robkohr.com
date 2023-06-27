@@ -26,8 +26,10 @@
             <h2>Tag: fitness</h2>
     
     <h2><a href="articles/how-you-move-a-mountain--one-stone-at-a-time">How you move a mountain, one stone at a time</a></h2>
-    <div id="date">@date=2023-06-16</div>
-    <div id="tags">@tags=<a href="tags/workout">workout</a>, <a href="tags/exercise">exercise</a>, <a href="tags/fitness">fitness</a>, <a href="tags/motivation">motivation</a></div>
+    <div class="variables">
+    <div class="date">@date=2023-06-16</div>
+    <div class="tags">@tags=<a href="tags/workout">workout</a>, <a href="tags/exercise">exercise</a>, <a href="tags/fitness">fitness</a>, <a href="tags/motivation">motivation</a></div>
+    </div>
     <article>
         <p>I have been working out using a google spreadsheet to track workouts. I aim to do a 20 rep max each week for each exercise that is slightly above the previous week. So far, it has lead to a nice continuous improvement... assuming I don&#39;t ever skip weeks. Each time I skip more than 2 weeks it pushes me back a little bit. More when I skip a month.</p>
 <p>Using Wathen&#39;s formula from <a href="https://en.wikipedia.org/wiki/One-repetition_maximum">https://en.wikipedia.org/wiki/One-repetition_maximum</a> for 1RM, I can calculate my 1RM from my 20RM, and I also use it to calculate my 10 rep max. After experimenting with it, I found it to be a really accurate formula as I tested it going down to 3 reps. </p>

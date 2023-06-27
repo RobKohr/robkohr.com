@@ -25,8 +25,10 @@
             <a href="./index.html">Home</a>
             
     <h2><a href="articles/other-writing">Other Writing</a></h2>
-    <div id="date"></div>
-    <div id="tags"></div>
+    <div class="variables">
+    <div class="date"></div>
+    <div class="tags"></div>
+    </div>
     <article>
         <p><a href="http://discretethought.tumblr.com/">Tumbler</a></p>
 <p><a href="http://twitter.com/rkohr">Twitter</a></p>

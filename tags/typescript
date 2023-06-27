@@ -26,8 +26,10 @@
             <h2>Tag: typescript</h2>
     
     <h2><a href="articles/on-typescript">On typescript</a></h2>
-    <div id="date">@date=2021-08-15</div>
-    <div id="tags">@tags=<a href="tags/typescript">typescript</a>, <a href="tags/webdev">webdev</a></div>
+    <div class="variables">
+    <div class="date">@date=2021-08-15</div>
+    <div class="tags">@tags=<a href="tags/typescript">typescript</a>, <a href="tags/webdev">webdev</a></div>
+    </div>
     <article>
         <p><img src="images/2021-08-15-11-32-29.png" alt="2021-08-15-11-32-29.png" style="max-width: 100%;" /></p>
 <p>After working with typescript a lot on work projects, I typically skip it on personal projects as it just seems tedious at times.</p>

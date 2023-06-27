@@ -148,8 +148,10 @@ function addArticleToOutput(article, output) {
     output +
     `
     <h2><a href="articles/${kabab}">${article.title}</a></h2>
-    <div id="date">${article.variables.date ? `@date=${article.variables.date}`: ''}</div>
-    <div id="tags">${tags ? `@tags=${tags}` : ""}</div>
+    <div class="variables">
+    <div class="date">${article.variables.date ? `@date=${article.variables.date}`: ''}</div>
+    <div class="tags">${tags ? `@tags=${tags}` : ""}</div>
+    </div>
     <article>
         ${article.html}
     </article>

@@ -26,8 +26,10 @@
             <h2>Tag: youtube</h2>
     
     <h2><a href="articles/popular-youtubers---look-at-their-old-stuff">Popular YouTubers - look at their old stuff</a></h2>
-    <div id="date">@date=2023-06-22</div>
-    <div id="tags">@tags=<a href="tags/youtube">youtube</a>, <a href="tags/motivation">motivation</a></div>
+    <div class="variables">
+    <div class="date">@date=2023-06-22</div>
+    <div class="tags">@tags=<a href="tags/youtube">youtube</a>, <a href="tags/motivation">motivation</a></div>
+    </div>
     <article>
         <p>I kinda love going to a popular youtuber&#39;s channel, going to their videos section, and sorting by oldest. </p>
 <p>What is now a polished producer of content that makes you feel intimidated to even attempt to make videos was once someone with a crappy camera, shooting in their back yard with a bad audio setup. </p>

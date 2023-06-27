@@ -26,8 +26,10 @@
             <h2>Tag: quotes</h2>
     
     <h2><a href="articles/some-quotes-from-the-art-of-manliness-blog">Some quotes from the Art of Manliness blog</a></h2>
-    <div id="date">@date=2020-05-07</div>
-    <div id="tags">@tags=<a href="tags/quotes">quotes</a></div>
+    <div class="variables">
+    <div class="date">@date=2020-05-07</div>
+    <div class="tags">@tags=<a href="tags/quotes">quotes</a></div>
+    </div>
     <article>
         <p>Make hay while the sun shines.</p>
 <ul>

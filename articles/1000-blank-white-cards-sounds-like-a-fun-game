@@ -25,8 +25,10 @@
             <a href="./index.html">Home</a>
             
     <h2><a href="articles/1000-blank-white-cards-sounds-like-a-fun-game">1000 Blank White cards sounds like a fun game</a></h2>
-    <div id="date">@date=2020-05-20</div>
-    <div id="tags">@tags=<a href="tags/boardgames">boardgames</a></div>
+    <div class="variables">
+    <div class="date">@date=2020-05-20</div>
+    <div class="tags">@tags=<a href="tags/boardgames">boardgames</a></div>
+    </div>
     <article>
         <p><img src="https://cf.geekdo-images.com/itemrep/img/4qsEyUFfqBt4GtsJGGq0WD7YeCs=/fit-in/246x300/pic606721.jpg" alt="">
 I was reading this BGG page:</p>

@@ -26,8 +26,10 @@
             <h2>Tag: graphic-design</h2>
     
     <h2><a href="articles/web-based-free-replacement-for-photoshop">Web based free replacement for photoshop</a></h2>
-    <div id="date">@date=2021-05-25</div>
-    <div id="tags">@tags=<a href="tags/graphic-design">graphic-design</a>, <a href="tags/art">art</a></div>
+    <div class="variables">
+    <div class="date">@date=2021-05-25</div>
+    <div class="tags">@tags=<a href="tags/graphic-design">graphic-design</a>, <a href="tags/art">art</a></div>
+    </div>
     <article>
         <p><a href="https://pixlr.com/x/">Pixlr photo editor</a> really fulfills what I am looking for in a photoshop replacement without spending big bucks on what is basically 31 year old technology.</p>
 <p>As someone who way the hell back in the late 90s liked to do silly things with mashing up different photos and doing basic things with the magic wand tool, layers, and doodling, pixlr gives me what I need. Yep, I am far from a graphic designer, and my needs are probably basic compared to professionals in the field, but as far a graphic editing ability compared to fellow programmers, I am pretty good, and I don&#39;t run up to any limitations in doing what I need with what it provides.</p>

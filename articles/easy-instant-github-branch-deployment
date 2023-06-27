@@ -25,8 +25,10 @@
             <a href="./index.html">Home</a>
             
     <h2><a href="articles/easy-instant-github-branch-deployment">Easy instant github branch deployment</a></h2>
-    <div id="date">@date=2021-04-23</div>
-    <div id="tags">@tags=<a href="tags/servers">servers</a>, <a href="tags/web-dev">web-dev</a>, <a href="tags/react">react</a></div>
+    <div class="variables">
+    <div class="date">@date=2021-04-23</div>
+    <div class="tags">@tags=<a href="tags/servers">servers</a>, <a href="tags/web-dev">web-dev</a>, <a href="tags/react">react</a></div>
+    </div>
     <article>
         <p>Want to have your server update itself whenever you deploy to a github branch? Piece of cake:</p>
 <p><a href="https://github.com/RobKohr/github-hook-handler">https://github.com/RobKohr/github-hook-handler</a></p>

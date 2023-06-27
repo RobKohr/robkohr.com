@@ -26,8 +26,10 @@
             <h2>Tag: adhd</h2>
     
     <h2><a href="articles/one-codebase-to-rule-them-all">One codebase to rule them all</a></h2>
-    <div id="date">@date=2021-05-25</div>
-    <div id="tags">@tags=<a href="tags/web-dev">web-dev</a>, <a href="tags/react">react</a>, <a href="tags/seo">seo</a>, <a href="tags/adhd">adhd</a></div>
+    <div class="variables">
+    <div class="date">@date=2021-05-25</div>
+    <div class="tags">@tags=<a href="tags/web-dev">web-dev</a>, <a href="tags/react">react</a>, <a href="tags/seo">seo</a>, <a href="tags/adhd">adhd</a></div>
+    </div>
     <article>
         <p>A little over a decade ago, I went on a binge and made a bunch of web apps of various sorts:</p>
 <ul>

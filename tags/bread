@@ -26,8 +26,10 @@
             <h2>Tag: bread</h2>
     
     <h2><a href="articles/attempt-2-at-making-sourdough-starter">attempt 2 at making sourdough starter</a></h2>
-    <div id="date">@date=2023-06-13</div>
-    <div id="tags">@tags=<a href="tags/bread">bread</a></div>
+    <div class="variables">
+    <div class="date">@date=2023-06-13</div>
+    <div class="tags">@tags=<a href="tags/bread">bread</a></div>
+    </div>
     <article>
         <p>First one dried out from a day of neglect.</p>
 <p>I am attempting to do this to make bread at home to help with Ella&#39;s gluten intolerance. Apparently even rustic breads from the grocery store are very high in gluten from the sped up process of bread making that helps keep it fluffy and more shelf stable.</p>

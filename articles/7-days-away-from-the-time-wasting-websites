@@ -25,8 +25,10 @@
             <a href="./index.html">Home</a>
             
     <h2><a href="articles/7-days-away-from-the-time-wasting-websites">7 days away from the time wasting websites</a></h2>
-    <div id="date">@date=2020-10-07</div>
-    <div id="tags">@tags=<a href="tags/productivity">productivity</a></div>
+    <div class="variables">
+    <div class="date">@date=2020-10-07</div>
+    <div class="tags">@tags=<a href="tags/productivity">productivity</a></div>
+    </div>
     <article>
         <p>I have a problem with time wasting websites such as youtube, facebook, twitter, etc. I start going down rabbit holes that suck away my work day.</p>
 <p>As such, I am putting all social media sites on a 7 day time out. I have added them all to my /etc/hosts file so that visiting them just goes to an error.</p>

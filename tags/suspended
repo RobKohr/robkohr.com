@@ -26,8 +26,10 @@
             <h2>Tag: suspended</h2>
     
     <h2><a href="articles/constantsail-pirates-and-traders">ConstantSail Pirates and Traders</a></h2>
-    <div id="date">@date=2008-12-06</div>
-    <div id="tags">@tags=<a href="tags/projects">projects</a>, <a href="tags/suspended">suspended</a></div>
+    <div class="variables">
+    <div class="date">@date=2008-12-06</div>
+    <div class="tags">@tags=<a href="tags/projects">projects</a>, <a href="tags/suspended">suspended</a></div>
+    </div>
     <article>
         <p><a href="https://constantsail.com">Constant Sail</a> is a pirate and sailing massive multiplayer game that is in development</p>
 <p><img src="constantsail.png" alt="Constant Sail"></p>
@@ -35,8 +37,10 @@
     </article>
     
     <h2><a href="articles/island-warfare">Island Warfare</a></h2>
-    <div id="date">@date=2008-08-30</div>
-    <div id="tags">@tags=<a href="tags/projects">projects</a>, <a href="tags/suspended">suspended</a></div>
+    <div class="variables">
+    <div class="date">@date=2008-08-30</div>
+    <div class="tags">@tags=<a href="tags/projects">projects</a>, <a href="tags/suspended">suspended</a></div>
+    </div>
     <article>
         <p><a href="http://islandwarfare.com">Island Warfare</a> will be a game where you build up your islands and the armies on your island to go take over other user&#39;s islands</p>
 

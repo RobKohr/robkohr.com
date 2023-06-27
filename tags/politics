@@ -26,8 +26,10 @@
             <h2>Tag: politics</h2>
     
     <h2><a href="articles/inserting-political-messaging-into-education">Inserting political messaging into education</a></h2>
-    <div id="date">@date=2022-08-22</div>
-    <div id="tags">@tags=<a href="tags/politics">politics</a></div>
+    <div class="variables">
+    <div class="date">@date=2022-08-22</div>
+    <div class="tags">@tags=<a href="tags/politics">politics</a></div>
+    </div>
     <article>
         <p><img src="images/10 Other books to ban immediately.png" alt="10 Other books to ban immediately.png" style="max-width: 100%;" /></p>
 <p>The actual samples of things the press actually show from the rejection list are things like math textbooks using &quot;What me, racist?&quot; and then having the student use racial bias data that is questionable to solve a problem. This is subtly pushing the racial focused narrative, and they are finding it in a huge number of textbooks, which clearly is a way of pushing a message into kids with a million little cuts.</p>
@@ -38,8 +40,10 @@
     </article>
     
     <h2><a href="articles/the-uneasy-peace-of-nuclear-weapons-">The uneasy peace of nuclear weapons.</a></h2>
-    <div id="date">@date=2020-10-13</div>
-    <div id="tags">@tags=<a href="tags/war">war</a>, <a href="tags/politics">politics</a></div>
+    <div class="variables">
+    <div class="date">@date=2020-10-13</div>
+    <div class="tags">@tags=<a href="tags/war">war</a>, <a href="tags/politics">politics</a></div>
+    </div>
     <article>
         <p>Just some thoughts I had after watching this video:</p>
 <p>Simulation of a Nuclear Blast in a Major City</p>

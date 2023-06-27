@@ -26,8 +26,10 @@
             <h2>Tag: instaboardgame</h2>
     
     <h2><a href="articles/instaboardgame-com---play-board-games-instantly-with-friends">Instaboardgame.com - play board games instantly with friends</a></h2>
-    <div id="date">@date=2020-09-03</div>
-    <div id="tags">@tags=<a href="tags/instaboardgame">instaboardgame</a>, <a href="tags/in-progress-projects">in-progress-projects</a></div>
+    <div class="variables">
+    <div class="date">@date=2020-09-03</div>
+    <div class="tags">@tags=<a href="tags/instaboardgame">instaboardgame</a>, <a href="tags/in-progress-projects">in-progress-projects</a></div>
+    </div>
     <article>
         <p><a href="http://instaboardgame.com">Instaboardgame</a> will be a place for people to instantly play and create boardgames with their friends wherever they may be.</p>
 <p>Think of it like a big box of board game pieces that you can pull out and start playing with.</p>
@@ -39,8 +41,10 @@ pull out pieces and drop them in, and you and others who have joined can start p
     </article>
     
     <h2><a href="articles/shareable-web-based-boardgame-update">Shareable web based boardgame update</a></h2>
-    <div id="date">@date=2020-06-04</div>
-    <div id="tags">@tags=<a href="tags/instaboardgame">instaboardgame</a>, <a href="tags/in-progress-projects">in-progress-projects</a></div>
+    <div class="variables">
+    <div class="date">@date=2020-06-04</div>
+    <div class="tags">@tags=<a href="tags/instaboardgame">instaboardgame</a>, <a href="tags/in-progress-projects">in-progress-projects</a></div>
+    </div>
     <article>
         <p><a href="http://tentoncreations.com/a/Started-on-a-shareable-web-based-boardgame-system/">Last month</a> I made a doodle post of an idea for an instant online board game system.</p>
 <p>Well, progress is coming along fast:</p>
@@ -74,8 +78,10 @@ pull out pieces and drop them in, and you and others who have joined can start p
     </article>
     
     <h2><a href="articles/setup-ssl-websockets-from-node-using-nginx-and-certbot">Setup ssl websockets from node using nginx and certbot</a></h2>
-    <div id="date">@date=2020-06-04</div>
-    <div id="tags">@tags=<a href="tags/nginx">nginx</a>, <a href="tags/nodejs">nodejs</a>, <a href="tags/web-development">web-development</a>, <a href="tags/instaboardgame">instaboardgame</a>, <a href="tags/websockets">websockets</a></div>
+    <div class="variables">
+    <div class="date">@date=2020-06-04</div>
+    <div class="tags">@tags=<a href="tags/nginx">nginx</a>, <a href="tags/nodejs">nodejs</a>, <a href="tags/web-development">web-development</a>, <a href="tags/instaboardgame">instaboardgame</a>, <a href="tags/websockets">websockets</a></div>
+    </div>
     <article>
         <p><img src="images/2020-06-12-08-30-59.png" alt="2020-06-12-08-30-59.png" style="max-width: 100%;" /></p>
 <p>Certbot is the tool from <a href="https://letsencrypt.org">letsencrypt.org</a> that lets you generate ssl certificates for your site without having to pay the likes of Verisign ever again. Basically I love the heck out of them for what they do.</p>
@@ -138,8 +144,10 @@ server {
     </article>
     
     <h2><a href="articles/started-on-a-shareable-web-based-boardgame-system">Started on a shareable web based boardgame system</a></h2>
-    <div id="date">@date=2020-05-07</div>
-    <div id="tags">@tags=<a href="tags/shareable-board-game">shareable-board-game</a>, <a href="tags/software-ideas">software-ideas</a>, <a href="tags/instaboardgame">instaboardgame</a>, <a href="tags/boardgames">boardgames</a></div>
+    <div class="variables">
+    <div class="date">@date=2020-05-07</div>
+    <div class="tags">@tags=<a href="tags/shareable-board-game">shareable-board-game</a>, <a href="tags/software-ideas">software-ideas</a>, <a href="tags/instaboardgame">instaboardgame</a>, <a href="tags/boardgames">boardgames</a></div>
+    </div>
     <article>
         <p><img src="images/2020-05-07-11-13-10.png" alt="2020-05-07-11-13-10.png" style="max-width: 100%;" /></p>
 <p><img src="images/2020-05-07-11-13-49.png" alt="2020-05-07-11-13-49.png" style="max-width: 100%;" /></p>

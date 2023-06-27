@@ -25,8 +25,10 @@
             <a href="./index.html">Home</a>
             
     <h2><a href="articles/bringing-things-under-one-roof">Bringing things under one roof</a></h2>
-    <div id="date">@date=2020-10-20</div>
-    <div id="tags">@tags=<a href="tags/webdev">webdev</a>, <a href="tags/seo">seo</a></div>
+    <div class="variables">
+    <div class="date">@date=2020-10-20</div>
+    <div class="tags">@tags=<a href="tags/webdev">webdev</a>, <a href="tags/seo">seo</a></div>
+    </div>
     <article>
         <p>This is a great article about using subdomains vs subfolders for seo:</p>
 <p><a href="https://www.seoquake.com/blog/subdomains-vs-subfolders/">subdomains vs subfolders</a></p>

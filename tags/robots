@@ -26,8 +26,10 @@
             <h2>Tag: robots</h2>
     
     <h2><a href="articles/boston-dynamics-dancing-robots">Boston dynamics dancing robots</a></h2>
-    <div id="date">@date=2021-07-19</div>
-    <div id="tags">@tags=<a href="tags/robots">robots</a></div>
+    <div class="variables">
+    <div class="date">@date=2021-07-19</div>
+    <div class="tags">@tags=<a href="tags/robots">robots</a></div>
+    </div>
     <article>
         <p><div><iframe width="560" height="315" src="https://www.youtube.com/embed/03QJJBN2hGI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></p>
 <p>I wonder how long it took to create this script and how much it was don&#39;t virtually without the machine, and how much of it was done directly with the machine.</p>

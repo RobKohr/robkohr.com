@@ -26,16 +26,20 @@
             <h2>Tag: angular</h2>
     
     <h2><a href="articles/angular-multi-level-componets">Angular multi-level componets</a></h2>
-    <div id="date">@date=2023-07-24</div>
-    <div id="tags">@tags=<a href="tags/coding">coding</a>, <a href="tags/angular">angular</a>, <a href="tags/wfs">wfs</a></div>
+    <div class="variables">
+    <div class="date">@date=2023-07-24</div>
+    <div class="tags">@tags=<a href="tags/coding">coding</a>, <a href="tags/angular">angular</a>, <a href="tags/wfs">wfs</a></div>
+    </div>
     <article>
         <p>For WFS I am working on the services page and the services need to be sortable in the settings, and then show the forms in the sorted order when making a new service request. Right now the order is hard coded, and each component has its own property set. I am going to create a wrapper for the components that will take all of the properties they need, and then pass them down to the component. The display order for the services can then load all of them in.</p>
 
     </article>
     
     <h2><a href="articles/angular-is-just-easier-to-make-most-web-applications-in-than-react">Angular is just easier to make most web applications in than React</a></h2>
-    <div id="date">@date=2019-11-25</div>
-    <div id="tags">@tags=<a href="tags/angular">angular</a>, <a href="tags/react">react</a></div>
+    <div class="variables">
+    <div class="date">@date=2019-11-25</div>
+    <div class="tags">@tags=<a href="tags/angular">angular</a>, <a href="tags/react">react</a></div>
+    </div>
     <article>
         <p>UPDATE: My feelings about this have changed quite a bit, a follow up article is to come. The summary is that React has gotten so much easier with React hooks that my recommendations here have changed.</p>
 <h3>A little background</h3>
@@ -60,8 +64,10 @@
     </article>
     
     <h2><a href="articles/godot-asset-store">Godot Asset Store</a></h2>
-    <div id="date">@date=2019-11-19</div>
-    <div id="tags">@tags=<a href="tags/godot">godot</a>, <a href="tags/godot-asset-store">godot-asset-store</a>, <a href="tags/projects">projects</a>, <a href="tags/in-progress">in-progress</a>, <a href="tags/angular">angular</a>, <a href="tags/nodejs">nodejs</a></div>
+    <div class="variables">
+    <div class="date">@date=2019-11-19</div>
+    <div class="tags">@tags=<a href="tags/godot">godot</a>, <a href="tags/godot-asset-store">godot-asset-store</a>, <a href="tags/projects">projects</a>, <a href="tags/in-progress">in-progress</a>, <a href="tags/angular">angular</a>, <a href="tags/nodejs">nodejs</a></div>
+    </div>
     <article>
         <p>I started developing the <a href="https://godotassetstore.org">Godot Asset Store</a> a few weeks ago. It is built with Angular and node.js as the backend api with nginx as the frontend.</p>
 <p>I am getting to the tricky parts now:</p>

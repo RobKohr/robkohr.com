@@ -25,8 +25,10 @@
             <a href="./index.html">Home</a>
             
     <h2><a href="articles/instaboardgame-com---play-board-games-instantly-with-friends">Instaboardgame.com - play board games instantly with friends</a></h2>
-    <div id="date">@date=2020-09-03</div>
-    <div id="tags">@tags=<a href="tags/instaboardgame">instaboardgame</a>, <a href="tags/in-progress-projects">in-progress-projects</a></div>
+    <div class="variables">
+    <div class="date">@date=2020-09-03</div>
+    <div class="tags">@tags=<a href="tags/instaboardgame">instaboardgame</a>, <a href="tags/in-progress-projects">in-progress-projects</a></div>
+    </div>
     <article>
         <p><a href="http://instaboardgame.com">Instaboardgame</a> will be a place for people to instantly play and create boardgames with their friends wherever they may be.</p>
 <p>Think of it like a big box of board game pieces that you can pull out and start playing with.</p>

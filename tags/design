@@ -26,8 +26,10 @@
             <h2>Tag: design</h2>
     
     <h2><a href="articles/thoughts-on-using-grommet-for-web-app-design">Thoughts on using grommet for web app design</a></h2>
-    <div id="date">@date=2020-10-08</div>
-    <div id="tags">@tags=<a href="tags/web-dev">web-dev</a>, <a href="tags/design">design</a>, <a href="tags/react">react</a></div>
+    <div class="variables">
+    <div class="date">@date=2020-10-08</div>
+    <div class="tags">@tags=<a href="tags/web-dev">web-dev</a>, <a href="tags/design">design</a>, <a href="tags/react">react</a></div>
+    </div>
     <article>
         <p>I used <a href="https://icons.grommet.io/">Grommet</a> for a react project, and here are some of my thoughts on it.</p>
 <p>Things I like</p>

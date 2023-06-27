@@ -26,8 +26,10 @@
             <h2>Tag: languages</h2>
     
     <h2><a href="articles/godot-languages">Godot languages</a></h2>
-    <div id="date">@date=2019-11-21</div>
-    <div id="tags">@tags=<a href="tags/languages">languages</a>, <a href="tags/localization">localization</a>, <a href="tags/godot-asset-store">godot-asset-store</a></div>
+    <div class="variables">
+    <div class="date">@date=2019-11-21</div>
+    <div class="tags">@tags=<a href="tags/languages">languages</a>, <a href="tags/localization">localization</a>, <a href="tags/godot-asset-store">godot-asset-store</a></div>
+    </div>
     <article>
         <p>Looking at much of the traffic on the asset store, and non-USA visitors seem to be a big part of it (China, Russia, etc).</p>
 <p>To satisfy this market (and target them for SEO), I will do something relating to using the google translate api to translate the various assets and text in the site. Urls will be something like

@@ -26,8 +26,10 @@
             <h2>Tag: blog</h2>
     
     <h2><a href="articles/created-a-new-blog-render">Created a new blog render</a></h2>
-    <div id="date">@date=2023-06-26</div>
-    <div id="tags">@tags=<a href="tags/coding">coding</a>, <a href="tags/blog">blog</a>, <a href="tags/obsidian">obsidian</a></div>
+    <div class="variables">
+    <div class="date">@date=2023-06-26</div>
+    <div class="tags">@tags=<a href="tags/coding">coding</a>, <a href="tags/blog">blog</a>, <a href="tags/obsidian">obsidian</a></div>
+    </div>
     <article>
         <p>I wiped out RobKohr.com as I haven&#39;t touched it in over 5 years, and replaced it with this blog. </p>
 <p>It was built just using one long markdown file called blog.md that I edit in obsidian and each article is separated by ## Blog titles, and under that I use @date and @tags to specify those two values. Keeping with a brutalist design aesthetic, I render out those tags as well as the ## at the beginning of the headers. </p>
@@ -38,8 +40,10 @@
     </article>
     
     <h2><a href="articles/a-blog-generator">A blog generator</a></h2>
-    <div id="date">@date=2019-11-20</div>
-    <div id="tags">@tags=<a href="tags/blog">blog</a>, <a href="tags/projects">projects</a>, <a href="tags/announcements">announcements</a>, <a href="tags/github">github</a>, <a href="tags/open-source">open-source</a></div>
+    <div class="variables">
+    <div class="date">@date=2019-11-20</div>
+    <div class="tags">@tags=<a href="tags/blog">blog</a>, <a href="tags/projects">projects</a>, <a href="tags/announcements">announcements</a>, <a href="tags/github">github</a>, <a href="tags/open-source">open-source</a></div>
+    </div>
     <article>
         <p>And just like that, now we have a dead simple blog generator tool:</p>
 <p><a href="https://github.com/RobKohr/dead-simple-markdown-to-static-blog-creator">Github / dead-simple-markdown-to-static-blog-creator</a></p>
@@ -48,8 +52,10 @@
     </article>
     
     <h2><a href="articles/a-very-very-simple-blog">A very very simple blog</a></h2>
-    <div id="date">@date=2019-11-20</div>
-    <div id="tags">@tags=<a href="tags/blog">blog</a></div>
+    <div class="variables">
+    <div class="date">@date=2019-11-20</div>
+    <div class="tags">@tags=<a href="tags/blog">blog</a></div>
+    </div>
     <article>
         <p>This blog was created with a simple markdown file and a directory of images. Trying to come up with a good way to host it will be interesting</p>
 <p>I should come up with a new username on twitter and domain name to match it.</p>

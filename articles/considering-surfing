@@ -25,8 +25,10 @@
             <a href="./index.html">Home</a>
             
     <h2><a href="articles/considering-surfing">Considering surfing</a></h2>
-    <div id="date">@date=2021-01-03</div>
-    <div id="tags">@tags=<a href="tags/fun">fun</a></div>
+    <div class="variables">
+    <div class="date">@date=2021-01-03</div>
+    <div class="tags">@tags=<a href="tags/fun">fun</a></div>
+    </div>
     <article>
         <p>I am thinking it would be fun to go surfing at the oregon and washington coast this summer.</p>
 

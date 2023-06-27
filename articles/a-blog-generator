@@ -25,8 +25,10 @@
             <a href="./index.html">Home</a>
             
     <h2><a href="articles/a-blog-generator">A blog generator</a></h2>
-    <div id="date">@date=2019-11-20</div>
-    <div id="tags">@tags=<a href="tags/blog">blog</a>, <a href="tags/projects">projects</a>, <a href="tags/announcements">announcements</a>, <a href="tags/github">github</a>, <a href="tags/open-source">open-source</a></div>
+    <div class="variables">
+    <div class="date">@date=2019-11-20</div>
+    <div class="tags">@tags=<a href="tags/blog">blog</a>, <a href="tags/projects">projects</a>, <a href="tags/announcements">announcements</a>, <a href="tags/github">github</a>, <a href="tags/open-source">open-source</a></div>
+    </div>
     <article>
         <p>And just like that, now we have a dead simple blog generator tool:</p>
 <p><a href="https://github.com/RobKohr/dead-simple-markdown-to-static-blog-creator">Github / dead-simple-markdown-to-static-blog-creator</a></p>

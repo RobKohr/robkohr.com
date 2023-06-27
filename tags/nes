@@ -26,8 +26,10 @@
             <h2>Tag: nes</h2>
     
     <h2><a href="articles/super-pitfall-30th-anniversary-edition">Super Pitfall 30th Anniversary Edition</a></h2>
-    <div id="date">@date=2019-11-26</div>
-    <div id="tags">@tags=<a href="tags/nes">nes</a>, <a href="tags/other-peoples-projects">other-peoples-projects</a></div>
+    <div class="variables">
+    <div class="date">@date=2019-11-26</div>
+    <div class="tags">@tags=<a href="tags/nes">nes</a>, <a href="tags/other-peoples-projects">other-peoples-projects</a></div>
+    </div>
     <article>
         <p><a href="https://nesrocks.com/blog/">NesRocks</a> made this very cool <a href="https://nesrocks.com/blog/superpitfall30th/">refreshed version of Super Pitfall</a> that is a rom hack that updates graphics and music. He really does a great job in keeping true to the original designs.</p>
 <p><img src="https://nesrocks.com/blog/wp-content/uploads/photo-gallery/game2.png" alt="super pitfall"></p>

@@ -26,8 +26,10 @@
             <h2>Tag: coding</h2>
     
     <h2><a href="articles/created-a-new-blog-render">Created a new blog render</a></h2>
-    <div id="date">@date=2023-06-26</div>
-    <div id="tags">@tags=<a href="tags/coding">coding</a>, <a href="tags/blog">blog</a>, <a href="tags/obsidian">obsidian</a></div>
+    <div class="variables">
+    <div class="date">@date=2023-06-26</div>
+    <div class="tags">@tags=<a href="tags/coding">coding</a>, <a href="tags/blog">blog</a>, <a href="tags/obsidian">obsidian</a></div>
+    </div>
     <article>
         <p>I wiped out RobKohr.com as I haven&#39;t touched it in over 5 years, and replaced it with this blog. </p>
 <p>It was built just using one long markdown file called blog.md that I edit in obsidian and each article is separated by ## Blog titles, and under that I use @date and @tags to specify those two values. Keeping with a brutalist design aesthetic, I render out those tags as well as the ## at the beginning of the headers. </p>
@@ -38,8 +40,10 @@
     </article>
     
     <h2><a href="articles/stackoverflow-instead-of-beating-your-head-against-the-wall">Stackoverflow instead of beating your head against the wall</a></h2>
-    <div id="date">@date=2023-06-22</div>
-    <div id="tags">@tags=<a href="tags/stackoverflow">stackoverflow</a>, <a href="tags/coding">coding</a>, <a href="tags/programming">programming</a></div>
+    <div class="variables">
+    <div class="date">@date=2023-06-22</div>
+    <div class="tags">@tags=<a href="tags/stackoverflow">stackoverflow</a>, <a href="tags/coding">coding</a>, <a href="tags/programming">programming</a></div>
+    </div>
     <article>
         <p>Often you will get deep in some code and come up against a wall. After working through it, and reading some documentation, if you haven&#39;t figured it out, it is time to go to stackoverflow.</p>
 <p>I have been on stackoverflow for a little over 14 years now, and while I don&#39;t answer a lot of questions (there is a lot of competition for that) I have a lot of questions that I have asked and have given me a pretty respectable score, putting me in the top 6% of users (<a href="https://stackoverflow.com/users/101909/robkohr">https://stackoverflow.com/users/101909/robkohr</a>). </p>
@@ -50,16 +54,20 @@
     </article>
     
     <h2><a href="articles/angular-multi-level-componets">Angular multi-level componets</a></h2>
-    <div id="date">@date=2023-07-24</div>
-    <div id="tags">@tags=<a href="tags/coding">coding</a>, <a href="tags/angular">angular</a>, <a href="tags/wfs">wfs</a></div>
+    <div class="variables">
+    <div class="date">@date=2023-07-24</div>
+    <div class="tags">@tags=<a href="tags/coding">coding</a>, <a href="tags/angular">angular</a>, <a href="tags/wfs">wfs</a></div>
+    </div>
     <article>
         <p>For WFS I am working on the services page and the services need to be sortable in the settings, and then show the forms in the sorted order when making a new service request. Right now the order is hard coded, and each component has its own property set. I am going to create a wrapper for the components that will take all of the properties they need, and then pass them down to the component. The display order for the services can then load all of them in.</p>
 
     </article>
     
     <h2><a href="articles/back-to-solidjs">Back to solidjs</a></h2>
-    <div id="date">@date=2023-06-12</div>
-    <div id="tags">@tags=<a href="tags/coding">coding</a>, <a href="tags/svelte">svelte</a>, <a href="tags/solidjs">solidjs</a></div>
+    <div class="variables">
+    <div class="date">@date=2023-06-12</div>
+    <div class="tags">@tags=<a href="tags/coding">coding</a>, <a href="tags/svelte">svelte</a>, <a href="tags/solidjs">solidjs</a></div>
+    </div>
     <article>
         <p>I delved into svelte pretty deep to get a grasp of it. I decided to try to make a set of components similar to material UI, just focusing on form elements. </p>
 <p>When it came to passing values, references, functions up and down the component stack, it just became much more difficult than doing it in React, which makes things pretty trivial.</p>
@@ -70,8 +78,10 @@
     </article>
     
     <h2><a href="articles/svelte">Svelte</a></h2>
-    <div id="date">@date=2023-02-28</div>
-    <div id="tags">@tags=<a href="tags/coding">coding</a>, <a href="tags/svelte">svelte</a></div>
+    <div class="variables">
+    <div class="date">@date=2023-02-28</div>
+    <div class="tags">@tags=<a href="tags/coding">coding</a>, <a href="tags/svelte">svelte</a></div>
+    </div>
     <article>
         <p>The best tutorial on it<br><div><iframe width="560" height="315" src="https://www.youtube.com/embed/AXwgpUvLiwk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></p>
 

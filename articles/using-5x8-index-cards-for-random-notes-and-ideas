@@ -25,8 +25,10 @@
             <a href="./index.html">Home</a>
             
     <h2><a href="articles/using-5x8-index-cards-for-random-notes-and-ideas">Using 5x8 index cards for random notes and ideas</a></h2>
-    <div id="date">@date=2020-03-30</div>
-    <div id="tags">@tags=<a href="tags/index-cards">index-cards</a>, <a href="tags/writing">writing</a></div>
+    <div class="variables">
+    <div class="date">@date=2020-03-30</div>
+    <div class="tags">@tags=<a href="tags/index-cards">index-cards</a>, <a href="tags/writing">writing</a></div>
+    </div>
     <article>
         <p>I started working with using index cards for writing ideas similar to the slipcard (Zettelkasten Method). I started working with 3x5&#39;s but found they were too small to write ideas on. Now I am using 5x8&#39;s. This works well, because I use them in portrait orientation and they fit in the <a href="https://www.amazon.com/gp/product/B07XZ3B7F2/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1">box I got for them</a>. I also got some <a href="https://www.amazon.com/gp/product/B0784FP7BW/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1">heavy duty cards</a> that stand up well in the box and are nice to write on.</p>
 <p>Here is the first card in the box. Instead of using it as an index, I am using the first one as a list of ideas for what cards could be; this is helpful as it is always the card that is visible in front of the stack.</p>

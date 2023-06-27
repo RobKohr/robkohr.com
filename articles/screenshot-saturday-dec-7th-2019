@@ -25,8 +25,10 @@
             <a href="./index.html">Home</a>
             
     <h2><a href="articles/screenshot-saturday-dec-7th-2019">Screenshot Saturday Dec 7th 2019</a></h2>
-    <div id="date">@date=2019-12-07</div>
-    <div id="tags">@tags=<a href="tags/godot-asset-store">godot-asset-store</a>, <a href="tags/screenshot-saturday">screenshot-saturday</a></div>
+    <div class="variables">
+    <div class="date">@date=2019-12-07</div>
+    <div class="tags">@tags=<a href="tags/godot-asset-store">godot-asset-store</a>, <a href="tags/screenshot-saturday">screenshot-saturday</a></div>
+    </div>
     <article>
         <p><img src="screenshot-saturday-2019-12-07.gif" alt="screenshot gif 2019-12-07"></p>
 <p><a href="https://youtu.be/JEbzAdhQo3k">On youtube</a></p>

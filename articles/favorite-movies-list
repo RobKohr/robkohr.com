@@ -25,8 +25,10 @@
             <a href="./index.html">Home</a>
             
     <h2><a href="articles/favorite-movies-list">Favorite Movies List</a></h2>
-    <div id="date">@date=2021-09-20</div>
-    <div id="tags">@tags=<a href="tags/movies">movies</a></div>
+    <div class="variables">
+    <div class="date">@date=2021-09-20</div>
+    <div class="tags">@tags=<a href="tags/movies">movies</a></div>
+    </div>
     <article>
         <p>To be updated with new ones from time to time:</p>
 <ul>

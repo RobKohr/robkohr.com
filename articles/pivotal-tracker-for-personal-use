@@ -25,8 +25,10 @@
             <a href="./index.html">Home</a>
             
     <h2><a href="articles/pivotal-tracker-for-personal-use">Pivotal tracker for personal use</a></h2>
-    <div id="date">@date=2021-08-15</div>
-    <div id="tags">@tags=<a href="tags/getting-things-done">getting-things-done</a>, <a href="tags/scrum">scrum</a></div>
+    <div class="variables">
+    <div class="date">@date=2021-08-15</div>
+    <div class="tags">@tags=<a href="tags/getting-things-done">getting-things-done</a>, <a href="tags/scrum">scrum</a></div>
+    </div>
     <article>
         <p>![[2021-08-15-11-30-33.png]</p>
 <p>Having a family, side projects, main work, hobbies, etc can just be too much to keep track of, and also to allot time to. How often do you say &quot;I&#39;ll do X around the house&quot; and you just never get around to it.</p>

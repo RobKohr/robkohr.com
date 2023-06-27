@@ -26,8 +26,10 @@
             <h2>Tag: covid</h2>
     
     <h2><a href="articles/disney-during-covid">Disney during covid</a></h2>
-    <div id="date">@date=2020-09-22</div>
-    <div id="tags">@tags=<a href="tags/vacation">vacation</a>, <a href="tags/covid">covid</a></div>
+    <div class="variables">
+    <div class="date">@date=2020-09-22</div>
+    <div class="tags">@tags=<a href="tags/vacation">vacation</a>, <a href="tags/covid">covid</a></div>
+    </div>
     <article>
         <p>My wife and I went to Disneyworld for our honeymoon this month and it was fantastic. Due to pandemic fears, flights were super cheap, the disney resort was discounted and nearly empty, and lines were nearly non-existent at the parks. Most rides were about a 5 minute wait, with some of the more popular attractions taking about 30 minutes. Compared to a typical 1hr+ for wait times for major rides, this meant going through a lot of rides was a breeze.</p>
 <p>Some downsides:</p>

@@ -26,8 +26,10 @@
             <h2>Tag: programming</h2>
     
     <h2><a href="articles/stackoverflow-instead-of-beating-your-head-against-the-wall">Stackoverflow instead of beating your head against the wall</a></h2>
-    <div id="date">@date=2023-06-22</div>
-    <div id="tags">@tags=<a href="tags/stackoverflow">stackoverflow</a>, <a href="tags/coding">coding</a>, <a href="tags/programming">programming</a></div>
+    <div class="variables">
+    <div class="date">@date=2023-06-22</div>
+    <div class="tags">@tags=<a href="tags/stackoverflow">stackoverflow</a>, <a href="tags/coding">coding</a>, <a href="tags/programming">programming</a></div>
+    </div>
     <article>
         <p>Often you will get deep in some code and come up against a wall. After working through it, and reading some documentation, if you haven&#39;t figured it out, it is time to go to stackoverflow.</p>
 <p>I have been on stackoverflow for a little over 14 years now, and while I don&#39;t answer a lot of questions (there is a lot of competition for that) I have a lot of questions that I have asked and have given me a pretty respectable score, putting me in the top 6% of users (<a href="https://stackoverflow.com/users/101909/robkohr">https://stackoverflow.com/users/101909/robkohr</a>). </p>
@@ -38,8 +40,10 @@
     </article>
     
     <h2><a href="articles/coding-productivity">Coding productivity</a></h2>
-    <div id="date">@date=2020-12-04</div>
-    <div id="tags">@tags=<a href="tags/programming">programming</a></div>
+    <div class="variables">
+    <div class="date">@date=2020-12-04</div>
+    <div class="tags">@tags=<a href="tags/programming">programming</a></div>
+    </div>
     <article>
         <p>One thing that I find that helps is to open up a text file and start typing what your thoughts are and be unfiltered (I sometimes look away from my screen so I don&#39;t proofread). Try and get everything out, and let yourself brainstorm.</p>
 <p>Keeping it all in a conversation in your head creates too many threads to keep track of and you end up looping around worrying about this or that.
@@ -56,8 +60,10 @@ Then after that, I take the blob of text and try to organize it into categories 
     </article>
     
     <h2><a href="articles/an-attempted-simple-guide-for-react-hooks-">An attempted simple guide for react hooks.</a></h2>
-    <div id="date">@date=2020-05-14</div>
-    <div id="tags">@tags=<a href="tags/react">react</a>, <a href="tags/programming">programming</a>, <a href="tags/guides">guides</a></div>
+    <div class="variables">
+    <div class="date">@date=2020-05-14</div>
+    <div class="tags">@tags=<a href="tags/react">react</a>, <a href="tags/programming">programming</a>, <a href="tags/guides">guides</a></div>
+    </div>
     <article>
         <p><img src="images/2020-05-14-14-46-05.png" alt="2020-05-14-14-46-05.png" style="max-width: 100%;" /></p>
 <p>React hooks is what got me to actually like React enough to make it my primary web development framework (at least at this date). They break away from the ugly class based heavily nested object form of React, and make it truly more functional, while giving allowances for managing state in a stateless system.</p>
@@ -161,8 +167,10 @@ function Counter() {
     </article>
     
     <h2><a href="articles/wet-vs-dry-coding">WET vs DRY coding</a></h2>
-    <div id="date">@date=2020-04-09</div>
-    <div id="tags">@tags=<a href="tags/programming">programming</a></div>
+    <div class="variables">
+    <div class="date">@date=2020-04-09</div>
+    <div class="tags">@tags=<a href="tags/programming">programming</a></div>
+    </div>
     <article>
         <p><img src="images/2020-06-12-08-35-31.png" alt="2020-06-12-08-35-31.png" style="max-width: 100%;" /></p>
 <p>This is roughly a reply to/inspired by <a href="https://dev.to/wuz/stop-trying-to-be-so-dry-instead-write-everything-twice-wet-5g33">Write everything twice, just not a third time.</a></p>

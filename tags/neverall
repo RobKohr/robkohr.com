@@ -26,8 +26,10 @@
             <h2>Tag: neverall</h2>
     
     <h2><a href="articles/reddits-fall---maybe-turn-neverall-into-a-reddit-clone-">Reddits fall - maybe turn Neverall into a Reddit clone?</a></h2>
-    <div id="date">@date=2023-06-16</div>
-    <div id="tags">@tags=<a href="tags/reddit">reddit</a>, <a href="tags/neverall">neverall</a>, <a href="tags/social-media">social-media</a></div>
+    <div class="variables">
+    <div class="date">@date=2023-06-16</div>
+    <div class="tags">@tags=<a href="tags/reddit">reddit</a>, <a href="tags/neverall">neverall</a>, <a href="tags/social-media">social-media</a></div>
+    </div>
     <article>
         <p>Finish up the analytics part, and then create a reddit clone on Neverall. The url could be something like neverall.com/n and then the subreddit name. I could have neverall.com/g be for games, and neverall.com/s for sites, and neverall.com/p for projects, and neverall.com/b for blogs, and neverall.com/d for docs, and neverall.com/qa for a stackoverflow like forum.</p>
 

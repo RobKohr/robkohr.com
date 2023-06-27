@@ -26,16 +26,20 @@
             <h2>Tag: fun</h2>
     
     <h2><a href="articles/cardboard-boat-regatta">Cardboard boat regatta</a></h2>
-    <div id="date">@date=2023-06-15</div>
-    <div id="tags">@tags=<a href="tags/fun">fun</a></div>
+    <div class="variables">
+    <div class="date">@date=2023-06-15</div>
+    <div class="tags">@tags=<a href="tags/fun">fun</a></div>
+    </div>
     <article>
         <p>Scott and I are building a 5 person boat for the Longview Go 4th cardboard boat regatta. It is difficult to find time to work on it though.</p>
 
     </article>
     
     <h2><a href="articles/considering-surfing">Considering surfing</a></h2>
-    <div id="date">@date=2021-01-03</div>
-    <div id="tags">@tags=<a href="tags/fun">fun</a></div>
+    <div class="variables">
+    <div class="date">@date=2021-01-03</div>
+    <div class="tags">@tags=<a href="tags/fun">fun</a></div>
+    </div>
     <article>
         <p>I am thinking it would be fun to go surfing at the oregon and washington coast this summer.</p>
 

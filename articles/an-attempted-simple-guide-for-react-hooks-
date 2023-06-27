@@ -25,8 +25,10 @@
             <a href="./index.html">Home</a>
             
     <h2><a href="articles/an-attempted-simple-guide-for-react-hooks-">An attempted simple guide for react hooks.</a></h2>
-    <div id="date">@date=2020-05-14</div>
-    <div id="tags">@tags=<a href="tags/react">react</a>, <a href="tags/programming">programming</a>, <a href="tags/guides">guides</a></div>
+    <div class="variables">
+    <div class="date">@date=2020-05-14</div>
+    <div class="tags">@tags=<a href="tags/react">react</a>, <a href="tags/programming">programming</a>, <a href="tags/guides">guides</a></div>
+    </div>
     <article>
         <p><img src="images/2020-05-14-14-46-05.png" alt="2020-05-14-14-46-05.png" style="max-width: 100%;" /></p>
 <p>React hooks is what got me to actually like React enough to make it my primary web development framework (at least at this date). They break away from the ugly class based heavily nested object form of React, and make it truly more functional, while giving allowances for managing state in a stateless system.</p>

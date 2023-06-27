@@ -25,8 +25,10 @@
             <a href="./index.html">Home</a>
             
     <h2><a href="articles/mind-racing--can-t-nap">Mind racing, can't nap</a></h2>
-    <div id="date">@date=2021-08-27</div>
-    <div id="tags">@tags=<a href="tags/self-improvement">self-improvement</a></div>
+    <div class="variables">
+    <div class="date">@date=2021-08-27</div>
+    <div class="tags">@tags=<a href="tags/self-improvement">self-improvement</a></div>
+    </div>
     <article>
         <p>Put a note pad next to your bed. Write down everything going through your mind. Keep writing while you are thinking until everything is covered. Now no more reason to think about things and you go to sleep. You can review the stuff when you wake up.</p>
 

@@ -26,8 +26,10 @@
             <h2>Tag: projects</h2>
     
     <h2><a href="articles/weighted-task-chooser">Weighted Task Chooser</a></h2>
-    <div id="date">@date=2020-04-09</div>
-    <div id="tags">@tags=<a href="tags/projects">projects</a>, <a href="tags/launched">launched</a></div>
+    <div class="variables">
+    <div class="date">@date=2020-04-09</div>
+    <div class="tags">@tags=<a href="tags/projects">projects</a>, <a href="tags/launched">launched</a></div>
+    </div>
     <article>
         <p><img src="images/2020-06-12-08-34-20.png" alt="2020-06-12-08-34-20.png" style="max-width: 100%;" /></p>
 <p><a href="https://github.com/RobKohr/weighted-task-chooser">Weighted task chooser</a> is a command line node script that will select a randomly weighted task to do out of a tasklist markdown file.</p>
@@ -49,8 +51,10 @@ Some notes on task 4</li>
     </article>
     
     <h2><a href="articles/constantsail-doing-surprisingly-well">ConstantSail doing surprisingly well</a></h2>
-    <div id="date">@date=2019-11-21</div>
-    <div id="tags">@tags=<a href="tags/projects">projects</a>, <a href="tags/constantsail">constantsail</a></div>
+    <div class="variables">
+    <div class="date">@date=2019-11-21</div>
+    <div class="tags">@tags=<a href="tags/projects">projects</a>, <a href="tags/constantsail">constantsail</a></div>
+    </div>
     <article>
         <p><a href="http://constantsail.com">Constant Sail Pirates and Traders</a> analytics seems to do consistently well despite being a page with no content on it other than an old video. I should make it a priority to make this game again with newer tech to support more users than before as there is just a continuous latent interest in this game that doesn&#39;t even exist.</p>
 <p><img src="constantsail-analytics.png" alt="ConstantSail"></p>
@@ -58,16 +62,20 @@ Some notes on task 4</li>
     </article>
     
     <h2><a href="articles/registered-godotassetstore-org">registered godotassetstore.org</a></h2>
-    <div id="date">@date=2019-11-21</div>
-    <div id="tags">@tags=<a href="tags/projects">projects</a>, <a href="tags/godot-asset-store">godot-asset-store</a>, <a href="tags/nginx">nginx</a>, <a href="tags/certbot">certbot</a></div>
+    <div class="variables">
+    <div class="date">@date=2019-11-21</div>
+    <div class="tags">@tags=<a href="tags/projects">projects</a>, <a href="tags/godot-asset-store">godot-asset-store</a>, <a href="tags/nginx">nginx</a>, <a href="tags/certbot">certbot</a></div>
+    </div>
     <article>
         <p>I just registered godotassetstore.org for the <a href="https://godotassetstore.org">Godot Asset Store</a>. It seems like it would be an easier name to share with people and the media than godotasset.store, which just seems a little odd. I&#39;ll have to set an nginx redirect for it on the server and set up certbot to do the https for it.</p>
 
     </article>
     
     <h2><a href="articles/a-blog-generator">A blog generator</a></h2>
-    <div id="date">@date=2019-11-20</div>
-    <div id="tags">@tags=<a href="tags/blog">blog</a>, <a href="tags/projects">projects</a>, <a href="tags/announcements">announcements</a>, <a href="tags/github">github</a>, <a href="tags/open-source">open-source</a></div>
+    <div class="variables">
+    <div class="date">@date=2019-11-20</div>
+    <div class="tags">@tags=<a href="tags/blog">blog</a>, <a href="tags/projects">projects</a>, <a href="tags/announcements">announcements</a>, <a href="tags/github">github</a>, <a href="tags/open-source">open-source</a></div>
+    </div>
     <article>
         <p>And just like that, now we have a dead simple blog generator tool:</p>
 <p><a href="https://github.com/RobKohr/dead-simple-markdown-to-static-blog-creator">Github / dead-simple-markdown-to-static-blog-creator</a></p>
@@ -76,8 +84,10 @@ Some notes on task 4</li>
     </article>
     
     <h2><a href="articles/godot-asset-store">Godot Asset Store</a></h2>
-    <div id="date">@date=2019-11-19</div>
-    <div id="tags">@tags=<a href="tags/godot">godot</a>, <a href="tags/godot-asset-store">godot-asset-store</a>, <a href="tags/projects">projects</a>, <a href="tags/in-progress">in-progress</a>, <a href="tags/angular">angular</a>, <a href="tags/nodejs">nodejs</a></div>
+    <div class="variables">
+    <div class="date">@date=2019-11-19</div>
+    <div class="tags">@tags=<a href="tags/godot">godot</a>, <a href="tags/godot-asset-store">godot-asset-store</a>, <a href="tags/projects">projects</a>, <a href="tags/in-progress">in-progress</a>, <a href="tags/angular">angular</a>, <a href="tags/nodejs">nodejs</a></div>
+    </div>
     <article>
         <p>I started developing the <a href="https://godotassetstore.org">Godot Asset Store</a> a few weeks ago. It is built with Angular and node.js as the backend api with nginx as the frontend.</p>
 <p>I am getting to the tricky parts now:</p>
@@ -92,8 +102,10 @@ Some notes on task 4</li>
     </article>
     
     <h2><a href="articles/started-working-on-the-godot-asset-store">Started working on the Godot Asset store</a></h2>
-    <div id="date">@date=2019-10-25</div>
-    <div id="tags">@tags=<a href="tags/godot-asset-store">godot-asset-store</a>, <a href="tags/started-project">started-project</a>, <a href="tags/projects">projects</a>, <a href="tags/godot">godot</a></div>
+    <div class="variables">
+    <div class="date">@date=2019-10-25</div>
+    <div class="tags">@tags=<a href="tags/godot-asset-store">godot-asset-store</a>, <a href="tags/started-project">started-project</a>, <a href="tags/projects">projects</a>, <a href="tags/godot">godot</a></div>
+    </div>
     <article>
         <p>10/25/2019 is the day I started the Godot Asset Store, and so I am inserting this entry for that day. After creating my first godot app (the tutorial dodge game), and after years of dipping my toe into Unity but never making much of anything, I see great potential in Godot.</p>
 <p>One of the biggest pain points is that there is no commercial storefront. Yes, there is a free storefront, and with many many great open source projects, but the majority of those projects are ones that were personally made to try something out as an experiment, or to suit someone&#39;s own personal needs to finish their own game, with little long term updates and support. Yes, there are great exceptions to that, but then there are many that haven&#39;t been updated in 2 years, and aren&#39;t even compatible with the current version.</p>
@@ -103,8 +115,10 @@ Some notes on task 4</li>
     </article>
     
     <h2><a href="articles/mix-match-domains">Mix Match Domains</a></h2>
-    <div id="date">@date=2019-01-24</div>
-    <div id="tags">@tags=<a href="tags/projects">projects</a>, <a href="tags/launched">launched</a></div>
+    <div class="variables">
+    <div class="date">@date=2019-01-24</div>
+    <div class="tags">@tags=<a href="tags/projects">projects</a>, <a href="tags/launched">launched</a></div>
+    </div>
     <article>
         <p><a href="https://mixmatchdomains.com">Generate domain names from keywords</a> using <a href="https://mixmatchdomains.com">mixmatchdomains.com</a></p>
 <p><img src="mixmatch.png" alt="Mix Match Domains"></p>
@@ -112,8 +126,10 @@ Some notes on task 4</li>
     </article>
     
     <h2><a href="articles/glico-rating-system">Glico rating system</a></h2>
-    <div id="date">@date=2012-04-28</div>
-    <div id="tags">@tags=<a href="tags/projects">projects</a>, <a href="tags/launched">launched</a>, <a href="tags/open-source">open-source</a></div>
+    <div class="variables">
+    <div class="date">@date=2012-04-28</div>
+    <div class="tags">@tags=<a href="tags/projects">projects</a>, <a href="tags/launched">launched</a>, <a href="tags/open-source">open-source</a></div>
+    </div>
     <article>
         <p><a href="https://github.com/RobKohr/glicko">Javascript implementation of glicko-2 rating system along with a ffa-team based setup.</a></p>
 <p><img src="Elo_rating_graph.svg.png" alt="Glico"></p>
@@ -121,8 +137,10 @@ Some notes on task 4</li>
     </article>
     
     <h2><a href="articles/constantsail-pirates-and-traders">ConstantSail Pirates and Traders</a></h2>
-    <div id="date">@date=2008-12-06</div>
-    <div id="tags">@tags=<a href="tags/projects">projects</a>, <a href="tags/suspended">suspended</a></div>
+    <div class="variables">
+    <div class="date">@date=2008-12-06</div>
+    <div class="tags">@tags=<a href="tags/projects">projects</a>, <a href="tags/suspended">suspended</a></div>
+    </div>
     <article>
         <p><a href="https://constantsail.com">Constant Sail</a> is a pirate and sailing massive multiplayer game that is in development</p>
 <p><img src="constantsail.png" alt="Constant Sail"></p>
@@ -130,16 +148,20 @@ Some notes on task 4</li>
     </article>
     
     <h2><a href="articles/island-warfare">Island Warfare</a></h2>
-    <div id="date">@date=2008-08-30</div>
-    <div id="tags">@tags=<a href="tags/projects">projects</a>, <a href="tags/suspended">suspended</a></div>
+    <div class="variables">
+    <div class="date">@date=2008-08-30</div>
+    <div class="tags">@tags=<a href="tags/projects">projects</a>, <a href="tags/suspended">suspended</a></div>
+    </div>
     <article>
         <p><a href="http://islandwarfare.com">Island Warfare</a> will be a game where you build up your islands and the armies on your island to go take over other user&#39;s islands</p>
 
     </article>
     
     <h2><a href="articles/cueflash-flashcard-study-tool">Cueflash flashcard study tool</a></h2>
-    <div id="date">@date=2006-02-26</div>
-    <div id="tags">@tags=<a href="tags/projects">projects</a>, <a href="tags/launched">launched</a></div>
+    <div class="variables">
+    <div class="date">@date=2006-02-26</div>
+    <div class="tags">@tags=<a href="tags/projects">projects</a>, <a href="tags/launched">launched</a></div>
+    </div>
     <article>
         <p><a href="https://cueflash.com">Cueflash</a> is a study tool where you can create and share flashcards (cuecards). As you study with it, it will adapt to you and show you cards more frequently based upon how well you know them.</p>
 <p><img src="cueflash.png" alt="Cueflash"></p>
@@ -147,8 +169,10 @@ Some notes on task 4</li>
     </article>
     
     <h2><a href="articles/editthis-info">Editthis.info</a></h2>
-    <div id="date">@date=2005-01-13</div>
-    <div id="tags">@tags=<a href="tags/projects">projects</a>, <a href="tags/launched">launched</a></div>
+    <div class="variables">
+    <div class="date">@date=2005-01-13</div>
+    <div class="tags">@tags=<a href="tags/projects">projects</a>, <a href="tags/launched">launched</a></div>
+    </div>
     <article>
         <p><a href="https://editthis.info">Editthis.info</a> is a wiki hosting service where you can create your own wiki in seconds for free!</p>
 <p><img src="editthis.png" alt="Editthis.info"></p>

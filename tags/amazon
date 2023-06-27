@@ -26,8 +26,10 @@
             <h2>Tag: amazon</h2>
     
     <h2><a href="articles/usb-micro-and-usb-c-magnetic-charging-cables">USB micro and usb c Magnetic Charging Cables</a></h2>
-    <div id="date">@date=2019-11-22</div>
-    <div id="tags">@tags=<a href="tags/shopping">shopping</a>, <a href="tags/reviews">reviews</a>, <a href="tags/amazon">amazon</a></div>
+    <div class="variables">
+    <div class="date">@date=2019-11-22</div>
+    <div class="tags">@tags=<a href="tags/shopping">shopping</a>, <a href="tags/reviews">reviews</a>, <a href="tags/amazon">amazon</a></div>
+    </div>
     <article>
         <p><img src="usb.jpg" alt="magnetic usb cables">
 I have a bunch of devices that use micro-usb, and as such I have chargers for them everywhere, but inevitably the tips on those cables start to fail, and devices have to be wiggled around and set just right to charge. On top of it, the devices themselves start to wear down at the charging point.</p>

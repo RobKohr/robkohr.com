@@ -26,8 +26,10 @@
             <h2>Tag: cassette-futurism</h2>
     
     <h2><a href="articles/future-space-lady">future space lady</a></h2>
-    <div id="date">@date=2023-06-07</div>
-    <div id="tags">@tags=<a href="tags/cassette-futurism">cassette-futurism</a></div>
+    <div class="variables">
+    <div class="date">@date=2023-06-07</div>
+    <div class="tags">@tags=<a href="tags/cassette-futurism">cassette-futurism</a></div>
+    </div>
     <article>
         <p><img src="images/TheVindicationCover.jpg" alt="TheVindicationCover.jpg" style="max-width: 100%;" /></p>
 

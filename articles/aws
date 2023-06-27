@@ -25,8 +25,10 @@
             <a href="./index.html">Home</a>
             
     <h2><a href="articles/aws">AWS</a></h2>
-    <div id="date">@date=2023-02-28</div>
-    <div id="tags">@tags=<a href="tags/aws">aws</a>, <a href="tags/servers">servers</a></div>
+    <div class="variables">
+    <div class="date">@date=2023-02-28</div>
+    <div class="tags">@tags=<a href="tags/aws">aws</a>, <a href="tags/servers">servers</a></div>
+    </div>
     <article>
         <p>And just like that, I now understand so many more aws services
 <div><iframe width="560" height="315" src="https://www.youtube.com/embed/JIbIYCM48to" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>

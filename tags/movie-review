@@ -26,8 +26,10 @@
             <h2>Tag: movie-review</h2>
     
     <h2><a href="articles/movie-review--press-play">Movie Review: Press Play</a></h2>
-    <div id="date">@date=2022-12-05</div>
-    <div id="tags">@tags=<a href="tags/movie-review">movie-review</a></div>
+    <div class="variables">
+    <div class="date">@date=2022-12-05</div>
+    <div class="tags">@tags=<a href="tags/movie-review">movie-review</a></div>
+    </div>
     <article>
         <p>Being a fan of time travel movies, and my wife being a fan of romantic time-travel movies, this was an easy choice. This is a story of a girl who lost the love her life in a tragic accident, and getting a chance to go back in time to save him with at time traveling mix tape. The catch is that she can only go back to individual moments captured by the songs in the mix tape and only for the length of that song. </p>
 <p>The love this couple felt for each other really got me in the heartstrings. If you have ever been truly head over heels for someone that you would be willing to throw your whole life away for them and even die just to be with them a little longer (or at least dream of that love) then this movie will be instantly relatable to you. This is not a cutesy Meg Ryan kinda romance. This one hits hard, and is amazing.</p>
