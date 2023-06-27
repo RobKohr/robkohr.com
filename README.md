@@ -21,9 +21,19 @@ npm install
 npm run build
 ```
 
+## Possible issues
+I use files with no html extensions for output. If you are using nginx you need to add to your config
+
+```
+        location / {
+                ## whatever you already have here...
+                default_type text/html;
+        }
+```
+
 ## Thanks
 
-Style by:
+Style based off of:
 
 https://neat.joeldare.com/
 
