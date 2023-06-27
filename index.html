@@ -47,6 +47,40 @@
 
     </article>
     
+    <h2><a href="articles/doubled-strength-about-1-year-since-workout-charting">Doubled strength about 1 year since workout charting</a></h2>
+    <div class="variables">
+    <div class="date">@date=2023-06-27</div>
+    <div class="tags">@tags=<a href="tags/exercise">exercise</a></div>
+    </div>
+    <article>
+        <p><img src="images/strength spreadsheet 2022.png" alt="strength spreadsheet 2022.png" style="max-width: 100%;" />
+<img src="images/strength 2023.png" alt="strength 2023.png" style="max-width: 100%;" /></p>
+<p>So this marks about a year since I started charting my weightlifting journey, and for most of the exercises I have doubled my strength. </p>
+<p>In my older age, I have found that more reps and less weight is the way to avoid pulling muscles - a thing that in the past has hampered progress, keeping my away from the weights for weeks at a time. </p>
+<p>My goal has been to do 20 rep max for each workout, eeking forward 5-10 pounds each week. </p>
+<p>This page:
+<a href="https://en.wikipedia.org/wiki/One-repetition_maximum">https://en.wikipedia.org/wiki/One-repetition_maximum</a></p>
+<p>has formulas that will convert any rep/weight combination to what you would lift as a 1 rep max, and the research shows the one by Wathen seems to be the best:</p>
+<p><img src="images/Wathen formula.png" alt="Wathen formula.png" style="max-width: 100%;" /></p>
+<p>Experimenting myself one day with bench press, I can attest that it solidly was able to calculate my 1 rep max. I can also attest that such weights are really enough strain that it makes it more concerning pushing yourself so hard, when the same gains can be had on the other side of the spectrum. </p>
+<p>If you would like to use these formulas in your own google spreadsheet, you can go to Data-&gt;Named Functions and add them:</p>
+<h3>ONEREPMAX</h3>
+<p>Takes reps and weight and will output your one rep max.</p>
+<pre><code>=IF(AND(weight &gt; 0, reps &gt; 0), weight * 1/(0.488 + 0.538 * EXP(-0.075*reps)), &quot;&quot;)
+</code></pre>
+<h3>XREPMAX</h3>
+<p>How much weight is expected for x reps. This is flipping around the equation to figure out weight you could lift at any rep range, given a one rep max value. </p>
+<p>You could do something like</p>
+<pre><code>=XREPMAX(ONEREPMAX(110, 10), 15)
+</code></pre>
+<p>with a weight of 110 and a reps of 10, and see what you could lift if you instead aimed for 15 reps.</p>
+<p>Here is the function:</p>
+<pre><code>=CEILING (onerepmaxweight*(0.488 + 0.538 * EXP(-0.075*reps)))
+</code></pre>
+<p>All of this is just motivational though. The important is to step up the 20 rep max each day. And to really get the most out of the workout, when I don&#39;t hit 20 reps, then I force myself to lower the weight by 5 pounds at a time until I hit the 20 reps again.</p>
+
+    </article>
+    
     <h2><a href="articles/tenacity">Tenacity</a></h2>
     <div class="variables">
     <div class="date">@date=2023-06-27</div>
