@@ -90,7 +90,7 @@ var articles = articlesFull.map(function (article) {
     return null;
   }
   if(!variable.tags){
-    variable.tags = [{label:'untagged', `<a href="tags/untagged">untagged</a>`;}
+    variable.tags = [{label:'untagged', link:`<a href="tags/untagged">untagged</a>`;}
   }
 
   /* if variable tags is set, then add this article to the tag page */
