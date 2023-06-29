@@ -1,0 +1,4 @@
+"title","description","url","license","image_views","creation_time.formatted","modification_time.formatted","geo_data.latitude","geo_data.longitude","geo_data_exif.latitude","geo_data_exif.longitude","tags","people.name","people.email","comments.comment","comments.user_id","comments.email","media_key","hex_photo_id","upload_ip","status","liking_user_ids","album_id","exif.camera_make","exif.camera_model","exif.cell_width","exif.cell_length"
+"js math.tiff","#js  I use the javascript console as a calculator, and it is funny when binary <--> decimal rounding/conversion errors pop up unexpectedly.
+
+This is a good reason to be careful when doing if(x==someNumber) conditionals in your code. ","https://lh3.googleusercontent.com/-_iUgs3Mi4Xc/VJRGKcehL1I/AAAAAAAAP1g/oURSbrf2uDIKnrw5GuY95LznCU5gxa1tQCLABGAYYCw/s0-d/js%2Bmath.tiff","","260","Dec 19, 2014, 3:37:13 PM UTC","Feb 5, 2019, 8:59:45 PM UTC","0.0","0.0","0.0","0.0","","","","","","","","","","","","","","","0","0"
