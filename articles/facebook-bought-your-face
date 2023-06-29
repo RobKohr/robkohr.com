@@ -1,0 +1,39 @@
+
+        <html>
+            <head>
+                <title>Facebook bought your face - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/facebook-bought-your-face">Facebook bought your face</a></h2>
+    <div class="variables">
+    <div class="date">@date=2023-06-29</div>
+    <div class="tags">@tags=<a href="tags/vr">vr</a></div>
+    </div>
+    <article>
+        <p>Oculus rift is being bought by facebook. Now we can have facebook for your face.</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

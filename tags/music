@@ -53,6 +53,29 @@
 
     </article>
     
+    <h2><a href="articles/cool--i-love-bjork">Cool, I love Bjork</a></h2>
+    <div class="variables">
+    <div class="date">@date=2015-01-25</div>
+    <div class="tags">@tags=<a href="tags/music">music</a></div>
+    </div>
+    <article>
+        <p>Cool, I love Bjork</p>
+<h3>Bjork in the New York Times Magazine</h3>
+<p><a href="http://whowillsaverockandroll.blogspot.com/2015/01/bjork-in-new-york-times-magazine.html">http://whowillsaverockandroll.blogspot.com/2015/01/bjork-in-new-york-times-magazine.html</a></p>
+
+    </article>
+    
+    <h2><a href="articles/full-vinyl-albums-on-youtube">Full vinyl albums on youtube</a></h2>
+    <div class="variables">
+    <div class="date">@date=2014-06-19</div>
+    <div class="tags">@tags=<a href="tags/youtube">youtube</a>, <a href="tags/music">music</a></div>
+    </div>
+    <article>
+        <p>This will list  recorded full albums on YT</p>
+<p><a href="https://www.youtube.com/results?search_query=full+album+vinyl&oq=full+album+vinyl&aq=f&aqi=g1&aql&gs_l=youtube-psuggest-reduced.3..0.443980.449368.0.449578.26.26.5.7.7.0.158.1233.11j3.14.0">full album vinyl - YouTube</a></p>
+
+    </article>
+    
             </body>
         </html>
     

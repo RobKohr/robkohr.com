@@ -72,6 +72,30 @@
 
     </article>
     
+    <h2><a href="articles/fontello---icon-fonts-generator">Fontello - icon fonts generator</a></h2>
+    <div class="variables">
+    <div class="date">@date=2015-02-06</div>
+    <div class="tags">@tags=<a href="tags/webdev">webdev</a></div>
+    </div>
+    <article>
+        <p>This is so cool! You can take and mesh together icons from different font sets along with svg images and define the names of the icons however you like.</p>
+<p>This is the most awesome way to make an icon set for your website!</p>
+<p>With this you can scale things as you like, and make icons any color you like!
+<a href="http://fontello.com">Fontello - icon fonts generator</a></p>
+
+    </article>
+    
+    <h2><a href="articles/digital-ocean">Digital Ocean</a></h2>
+    <div class="variables">
+    <div class="date">@date=2014-06-16</div>
+    <div class="tags">@tags=<a href="tags/webdev">webdev</a></div>
+    </div>
+    <article>
+        <p>Loving DigitalOcean.com vps. Only $5 a month for a base one, but if you are using it for development, you can snapshot it and shut it down, and only pay a few cents for the hours you had it running.   </p>
+<p>Basically I treat snapshoting and shutting down like putting away my toys for playing with later. Eventually when the service is finished I just will keep it running :)</p>
+
+    </article>
+    
             </body>
         </html>
     

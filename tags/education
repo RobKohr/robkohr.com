@@ -1,0 +1,42 @@
+
+        <html>
+            <head>
+                <title>education - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            <h2>Tag: education</h2>
+    
+    <h2><a href="articles/teacher-for-all-of-childhood">Teacher for all of childhood</a></h2>
+    <div class="variables">
+    <div class="date">@date=2014-06-23</div>
+    <div class="tags">@tags=<a href="tags/education">education</a></div>
+    </div>
+    <article>
+        <p>It would be interesting if kindergarten teachers went with you all the way up to senior year of high school. They wouldn&#39;t just be a teacher for a grade level, but for the lifetime of a kid till they go off to college.   </p>
+<p>Yep, I can see plenty of problems with this and plenty of work arounds to those problems, but it makes for a fun thought experiment.   </p>
+<p>It would make it so teachers really &quot;own&quot; the development of their kids. Of course their would be more specialized teachers for a kid as they got older to teach them specific subject matters, but a kid would have one core teacher that would follow along with them.</p>
+
+    </article>
+    
+            </body>
+        </html>
+    

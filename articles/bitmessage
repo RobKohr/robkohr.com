@@ -1,0 +1,41 @@
+
+        <html>
+            <head>
+                <title>Bitmessage - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/bitmessage">Bitmessage</a></h2>
+    <div class="variables">
+    <div class="date">@date=2023-06-29</div>
+    <div class="tags">@tags=<a href="tags/crypto">crypto</a></div>
+    </div>
+    <article>
+        <p>If you would like to contact me via bitmessage, my address is <br>BM-2cUH7jMop6tgKaNTt6KG5hhzvjqti1XWyQ  </p>
+<p><a href="http://bitmessage.org">http://bitmessage.org</a>  </p>
+<p>Update: I no longer have access to this address</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

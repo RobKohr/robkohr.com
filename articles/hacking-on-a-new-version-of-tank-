@@ -1,0 +1,41 @@
+
+        <html>
+            <head>
+                <title>Hacking on a new version of Tank! - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/hacking-on-a-new-version-of-tank-">Hacking on a new version of Tank!</a></h2>
+    <div class="variables">
+    <div class="date">@date=2014-03-14</div>
+    <div class="tags">@tags=<a href="tags/games-by-me">games-by-me</a></div>
+    </div>
+    <article>
+        <p>Hacking on a new version of Tank!</p>
+<p><img src="images/googlePlus/Photos/Photos%20from%20posts/3-14-14/19ihyd5ah7waq.jpg" alt="googlePlus/Photos/Photos%20from%20posts/3-14-14/19ihyd5ah7waq.jpg" style="max-width: 100%;" /></p>
+<p><a href="https://github.com/RobKohr/tank">https://github.com/RobKohr/tank</a></p>
+
+    </article>
+    
+            </body>
+          </html>
+          

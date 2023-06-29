@@ -179,6 +179,18 @@ Some notes on task 4</li>
 
     </article>
     
+    <h2><a href="articles/islandwarfare">Islandwarfare</a></h2>
+    <div class="variables">
+    <div class="date">@date=2015-02-13</div>
+    <div class="tags">@tags=<a href="tags/projects">projects</a>, <a href="tags/island-warfare">island-warfare</a>, <a href="tags/webgame">webgame</a></div>
+    </div>
+    <article>
+        <p>I am working on a game at <a href="http://islandwarfare.com">islandwarfare.com</a>  </p>
+<p>Sign up now to receive an email when it is launched!  </p>
+<p>It will be a game where you build up the resources and units on an island and use them to capture other neighboring islands.</p>
+
+    </article>
+    
             </body>
         </html>
     

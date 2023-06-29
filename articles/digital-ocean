@@ -1,0 +1,40 @@
+
+        <html>
+            <head>
+                <title>Digital Ocean - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/digital-ocean">Digital Ocean</a></h2>
+    <div class="variables">
+    <div class="date">@date=2014-06-16</div>
+    <div class="tags">@tags=<a href="tags/webdev">webdev</a></div>
+    </div>
+    <article>
+        <p>Loving DigitalOcean.com vps. Only $5 a month for a base one, but if you are using it for development, you can snapshot it and shut it down, and only pay a few cents for the hours you had it running.   </p>
+<p>Basically I treat snapshoting and shutting down like putting away my toys for playing with later. Eventually when the service is finished I just will keep it running :)</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

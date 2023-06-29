@@ -1,0 +1,40 @@
+
+        <html>
+            <head>
+                <title>Go Tetris - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/go-tetris">Go Tetris</a></h2>
+    <div class="variables">
+    <div class="date">@date=2015-02-09</div>
+    <div class="tags">@tags=<a href="tags/games-i-like">games-i-like</a></div>
+    </div>
+    <article>
+        <p>If you like Go and Tetris, give this a try.<br>Warning: it is super hard. </p>
+<p><a href="http://chesstris.com/2007/10/03/play-go-tetris-10/#more-52">Play Go Tetris! 1.1</a></p>
+
+    </article>
+    
+            </body>
+          </html>
+          

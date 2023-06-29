@@ -1,0 +1,42 @@
+
+        <html>
+            <head>
+                <title>googlePlus - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            <h2>Tag: googlePlus</h2>
+    
+    <h2><a href="articles/google-plus-is-pretty-great">Google plus is pretty great</a></h2>
+    <div class="variables">
+    <div class="date">@date=2015-02-10</div>
+    <div class="tags">@tags=<a href="tags/googlePlus">googlePlus</a></div>
+    </div>
+    <article>
+        <p>Starting to re-find my love of google+. Facebook tends to just be a collection of highschool and other old friends&#39; updates about their lives: marriage, kids, etc. It is nice to browse, but in the end I don&#39;t think I get much from it. Also, since I was in politics for a while, and made a lot of political friends, my stream is full of posts that agree with my political views, which really I would rather see more disagreement.  </p>
+<p>I liked twitter for a while as the people on there weren&#39;t followed because they were friends, but because they had things to say that I wanted to learn about. The trouble is that those little snippets of text that are artificially constrained just leads to a bunch of link bait and self-promotion.   </p>
+<p>Google+ is the best of both worlds. It has some IRL friends which I created a circle for, the posts are long form, and often don&#39;t require me to go off some link to find basic stuff (unless I want to read more), there isn&#39;t so much self promotion, and most importantly when I scroll through the stream I learn more, and see a great diversity of opinions.</p>
+
+    </article>
+    
+            </body>
+        </html>
+    

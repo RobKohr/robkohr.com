@@ -1,7 +1,7 @@
 
         <html>
             <head>
-                <title>domains - RobKohr's Blog</title>
+                <title>Hurrah for price increases - RobKohr's Blog</title>
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
@@ -23,21 +23,7 @@
             </head>
             <body>
             <a href="./index.html">Home</a>
-            <h2>Tag: domains</h2>
-    
-    <h2><a href="articles/domain-names-are-too-cheap">Domain names are too cheap</a></h2>
-    <div class="variables">
-    <div class="date">@date=2019-11-23</div>
-    <div class="tags">@tags=<a href="tags/domains">domains</a>, <a href="tags/things-that-piss-me-off">things-that-piss-me-off</a></div>
-    </div>
-    <article>
-        <p>It is way too difficult to find a domain that isn&#39;t being squatted on. Take any two random words in the dictionary, put them together for a domain name, and some squatter will own it.</p>
-<p>As painful as it would be to raise prices, a domain name should be $100 per year rather than $10. This would destroy squatters business model as it would price them out of spamming the whole registry. The registries of course have no incentive to do this as they would rather sell 10000 domains for $10 than 10 domains for $100, so my dream of picking a relevant domain name for a project will just stay that, a dream.</p>
-<p>Shameless plug: if you are having trouble coming up with a domain name, try the thing I made to deal with this problem, <a href="https://mixmatchdomains.com">mix match domains</a>.</p>
-<p><img src="mixmatch.png" alt="Mix Match Domains"></p>
-
-    </article>
-    
+            
     <h2><a href="articles/hurrah-for-price-increases">Hurrah for price increases</a></h2>
     <div class="variables">
     <div class="date">@date=2014-05-13</div>
@@ -57,5 +43,5 @@
     </article>
     
             </body>
-        </html>
-    
+          </html>
+          

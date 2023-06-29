@@ -1,0 +1,41 @@
+
+        <html>
+            <head>
+                <title>Cool, I love Bjork - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/cool--i-love-bjork">Cool, I love Bjork</a></h2>
+    <div class="variables">
+    <div class="date">@date=2015-01-25</div>
+    <div class="tags">@tags=<a href="tags/music">music</a></div>
+    </div>
+    <article>
+        <p>Cool, I love Bjork</p>
+<h3>Bjork in the New York Times Magazine</h3>
+<p><a href="http://whowillsaverockandroll.blogspot.com/2015/01/bjork-in-new-york-times-magazine.html">http://whowillsaverockandroll.blogspot.com/2015/01/bjork-in-new-york-times-magazine.html</a></p>
+
+    </article>
+    
+            </body>
+          </html>
+          

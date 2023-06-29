@@ -1,0 +1,41 @@
+
+        <html>
+            <head>
+                <title>Depression Quest: An Interactive (non)Fiction About Living with Depression - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/depression-quest--an-interactive--non-fiction-about-living-with-depression">Depression Quest: An Interactive (non)Fiction About Living with Depression</a></h2>
+    <div class="variables">
+    <div class="date">@date=2015-02-10</div>
+    <div class="tags">@tags=<a href="tags/game-i-like">game-i-like</a></div>
+    </div>
+    <article>
+        <p>I was reading an article in Gamasutra about novel game design and he told a little story about how this game helped snap him out of depression (and also helped him realize that games can provide more than just casual fun).</p>
+<p>If you know anyone that might be dealing with depression, send them the link to it. If you want to read the original article that referred to this game, it is here:
+<a href="http://www.gamasutra.com/blogs/NickyCase/20150209/236039/I_Do_And_I_Understand.php?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+GamasutraFeatureArticles+%28Gamasutra+Feature+Articles%29">http://www.gamasutra.com/blogs/NickyCase/20150209/236039/I_Do_And_I_Understand.php?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+GamasutraFeatureArticles+%28Gamasutra+Feature+Articles%29</a></p>
+
+    </article>
+    
+            </body>
+          </html>
+          

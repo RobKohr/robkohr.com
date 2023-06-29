@@ -1,0 +1,41 @@
+
+        <html>
+            <head>
+                <title>Net Neutrality Laws - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/net-neutrality-laws">Net Neutrality Laws</a></h2>
+    <div class="variables">
+    <div class="date">@date=2015-02-06</div>
+    <div class="tags">@tags=<a href="tags/netneutrality">netneutrality</a></div>
+    </div>
+    <article>
+        <p>The internet is a functioning thriving ecosystem that works with the current very light regulation regime, and it has been for decades.   </p>
+<p>How about this: when the telcoms get around to screwing the consumers by throttling their youtube and netflix (yes ignoring that one incident) then we can all march on Washington and demand a law. <br>Right now we are trying to legislate a problem that doesn&#39;t exist, and the unintended consequences might be disastrous.   </p>
+<p>If it ain&#39;t broke, don&#39;t write a law to fix it. Laws tend to benefit those that lobby for them more than they help everyday voters.</p>
+
+    </article>
+    
+            </body>
+          </html>
+          
