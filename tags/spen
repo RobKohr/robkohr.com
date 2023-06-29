@@ -1,0 +1,41 @@
+
+        <html>
+            <head>
+                <title>spen - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            <h2>Tag: spen</h2>
+    
+    <h2><a href="articles/test-if-spen">Test if spen</a></h2>
+    <div class="variables">
+    <div class="date">@date=2014-03-13</div>
+    <div class="tags">@tags=<a href="tags/spen">spen</a></div>
+    </div>
+    <article>
+        <p>Test if spen</p>
+<p><img src="images/googlePlusPhotos/Photos%20from%20posts/3-13-14/19if80pbt4ouq.jpg" alt="googlePlusPhotos/Photos%20from%20posts/3-13-14/19if80pbt4ouq.jpg" style="max-width: 100%;" /></p>
+
+    </article>
+    
+            </body>
+        </html>
+    
