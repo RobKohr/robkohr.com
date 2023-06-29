@@ -1,7 +1,7 @@
 
         <html>
             <head>
-                <title>games-by-me - RobKohr's Blog</title>
+                <title>news - RobKohr's Blog</title>
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
@@ -23,17 +23,16 @@
             </head>
             <body>
             <a href="./index.html">Home</a>
-            <h2>Tag: games-by-me</h2>
+            <h2>Tag: news</h2>
     
-    <h2><a href="articles/hacking-on-a-new-version-of-tank-">Hacking on a new version of Tank!</a></h2>
+    <h2><a href="articles/look-a-blimp">Look a blimp</a></h2>
     <div class="variables">
-    <div class="date">@date=2014-03-14</div>
-    <div class="tags">@tags=<a href="tags/games-by-me">games-by-me</a></div>
+    <div class="date">@date=2014-03-13</div>
+    <div class="tags">@tags=<a href="tags/news">news</a></div>
     </div>
     <article>
-        <p>Hacking on a new version of Tank!</p>
-<p><img src="images/googlePlusPhotos/Photos%20from%20posts/3-14-14/19ihyd5ah7waq.jpg" alt="googlePlusPhotos/Photos%20from%20posts/3-14-14/19ihyd5ah7waq.jpg" style="max-width: 100%;" /></p>
-<p><a href="https://github.com/RobKohr/tank">https://github.com/RobKohr/tank</a></p>
+        <p>Look a blimp</p>
+<p><img src="images/googlePlusPhotos/Photos%20from%20posts/3-13-14/19ifkm0dltfgi.jpg" alt="googlePlusPhotos/Photos%20from%20posts/3-13-14/19ifkm0dltfgi.jpg" style="max-width: 100%;" /></p>
 
     </article>
     

@@ -27,7 +27,7 @@
     <h2><a href="articles/look-a-blimp">Look a blimp</a></h2>
     <div class="variables">
     <div class="date">@date=2014-03-13</div>
-    <div class="tags">@tags=<a href="tags/"></a></div>
+    <div class="tags">@tags=<a href="tags/news">news</a></div>
     </div>
     <article>
         <p>Look a blimp</p>
