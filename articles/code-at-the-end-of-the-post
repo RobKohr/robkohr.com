@@ -1,0 +1,53 @@
+
+        <html>
+            <head>
+                <title>code at the end of the post - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/code-at-the-end-of-the-post">code at the end of the post</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-10-24</div>
+    <div class="tags">@tags=<a href="tags/"></a></div>
+    </div>
+    <article>
+        <p>What happens when you round 3.6 ---&gt; you get 4. </p>
+<p>What about in a game? Should every time a player kills 3.6 of an enemy, should it be really 4? </p>
+<p>Probably not, but the math might have that happen all of the time. It should be that it rounds up 60% of the time. Over time, the average player would then kill 3.6 enemies, without having to deal without the sticky philosophical questions of an enemy that is 40% alive.</p>
+<p>Here is a little function that will prevent that. (in JS, but easy to convert)</p>
+<pre><code> //adjusts a value up or down to nearest int with a random factor 
+ //based upon the decimal value. i.e. 3.2 has a 80% chance of being 3, 20% of 4 var randRound = function(num){
+ var num = Number(num);
+ var floor = Math.floor(num);
+ var dec = num - floor;
+ if(Math.random()&gt;dec){
+ return floor;
+ }
+ return Math.ceil(num);
+ }
+</code></pre>
+
+    </article>
+    
+            </body>
+          </html>
+          

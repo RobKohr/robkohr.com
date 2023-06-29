@@ -1,0 +1,43 @@
+
+        <html>
+            <head>
+                <title>Hi John, this seems like a good cheatsheet for you: - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/hi-john--this-seems-like-a-good-cheatsheet-for-you-">Hi John, this seems like a good cheatsheet for you:</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-08-25</div>
+    <div class="tags">@tags=<a href="tags/"></a></div>
+    </div>
+    <article>
+        <p>Hi John, this seems like a good cheatsheet for you:
+<a rel="nofollow" target="_blank" href="http://startuplawyer.com/startup-issues/if-i-launched-a-startup" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://startuplawyer.com/startup-issues/if-i-launched-a-startup</a></p>
+<h3>If I Launched a Startup | Startup Lawyer\n</h3>
+<p><a href="http://startuplawyer.com/startup-issues/if-i-launched-a-startup">http://startuplawyer.com/startup-issues/if-i-launched-a-startup</a></p>
+<p><a href="http://startuplawyer.com/startup-issues/if-i-launched-a-startup">http://startuplawyer.com/startup-issues/if-i-launched-a-startup</a></p>
+
+    </article>
+    
+            </body>
+          </html>
+          

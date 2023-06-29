@@ -1,0 +1,42 @@
+
+        <html>
+            <head>
+                <title>dictionary of numbers - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/dictionary-of-numbers">dictionary of numbers</a></h2>
+    <div class="variables">
+    <div class="date">@date=2013-05-26</div>
+    <div class="tags">@tags=<a href="tags/comics">comics</a>, <a href="tags/numbers">numbers</a></div>
+    </div>
+    <article>
+        <p><a rel="nofollow" target="_blank" href="http://blog.xkcd.com/2013/05/15/dictionary-of-numbers/" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://blog.xkcd.com/2013/05/15/dictionary-of-numbers/</a></p>
+<h3>Dictionary of Numbers | xkcd\n</h3>
+<p><a href="http://blog.xkcd.com/2013/05/15/dictionary-of-numbers/">http://blog.xkcd.com/2013/05/15/dictionary-of-numbers/</a></p>
+<p><a href="http://blog.xkcd.com/2013/05/15/dictionary-of-numbers/">http://blog.xkcd.com/2013/05/15/dictionary-of-numbers/</a></p>
+
+    </article>
+    
+            </body>
+          </html>
+          

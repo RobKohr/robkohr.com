@@ -1,0 +1,42 @@
+
+        <html>
+            <head>
+                <title>An Elephant in Bantha Clothing - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/an-elephant-in-bantha-clothing">An Elephant in Bantha Clothing</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-09-13</div>
+    <div class="tags">@tags=<a href="tags/"></a></div>
+    </div>
+    <article>
+        <p><a rel="nofollow" target="_blank" href="http://sale.images.woot.com/An_Elephant_in_Bantha_Clothing7leDetail.png" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://sale.images.woot.com/An_Elephant_in_Bantha_Clothing7leDetail.png</a></p>
+<h3><a href="http://sale.images.woot.com/An_Elephant_in_Bantha_Clothing7leDetail.png%5Cn">http://sale.images.woot.com/An_Elephant_in_Bantha_Clothing7leDetail.png\n</a></h3>
+<p><a href="http://sale.images.woot.com/An_Elephant_in_Bantha_Clothing7leDetail.png">http://sale.images.woot.com/An_Elephant_in_Bantha_Clothing7leDetail.png</a></p>
+<p><a href="http://sale.images.woot.com/An_Elephant_in_Bantha_Clothing7leDetail.png">http://sale.images.woot.com/An_Elephant_in_Bantha_Clothing7leDetail.png</a></p>
+
+    </article>
+    
+            </body>
+          </html>
+          

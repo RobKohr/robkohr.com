@@ -1,0 +1,47 @@
+
+        <html>
+            <head>
+                <title>Digg/Reddit like News site. Voting is based on Bitcoins! - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/digg-reddit-like-news-site--voting-is-based-on-bitcoins-">Digg/Reddit like News site. Voting is based on Bitcoins!</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-01-24</div>
+    <div class="tags">@tags=<a href="tags/"></a></div>
+    </div>
+    <article>
+        <p><strong>Digg/Reddit like News site. Voting is based on Bitcoins!</strong></p>
+<p><a rel="nofollow" target="_blank" href="http://coinsmack.com" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://coinsmack.com</a></p>
+<p>I created a site where you can post links, videos, images, and blobs of text (html allowed).</p>
+<p>It works much like most social news sites where visitors can vote up stories they like to the home page in various different categories. The difference is that the voting is in bitcoins in increments of 0.001 units. 80% of the bitcoins received go to the poster of the article.</p>
+<p>Posting and voting up articles is an anonymous process, and no login is needed (also IP addresses &amp; sessions are not recorded). For those that are into Tor, onion links are welcome and are marked with an onion icon. Hopefully this will help with the discovery of content on the onion network. 
+ #bitcoin</p>
+<p><a href="http://coinsmack.com">http://coinsmack.com</a></p>
+<p><img src="images/googlePlusPhotos/Photos%20from%20posts/2012-01-24/17bdnmnuwt2b6.png" alt="googlePlusPhotos/Photos%20from%20posts/2012-01-24/17bdnmnuwt2b6.png" style="max-width: 100%;" /></p>
+<p><a href="http://news.ycombinator.com/item?id=3507448">http://news.ycombinator.com/item?id=3507448</a></p>
+
+    </article>
+    
+            </body>
+          </html>
+          

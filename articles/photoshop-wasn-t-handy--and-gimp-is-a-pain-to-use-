@@ -1,0 +1,42 @@
+
+        <html>
+            <head>
+                <title>Photoshop wasn't handy, and gimp is a pain to use. - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/photoshop-wasn-t-handy--and-gimp-is-a-pain-to-use-">Photoshop wasn't handy, and gimp is a pain to use.</a></h2>
+    <div class="variables">
+    <div class="date">@date=2013-02-12</div>
+    <div class="tags">@tags=<a href="tags/apps">apps</a>, <a href="tags/graphics">graphics</a></div>
+    </div>
+    <article>
+        <p>Photoshop wasn&#39;t handy, and gimp is a pain to use. After trying to find a decent alternative, I stumbled upon sumopaint, a free web based photo editor. It might be a bit weak for super-advanced users, but for me it worked just fine. </p>
+<p>It does layers, magic wand selection, and 98% of all of the other things I do with photoshop.</p>
+<h3>Desktop | Sumopaint - Get Creative\n</h3>
+<p><a href="http://sumopaint.com">http://sumopaint.com</a></p>
+
+    </article>
+    
+            </body>
+          </html>
+          

@@ -1,0 +1,40 @@
+
+        <html>
+            <head>
+                <title>Google+ post Oregonians for Liberty - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/google--post-oregonians-for-liberty">Google+ post Oregonians for Liberty</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-05-09</div>
+    <div class="tags">@tags=<a href="tags/"></a></div>
+    </div>
+    <article>
+        <h3>Oregonians For Liberty - Google Groups\n</h3>
+<p><a href="https://groups.google.com/d/forum/oregonians-for-liberty?fromplusone=1">https://groups.google.com/d/forum/oregonians-for-liberty?fromplusone=1</a></p>
+
+    </article>
+    
+            </body>
+          </html>
+          

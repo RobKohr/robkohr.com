@@ -1,0 +1,47 @@
+
+        <html>
+            <head>
+                <title>The Jumpers - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/the-jumpers">The Jumpers</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-09-26</div>
+    <div class="tags">@tags=<a href="tags/dreams">dreams</a>, <a href="tags/stories">stories</a></div>
+    </div>
+    <article>
+        <p>The Jumpers</p>
+<p>The year was 2016, and researchers at the CTEX2 particle accelerator lab discovered a way to slow time around a local area to near zero. Anyone within this field would feel that they jumped forward in time in a flash. </p>
+<p>Before long, the jumpBooth became a commercial product, retailing for a mere million dollars. NASA bought them with the idea of once again going to space and traveling longer distances without life support. People with terminal diseases bought them to perhaps jump to when they could be cured. Some people even got some money together to send a historian on a journey to tell the future what it was really like to live today. </p>
+<p>The ones that bought them the most though, were investors. There was someone named Warren Buffet that just popped up ever 10 years, looked around made some quick transactions and moved on. Others joined the flow into the future looking for great gains over long term investment plans. This had the effect of slowing the growth of stocks and decreasing long term returns.</p>
+<p>As the price fell for the jumpBooth, more people could use it. During wars the peace-nicks would jump forward looking for a more peaceful world. Without any movement to rally against the wars, the wars stretched on. </p>
+<p>During a technological dark age where there were few advancements, the inventors and innovators began jumping and created a brain drain into the future. </p>
+<p>Eventually everyone could jump, and did so frequently. The weather wasn&#39;t good, jump. A plague was breaking out, jump. Not enough people around due to all the jumping, jump.</p>
+<p>The weeds began pushing up through the highways, and the wilderness reclaimed the cities. The environment changed to become more inhospitable to a species once known as man, who never had a chance to evolve to match it. Occasionally they would flash in for a moment here and there, but they just kept pushing forward, hoping for a better time and place for themselves that only they could create. </p>
+<p>-Robert Kohr</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

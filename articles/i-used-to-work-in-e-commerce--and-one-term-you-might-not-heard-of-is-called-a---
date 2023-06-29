@@ -27,7 +27,7 @@
     <h2><a href="articles/i-used-to-work-in-e-commerce--and-one-term-you-might-not-heard-of-is-called-a---">I used to work in e-commerce, and one term you might not heard of is called a...</a></h2>
     <div class="variables">
     <div class="date">@date=2014-01-17</div>
-    <div class="tags">@tags=<a href="tags/"></a></div>
+    <div class="tags">@tags=<a href="tags/webdev">webdev</a></div>
     </div>
     <article>
         <p>I used to work in e-commerce, and one term you might not heard of is called an &quot;abandoned cart.&quot; It is when a user is about to check out, but then leaves the site. This happens frequently, and many savvy e-commerce sites try to recover these abandoned carts.</p>

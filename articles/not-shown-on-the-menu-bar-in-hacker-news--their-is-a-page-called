@@ -1,0 +1,43 @@
+
+        <html>
+            <head>
+                <title>Not shown on the menu bar in Hacker News, their is a page called - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/not-shown-on-the-menu-bar-in-hacker-news--their-is-a-page-called">Not shown on the menu bar in Hacker News, their is a page called</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-08-19</div>
+    <div class="tags">@tags=<a href="tags/"></a></div>
+    </div>
+    <article>
+        <p>Not shown on the menu bar in Hacker News, their is a page called &quot;best,&quot; which has less updates per day, and is nice if you don&#39;t want to get too sucked in to what is &quot;hot&quot;.
+<a rel="nofollow" target="_blank" href="http://news.ycombinator.com/best" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://news.ycombinator.com/best</a></p>
+<h3>Hacker News | Top Links\n</h3>
+<p><a href="http://news.ycombinator.com/best">http://news.ycombinator.com/best</a></p>
+<p><a href="http://news.ycombinator.com/best">http://news.ycombinator.com/best</a></p>
+
+    </article>
+    
+            </body>
+          </html>
+          

@@ -1,0 +1,45 @@
+
+        <html>
+            <head>
+                <title>A quick and easy way to make Chrome web browser more secure - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/a-quick-and-easy-way-to-make-chrome-web-browser-more-secure">A quick and easy way to make Chrome web browser more secure</a></h2>
+    <div class="variables">
+    <div class="date">@date=2013-03-06</div>
+    <div class="tags">@tags=<a href="tags/extensions">extensions</a></div>
+    </div>
+    <article>
+        <p>A quick and easy way to make Chrome web browser more secure:</p>
+<p>Go to this url:
+chrome://plugins/</p>
+<p>and start disabling plugins. The number 1 on your hit list is Java, which accounts for 50% of the security issues in the last year.
+(source: <a rel="nofollow" target="_blank" href="http://www.reuters.com/article/2013/01/14/us-java-oracle-security-idUSBRE90D10P20130114" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://www.reuters.com/article/2013/01/14/us-java-oracle-security-idUSBRE90D10P20130114</a> )</p>
+<p>I also disable a bunch of other things like Flash that I just don&#39;t see as necessary in my daily browsing, and can be turned on in a .... flash :P</p>
+<p><a href="http://www.reuters.com/article/2013/01/14/us-java-oracle-security-idUSBRE90D10P20130114">http://www.reuters.com/article/2013/01/14/us-java-oracle-security-idUSBRE90D10P20130114</a></p>
+
+    </article>
+    
+            </body>
+          </html>
+          

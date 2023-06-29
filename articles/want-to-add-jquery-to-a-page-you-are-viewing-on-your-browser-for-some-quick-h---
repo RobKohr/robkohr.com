@@ -31,8 +31,9 @@
     </div>
     <article>
         <p>Want to add jquery to a page you are viewing on your browser for some quick hackery?</p>
-<p>Create a bookmark with this as the location:
-javascript:void((function(){j=document.createElement(&quot;SCRIPT&quot;);j.src=&quot;<a rel="nofollow" target="_blank" href="http://code.jquery.com/jquery-latest.pack.js" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://code.jquery.com/jquery-latest.pack.js</a>&quot;;document.getElementsByTagName(&quot;HEAD&quot;)[0].appendChild(j);})())</p>
+<p>Create a bookmark with this as the location:</p>
+<pre><code>javascript:void((function(){j=document.createElement(&quot;SCRIPT&quot;);j.src=&quot;&lt;a rel=&quot;nofollow&quot; target=&quot;_blank&quot; href=&quot;http://code.jquery.com/jquery-latest.pack.js&quot; class=&quot;ot-anchor bidi_isolate&quot; jslog=&quot;10929; track:click&quot; dir=&quot;ltr&quot;&gt;http://code.jquery.com/jquery-latest.pack.js&lt;/a&gt;&quot;;document.getElementsByTagName(&quot;HEAD&quot;)[0].appendChild(j);})())
+</code></pre>
 <p>Whenever you use the bookmark it will add jquery to the current page, then just open up your javascript console and hack away.</p>
 <p><a href="http://code.jquery.com/jquery-latest.pack.js">http://code.jquery.com/jquery-latest.pack.js</a></p>
 

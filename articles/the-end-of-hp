@@ -1,0 +1,43 @@
+
+        <html>
+            <head>
+                <title>The end of HP - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/the-end-of-hp">The end of HP</a></h2>
+    <div class="variables">
+    <div class="date">@date=2013-07-15</div>
+    <div class="tags">@tags=<a href="tags/"></a></div>
+    </div>
+    <article>
+        <p>For some reason I have been thinking a lot about health bars, HP in RPGs, and RTS&#39;</p>
+<p>The idea of diminishing health until a character is dead just seems to be very far from reality. If you get hit by a sword or arrow or bullet, you are either critically wounded (crippled), dead, or maybe it was just a flesh wound, but it isn&#39;t like a number of successful hits lead to your death or incapacitation.</p>
+<p>As I watch two soldiers riddle each other full of bullets while running around, I just think that something is really way off with this whole idea of health power.</p>
+<p>It would be great when two armies clashed in an RTS game, some amount of chance, proper support and positioning, and clever strategy lead to immediate falling soldiers and incapacitated equipment. When you are playing that RPG game, you either get a critical hit on that monster, or you just happen to really piss it off (and likewise in return). When you combine weapons, skill and violence, the balance between life and death is balanced on a knife&#39;s edge and it would be great if games reflected that rather than having two orcs hit each other&#39;s heads for a full minute while someone casts healing spells on them and dragons are dropping fireballs from above. </p>
+<p>It is time to train more necromancers than healers.</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

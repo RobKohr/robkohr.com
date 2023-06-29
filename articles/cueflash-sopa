@@ -1,0 +1,48 @@
+
+        <html>
+            <head>
+                <title>Cueflash sopa - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/cueflash-sopa">Cueflash sopa</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-01-18</div>
+    <div class="tags">@tags=<a href="tags/"></a></div>
+    </div>
+    <article>
+        <p><a rel="nofollow" target="_blank" href="http://editthis.info" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">editthis.info</a> and <a rel="nofollow" target="_blank" href="http://cueflash.com" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">cueflash.com</a> have a SOPA and PIPA message on them along with a zip code lookup tool for congressmen (I am working off of wikipedia&#39;s system). If you would like to do something similar on your site, you can include this simple lookup form:</p>
+<p>Please call your congressman today and voice your opinion:</p>
+<form method="GET" action="<a rel="nofollow" target="_blank" href="http://en.wikipedia.org/wiki/Special:CongressLookup" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://en.wikipedia.org/wiki/Special:CongressLookup</a>">
+<p>Your zip code: <input name="zip"></p>
+<p><input type="submit" value="Lookup Congressmen"></p>
+</form>
+
+<p><a href="http://editthis.info">http://editthis.info</a></p>
+<p><a href="http://cueflash.com">http://cueflash.com</a></p>
+<p><a href="http://en.wikipedia.org/wiki/Special:CongressLookup">http://en.wikipedia.org/wiki/Special:CongressLookup</a></p>
+
+    </article>
+    
+            </body>
+          </html>
+          

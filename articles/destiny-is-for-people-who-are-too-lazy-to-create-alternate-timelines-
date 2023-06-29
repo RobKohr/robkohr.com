@@ -1,0 +1,41 @@
+
+        <html>
+            <head>
+                <title>Destiny is for people who are too lazy to create alternate timelines. - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/destiny-is-for-people-who-are-too-lazy-to-create-alternate-timelines-">Destiny is for people who are too lazy to create alternate timelines.</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-10-06</div>
+    <div class="tags">@tags=<a href="tags/"></a></div>
+    </div>
+    <article>
+        <p>&quot;Destiny is for people who are too lazy to create alternate timelines.&quot;
+(<a rel="nofollow" target="_blank" href="http://www.dieselsweeties.com/archive/2907" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://www.dieselsweeties.com/archive/2907</a>)</p>
+<p><a href="http://www.dieselsweeties.com/archive/2907">http://www.dieselsweeties.com/archive/2907</a></p>
+
+    </article>
+    
+            </body>
+          </html>
+          

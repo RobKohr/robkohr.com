@@ -1,0 +1,42 @@
+
+        <html>
+            <head>
+                <title>I like this channel on turntable for electronic music. - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/i-like-this-channel-on-turntable-for-electronic-music-">I like this channel on turntable for electronic music.</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-08-12</div>
+    <div class="tags">@tags=<a href="tags/"></a></div>
+    </div>
+    <article>
+        <p>I like this channel on turntable for electronic music. </p>
+<p>It would be nice if they gave a nice title and description view for sharing</p>
+<h3>Turntable - invite only beta\n</h3>
+<p><a href="http://turntable.fm/electronic_music_snobs_return">http://turntable.fm/electronic_music_snobs_return</a></p>
+
+    </article>
+    
+            </body>
+          </html>
+          

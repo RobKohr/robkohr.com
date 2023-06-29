@@ -1,0 +1,42 @@
+
+        <html>
+            <head>
+                <title>Really, set up any command to run on startup as a service - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/really--set-up-any-command-to-run-on-startup-as-a-service">Really, set up any command to run on startup as a service</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-11-18</div>
+    <div class="tags">@tags=<a href="tags/"></a></div>
+    </div>
+    <article>
+        <p>Really, set up any command to run on startup as a service (and have &quot;start/stop myprocess&quot; commands available to you).</p>
+<p>Much easier than init.d</p>
+<h3>Run Node.js as a Service on Ubuntu\n</h3>
+<p><a href="http://kevin.vanzonneveld.net/techblog/article/run_nodejs_as_a_service_on_ubuntu_karmic/">http://kevin.vanzonneveld.net/techblog/article/run_nodejs_as_a_service_on_ubuntu_karmic/</a></p>
+
+    </article>
+    
+            </body>
+          </html>
+          

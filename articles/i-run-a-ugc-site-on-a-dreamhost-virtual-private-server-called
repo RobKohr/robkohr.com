@@ -1,0 +1,47 @@
+
+        <html>
+            <head>
+                <title>I run a UGC site on a dreamhost virtual private server called - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/i-run-a-ugc-site-on-a-dreamhost-virtual-private-server-called">I run a UGC site on a dreamhost virtual private server called</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-11-16</div>
+    <div class="tags">@tags=<a href="tags/"></a></div>
+    </div>
+    <article>
+        <p>I run a UGC site on a dreamhost virtual private server called <a rel="nofollow" target="_blank" href="http://cueflash.com" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">cueflash.com</a>. A user posted up content that was copyrighted, and dreamhost recieved a DMCA takedown notice. They shut my site down, without first giving me any notice (though, in their defense, it was easy to turn it back on).</p>
+<p>I also run a UGC site on linode (<a rel="nofollow" target="_blank" href="http://editthis.info" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">editthis.info</a>), and had the same situtation there (except the person who made the complaint was wrong and I protected the users&#39; contributions). Linode actually allowed me to address the issue rather than just pulling the plug.</p>
+<p>If you are going to run a site where a user might post something that violates copyright (a forum, a blog with comments, or practically anything), and you would prefer not to have a provider that shoots first, and asks questions later, go with Linode.
+<a rel="nofollow" target="_blank" href="http://tinyurl.com/25x4bk5" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://tinyurl.com/25x4bk5</a> (my referral code is in there)</p>
+<h3>Linode - Xen VPS Hosting\n</h3>
+<p><a href="http://cueflash.com">http://cueflash.com</a></p>
+<p><a href="http://editthis.info">http://editthis.info</a></p>
+<p><a href="http://tinyurl.com/25x4bk5">http://tinyurl.com/25x4bk5</a></p>
+<p><a href="http://tinyurl.com/25x4bk5">http://tinyurl.com/25x4bk5</a></p>
+
+    </article>
+    
+            </body>
+          </html>
+          

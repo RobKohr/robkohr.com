@@ -1,0 +1,42 @@
+
+        <html>
+            <head>
+                <title>college - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            <h2>Tag: college</h2>
+    
+    <h2><a href="articles/this-is-advice-i-would-have-taken-had-i-known-when-i-started-college--i-would---">This is advice I would have taken had I known when I started college. I would...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2014-01-17</div>
+    <div class="tags">@tags=<a href="tags/college">college</a></div>
+    </div>
+    <article>
+        <p>This is advice I would have taken had I known when I started college. I would pass this on to anyone you know that is going to college soon.</p>
+<h3>Testing Out: How to “Moneyball” Your Way to a Debt-Free College Degree\n</h3>
+<p><a href="http://www.artofmanliness.com/2014/01/14/testing-out-how-to-moneyball-your-way-to-a-debt-free-college-degree/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed:+TheArtOfManliness+%28The+Art+of+Manliness%29">http://www.artofmanliness.com/2014/01/14/testing-out-how-to-moneyball-your-way-to-a-debt-free-college-degree/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed:+TheArtOfManliness+%28The+Art+of+Manliness%29</a></p>
+
+    </article>
+    
+            </body>
+        </html>
+    

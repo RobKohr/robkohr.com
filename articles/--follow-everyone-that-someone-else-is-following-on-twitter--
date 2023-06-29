@@ -1,0 +1,44 @@
+
+        <html>
+            <head>
+                <title>**Follow everyone that someone else is following on twitter** - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/--follow-everyone-that-someone-else-is-following-on-twitter--">**Follow everyone that someone else is following on twitter**</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-01-29</div>
+    <div class="tags">@tags=<a href="tags/"></a></div>
+    </div>
+    <article>
+        <p><strong>Follow everyone that someone else is following on twitter</strong></p>
+<p>I opened up a second twitter account, and I wanted to follow everyone my first twitter account was following. I went to the &quot;following&quot; page for the first account and started clicking away, till bordom ensued. Then I did an inspect element on the follow button, and with a little jquery magic, did a quick follow of everyone. I just opened up the javascript console, and entered.
+$(&#39;.js-action-follow&#39;).click();</p>
+<p>Done!</p>
+<p><a href="https://twitter.com/WilliamShatner/following">https://twitter.com/WilliamShatner/following</a></p>
+<p><a href="http://stackoverflow.com/questions/5841118/follow-all-users-on-a-twitter-page">http://stackoverflow.com/questions/5841118/follow-all-users-on-a-twitter-page</a></p>
+
+    </article>
+    
+            </body>
+          </html>
+          
