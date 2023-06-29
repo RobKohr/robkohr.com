@@ -1,0 +1,54 @@
+
+        <html>
+            <head>
+                <title>Have you been programming in php for years and need to write some javascript,... - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/have-you-been-programming-in-php-for-years-and-need-to-write-some-javascript----">Have you been programming in php for years and need to write some javascript,...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-09-14</div>
+    <div class="tags">@tags=<a href="tags/"></a></div>
+    </div>
+    <article>
+        <p>Have you been programming in php for years and need to write some javascript, only to find you really could use a php function to solve a js problem.</p>
+<p>Well stop before you rewrite it. </p>
+<p><a rel="nofollow" target="_blank" href="http://phpjs.org/" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://phpjs.org/</a>
+Has been a great fill in for all those times I just wished I had access to the 1M+ functions php seems to have.</p>
+<p>I like to wrap it all in an object so I can access something like:
+php.explode(&#39;,&#39;, someString);</p>
+<h2>and so it makes sense when the functions in javascript break the convention of camelCase names for php_functions. </h2>
+<h2>For want of a nail the shoe was lost.
+For want of a shoe the horse was lost.
+For want of a horse the rider was lost.
+For want of a rider the battle was lost.
+For want of a battle the kingdom was lost.
+And all for the want of a horseshoe nail.</h2>
+<h3>Functions overview - php.js\n</h3>
+<p><a href="http://phpjs.org/">http://phpjs.org/</a></p>
+<p><a href="http://phpjs.org/">http://phpjs.org/</a></p>
+
+    </article>
+    
+            </body>
+          </html>
+          

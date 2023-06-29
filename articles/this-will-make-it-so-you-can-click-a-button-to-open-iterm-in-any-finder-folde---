@@ -1,0 +1,49 @@
+
+        <html>
+            <head>
+                <title>This will make it so you can click a button to open iTerm in any finder folde... - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/this-will-make-it-so-you-can-click-a-button-to-open-iterm-in-any-finder-folde---">This will make it so you can click a button to open iTerm in any finder folde...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-01-23</div>
+    <div class="tags">@tags=<a href="tags/"></a></div>
+    </div>
+    <article>
+        <p>This will make it so you can click a button to open iTerm in any finder folder:</p>
+<p>Download 
+*<a rel="nofollow" target="_blank" href="https://raw.github.com/gist/905546/e1a34cf2d217d44858146af71d76546d3289c4b0/finder-open-iterm-here.scpt" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">https://raw.github.com/gist/905546/e1a34cf2d217d44858146af71d76546d3289c4b0/finder-open-iterm-here.scpt</a>
+*You might have to change the extension after saving from .txt to .scpt
+*Open the script and file-&gt;save as application
+*Put it in your applications folder
+*Drag the app to the toolbar of a finder window. </p>
+<p>Now whenever you have a folder selected (or are in a folder) you can click the icon and it will open iterm at that location.</p>
+<h3>Finder Open iTerm Here: Drop a folder on this script (or just run it) to open a new iTerm window there. If the selected item isn&#39;t a folder, it will open the item&#39;s parent folder. Great when bound to ...\n</h3>
+<p><a href="https://raw.github.com/gist/905546/e1a34cf2d217d44858146af71d76546d3289c4b0/finder-open-iterm-here.scpt">https://raw.github.com/gist/905546/e1a34cf2d217d44858146af71d76546d3289c4b0/finder-open-iterm-here.scpt</a></p>
+<p><a href="https://gist.github.com/905546">https://gist.github.com/905546</a></p>
+
+    </article>
+    
+            </body>
+          </html>
+          

@@ -1,0 +1,41 @@
+
+        <html>
+            <head>
+                <title>This is what 3d should really be. - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/this-is-what-3d-should-really-be-">This is what 3d should really be.</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-10-17</div>
+    <div class="tags">@tags=<a href="tags/"></a></div>
+    </div>
+    <article>
+        <p>This is what 3d should really be.</p>
+<p> Using the infrared camera in the Wii remote and a head mounted sensor bar (two IR LEDs), you can accurately track the location of your head and render view dependent images on the screen. This effectively transforms your display into a portal to a virtual environment. The display properly reacts to head and body movement as if it were a real window creating a realistic illusion of depth and space. By Johnny Chung Lee, Carnegie Mellon University. For more information and software visit <a href="http://johnnylee.net">http://johnnylee.net</a></p>
+<p><a href="http://www.youtube.com/watch?v=Jd3-eiid-Uw">http://www.youtube.com/watch?v=Jd3-eiid-Uw</a></p>
+
+    </article>
+    
+            </body>
+          </html>
+          

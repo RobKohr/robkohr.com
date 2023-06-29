@@ -1,0 +1,42 @@
+
+        <html>
+            <head>
+                <title>What a great video. - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/what-a-great-video-">What a great video.</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-09-27</div>
+    <div class="tags">@tags=<a href="tags/"></a></div>
+    </div>
+    <article>
+        <p>What a great video.</p>
+<p> Official video for &#39;The Stampede&#39; by Biting Elbows from our debut EP - &#39;Dope Fiend Massacre&#39; Click to Tweet: <a href="http://clicktotweet.com/7fIbn">http://clicktotweet.com/7fIbn</a> Buy @ iTunes <a href="http://goo.gl/07jyf">http://goo.gl/07jyf</a> @ Amazon <a href="http://goo.gl/53Kcl">http://goo.gl/53Kcl</a> facebook: <a href="http://www.facebook.com/bitingelbows">http://www.facebook.com/bitingelbows</a> <a href="http://www.BitingElbows.com">www.BitingElbows.com</a> Directed and Edited by Ilya Naishuller - (<a href="mailto:ilya.nayshuller@bitingelbows.com">ilya.nayshuller@bitingelbows.com</a>) Shot by Sergei Valyaev and Ilya Naishuller Cast &amp; Crew: Andrei Dementiev Ilya Kondratiev Garik Buldenkov Alexei Zamaraev Nikolay Sorin Misha &#39;Lemur&#39; Belskii Kvataniya Lado Vlad Kaptur Valentin Fadeev Alex Mikerov Sergei Gevorgyan Arkady Riskin Nikita Lobov Yuri Zolotarev Victor Naishuller Dmitry Smirnov Alexander Melsitov Alexei Lukashov Denis Baratov Alexei Alekseev Andrei Agafonov Ashda Rushachi Natasha Koplouhaya Kamilla Belova Ekaterina Rodionova Nikolai Kostomarov Sergei Pleshkov Alexei Khruslov Anton Emelin (c) Biting Elbows 2011</p>
+<p><a href="http://laughingsquid.com/insane-office-escape-parkour-music-video-as-a-first-person-shooter/">http://laughingsquid.com/insane-office-escape-parkour-music-video-as-a-first-person-shooter/</a></p>
+<p><a href="http://www.youtube.com/watch?v=QYm-dT24iRY">http://www.youtube.com/watch?v=QYm-dT24iRY</a></p>
+
+    </article>
+    
+            </body>
+          </html>
+          

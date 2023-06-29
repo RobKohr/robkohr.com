@@ -1,0 +1,46 @@
+
+        <html>
+            <head>
+                <title>XKCD has a great comic about how to create a strong yet easy to remember pass... - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/xkcd-has-a-great-comic-about-how-to-create-a-strong-yet-easy-to-remember-pass---">XKCD has a great comic about how to create a strong yet easy to remember pass...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-01-22</div>
+    <div class="tags">@tags=<a href="tags/"></a></div>
+    </div>
+    <article>
+        <p>XKCD has a great comic about how to create a strong yet easy to remember password:
+<a rel="nofollow" target="_blank" href="http://xkcd.com/936/" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://xkcd.com/936/</a></p>
+<p>And this site created a generator for it:
+<a rel="nofollow" target="_blank" href="http://passphra.se/" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://passphra.se/</a></p>
+<h3>xkcd: Password Strength\n</h3>
+<p><a href="http://xkcd.com/936/">http://xkcd.com/936/</a></p>
+<p><a href="http://passphra.se/">http://passphra.se/</a></p>
+<p><a href="http://xkcd.com/936/">http://xkcd.com/936/</a></p>
+
+    </article>
+    
+            </body>
+          </html>
+          

@@ -1,7 +1,7 @@
 
         <html>
             <head>
-                <title>Google+ post - RobKohr's Blog</title>
+                <title>It is simple:<br><br>If you send a newsletter and your unsubscribe link requi... - RobKohr's Blog</title>
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
@@ -24,14 +24,16 @@
             <body>
             <a href="./index.html">Home</a>
             
-    <h2><a href="articles/google--post">Google+ post</a></h2>
+    <h2><a href="articles/it-is-simple--br--br-if-you-send-a-newsletter-and-your-unsubscribe-link-requi---">It is simple:<br><br>If you send a newsletter and your unsubscribe link requi...</a></h2>
     <div class="variables">
-    <div class="date">@date=2011-07-14</div>
+    <div class="date">@date=2011-09-23</div>
     <div class="tags">@tags=<a href="tags/"></a></div>
     </div>
     <article>
-        <p> How much can you know about yourself if you&#39;ve never been in a sketch comedy troupe? Starring this shrub: <a href="http://www.flickr.com/photos/daryl_mitchell/243411784/">http://www.flickr.com/photos/daryl_mitchell/243411784/</a></p>
-<p><a href="http://www.youtube.com/watch?v=p0pEAiZOR5s">http://www.youtube.com/watch?v=p0pEAiZOR5s</a></p>
+        <p>It is simple:</p>
+<p>If you send a newsletter and your unsubscribe link requires me to log in, fill out a form, or do anything for that matter, I go back to the email and just mark as spam.</p>
+<p>If you are too lazy to make it easy to opt out, I am too lazy to help you with your email deliverability. </p>
+<p>Unsubscribe links should be one click, easy to find, and not waste my time.</p>
 
     </article>
     

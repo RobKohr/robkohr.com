@@ -1,0 +1,44 @@
+
+        <html>
+            <head>
+                <title>**Android Bitcoin Venerability**<br><br>If you or anyone you know is using... - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/--android-bitcoin-venerability---br--br-if-you-or-anyone-you-know-is-using---">**Android Bitcoin Venerability**<br><br>If you or anyone you know is using...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2013-08-19</div>
+    <div class="tags">@tags=<a href="tags/"></a></div>
+    </div>
+    <article>
+        <p><strong>Android Bitcoin Venerability</strong></p>
+<p>If you or anyone you know is using bitcoin on android, there is a issue with how android was creating random numbers which made transactions generated on android wallets vulnerable where the private keys could be reverse engineered. </p>
+<p>I use BitcoinSpinner, and I upgraded BitcoinSpinner, and then installed a new app from the same developer called Mycellium which seems to be a little better. I then sent all of my money to the new wallet in the Mycellium app, so it is now safe from that vulnerability. </p>
+<p>This only effects all of the android apps, and they all need new wallets and addresses as the previous private keys are vulnerable.</p>
+<p>For a little background on how this could happen:</p>
+<p>Every address has a private key which is used to control the funds in that address. Using a little crypto magic, the private key combined with a random number will create a signature for the transaction that can be verified that it comes from the owner of the public address. If you somehow knew that the random number was 123456, you can reverse the process and get the private key. The problem is with the Android random library, it has a tendency to repeatedly generate some &quot;random numbers&quot;. Ironically the library is called SecureRandom. I think it was on the shelf next to UnsinkableShip.</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

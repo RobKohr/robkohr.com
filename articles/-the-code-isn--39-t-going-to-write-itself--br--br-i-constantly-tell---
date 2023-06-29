@@ -1,0 +1,46 @@
+
+        <html>
+            <head>
+                <title>"The code isn&#39;t going to write itself"<br><br>I constantly tell... - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/-the-code-isn--39-t-going-to-write-itself--br--br-i-constantly-tell---">"The code isn&#39;t going to write itself"<br><br>I constantly tell...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-06-04</div>
+    <div class="tags">@tags=<a href="tags/"></a></div>
+    </div>
+    <article>
+        <p>&quot;The code isn&#39;t going to write itself&quot;</p>
+<p>I constantly tell myself that every time I wonder why things aren&#39;t getting done at the speed that I expect for personal projects. Typically it comes down to being overzealous with my project timelines, or just doing too many things that are distracting me from my goals (like reading hacker news).</p>
+<p>Tip for hacker news users that need to save time:
+<a rel="nofollow" target="_blank" href="http://news.ycombinator.com/best" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://news.ycombinator.com/best</a>
+This url has less article turnover, and just highlights the most important posts.</p>
+<h3>Top Links | Hacker News\n</h3>
+<p><a href="http://news.ycombinator.com/best">http://news.ycombinator.com/best</a></p>
+<p><a href="http://news.ycombinator.com/best">http://news.ycombinator.com/best</a></p>
+
+    </article>
+    
+            </body>
+          </html>
+          

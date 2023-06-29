@@ -1,0 +1,42 @@
+
+        <html>
+            <head>
+                <title>Due to really poor sales in the app store (kinda expected since it was just a... - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/due-to-really-poor-sales-in-the-app-store--kinda-expected-since-it-was-just-a---">Due to really poor sales in the app store (kinda expected since it was just a...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-08-15</div>
+    <div class="tags">@tags=<a href="tags/"></a></div>
+    </div>
+    <article>
+        <p>Due to really poor sales in the app store (kinda expected since it was just an astroids clone) space rocks is now free. When I get around to it, I will post up the source code on github. It was written with JS using the canvas element for drawing. It was bundled into an iOS app using phonegap.</p>
+<p>If you have an urge to hack on it, just post a comment here, and I will post up the source earlier (right now it is a low priority).</p>
+<h3>Space Rocks Battle Edition for iPhone, iPod touch, and iPad on the iTunes App Store\n</h3>
+<p><a href="http://itunes.apple.com/us/app/space-rocks-battle-edition/id440217537?ls=1&amp;mt=8">http://itunes.apple.com/us/app/space-rocks-battle-edition/id440217537?ls=1&amp;mt=8</a></p>
+
+    </article>
+    
+            </body>
+          </html>
+          

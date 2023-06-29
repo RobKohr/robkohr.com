@@ -1,0 +1,44 @@
+
+        <html>
+            <head>
+                <title>John, I have a tendency to find your comments all over the web. I just trippe... - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/john--i-have-a-tendency-to-find-your-comments-all-over-the-web--i-just-trippe---">John, I have a tendency to find your comments all over the web. I just trippe...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-06-08</div>
+    <div class="tags">@tags=<a href="tags/"></a></div>
+    </div>
+    <article>
+        <p>John, I have a tendency to find your comments all over the web. I just tripped on one today:
+<a rel="nofollow" target="_blank" href="http://www.theopensourcery.com/keepopen/2010/exploring-html5-aside-header-footer-section-tags/" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://www.theopensourcery.com/keepopen/2010/exploring-html5-aside-header-footer-section-tags/</a></p>
+<p>Way to make the internet seem like a very small place.  :P</p>
+<h3>Exploring HTML5: Aside, Header, Footer, Section Tags | Keep an Open Eye Eye, Sir\n</h3>
+<p><a href="http://www.theopensourcery.com/keepopen/2010/exploring-html5-aside-header-footer-section-tags/">http://www.theopensourcery.com/keepopen/2010/exploring-html5-aside-header-footer-section-tags/</a></p>
+<p><a href="http://www.theopensourcery.com/keepopen/2010/exploring-html5-aside-header-footer-section-tags/">http://www.theopensourcery.com/keepopen/2010/exploring-html5-aside-header-footer-section-tags/</a></p>
+
+    </article>
+    
+            </body>
+          </html>
+          

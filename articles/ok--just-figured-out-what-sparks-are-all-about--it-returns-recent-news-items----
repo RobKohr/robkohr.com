@@ -1,7 +1,7 @@
 
         <html>
             <head>
-                <title>Google+ post - RobKohr's Blog</title>
+                <title>Ok, just figured out what sparks are all about. It returns recent news items,... - RobKohr's Blog</title>
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
@@ -24,14 +24,17 @@
             <body>
             <a href="./index.html">Home</a>
             
-    <h2><a href="articles/google--post">Google+ post</a></h2>
+    <h2><a href="articles/ok--just-figured-out-what-sparks-are-all-about--it-returns-recent-news-items----">Ok, just figured out what sparks are all about. It returns recent news items,...</a></h2>
     <div class="variables">
     <div class="date">@date=2011-07-14</div>
     <div class="tags">@tags=<a href="tags/"></a></div>
     </div>
     <article>
-        <p> How much can you know about yourself if you&#39;ve never been in a sketch comedy troupe? Starring this shrub: <a href="http://www.flickr.com/photos/daryl_mitchell/243411784/">http://www.flickr.com/photos/daryl_mitchell/243411784/</a></p>
-<p><a href="http://www.youtube.com/watch?v=p0pEAiZOR5s">http://www.youtube.com/watch?v=p0pEAiZOR5s</a></p>
+        <p><span itemprop="text"
+          >Ok, just figured out what sparks are all about. It returns recent news items, which you can then share. It reminds me of the scene in Monty
+          Python&#39;s Meaning of Life where the waiter gives the a couple a menu of things to talk about.</span
+        ></p>
+<p><a href="http://www.youtube.com/watch?v=gkp7f8IxJNU">http://www.youtube.com/watch?v=gkp7f8IxJNU</a></p>
 
     </article>
     

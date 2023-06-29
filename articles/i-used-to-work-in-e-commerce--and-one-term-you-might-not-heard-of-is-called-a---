@@ -1,0 +1,41 @@
+
+        <html>
+            <head>
+                <title>I used to work in e-commerce, and one term you might not heard of is called a... - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/i-used-to-work-in-e-commerce--and-one-term-you-might-not-heard-of-is-called-a---">I used to work in e-commerce, and one term you might not heard of is called a...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2014-01-17</div>
+    <div class="tags">@tags=<a href="tags/"></a></div>
+    </div>
+    <article>
+        <p>I used to work in e-commerce, and one term you might not heard of is called an &quot;abandoned cart.&quot; It is when a user is about to check out, but then leaves the site. This happens frequently, and many savvy e-commerce sites try to recover these abandoned carts.</p>
+<p>If you got through much of the process including entering your email address, and abandon, the e-commerce site might send you an email within 24 hours to recover your cart and get some discount on checkout. This happens a lot on fashion and luxury purchase websites which have big markups from their production costs, and thus they can shave off a sizable percentage and still make a profit. </p>
+<p>So if you are on such a website, go through to the last page of checkout, and leave. Check your email (and your spam folder the next day) and you might have a surprise waiting for you.</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

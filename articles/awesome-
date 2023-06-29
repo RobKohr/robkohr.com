@@ -1,0 +1,42 @@
+
+        <html>
+            <head>
+                <title>Awesome. - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/awesome-">Awesome.</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-07-20</div>
+    <div class="tags">@tags=<a href="tags/"></a></div>
+    </div>
+    <article>
+        <p>Awesome.</p>
+<p> <em>DISCLAIMER: Dear movie studio and Benny Benassi- this video is not intended for commercial use. It is simply a side project created for the fun of it. I like apes and monkeys, I like classic movies like this one, I like dance music, I like Benny Benassi, and I used to like glowsticks when I was 19... so I made this video. If the usage of this footage or music for this artistic expression causes any issues with you, please contact me directly (info found easily at <a href="http://www.bradhasse.com">www.bradhasse.com</a>) and I&#39;ll take it down. But ever since this idea popped into my head, I couldn&#39;t help but try to make it for the fun of it to see what it would look like if Charlton Heston found a few glowsticks, turntables, and an insatiable urge to dance. Since I work with some amazing graphics people, we decided to just give it a go. This is a result of that collaboration. ------------------------------------------------------------------------------- The footage is from the original 1968 &quot;Planet of the Apes&quot; The music is a medley of songs from Benny Benassi Presents The Biz- &quot;Hypnotica&quot; album (Get Loose, Satisfaction, Time, I Wanna Touch Your Soul) Directed, Edited, Concept by Brad Hasse <a href="http://www.bradhasse.com">www.bradhasse.com</a> Visual Effects and Design by EP</em>Vision -Maryam Parwana -Brian Walsh <a href="http://www.epvision.tv">www.epvision.tv</a> East Pleasant Pictures <a href="http://www.eastpleasant.com">www.eastpleasant.com</a></p>
+<p><a href="http://laughingsquid.com/planet-of-the-apes-party-fun-time/">http://laughingsquid.com/planet-of-the-apes-party-fun-time/</a></p>
+<p><a href="http://www.youtube.com/watch?v=T0cf9wwYXQs">http://www.youtube.com/watch?v=T0cf9wwYXQs</a></p>
+
+    </article>
+    
+            </body>
+          </html>
+          

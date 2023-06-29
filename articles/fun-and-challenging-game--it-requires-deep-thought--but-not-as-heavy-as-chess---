@@ -1,0 +1,41 @@
+
+        <html>
+            <head>
+                <title>Fun and challenging game. It requires deep thought, but not as heavy as chess... - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/fun-and-challenging-game--it-requires-deep-thought--but-not-as-heavy-as-chess---">Fun and challenging game. It requires deep thought, but not as heavy as chess...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-09-12</div>
+    <div class="tags">@tags=<a href="tags/"></a></div>
+    </div>
+    <article>
+        <p>Fun and challenging game. It requires deep thought, but not as heavy as chess and go. This is a good thing as it makes it easy to play a bunch of rounds of it without being overwhelmed.</p>
+<p> Don&#39;t lose your marbles -- make them stronger with this classic marble strategy game from Foxmind. See more Toy Videos on <a href="http://www.tdmonthly.com">www.tdmonthly.com</a></p>
+<p><a href="http://www.youtube.com/watch?v=gi3DHl1216U">http://www.youtube.com/watch?v=gi3DHl1216U</a></p>
+
+    </article>
+    
+            </body>
+          </html>
+          

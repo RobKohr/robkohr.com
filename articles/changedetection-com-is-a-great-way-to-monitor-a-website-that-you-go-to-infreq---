@@ -1,0 +1,42 @@
+
+        <html>
+            <head>
+                <title>ChangeDetection.com is a great way to monitor a website that you go to infreq... - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/changedetection-com-is-a-great-way-to-monitor-a-website-that-you-go-to-infreq---">ChangeDetection.com is a great way to monitor a website that you go to infreq...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-04-15</div>
+    <div class="tags">@tags=<a href="tags/"></a></div>
+    </div>
+    <article>
+        <p>ChangeDetection.com is a great way to monitor a website that you go to infrequently (in this example, once a year). They email you whenever a change happens</p>
+<p>The link below is for google code jam&#39;s change log, and it is fun to see some of the minor copy tweaks the make over time.</p>
+<h3>ChangeDetection - Change Log: Google Code Jam\n</h3>
+<p><a href="http://www.changedetection.com/log/google/code/codejam_log.html">http://www.changedetection.com/log/google/code/codejam_log.html</a></p>
+
+    </article>
+    
+            </body>
+          </html>
+          

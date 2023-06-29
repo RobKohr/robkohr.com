@@ -1,0 +1,45 @@
+
+        <html>
+            <head>
+                <title>**Fake Amazon Reviews**<br><br>Important when looking at reviews on Amazon... - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/--fake-amazon-reviews---br--br-important-when-looking-at-reviews-on-amazon---">**Fake Amazon Reviews**<br><br>Important when looking at reviews on Amazon...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-01-08</div>
+    <div class="tags">@tags=<a href="tags/"></a></div>
+    </div>
+    <article>
+        <p><strong>Fake Amazon Reviews</strong></p>
+<p>Important when looking at reviews on Amazon: click on their profiles and see what else a person reviewed.</p>
+<p>I find a lot of reviewers are fake, and are really just sock puppets of the person selling the item.</p>
+<p>When the person reviewing the item only ever reviewed this item, or reviewed only items from this seller, it is likely a fake.</p>
+<p>Here is an example:
+<a rel="nofollow" target="_blank" href="http://www.amazon.com/gp/cdp/member-reviews/A2VPSIZ4K6A5EV/ref=cm_cr_dp_auth_rev?ie=UTF8&sort_by=MostRecentReview" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://www.amazon.com/gp/cdp/member-reviews/A2VPSIZ4K6A5EV/ref=cm_cr_dp_auth_rev?ie=UTF8&amp;sort_by=MostRecentReview</a></p>
+<p><a href="http://www.amazon.com/gp/cdp/member-reviews/A2VPSIZ4K6A5EV/ref=cm_cr_dp_auth_rev?ie=UTF8&amp;sort_by=MostRecentReview">http://www.amazon.com/gp/cdp/member-reviews/A2VPSIZ4K6A5EV/ref=cm_cr_dp_auth_rev?ie=UTF8&amp;sort_by=MostRecentReview</a></p>
+
+    </article>
+    
+            </body>
+          </html>
+          

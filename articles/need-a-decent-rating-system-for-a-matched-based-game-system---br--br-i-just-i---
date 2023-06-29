@@ -1,0 +1,45 @@
+
+        <html>
+            <head>
+                <title>Need a decent rating system for a matched based game system? <br><br>I just i... - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/need-a-decent-rating-system-for-a-matched-based-game-system---br--br-i-just-i---">Need a decent rating system for a matched based game system? <br><br>I just i...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-04-26</div>
+    <div class="tags">@tags=<a href="tags/"></a></div>
+    </div>
+    <article>
+        <p>Need a decent rating system for a matched based game system? </p>
+<p>I just implemented the glicko-2 rating system (similar to ELO, except much better) in javascript:
+<a rel="nofollow" target="_blank" href="https://github.com/RobKohr/glicko" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">https://github.com/RobKohr/glicko</a>
+If you decide to translate this into another language, let me know, and I will link to your version.</p>
+<h3>glicko\n</h3>
+<p><a href="https://github.com/RobKohr/glicko">https://github.com/RobKohr/glicko</a></p>
+<p><a href="https://github.com/RobKohr/glicko">https://github.com/RobKohr/glicko</a></p>
+
+    </article>
+    
+            </body>
+          </html>
+          

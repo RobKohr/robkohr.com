@@ -1,0 +1,42 @@
+
+        <html>
+            <head>
+                <title>Blown away - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/blown-away">Blown away</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-08-16</div>
+    <div class="tags">@tags=<a href="tags/"></a></div>
+    </div>
+    <article>
+        <p>Blown away</p>
+<p> Industrial Revolutions is the amazing new film from street trials riding star Danny Macaskill. Filmed and edited for Channel 4 &#39;s documentary Concrete Circus. Industrial Revolutions sees Danny take his incredible bike skills into an industrial train yard and some derelict buildings.&#39; Filmed in the beautiful Scottish countryside Danny Macaskill&#39;s latest film was directed by Stu Thomson (Cut Media/MTBcut) for Channel 4&#39;s documentary Concrete Circus. <a href="http://www.CutMedia.com">www.CutMedia.com</a> <a href="http://www.DannyMacaskill.com">www.DannyMacaskill.com</a> Music is &#39;The Wolves&#39; by Ben Howard courtesy of Universal Island Records</p>
+<p><a href="http://laughingsquid.com/industrial-revolutions-incredible-bike-stunts-by-danny-macaskill/">http://laughingsquid.com/industrial-revolutions-incredible-bike-stunts-by-danny-macaskill/</a></p>
+<p><a href="http://www.youtube.com/watch?v=ShbC5yVqOdI">http://www.youtube.com/watch?v=ShbC5yVqOdI</a></p>
+
+    </article>
+    
+            </body>
+          </html>
+          

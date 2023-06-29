@@ -1,0 +1,47 @@
+
+        <html>
+            <head>
+                <title>So someone sent a DMCA notice to my service provider. They were complaining a... - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/so-someone-sent-a-dmca-notice-to-my-service-provider--they-were-complaining-a---">So someone sent a DMCA notice to my service provider. They were complaining a...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-11-08</div>
+    <div class="tags">@tags=<a href="tags/"></a></div>
+    </div>
+    <article>
+        <p>So someone sent a DMCA notice to my service provider. They were complaining about content that they considered their copyright in a wiki I am hosting. It was a page about their news station WHKY TV. Looking through the history of the page, I could see that a bunch of people worked together to create the page. </p>
+<p>After a bunch of back and forth messages where he took a week to reply each time (and capped off each one with a legal threat), my final message to them ended with:</p>
+<p>&quot;Also, reply within 24 hours. I don&#39;t care how busy you are. You are
+the one who is wasting my time with what I suspect is a fishing
+expedition then threatening legal action. All the while I am complying
+with the investigation clause in your request.</p>
+<p>Cheers,
+Rob&quot;
+I hate DMCA lawyers. It would be great if there was some recourse for BS claims.</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

@@ -1,0 +1,42 @@
+
+        <html>
+            <head>
+                <title>I got tired of being distracted by that little red notification, and was abou... - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/i-got-tired-of-being-distracted-by-that-little-red-notification--and-was-abou---">I got tired of being distracted by that little red notification, and was abou...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-11-08</div>
+    <div class="tags">@tags=<a href="tags/"></a></div>
+    </div>
+    <article>
+        <p>I got tired of being distracted by that little red notification, and was about to write an extension to hide it. Thankfully someone beat me to it.</p>
+<h3>Hide Google+ Notification - Chrome Web Store\n</h3>
+<p><a href="https://chrome.google.com/webstore/detail/ogcfegjiehdakiogchpnllekccphhebd">https://chrome.google.com/webstore/detail/ogcfegjiehdakiogchpnllekccphhebd</a></p>
+<p><a href="http://amitaytweeto.com/thequietplace/">http://amitaytweeto.com/thequietplace/</a></p>
+
+    </article>
+    
+            </body>
+          </html>
+          

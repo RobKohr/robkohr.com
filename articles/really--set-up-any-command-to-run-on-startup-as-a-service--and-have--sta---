@@ -1,7 +1,7 @@
 
         <html>
             <head>
-                <title>Google+ post - RobKohr's Blog</title>
+                <title>Really, set up any command to run on startup as a service (and have "sta... - RobKohr's Blog</title>
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
@@ -24,14 +24,16 @@
             <body>
             <a href="./index.html">Home</a>
             
-    <h2><a href="articles/google--post">Google+ post</a></h2>
+    <h2><a href="articles/really--set-up-any-command-to-run-on-startup-as-a-service--and-have--sta---">Really, set up any command to run on startup as a service (and have "sta...</a></h2>
     <div class="variables">
-    <div class="date">@date=2011-07-14</div>
+    <div class="date">@date=2011-11-18</div>
     <div class="tags">@tags=<a href="tags/"></a></div>
     </div>
     <article>
-        <p> How much can you know about yourself if you&#39;ve never been in a sketch comedy troupe? Starring this shrub: <a href="http://www.flickr.com/photos/daryl_mitchell/243411784/">http://www.flickr.com/photos/daryl_mitchell/243411784/</a></p>
-<p><a href="http://www.youtube.com/watch?v=p0pEAiZOR5s">http://www.youtube.com/watch?v=p0pEAiZOR5s</a></p>
+        <p>Really, set up any command to run on startup as a service (and have &quot;start/stop myprocess&quot; commands available to you).</p>
+<p>Much easier than init.d</p>
+<h3>Run Node.js as a Service on Ubuntu\n</h3>
+<p><a href="http://kevin.vanzonneveld.net/techblog/article/run_nodejs_as_a_service_on_ubuntu_karmic/">http://kevin.vanzonneveld.net/techblog/article/run_nodejs_as_a_service_on_ubuntu_karmic/</a></p>
 
     </article>
     

@@ -1,0 +1,53 @@
+
+        <html>
+            <head>
+                <title>I am working on a programming game where you control an army of robots via a ... - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/i-am-working-on-a-programming-game-where-you-control-an-army-of-robots-via-a----">I am working on a programming game where you control an army of robots via a ...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-08-25</div>
+    <div class="tags">@tags=<a href="tags/"></a></div>
+    </div>
+    <article>
+        <p>I am working on a programming game where you control an army of robots via a web api. </p>
+<p>You can send orders to robots, or you can install javascript code in robots, and when they are out of communications range from your command center, they can use that code to work autonomously. </p>
+<p>The robots will be the typical variety of units that you would expect in an rts game (submarines, tanks, infantry, etc). They will run on fuel which will need to be transported to the front line by workers (which will have their own scripts to handle logistics). </p>
+<p>Communications will be key and setting up relay towers to send new messages and code to distant soldiers will be important (otherwise they will be in the dark, and you won&#39;t know what they are up to). Sending and receiving messages will cost fuel. </p>
+<p>The game will have no graphical user interface. A companion project is also set up which will allow people to create the interface and modify it to their liking using html5/javascript/etc etc.</p>
+<p>The initial api stuff can be seen here:
+<a rel="nofollow" target="_blank" href="http://rts-api.com:2000/help/api_options" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://rts-api.com:2000/help/api_options</a></p>
+<p>If you are interested in getting involved in the development of this game, let me know. (This is not a job, there will likely be no profit here)</p>
+<p>Technology involved: Node.js + express + mongodb</p>
+<p>If you just want to do the client end stuff, you will need to know jQuery and be able to work with JSON.</p>
+<h3>var p = { &quot;api_options&quot;: { &quot;0&quot;: { &quot;path&quot;: &quot;/test&quot;, &quot;route ...\n</h3>
+<p><a href="http://rts-api.com:2000/help/api_options">http://rts-api.com:2000/help/api_options</a></p>
+<p><a href="http://rts-api.com:2000/help/api_options">http://rts-api.com:2000/help/api_options</a></p>
+<p><a href="http://rts-api.com:2000/help">http://rts-api.com:2000/help</a></p>
+<p><a href="https://github.com/RobKohr/rts-api">https://github.com/RobKohr/rts-api</a></p>
+
+    </article>
+    
+            </body>
+          </html>
+          

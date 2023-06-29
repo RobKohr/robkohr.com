@@ -1,0 +1,44 @@
+
+        <html>
+            <head>
+                <title>I dropped google a couple weeks ago as my default search system in favor of <... - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/i-dropped-google-a-couple-weeks-ago-as-my-default-search-system-in-favor-of-----">I dropped google a couple weeks ago as my default search system in favor of <...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-01-11</div>
+    <div class="tags">@tags=<a href="tags/"></a></div>
+    </div>
+    <article>
+        <p>I dropped google a couple weeks ago as my default search system in favor of <a rel="nofollow" target="_blank" href="http://duckduckgo.com" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">duckduckgo.com</a>. The reason was that the results for technical terms started getting more &quot;fuzzy&quot; (+ operator was dropped and no matter what I couldn&#39;t force it to limit results to only things that contained what I wanted)</p>
+<p>Now I am even more hesitant to use it. Google search has been a winner due to its clean layout and generally not being biased. </p>
+<p>It looks like that era is over.</p>
+<h3>Real-Life Examples Of How Google&#39;s &quot;Search Plus&quot; Pushes Google+ Over Relevancy\n</h3>
+<p><a href="http://duckduckgo.com">http://duckduckgo.com</a></p>
+<p><a href="http://searchengineland.com/examples-google-search-plus-drive-facebook-twitter-crazy-107554">http://searchengineland.com/examples-google-search-plus-drive-facebook-twitter-crazy-107554</a></p>
+
+    </article>
+    
+            </body>
+          </html>
+          

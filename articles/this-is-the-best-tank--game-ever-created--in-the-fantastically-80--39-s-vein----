@@ -1,0 +1,42 @@
+
+        <html>
+            <head>
+                <title>This is the best TANK! game ever created. In the fantastically 80&#39;s vein ... - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/this-is-the-best-tank--game-ever-created--in-the-fantastically-80--39-s-vein----">This is the best TANK! game ever created. In the fantastically 80&#39;s vein ...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-08-08</div>
+    <div class="tags">@tags=<a href="tags/"></a></div>
+    </div>
+    <article>
+        <p>This is the best TANK! game ever created. In the fantastically 80&#39;s vein of classic arcade games...TANK! is simple, fun and satisfying. Play someone else on your iPhone and relive all the fun that old skool video games used to be.</p>
+<p>NOTE: This is a two player game only (on the same device), so be sure to bring a friend.</p>
+<h3>TANK! for iPhone, iPod touch, and iPad on the iTunes App Store\n</h3>
+<p><a href="http://itunes.apple.com/us/app/tank/id394804754?mt=8">http://itunes.apple.com/us/app/tank/id394804754?mt=8</a></p>
+
+    </article>
+    
+            </body>
+          </html>
+          

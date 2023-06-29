@@ -1,0 +1,40 @@
+
+        <html>
+            <head>
+                <title>After futzing with Adobe Illustrator for a while, and getting fed up, I hand ... - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/after-futzing-with-adobe-illustrator-for-a-while--and-getting-fed-up--i-hand----">After futzing with Adobe Illustrator for a while, and getting fed up, I hand ...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-12-13</div>
+    <div class="tags">@tags=<a href="tags/"></a></div>
+    </div>
+    <article>
+        <p>After futzing with Adobe Illustrator for a while, and getting fed up, I hand coded an SVG file and imported it in. So much easier when you want to be accurate. Trying to tell the software what you want with pointing and clicking just isn&#39;t as good as typing in <polygon points="...." style="..."></p>
+<p>I guess this would be different if I was doing a complicated graphic, but when just doing circles, squares, text, etc it just makes sense to type out what you want.</p>
+
+    </article>
+    
+            </body>
+          </html>
+          
