@@ -90,7 +90,7 @@ var articles = articlesFull.map(function (article) {
     return null;
   }
 
-  if(!variables.tags && variables.publishDate){
+  if(!variables.tags ){
     variables.tags = [{label:'untagged', link:`<a href="tags/untagged">untagged</a>`}]
   }
 

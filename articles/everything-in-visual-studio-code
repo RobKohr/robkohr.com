@@ -27,7 +27,7 @@
     <h2><a href="articles/everything-in-visual-studio-code">Everything in visual studio code</a></h2>
     <div class="variables">
     <div class="date">@date=2020-03-19</div>
-    <div class="tags"></div>
+    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
     </div>
     <article>
         <p><img src="images/2020-06-12-08-40-09.png" alt="2020-06-12-08-40-09.png" style="max-width: 100%;" /></p>
