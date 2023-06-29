@@ -43,6 +43,16 @@
 
     </article>
     
+    <h2><a href="articles/butchering-the-basics">Butchering the basics</a></h2>
+    <div class="variables">
+    <div class="date">@date=2018-02-01</div>
+    <div class="tags">@tags=<a href="tags/music">music</a></div>
+    </div>
+    <article>
+        <p><div><iframe width="560" height="315" src="https://www.youtube.com/embed/URkGWoNTDlA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></p>
+
+    </article>
+    
             </body>
         </html>
     

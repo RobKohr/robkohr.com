@@ -1,0 +1,44 @@
+
+        <html>
+            <head>
+                <title>X-ing - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/x-ing">X-ing</a></h2>
+    <div class="variables">
+    <div class="date">@date=  2015-06-07</div>
+    <div class="tags">@tags=<a href="tags/dreams">dreams</a></div>
+    </div>
+    <article>
+        <p>I wrote this a long while back about a dream I had about a race that happens every year. This isn&#39;t a normal race, but one where participants can bring all manner of things to race with (skateboards, bikes, etc) but most chose to go by foot.  </p>
+<p>The race starts in the dark of night, in a dense cityscape. The route is chosen that involves back allays, bridges, tunnels, fences, walls, and all sorts of difficult structures to cross. Some paths are down right dangerous. All of these paths are the shortest paths, where participants can take the longer slower path, avoiding danger and possible trespassing charges.  </p>
+<p>It all started out small at first, just a group of friends just doing it for fun. But before the designated start time this year, hundreds of people crowded through the tight starting point. There was no starting gun, there was no referee. You could hear the sound of a multitude of cell phones ringing their own little alarm sound.  </p>
+<p>People clamored over each other. People that brought bikes found that they were too cumbersome to carry over obstacles and manage in the throng of people. There were many with bruises and scratches, but no one seemed to get any broken bones this year.  </p>
+<p>The race terminated in the industrial section of town. An area where no one was likely to call the cops for the noise, but soon enough they would show up anyway. I say terminated, because there wasn&#39;t much of a finish line. Just a band warming up. A hardcore chick beating on the drums could be heard blocks away. That was the siren call to those who lost their way.  </p>
+<p>One or two arrived at a time, then building up to the mass that have been squeezing through the small arteries of the city, trying to get to its beating heart. They arrived grimy, beaten, and yet beaming with pride. No one noticed who actually won or lost the race, the race was with themselves. They all hovered around as more and more flowed in, and the band powered through their set. The amps were hooked up to someone&#39;s car for juice. As the guitar played its cords, the headlights dimmed with the rhythm of the music.</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

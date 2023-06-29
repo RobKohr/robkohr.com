@@ -1,7 +1,7 @@
 
         <html>
             <head>
-                <title>git - RobKohr's Blog</title>
+                <title>Firebird On Ice - Comedy Show Class Ending - RobKohr's Blog</title>
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
@@ -23,19 +23,17 @@
             </head>
             <body>
             <a href="./index.html">Home</a>
-            <h2>Tag: git</h2>
-    
-    <h2><a href="articles/git-tower">Git Tower</a></h2>
+            
+    <h2><a href="articles/firebird-on-ice---comedy-show-class-ending">Firebird On Ice - Comedy Show Class Ending</a></h2>
     <div class="variables">
-    <div class="date">@date=2015-03-16</div>
-    <div class="tags">@tags=<a href="tags/git">git</a></div>
+    <div class="date">@date=2016-12-16</div>
+    <div class="tags">@tags=<a href="tags/comedy">comedy</a></div>
     </div>
     <article>
-        <p>After years of using git from the command line, I pretty much only handle git from this app now. I started using it 4 months ago for work, and now also use it to manage my personal github stuff. It makes managing and visualizing git a breeze. </p>
-<p><a href="http://www.git-tower.com">Tower - The most powerful Git client for Mac</a></p>
+        <p><div><iframe width="560" height="315" src="https://www.youtube.com/embed/WdVkZtA4NPg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></p>
 
     </article>
     
             </body>
-        </html>
-    
+          </html>
+          

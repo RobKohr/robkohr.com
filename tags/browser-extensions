@@ -1,7 +1,7 @@
 
         <html>
             <head>
-                <title>git - RobKohr's Blog</title>
+                <title>browser-extensions - RobKohr's Blog</title>
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
@@ -23,16 +23,16 @@
             </head>
             <body>
             <a href="./index.html">Home</a>
-            <h2>Tag: git</h2>
+            <h2>Tag: browser-extensions</h2>
     
-    <h2><a href="articles/git-tower">Git Tower</a></h2>
+    <h2><a href="articles/netflix-jump-scroll">Netflix Jump scroll</a></h2>
     <div class="variables">
-    <div class="date">@date=2015-03-16</div>
-    <div class="tags">@tags=<a href="tags/git">git</a></div>
+    <div class="date">@date=2015-05-12</div>
+    <div class="tags">@tags=<a href="tags/browser-extensions">browser-extensions</a></div>
     </div>
     <article>
-        <p>After years of using git from the command line, I pretty much only handle git from this app now. I started using it 4 months ago for work, and now also use it to manage my personal github stuff. It makes managing and visualizing git a breeze. </p>
-<p><a href="http://www.git-tower.com">Tower - The most powerful Git client for Mac</a></p>
+        <p>I created a new google chrome extension that changes the functionality of the netflix left/right scroll buttons. Instead of doing the annoying slow scroll, this makes it jump to show the next set of movies in the carousel. </p>
+<p><a href="https://chrome.google.com/webstore/detail/netflix-jump-scroll/gfocbgegaacpbclkmljbkkjidbemmieo?hl=en-US&gl=US">Netflix Jump Scroll</a></p>
 
     </article>
     
