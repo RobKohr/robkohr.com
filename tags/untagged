@@ -25,22 +25,6 @@
             <a href="./index.html">Home</a>
             <h2>Tag: untagged</h2>
     
-    <h2><a href="articles/navigation">Navigation</a></h2>
-    <div class="variables">
-    <div class="date"></div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
-    </div>
-    <article>
-        <ul>
-<li><a href="articles/about">About</a></li>
-<li><a href="tags/index.html">Tags</a></li>
-<li><a href="articles/projects">Projects</a></li>
-<li><a href="articles/other-writing">Other Writing</a></li>
-<li><a href="rss.xml">RSS feed</a></li>
-</ul>
-
-    </article>
-    
     <h2><a href="articles/you-gotta----">You gotta ...</a></h2>
     <div class="variables">
     <div class="date">@date=2023-03-04</div>
@@ -69,66 +53,6 @@
     <article>
         <p><img src="images/2020-06-12-08-40-09.png" alt="2020-06-12-08-40-09.png" style="max-width: 100%;" /></p>
 <p>It amazes me how much can be done with VS code. It is really the perfect editor thanks to all of the extensions.</p>
-
-    </article>
-    
-    <h2><a href="articles/other-writing">Other Writing</a></h2>
-    <div class="variables">
-    <div class="date"></div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
-    </div>
-    <article>
-        <p><a href="http://discretethought.tumblr.com/">Tumbler</a></p>
-<p><a href="http://twitter.com/rkohr">Twitter</a></p>
-
-    </article>
-    
-    <h2><a href="articles/projects">Projects</a></h2>
-    <div class="variables">
-    <div class="date"></div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
-    </div>
-    <article>
-        <p>These are personal, non-work-related projects. Contact my g-mail account at RobKohr for my resume to see what I built for others.</p>
-<p>Other little projects are at my <a href="https://github.com/robkohr">github page</a></p>
-<h3>Cueflash.com</h3>
-<p><img src="images/cueflash.png" alt="cueflash.png" style="max-width: 100%;" /></p>
-<p><a href="https://cueflash.com">https://cueflash.com</a></p>
-<p>A flashcard based collaborative learning site which focuses on cards you don&#39;t know using an adaptive algorithm.</p>
-<h3>EditThis.info</h3>
-<p><img src="images/editthis.png" alt="editthis.png" style="max-width: 100%;" /></p>
-<p><a href="https://editthis.info">https://editthis.info</a></p>
-<p>Shake-n-bake instant MediaWikis for groups, topics, or whatever</p>
-<h3>Mix-Match Domains</h3>
-<p><img src="images/mixmatch.png" alt="mixmatch.png" style="max-width: 100%;" />
-<a href="https://mixmatchdomains.com">https://mixmatchdomains.com</a></p>
-<p>Generate domains using related words to terms you provide. Terms can be individual words or comma seperated lists of words to randomly select from.</p>
-<h3>ConstantSail.com</h3>
-<p><img src="images/constantsail.png" alt="constantsail.png" style="max-width: 100%;" />
-<a href="https://constantsail.com">https://constantsail.com</a></p>
-<p>In-progress pirate, sailing, and trading game</p>
-<h3>Glicko</h3>
-<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Elo_rating_graph.svg/600px-Elo_rating_graph.svg.png" alt="project icon"></p>
-<p><a href="https://github.com/RobKohr/glicko">https://github.com/RobKohr/glicko</a></p>
-<p>Javascript implementation of glicko-2 rating system along with a ffa-team based setup.</p>
-
-    </article>
-    
-    <h2><a href="articles/about">About</a></h2>
-    <div class="variables">
-    <div class="date"></div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
-    </div>
-    <article>
-        <h3>Programming</h3>
-<h4>Skill Tests</h4>
-<p><a href="http://robkohr.com/r/javascript.pdf">http://robkohr.com/r/javascript.pdf</a> - 96th percentile in JavaScript<br><a href="http://robkohr.com/r/react_proficency_test.png">http://robkohr.com/r/react_proficency_test.png</a> - 92nd percentile in ReactJS</p>
-<h4>Community</h4>
-<p>Presenter at the <a href="http://nodepdx.org/">nodepdx</a> conference<br><a href="http://github.com/robkohr">github</a><br><a href="http://stackexchange.com/users/35865/robkohr">Stack Exchange profile</a> - the top 13% of all contributors</p>
-<h4>Expert in</h4>
-<p>JavaScript, Node.js, ReactJS, AngularJS, jQuery, MongoDB/NoSQL, Websockets, HTML5, CSS3 (along with LESS/SCSS/SASS), AWS services (mainly EC2 and S3), Responsive Design, OpenCV, Backbone.js, PhoneGap/Cordova, Scrum, web sockets, git, PHP / MySQL / Apache, Server administration (Debian, Red Hat, Ubuntu), NPM, Bower, Photoshop/Gimp, Wireframing, eCommerce analytics, Bitcoin Blockchain</p>
-<h4>Education</h4>
-<p>B.S., Computer Science, 2001, Rutgers University, New Brunswick, NJ<br>Masters of Business Administration, 2006, Rutgers School of Business, Newark, NJ<br>Certified Scrum Master, 2009</p>
 
     </article>
     
