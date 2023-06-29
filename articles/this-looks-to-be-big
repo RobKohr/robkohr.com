@@ -27,12 +27,12 @@
     <h2><a href="articles/this-looks-to-be-big">This looks to be big</a></h2>
     <div class="variables">
     <div class="date">@date=2013-05-26</div>
-    <div class="tags">@tags=<a href="tags/"></a></div>
+    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
     </div>
     <article>
         <p>This looks to be big:
 <a rel="nofollow" target="_blank" href="https://bitmessage.org/wiki/Main_Page" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">https://bitmessage.org/wiki/Main_Page</a></p>
-<h3>Bitmessage Wiki\n</h3>
+<h3>Bitmessage Wiki</h3>
 <p><a href="https://bitmessage.org/wiki/Main_Page">https://bitmessage.org/wiki/Main_Page</a></p>
 <p><a href="https://bitmessage.org/wiki/Main_Page">https://bitmessage.org/wiki/Main_Page</a></p>
 

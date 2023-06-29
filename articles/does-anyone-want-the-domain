@@ -27,7 +27,7 @@
     <h2><a href="articles/does-anyone-want-the-domain">Does anyone want the domain</a></h2>
     <div class="variables">
     <div class="date">@date=2011-10-13</div>
-    <div class="tags">@tags=<a href="tags/"></a></div>
+    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
     </div>
     <article>
         <p>Does anyone want the domain:

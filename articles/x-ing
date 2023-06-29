@@ -26,7 +26,7 @@
             
     <h2><a href="articles/x-ing">X-ing</a></h2>
     <div class="variables">
-    <div class="date">@date=  2015-06-07</div>
+    <div class="date">@date=2015-06-07</div>
     <div class="tags">@tags=<a href="tags/dreams">dreams</a></div>
     </div>
     <article>

@@ -27,14 +27,14 @@
     <h2><a href="articles/need-a-decent-rating-system-for-a-matched-based-game-system-">Need a decent rating system for a matched based game system?</a></h2>
     <div class="variables">
     <div class="date">@date=2012-04-26</div>
-    <div class="tags">@tags=<a href="tags/"></a></div>
+    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
     </div>
     <article>
         <p>Need a decent rating system for a matched based game system? </p>
 <p>I just implemented the glicko-2 rating system (similar to ELO, except much better) in javascript:
 <a rel="nofollow" target="_blank" href="https://github.com/RobKohr/glicko" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">https://github.com/RobKohr/glicko</a>
 If you decide to translate this into another language, let me know, and I will link to your version.</p>
-<h3>glicko\n</h3>
+<h3>glicko</h3>
 <p><a href="https://github.com/RobKohr/glicko">https://github.com/RobKohr/glicko</a></p>
 <p><a href="https://github.com/RobKohr/glicko">https://github.com/RobKohr/glicko</a></p>
 

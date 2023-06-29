@@ -27,7 +27,7 @@
     <h2><a href="articles/have-you-been-programming-in-php-for-years-and-need-to-write-some-javascript----">Have you been programming in php for years and need to write some javascript,...</a></h2>
     <div class="variables">
     <div class="date">@date=2011-09-14</div>
-    <div class="tags">@tags=<a href="tags/"></a></div>
+    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
     </div>
     <article>
         <p>Have you been programming in php for years and need to write some javascript, only to find you really could use a php function to solve a js problem.</p>
@@ -43,7 +43,7 @@ For want of a horse the rider was lost.
 For want of a rider the battle was lost.
 For want of a battle the kingdom was lost.
 And all for the want of a horseshoe nail.</h2>
-<h3>Functions overview - php.js\n</h3>
+<h3>Functions overview - php.js</h3>
 <p><a href="http://phpjs.org/">http://phpjs.org/</a></p>
 <p><a href="http://phpjs.org/">http://phpjs.org/</a></p>
 

@@ -1,7 +1,7 @@
 
         <html>
             <head>
-                <title>The Jumpers<br><br>The year was 2016, and researchers at the CTEX2 particle a... - RobKohr's Blog</title>
+                <title>stories - RobKohr's Blog</title>
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
@@ -23,11 +23,12 @@
             </head>
             <body>
             <a href="./index.html">Home</a>
-            
-    <h2><a href="articles/the-jumpers-br--br-the-year-was-2016--and-researchers-at-the-ctex2-particle-a---">The Jumpers<br><br>The year was 2016, and researchers at the CTEX2 particle a...</a></h2>
+            <h2>Tag: stories</h2>
+    
+    <h2><a href="articles/the-jumpers">The Jumpers</a></h2>
     <div class="variables">
     <div class="date">@date=2011-09-26</div>
-    <div class="tags">@tags=<a href="tags/"></a></div>
+    <div class="tags">@tags=<a href="tags/dreams">dreams</a>, <a href="tags/stories">stories</a></div>
     </div>
     <article>
         <p>The Jumpers</p>
@@ -43,5 +44,5 @@
     </article>
     
             </body>
-          </html>
-          
+        </html>
+    

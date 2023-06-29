@@ -27,7 +27,7 @@
     <h2><a href="articles/i-am-sharing-the-share-of-my-own-post-----and-deleting-original-----">I am sharing the share of my own post ... and deleting original. ...</a></h2>
     <div class="variables">
     <div class="date">@date=2011-11-29</div>
-    <div class="tags">@tags=<a href="tags/"></a></div>
+    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
     </div>
     <article>
         <p>I am sharing the share of my own post ... and deleting original. ...</p>

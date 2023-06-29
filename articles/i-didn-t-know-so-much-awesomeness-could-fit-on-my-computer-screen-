@@ -27,7 +27,7 @@
     <h2><a href="articles/i-didn-t-know-so-much-awesomeness-could-fit-on-my-computer-screen-">I didn't know so much awesomeness could fit on my computer screen.</a></h2>
     <div class="variables">
     <div class="date">@date=2011-12-29</div>
-    <div class="tags">@tags=<a href="tags/"></a></div>
+    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
     </div>
     <article>
         <p>I didn&#39;t know so much awesomeness could fit on my computer screen.</p>

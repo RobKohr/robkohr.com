@@ -1,0 +1,42 @@
+
+        <html>
+            <head>
+                <title>games-i-made - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            <h2>Tag: games-i-made</h2>
+    
+    <h2><a href="articles/i-had-to-take-down-both-of-the-games-i-had-on-the-iphone-due-to-a-takedown-re---">I had to take down both of the games I had on the iPhone due to a takedown re...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-09-26</div>
+    <div class="tags">@tags=<a href="tags/games-i-made">games-i-made</a></div>
+    </div>
+    <article>
+        <p>I had to take down both of the games I had on the iPhone due to a takedown request from Atari for copyright violations. Guess it wasn&#39;t a good idea to create a nock off of games that were from the 70s. (They were a very similar to Asteroids and Atari Combat)</p>
+<p><a href="http://www.iphonenows.com/Pictures/allimg/c110225/12b63944M50-1LH4.jpg">http://www.iphonenows.com/Pictures/allimg/c110225/12b63944M50-1LH4.jpg</a></p>
+<p><a href="http://c1345842.cdn.cloudfiles.rackspacecloud.com/assets/screenshots/images/003/104/772/original.jpg?1307000770">http://c1345842.cdn.cloudfiles.rackspacecloud.com/assets/screenshots/images/003/104/772/original.jpg?1307000770</a></p>
+
+    </article>
+    
+            </body>
+        </html>
+    

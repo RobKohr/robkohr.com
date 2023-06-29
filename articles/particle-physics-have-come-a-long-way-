@@ -27,7 +27,7 @@
     <h2><a href="articles/particle-physics-have-come-a-long-way-">Particle physics have come a long way.</a></h2>
     <div class="variables">
     <div class="date">@date=2012-01-20</div>
-    <div class="tags">@tags=<a href="tags/"></a></div>
+    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
     </div>
     <article>
         <p>Particle physics have come a long way.</p>

@@ -27,7 +27,7 @@
     <h2><a href="articles/after-using-mongodb-for-quite-some-time-and-building-several-systems-with-it----">After using mongodb for quite some time and building several systems with it,...</a></h2>
     <div class="variables">
     <div class="date">@date=2012-09-22</div>
-    <div class="tags">@tags=<a href="tags/"></a></div>
+    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
     </div>
     <article>
         <p>After using mongodb for quite some time and building several systems with it, I am starting to drift back into preferring structured data in a mysql db. </p>

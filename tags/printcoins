@@ -1,7 +1,7 @@
 
         <html>
             <head>
-                <title>Hi Dirk! - RobKohr's Blog</title>
+                <title>printcoins - RobKohr's Blog</title>
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
@@ -23,17 +23,19 @@
             </head>
             <body>
             <a href="./index.html">Home</a>
-            
-    <h2><a href="articles/hi-dirk-">Hi Dirk!</a></h2>
+            <h2>Tag: printcoins</h2>
+    
+    <h2><a href="articles/printcoins">Printcoins</a></h2>
     <div class="variables">
-    <div class="date">@date=2012-07-04</div>
-    <div class="tags">@tags=<a href="tags/"></a></div>
+    <div class="date">@date=2012-12-07</div>
+    <div class="tags">@tags=<a href="tags/printcoins">printcoins</a></div>
     </div>
     <article>
-        <p>Hi Dirk!</p>
+        <h3>PrintCoins - Physical Bitcoins Bills For Your Your Wallet</h3>
+<p><a href="http://printcoins.com">http://printcoins.com</a></p>
 
     </article>
     
             </body>
-          </html>
-          
+        </html>
+    

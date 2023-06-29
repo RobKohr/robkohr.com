@@ -27,7 +27,7 @@
     <h2><a href="articles/the-code-isn-t-going-to-write-itself">The code isn't going to write itself</a></h2>
     <div class="variables">
     <div class="date">@date=2012-06-04</div>
-    <div class="tags">@tags=<a href="tags/"></a></div>
+    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
     </div>
     <article>
         <p>&quot;The code isn&#39;t going to write itself&quot;</p>
@@ -35,7 +35,7 @@
 <p>Tip for hacker news users that need to save time:
 <a rel="nofollow" target="_blank" href="http://news.ycombinator.com/best" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://news.ycombinator.com/best</a>
 This url has less article turnover, and just highlights the most important posts.</p>
-<h3>Top Links | Hacker News\n</h3>
+<h3>Top Links | Hacker News</h3>
 <p><a href="http://news.ycombinator.com/best">http://news.ycombinator.com/best</a></p>
 <p><a href="http://news.ycombinator.com/best">http://news.ycombinator.com/best</a></p>
 

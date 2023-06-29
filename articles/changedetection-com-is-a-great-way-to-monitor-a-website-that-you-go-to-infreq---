@@ -27,12 +27,12 @@
     <h2><a href="articles/changedetection-com-is-a-great-way-to-monitor-a-website-that-you-go-to-infreq---">ChangeDetection.com is a great way to monitor a website that you go to infreq...</a></h2>
     <div class="variables">
     <div class="date">@date=2012-04-15</div>
-    <div class="tags">@tags=<a href="tags/"></a></div>
+    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
     </div>
     <article>
         <p>ChangeDetection.com is a great way to monitor a website that you go to infrequently (in this example, once a year). They email you whenever a change happens</p>
 <p>The link below is for google code jam&#39;s change log, and it is fun to see some of the minor copy tweaks the make over time.</p>
-<h3>ChangeDetection - Change Log: Google Code Jam\n</h3>
+<h3>ChangeDetection - Change Log: Google Code Jam</h3>
 <p><a href="http://www.changedetection.com/log/google/code/codejam_log.html">http://www.changedetection.com/log/google/code/codejam_log.html</a></p>
 
     </article>

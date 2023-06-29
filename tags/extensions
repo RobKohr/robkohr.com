@@ -1,7 +1,7 @@
 
         <html>
             <head>
-                <title>A quick and easy way to make Chrome web browser more secure:<br><br>Go to thi... - RobKohr's Blog</title>
+                <title>extensions - RobKohr's Blog</title>
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
@@ -23,11 +23,12 @@
             </head>
             <body>
             <a href="./index.html">Home</a>
-            
-    <h2><a href="articles/a-quick-and-easy-way-to-make-chrome-web-browser-more-secure--br--br-go-to-thi---">A quick and easy way to make Chrome web browser more secure:<br><br>Go to thi...</a></h2>
+            <h2>Tag: extensions</h2>
+    
+    <h2><a href="articles/a-quick-and-easy-way-to-make-chrome-web-browser-more-secure">A quick and easy way to make Chrome web browser more secure</a></h2>
     <div class="variables">
     <div class="date">@date=2013-03-06</div>
-    <div class="tags">@tags=<a href="tags/"></a></div>
+    <div class="tags">@tags=<a href="tags/extensions">extensions</a></div>
     </div>
     <article>
         <p>A quick and easy way to make Chrome web browser more secure:</p>
@@ -41,5 +42,5 @@ chrome://plugins/</p>
     </article>
     
             </body>
-          </html>
-          
+        </html>
+    

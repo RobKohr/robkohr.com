@@ -27,7 +27,7 @@
     <h2><a href="articles/code-at-the-end-of-the-post">code at the end of the post</a></h2>
     <div class="variables">
     <div class="date">@date=2011-10-24</div>
-    <div class="tags">@tags=<a href="tags/"></a></div>
+    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
     </div>
     <article>
         <p>What happens when you round 3.6 ---&gt; you get 4. </p>

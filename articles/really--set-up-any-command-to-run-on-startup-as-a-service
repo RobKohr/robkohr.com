@@ -27,12 +27,12 @@
     <h2><a href="articles/really--set-up-any-command-to-run-on-startup-as-a-service">Really, set up any command to run on startup as a service</a></h2>
     <div class="variables">
     <div class="date">@date=2011-11-18</div>
-    <div class="tags">@tags=<a href="tags/"></a></div>
+    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
     </div>
     <article>
         <p>Really, set up any command to run on startup as a service (and have &quot;start/stop myprocess&quot; commands available to you).</p>
 <p>Much easier than init.d</p>
-<h3>Run Node.js as a Service on Ubuntu\n</h3>
+<h3>Run Node.js as a Service on Ubuntu</h3>
 <p><a href="http://kevin.vanzonneveld.net/techblog/article/run_nodejs_as_a_service_on_ubuntu_karmic/">http://kevin.vanzonneveld.net/techblog/article/run_nodejs_as_a_service_on_ubuntu_karmic/</a></p>
 
     </article>

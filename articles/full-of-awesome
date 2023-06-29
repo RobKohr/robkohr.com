@@ -27,11 +27,11 @@
     <h2><a href="articles/full-of-awesome">Full of awesome</a></h2>
     <div class="variables">
     <div class="date">@date=2011-08-13</div>
-    <div class="tags">@tags=<a href="tags/"></a></div>
+    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
     </div>
     <article>
         <p>Full of awesome</p>
-<h3>Banish JavaScript in Web Forms with HTML5\n</h3>
+<h3>Banish JavaScript in Web Forms with HTML5</h3>
 <p><a href="http://www.elated.com/articles/banish-javascript-in-web-forms-with-html5/">http://www.elated.com/articles/banish-javascript-in-web-forms-with-html5/</a></p>
 <p><a href="http://www.findmebyip.com/litmus/">http://www.findmebyip.com/litmus/</a></p>
 

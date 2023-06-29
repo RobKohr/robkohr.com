@@ -27,11 +27,11 @@
     <h2><a href="articles/wow--this-looks-like-it-will-be-a-really-fun-game-">Wow, this looks like it will be a really fun game.</a></h2>
     <div class="variables">
     <div class="date">@date=2013-02-01</div>
-    <div class="tags">@tags=<a href="tags/"></a></div>
+    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
     </div>
     <article>
         <p>Wow, this looks like it will be a really fun game.</p>
-<h3>Artizens\n</h3>
+<h3>Artizens</h3>
 <p><a href="http://www.kickstarter.com/projects/artizens/artizens-0">http://www.kickstarter.com/projects/artizens/artizens-0</a></p>
 
     </article>

@@ -27,7 +27,7 @@
     <h2><a href="articles/result-set-pagers-are-really-annoying">Result set pagers are really annoying</a></h2>
     <div class="variables">
     <div class="date">@date=2011-10-12</div>
-    <div class="tags">@tags=<a href="tags/"></a></div>
+    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
     </div>
     <article>
         <p>If you have a search results page on your website, try to minimize the amount that users have to use the pager on those results.</p>

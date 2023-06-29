@@ -27,7 +27,7 @@
     <h2><a href="articles/a-better-way-to-fight-sopa">A better way to fight SOPA</a></h2>
     <div class="variables">
     <div class="date">@date=2011-12-26</div>
-    <div class="tags">@tags=<a href="tags/"></a></div>
+    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
     </div>
     <article>
         <p>A better way to fight SOPA</p>

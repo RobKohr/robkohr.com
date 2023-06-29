@@ -27,13 +27,13 @@
     <h2><a href="articles/-scoretag-allows-you-to-tag-your-posts-the-same-way-you-could-using-twitter-----">_scoreTag allows you to tag your posts the same way you could using twitter #...</a></h2>
     <div class="variables">
     <div class="date">@date=2011-09-15</div>
-    <div class="tags">@tags=<a href="tags/"></a></div>
+    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
     </div>
     <article>
         <p>_scoreTag allows you to tag your posts the same way you could using twitter #hashTags</p>
 <p>It is has a _chromeExtension which turns a _scoreTag into a link. This allows users to quickly find other posts regarding a particular topic. </p>
 <p>Why not just use #hashTag? Well, google ignores the # symbol when it indexes pages for searching, so it doesn&#39;t do much good if you actually want to find posts using it.</p>
-<h3>Google+ _scoreTag - Chrome Web Store\n</h3>
+<h3>Google+ _scoreTag - Chrome Web Store</h3>
 <p><a href="https://chrome.google.com/webstore/detail/cjllnhndndjlchndmfoalkodbpdlmedb">https://chrome.google.com/webstore/detail/cjllnhndndjlchndmfoalkodbpdlmedb</a></p>
 
     </article>

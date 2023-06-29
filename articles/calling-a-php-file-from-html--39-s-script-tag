@@ -27,11 +27,11 @@
     <h2><a href="articles/calling-a-php-file-from-html--39-s-script-tag">Calling a PHP File From HTML&#39;s Script Tag</a></h2>
     <div class="variables">
     <div class="date">@date=2011-09-15</div>
-    <div class="tags">@tags=<a href="tags/"></a></div>
+    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
     </div>
     <article>
         <p>Calling a PHP File From HTML&#39;s Script Tag</p>
-<h3>Calling a PHP File From HTML&#39;s Script Tag\n</h3>
+<h3>Calling a PHP File From HTML&#39;s Script Tag</h3>
 <p><a href="http://www.impressivewebs.com/php-file-html-script-tag/">http://www.impressivewebs.com/php-file-html-script-tag/</a></p>
 
     </article>

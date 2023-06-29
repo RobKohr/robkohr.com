@@ -27,11 +27,11 @@
     <h2><a href="articles/ha-">Ha!</a></h2>
     <div class="variables">
     <div class="date">@date=2011-09-09</div>
-    <div class="tags">@tags=<a href="tags/"></a></div>
+    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
     </div>
     <article>
         <p>Ha!</p>
-<h3>Cell Division\n</h3>
+<h3>Cell Division</h3>
 <p><a href="http://shirt.woot.com/">http://shirt.woot.com/</a></p>
 
     </article>

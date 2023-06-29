@@ -27,11 +27,11 @@
     <h2><a href="articles/first-done--first-paid---">First done, first paid :)</a></h2>
     <div class="variables">
     <div class="date">@date=2012-06-29</div>
-    <div class="tags">@tags=<a href="tags/"></a></div>
+    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
     </div>
     <article>
         <p>First done, first paid :)</p>
-<h3>I need a simple image fix for this image - 0.75 BTC\n</h3>
+<h3>I need a simple image fix for this image - 0.75 BTC</h3>
 <p><a href="https://bitcointalk.org/index.php?topic=90701.msg998158#msg998158">https://bitcointalk.org/index.php?topic=90701.msg998158#msg998158</a></p>
 
     </article>

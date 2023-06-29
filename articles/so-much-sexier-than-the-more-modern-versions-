@@ -27,7 +27,7 @@
     <h2><a href="articles/so-much-sexier-than-the-more-modern-versions-">So much sexier than the more modern versions.</a></h2>
     <div class="variables">
     <div class="date">@date=2011-07-19</div>
-    <div class="tags">@tags=<a href="tags/"></a></div>
+    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
     </div>
     <article>
         <p>So much sexier than the more modern versions.</p>

@@ -27,7 +27,7 @@
     <h2><a href="articles/i-am-using">I am using</a></h2>
     <div class="variables">
     <div class="date">@date=2013-11-05</div>
-    <div class="tags">@tags=<a href="tags/"></a></div>
+    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
     </div>
     <article>
         <p>I am using <a rel="nofollow" class="ot-hashtag bidi_isolate" href="https://plus.google.com/s/%23redphone/posts" >#redphone</a> now, so feel free to call me using it.</p>

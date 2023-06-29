@@ -27,12 +27,12 @@
     <h2><a href="articles/this-is-my-first-phone-app-i-have-m---">This is my first phone app I have m...</a></h2>
     <div class="variables">
     <div class="date">@date=2013-03-04</div>
-    <div class="tags">@tags=<a href="tags/"></a></div>
+    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
     </div>
     <article>
         <p>Now available in the iTunes store!</p>
 <p>This is my first phone app I have made in over a year. It is a simple RPG dice roller. More apps to come :)</p>
-<h3>Quick RPG Dice\n</h3>
+<h3>Quick RPG Dice</h3>
 <p><a href="https://itunes.apple.com/us/app/id603097725?mt=8&amp;ign-mpt=uo%3D4">https://itunes.apple.com/us/app/id603097725?mt=8&amp;ign-mpt=uo%3D4</a></p>
 
     </article>

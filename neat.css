@@ -215,18 +215,18 @@ body{
     margin-top:1em;
 }
 h1::before {
-    content: "# ";
+    /* content: "# "; */
     color: #888888;
 }
 
 h2::before {
-    content: "## ";
+    /* content: "## "; */
     color: #888888;
 }
 
 
 h3::before {
-    content: "## ";
+    /* content: "### "; */
     color: #888888;
 }
 

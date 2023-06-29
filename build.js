@@ -1,14 +1,12 @@
 import fs from "fs";
 import { marked } from "marked";
 
-
 /* Get html content from analytics.html */
 var headerExtras = `
 ${fs.readFileSync("analytics.html", "utf8")}
 <link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
 <link rel="shortcut icon" type="image/ico" href="favicon.ico">
 `;
-
 
 /* 
 A function that will take a string like this:
@@ -18,10 +16,7 @@ and replace it with this:
 */
 
 function replaceImageLinks(text) {
-  return text.replace(
-    /!\[\[(.+)\]\]/g,
-    '<img src="images/$1" alt="$1" style="max-width: 100%;" />'
-  );
+  return text.replace(/!\[\[(.+)\]\]/g, '<img src="images/$1" alt="$1" style="max-width: 100%;" />');
 }
 
 /* 
@@ -36,9 +31,7 @@ function convertYoutubeUrlsIntoHtml(text) {
 }
 
 function htmlUpdaters(text) {
-  return convertYoutubeUrlsIntoHtml(
-      replaceImageLinks(text)
-    );
+  return convertYoutubeUrlsIntoHtml(replaceImageLinks(text));
 }
 
 marked.use({
@@ -63,19 +56,28 @@ var articles = articlesFull.map(function (article) {
   /* 
         content contains variables that start with @date= or @tags=
         Those lines should be removed from the content and added to the article object
-        */ 
+        */
   var variables = {};
 
   content = content.replace(/@(\w+)=(.*)/g, function (match, key, value) {
+    value = value.trim();
     if (key === "tags") {
-      value = value.split(",").map(function (tagLabel) {
-        tagLabel = tagLabel.trim();
-        let tagLink = `<a href="tags/${tagLabel}">${tagLabel}</a>`;
-        return {
-          label: tagLabel,
-          link: tagLink,
-        };
-      });
+      value = value
+        .split(",")
+        .map(function (tagLabel) {
+          tagLabel = tagLabel.trim();
+          if (tagLabel === "") {
+            return "";
+          }
+          let tagLink = `<a href="tags/${tagLabel}">${tagLabel}</a>`;
+          return {
+            label: tagLabel,
+            link: tagLink,
+          };
+        })
+        .filter(function (tag) {
+          return tag !== "";
+        });
     }
     variables[key] = value;
     return "";
@@ -89,9 +91,10 @@ var articles = articlesFull.map(function (article) {
   if (variables.publishDate && new Date(variables.publishDate) > new Date()) {
     return null;
   }
+  console.log(variables.date);
 
-  if(!variables.tags ){
-    variables.tags = [{label:'untagged', link:`<a href="tags/untagged">untagged</a>`}]
+  if ((!variables.tags || variables.tags.length === 0) && (variables.date)){
+    variables.tags = [{ label: "untagged", link: `<a href="tags/untagged">untagged</a>` }];
   }
 
   /* if variable tags is set, then add this article to the tag page */
@@ -137,8 +140,12 @@ ${headerExtras}
 `;
 
 const toKebab = function (str) {
-    return str.trim().toLowerCase().replace(/[^a-z0-9]/g, "-").trim();
-}
+  return str
+    .trim()
+    .toLowerCase()
+    .replace(/[^a-z0-9]/g, "-")
+    .trim();
+};
 
 function addArticleToOutput(article, output) {
   const kabab = toKebab(article.title);
@@ -149,13 +156,12 @@ function addArticleToOutput(article, output) {
     return output + tag.link + (index < array.length - 1 ? ", " : "");
   }, "");
 
-
   return (
     output +
     `
     <h2><a href="articles/${kabab}">${article.title}</a></h2>
     <div class="variables">
-    <div class="date">${article.variables.date ? `@date=${article.variables.date}`: ''}</div>
+    <div class="date">${article.variables.date ? `@date=${article.variables.date}` : ""}</div>
     <div class="tags">${tags ? `@tags=${tags}` : ""}</div>
     </div>
     <article>
@@ -169,7 +175,7 @@ articles.forEach(function (article) {
   if (article === null) {
     return;
   }
-  if(!article.variables.page){
+  if (!article.variables.page) {
     output = addArticleToOutput(article, output);
   }
   const articleStartHtml = `
@@ -187,11 +193,11 @@ ${headerExtras}
             </body>
           </html>
           `;
-  const articleHtml = articleStartHtml + addArticleToOutput(article, '') + articleEndHtml;
-  const filename = `${toKebab(article.title)}`
-  if(filename){
+  const articleHtml = articleStartHtml + addArticleToOutput(article, "") + articleEndHtml;
+  const filename = `${toKebab(article.title)}`;
+  if (filename) {
     fs.writeFileSync(`articles/${filename}`, articleHtml);
-  }  
+  }
 });
 output += `
         </body>
@@ -219,6 +225,8 @@ ${headerExtras}
             </body>
         </html>
     `;
+  if (tag === "") {
+  }
   fs.writeFileSync(`tags/${tag}`, output);
 });
 
@@ -251,8 +259,7 @@ fs.writeFileSync(`tags/index.html`, output);
 
 /* create a date string, but set the time to midnight */
 const date = new Date();
-const basicDate =  new Date(date.getFullYear(), date.getMonth(), date.getDate()).toUTCString();
-
+const basicDate = new Date(date.getFullYear(), date.getMonth(), date.getDate()).toUTCString();
 
 /* create an rss feed of the last 50 articles */
 output = `
@@ -297,7 +304,5 @@ output += `
     </rss>
 `;
 fs.writeFileSync(`rss.xml`, output);
-
-
 
 console.log("done");

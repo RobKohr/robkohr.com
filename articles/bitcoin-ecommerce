@@ -27,12 +27,12 @@
     <h2><a href="articles/bitcoin-ecommerce">Bitcoin ecommerce</a></h2>
     <div class="variables">
     <div class="date">@date=2011-12-06</div>
-    <div class="tags">@tags=<a href="tags/"></a></div>
+    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
     </div>
     <article>
         <p><a rel="nofollow" target="_blank" href="https://bitcointalk.org/index.php?topic=53869.0" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">https://bitcointalk.org/index.php?topic=53869.0</a>
 I added a description of how I handle ecommerce.</p>
-<h3>Best practises for making a serious bitcoin web site ?\n</h3>
+<h3>Best practises for making a serious bitcoin web site ?</h3>
 <p><a href="https://bitcointalk.org/index.php?topic=53869.0">https://bitcointalk.org/index.php?topic=53869.0</a></p>
 <p><a href="https://bitcointalk.org/index.php?topic=53869.0">https://bitcointalk.org/index.php?topic=53869.0</a></p>
 

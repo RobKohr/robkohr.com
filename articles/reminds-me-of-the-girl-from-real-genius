@@ -27,7 +27,7 @@
     <h2><a href="articles/reminds-me-of-the-girl-from-real-genius">Reminds me of the girl from Real Genius</a></h2>
     <div class="variables">
     <div class="date">@date=2011-12-22</div>
-    <div class="tags">@tags=<a href="tags/"></a></div>
+    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
     </div>
     <article>
         <p>Reminds me of the girl from Real Genius</p>

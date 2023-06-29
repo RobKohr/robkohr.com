@@ -1,7 +1,7 @@
 
         <html>
             <head>
-                <title>untagged - RobKohr's Blog</title>
+                <title>undefined - RobKohr's Blog</title>
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
@@ -23,43 +23,12 @@
             </head>
             <body>
             <a href="./index.html">Home</a>
-            <h2>Tag: untagged</h2>
-    
-    <h2><a href="articles/you-gotta----">You gotta ...</a></h2>
-    <div class="variables">
-    <div class="date">@date=2023-03-04</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
-    </div>
-    <article>
-        <p>know when to hold em, know when to fold em, know when to walk away, know when to run</p>
-
-    </article>
-    
-    <h2><a href="articles/balancing-and-doing-side-projects">Balancing and doing side projects</a></h2>
-    <div class="variables">
-    <div class="date">@date=2021-08-15</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
-    </div>
-    <article>
-        <p>Consistency with side projects is only accomplished with scheduling tasks on a consistent basis.</p>
-
-    </article>
-    
-    <h2><a href="articles/everything-in-visual-studio-code">Everything in visual studio code</a></h2>
-    <div class="variables">
-    <div class="date">@date=2020-03-19</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
-    </div>
-    <article>
-        <p><img src="images/2020-06-12-08-40-09.png" alt="2020-06-12-08-40-09.png" style="max-width: 100%;" /></p>
-<p>It amazes me how much can be done with VS code. It is really the perfect editor thanks to all of the extensions.</p>
-
-    </article>
+            <h2>Tag: undefined</h2>
     
     <h2><a href="articles/i-am-using">I am using</a></h2>
     <div class="variables">
     <div class="date">@date=2013-11-05</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>I am using <a rel="nofollow" class="ot-hashtag bidi_isolate" href="https://plus.google.com/s/%23redphone/posts" >#redphone</a> now, so feel free to call me using it.</p>
@@ -69,7 +38,7 @@
     <h2><a href="articles/google-extension-idea--check-out-elsewhere-for-amazon-">Google Extension Idea: Check out elsewhere for amazon.</a></h2>
     <div class="variables">
     <div class="date">@date=2013-11-05</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p><strong>Google Extension Idea: Check out elsewhere for amazon.</strong>
@@ -85,7 +54,7 @@ I use a chrome extension called &quot;the invisible hand&quot; which shows you w
     <h2><a href="articles/ideaneedshackers">IdeaNeedsHackers</a></h2>
     <div class="variables">
     <div class="date">@date=2013-11-05</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p><strong><a rel="nofollow" class="ot-hashtag bidi_isolate" href="https://plus.google.com/s/%23IdeaNeedsHackers/posts" >#IdeaNeedsHackers</a></strong>** hashtag**
@@ -97,7 +66,7 @@ Have a good idea that you want to get some hackers on board with? Just put it ou
     <h2><a href="articles/android-bitcoin-venerability">Android Bitcoin Venerability</a></h2>
     <div class="variables">
     <div class="date">@date=2013-08-19</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>If you or anyone you know is using bitcoin on android, there is a issue with how android was creating random numbers which made transactions generated on android wallets vulnerable where the private keys could be reverse engineered. </p>
@@ -111,7 +80,7 @@ Have a good idea that you want to get some hackers on board with? Just put it ou
     <h2><a href="articles/the-end-of-hp">The end of HP</a></h2>
     <div class="variables">
     <div class="date">@date=2013-07-15</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>For some reason I have been thinking a lot about health bars, HP in RPGs, and RTS&#39;</p>
@@ -125,7 +94,7 @@ Have a good idea that you want to get some hackers on board with? Just put it ou
     <h2><a href="articles/google-distopia-">Google Distopia?</a></h2>
     <div class="variables">
     <div class="date">@date=2013-07-08</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p><em><em>Google Distopia?</em></em></p>
@@ -143,12 +112,12 @@ and thinking about how google is slowly bringing about a dystopian future. Their
     <h2><a href="articles/this-looks-to-be-big">This looks to be big</a></h2>
     <div class="variables">
     <div class="date">@date=2013-05-26</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>This looks to be big:
 <a rel="nofollow" target="_blank" href="https://bitmessage.org/wiki/Main_Page" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">https://bitmessage.org/wiki/Main_Page</a></p>
-<h3>Bitmessage Wiki</h3>
+<h3>Bitmessage Wiki\n</h3>
 <p><a href="https://bitmessage.org/wiki/Main_Page">https://bitmessage.org/wiki/Main_Page</a></p>
 <p><a href="https://bitmessage.org/wiki/Main_Page">https://bitmessage.org/wiki/Main_Page</a></p>
 
@@ -157,7 +126,7 @@ and thinking about how google is slowly bringing about a dystopian future. Their
     <h2><a href="articles/constantsail-nodepdx">ConstantSail Nodepdx</a></h2>
     <div class="variables">
     <div class="date">@date=2013-05-18</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p> Demo of <a href="http://ConstantSail.com">http://ConstantSail.com</a> for nodepdx ( <a href="http://nodepdx.org/">http://nodepdx.org/</a> )</p>
@@ -169,12 +138,12 @@ and thinking about how google is slowly bringing about a dystopian future. Their
     <h2><a href="articles/this-is-my-first-phone-app-i-have-m---">This is my first phone app I have m...</a></h2>
     <div class="variables">
     <div class="date">@date=2013-03-04</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>Now available in the iTunes store!</p>
 <p>This is my first phone app I have made in over a year. It is a simple RPG dice roller. More apps to come :)</p>
-<h3>Quick RPG Dice</h3>
+<h3>Quick RPG Dice\n</h3>
 <p><a href="https://itunes.apple.com/us/app/id603097725?mt=8&amp;ign-mpt=uo%3D4">https://itunes.apple.com/us/app/id603097725?mt=8&amp;ign-mpt=uo%3D4</a></p>
 
     </article>
@@ -182,7 +151,7 @@ and thinking about how google is slowly bringing about a dystopian future. Their
     <h2><a href="articles/-go-go-red-team-">"Go Go Red Team"</a></h2>
     <div class="variables">
     <div class="date">@date=2013-02-28</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>&quot;Go Go Red Team&quot;
@@ -196,7 +165,7 @@ and thinking about how google is slowly bringing about a dystopian future. Their
     <h2><a href="articles/i-put-out-my-first-android-app-today----">I put out my first android app today. :)</a></h2>
     <div class="variables">
     <div class="date">@date=2013-02-12</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>I put out my first android app today. :)</p>
@@ -206,11 +175,11 @@ and thinking about how google is slowly bringing about a dystopian future. Their
     <h2><a href="articles/wow--this-looks-like-it-will-be-a-really-fun-game-">Wow, this looks like it will be a really fun game.</a></h2>
     <div class="variables">
     <div class="date">@date=2013-02-01</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>Wow, this looks like it will be a really fun game.</p>
-<h3>Artizens</h3>
+<h3>Artizens\n</h3>
 <p><a href="http://www.kickstarter.com/projects/artizens/artizens-0">http://www.kickstarter.com/projects/artizens/artizens-0</a></p>
 
     </article>
@@ -218,10 +187,10 @@ and thinking about how google is slowly bringing about a dystopian future. Their
     <h2><a href="articles/google--post">Google+ post</a></h2>
     <div class="variables">
     <div class="date">@date=2013-01-11</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
-        <h3>Nomination seals break with past policies - FT.com</h3>
+        <h3>Nomination seals break with past policies - FT.com\n</h3>
 <p><a href="http://on.ft.com/VGryJ6">http://on.ft.com/VGryJ6</a></p>
 
     </article>
@@ -229,7 +198,7 @@ and thinking about how google is slowly bringing about a dystopian future. Their
     <h2><a href="articles/bitcoins-mined">bitcoins mined</a></h2>
     <div class="variables">
     <div class="date">@date=2013-01-01</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p><a rel="nofollow" class="ot-hashtag bidi_isolate" href="https://plus.google.com/s/%23bitcoin/posts" >#bitcoin</a>   <a rel="nofollow" class="ot-hashtag bidi_isolate" href="https://plus.google.com/s/%23bitcoinmining/posts" >#bitcoinmining</a>  
@@ -240,7 +209,7 @@ So 25 btc are mined every 10 minutes, 3600 per day. At $13 a piece, that is $480
     <h2><a href="articles/google--post">Google+ post</a></h2>
     <div class="variables">
     <div class="date">@date=2012-12-07</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         
@@ -249,7 +218,7 @@ So 25 btc are mined every 10 minutes, 3600 per day. At $13 a piece, that is $480
     <h2><a href="articles/wow--the-fiscal-cliff-sounds-great">Wow, the fiscal cliff sounds great</a></h2>
     <div class="variables">
     <div class="date">@date=2012-11-11</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>Wow, the fiscal cliff sounds great:
@@ -267,12 +236,12 @@ Basically both parties hate it as it greatly reduces government programs and rai
     <h2><a href="articles/this-is-the-first-time-i-funded-a-kickstarter--although-i-don-t-do-miniat---">This is the first time I funded a kickstarter. Although I don't do miniat...</a></h2>
     <div class="variables">
     <div class="date">@date=2012-10-06</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>This is the first time I funded a kickstarter. Although I don&#39;t do miniature gaming, I love these little houses that you can pop apart and put back together, and think they would be great for the kids. </p>
 <p>I funded this for $15 to get the &quot;Fisherman&#39;s Cottage&quot; which comes with a cool sod roof.</p>
-<h3>Medieval Village for 28mm Gamers</h3>
+<h3>Medieval Village for 28mm Gamers\n</h3>
 <p><a href="http://www.kickstarter.com/projects/1093338811/medieval-village-for-28mm-gamers">http://www.kickstarter.com/projects/1093338811/medieval-village-for-28mm-gamers</a></p>
 
     </article>
@@ -280,12 +249,12 @@ Basically both parties hate it as it greatly reduces government programs and rai
     <h2><a href="articles/i-know-everyone-is-all-heated-up-about-the-presidential-race--but-if-you-are----">I know everyone is all heated up about the presidential race, but if you are ...</a></h2>
     <div class="variables">
     <div class="date">@date=2012-10-05</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>I know everyone is all heated up about the presidential race, but if you are local to oregon, check out <strong>James Buchal</strong> who is running for <strong>Attorney General</strong>. He is a liberty oriented candidate who got on the Republican ticket through a write in campaign. </p>
 <p>Issues that are important to him are here: <a rel="nofollow" target="_blank" href="http://buchal4ag.com/issues/" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://buchal4ag.com/issues/</a> and include some very not-so-typical things such as legalization of marijuana, fighting fraud &amp; corruption, and fighting against federal control of our state.</p>
-<h3>James Buchal for Attorney General</h3>
+<h3>James Buchal for Attorney General\n</h3>
 <p><a href="http://buchal4ag.com/issues/">http://buchal4ag.com/issues/</a></p>
 <p><a href="http://buchal4ag.com/issues/">http://buchal4ag.com/issues/</a></p>
 
@@ -294,7 +263,7 @@ Basically both parties hate it as it greatly reduces government programs and rai
     <h2><a href="articles/google--post">Google+ post</a></h2>
     <div class="variables">
     <div class="date">@date=2012-09-28</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p><img src="images/googlePlusPhotos/Photos%20from%20posts/9-28-12/180jaeu40rs2a.jpg" alt="googlePlusPhotos/Photos%20from%20posts/9-28-12/180jaeu40rs2a.jpg" style="max-width: 100%;" /></p>
@@ -304,13 +273,13 @@ Basically both parties hate it as it greatly reduces government programs and rai
     <h2><a href="articles/i-am-in-on-the-october-challenge-for-ludum-dare--and-will-be-developing">I am in on the October Challenge for Ludum Dare, and will be developing</a></h2>
     <div class="variables">
     <div class="date">@date=2012-09-28</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>I am in on the October Challenge for Ludum Dare, and will be developing <a rel="nofollow" target="_blank" href="http://islandwarfare.com" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://islandwarfare.com</a></p>
 <p>You can sign up for email/rss/twitter updates on the website.</p>
 <p>Also, if you are interested in working with php/mysql/codeigniter on a MMO  open source project, let me know.</p>
-<h3>Ludum Dare » Blog Archive » October Challenge – Island Warfare!</h3>
+<h3>Ludum Dare » Blog Archive » October Challenge – Island Warfare!\n</h3>
 <p><a href="http://islandwarfare.com">http://islandwarfare.com</a></p>
 <p><a href="http://www.ludumdare.com/compo/2012/09/28/october-challenge-island-warfare/">http://www.ludumdare.com/compo/2012/09/28/october-challenge-island-warfare/</a></p>
 
@@ -319,7 +288,7 @@ Basically both parties hate it as it greatly reduces government programs and rai
     <h2><a href="articles/i-think-conspiracy-theories-are-sometimes-conspiracy-in-themselves-">I think conspiracy theories are sometimes conspiracy in themselves.</a></h2>
     <div class="variables">
     <div class="date">@date=2012-09-25</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>I think conspiracy theories are sometimes conspiracy in themselves. </p>
@@ -335,7 +304,7 @@ Basically both parties hate it as it greatly reduces government programs and rai
     <h2><a href="articles/so-i-now-have-two-separate-projects-on-github-where-people-are-forking-and-me---">So I now have two separate projects on github where people are forking and me...</a></h2>
     <div class="variables">
     <div class="date">@date=2012-09-23</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>So I now have two separate projects on github where people are forking and merging in code. </p>
@@ -346,7 +315,7 @@ Basically both parties hate it as it greatly reduces government programs and rai
     <h2><a href="articles/after-using-mongodb-for-quite-some-time-and-building-several-systems-with-it----">After using mongodb for quite some time and building several systems with it,...</a></h2>
     <div class="variables">
     <div class="date">@date=2012-09-22</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>After using mongodb for quite some time and building several systems with it, I am starting to drift back into preferring structured data in a mysql db. </p>
@@ -368,7 +337,7 @@ Basically both parties hate it as it greatly reduces government programs and rai
     <h2><a href="articles/google-maps-has-a-bike-mode-and-a-mass-transit-mode--it-would-be-great-if-the---">Google maps has a bike mode and a mass transit mode. It would be great if the...</a></h2>
     <div class="variables">
     <div class="date">@date=2012-09-20</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>Google maps has a bike mode and a mass transit mode. It would be great if they had a mixed mode which just showed the speediest way to get there assuming you could skip mass transit things that are too slow.</p>
@@ -379,7 +348,7 @@ Basically both parties hate it as it greatly reduces government programs and rai
     <h2><a href="articles/a-new-way-to-round---rand-round">A new way to round - rand_round</a></h2>
     <div class="variables">
     <div class="date">@date=2012-09-08</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p><strong>A new way to round - rand_round</strong>
@@ -410,7 +379,7 @@ function rand_round(x){
     <h2><a href="articles/ebay-s-failure-as-an-auction-sitego-to-eb-">Ebay's failure as an auction sitego to eb.</a></h2>
     <div class="variables">
     <div class="date">@date=2012-08-31</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p><em>Ebay&#39;s failure as an auction site</em></p>
@@ -424,11 +393,11 @@ function rand_round(x){
     <h2><a href="articles/this-is-a-pretty-no-fills-website-that-has-been-running-since-1999--it-emails---">This is a pretty no-fills website that has been running since 1999. It emails...</a></h2>
     <div class="variables">
     <div class="date">@date=2012-08-27</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>This is a pretty no-fills website that has been running since 1999. It emails you whenever a web page changes. I use it whenever a site doesn&#39;t provide rss or a newsletter, but I want to keep track of when there are updates.</p>
-<h3>ChangeDetection - Know when any web page changes</h3>
+<h3>ChangeDetection - Know when any web page changes\n</h3>
 <p><a href="https://www.changedetection.com/">https://www.changedetection.com/</a></p>
 
     </article>
@@ -436,12 +405,12 @@ function rand_round(x){
     <h2><a href="articles/gary-johnson-bumper-sticker-i-just-ordered-">Gary Johnson bumper sticker I just ordered.</a></h2>
     <div class="variables">
     <div class="date">@date=2012-08-27</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>Gary Johnson bumper sticker I just ordered. </p>
 <p>  <a rel="nofollow" class="ot-hashtag bidi_isolate" href="https://plus.google.com/s/%23libertarian/posts" >#libertarian</a>   <a rel="nofollow" class="ot-hashtag bidi_isolate" href="https://plus.google.com/s/%23ronpaul/posts" >#ronpaul</a>   <a rel="nofollow" class="ot-hashtag bidi_isolate" href="https://plus.google.com/s/%23noobama/posts" >#noobama</a></p>
-<h3>Vote For Gary Johnson from Zazzle.com</h3>
+<h3>Vote For Gary Johnson from Zazzle.com\n</h3>
 <p><a href="http://www.zazzle.com/vote_for_gary_johnson-128745434855684710">http://www.zazzle.com/vote_for_gary_johnson-128745434855684710</a></p>
 
     </article>
@@ -449,7 +418,7 @@ function rand_round(x){
     <h2><a href="articles/this-was-a-response-to-a-message-posted-from-an-occupy-wall-street-support-wh---">This was a response to a message posted from an occupy wall street support wh...</a></h2>
     <div class="variables">
     <div class="date">@date=2012-08-05</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>This was a response to a message posted from an occupy wall street support who felt the occupy movement has nothing to do with libertarians. They also were speaking about the need to regulate business:</p>
@@ -464,11 +433,11 @@ function rand_round(x){
     <h2><a href="articles/the-original-plot-of-the-little-mermaid-was-more-dramatic-than-disney--39-s-v---">The original plot of the Little Mermaid was more dramatic than Disney&#39;s v...</a></h2>
     <div class="variables">
     <div class="date">@date=2012-07-22</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>The original plot of the Little Mermaid was more dramatic than Disney&#39;s version.</p>
-<h3>The Little Mermaid - Wikipedia, the free encyclopedia</h3>
+<h3>The Little Mermaid - Wikipedia, the free encyclopedia\n</h3>
 <p><a href="https://en.wikipedia.org/wiki/The_Little_Mermaid#Plot">https://en.wikipedia.org/wiki/The_Little_Mermaid#Plot</a></p>
 
     </article>
@@ -476,7 +445,7 @@ function rand_round(x){
     <h2><a href="articles/book-review-of-starship-troopers-i-posted-on-amazon-com">Book review of Starship Troopers I posted on Amazon.com</a></h2>
     <div class="variables">
     <div class="date">@date=2012-07-06</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p><strong>Book review of Starship Troopers I posted on Amazon.com</strong></p>
@@ -489,11 +458,11 @@ function rand_round(x){
     <h2><a href="articles/first-done--first-paid---">First done, first paid :)</a></h2>
     <div class="variables">
     <div class="date">@date=2012-06-29</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>First done, first paid :)</p>
-<h3>I need a simple image fix for this image - 0.75 BTC</h3>
+<h3>I need a simple image fix for this image - 0.75 BTC\n</h3>
 <p><a href="https://bitcointalk.org/index.php?topic=90701.msg998158#msg998158">https://bitcointalk.org/index.php?topic=90701.msg998158#msg998158</a></p>
 
     </article>
@@ -501,7 +470,7 @@ function rand_round(x){
     <h2><a href="articles/oregon-delegate-convention--amp--romney-camp--39-s-dirty-tricks">Oregon Delegate Convention &amp; Romney Camp&#39;s Dirty Tricks</a></h2>
     <div class="variables">
     <div class="date">@date=2012-06-24</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p><strong>Oregon Delegate Convention &amp; Romney Camp&#39;s Dirty Tricks</strong></p>
@@ -523,7 +492,7 @@ function rand_round(x){
     <h2><a href="articles/we-are-doing-well-in-oregon-gop-convention--first-ballot-we-got-9-out-of-10-o---">We are doing well in oregon gop convention. First ballot we got 9 out of 10 o...</a></h2>
     <div class="variables">
     <div class="date">@date=2012-06-23</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>We are doing well in oregon gop convention. First ballot we got 9 out of 10 of the delegates <a rel="nofollow" class="ot-hashtag bidi_isolate" href="https://plus.google.com/s/%23ronpaul/posts" >#ronpaul</a></p>
@@ -533,10 +502,10 @@ function rand_round(x){
     <h2><a href="articles/google--post-clang">Google+ post Clang</a></h2>
     <div class="variables">
     <div class="date">@date=2012-06-09</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
-        <h3>CLANG</h3>
+        <h3>CLANG\n</h3>
 <p><a href="http://www.kickstarter.com/projects/260688528/clang">http://www.kickstarter.com/projects/260688528/clang</a></p>
 <p><a href="http://www.kickstarter.com/projects/260688528/clang">http://www.kickstarter.com/projects/260688528/clang</a></p>
 
@@ -545,7 +514,7 @@ function rand_round(x){
     <h2><a href="articles/-bitcoin--printcoin">#bitcoin  printcoin</a></h2>
     <div class="variables">
     <div class="date">@date=2012-06-09</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>#bitcoin  
@@ -561,13 +530,13 @@ Someone posted up a video of some custom <a rel="nofollow" target="_blank" href=
     <h2><a href="articles/john--i-have-a-tendency-to-find-your-comments-all-over-the-web--i-just-trippe---">John, I have a tendency to find your comments all over the web. I just trippe...</a></h2>
     <div class="variables">
     <div class="date">@date=2012-06-08</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>John, I have a tendency to find your comments all over the web. I just tripped on one today:
 <a rel="nofollow" target="_blank" href="http://www.theopensourcery.com/keepopen/2010/exploring-html5-aside-header-footer-section-tags/" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://www.theopensourcery.com/keepopen/2010/exploring-html5-aside-header-footer-section-tags/</a></p>
 <p>Way to make the internet seem like a very small place.  :P</p>
-<h3>Exploring HTML5: Aside, Header, Footer, Section Tags | Keep an Open Eye Eye, Sir</h3>
+<h3>Exploring HTML5: Aside, Header, Footer, Section Tags | Keep an Open Eye Eye, Sir\n</h3>
 <p><a href="http://www.theopensourcery.com/keepopen/2010/exploring-html5-aside-header-footer-section-tags/">http://www.theopensourcery.com/keepopen/2010/exploring-html5-aside-header-footer-section-tags/</a></p>
 <p><a href="http://www.theopensourcery.com/keepopen/2010/exploring-html5-aside-header-footer-section-tags/">http://www.theopensourcery.com/keepopen/2010/exploring-html5-aside-header-footer-section-tags/</a></p>
 
@@ -576,7 +545,7 @@ Someone posted up a video of some custom <a rel="nofollow" target="_blank" href=
     <h2><a href="articles/the-code-isn-t-going-to-write-itself">The code isn't going to write itself</a></h2>
     <div class="variables">
     <div class="date">@date=2012-06-04</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>&quot;The code isn&#39;t going to write itself&quot;</p>
@@ -584,7 +553,7 @@ Someone posted up a video of some custom <a rel="nofollow" target="_blank" href=
 <p>Tip for hacker news users that need to save time:
 <a rel="nofollow" target="_blank" href="http://news.ycombinator.com/best" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://news.ycombinator.com/best</a>
 This url has less article turnover, and just highlights the most important posts.</p>
-<h3>Top Links | Hacker News</h3>
+<h3>Top Links | Hacker News\n</h3>
 <p><a href="http://news.ycombinator.com/best">http://news.ycombinator.com/best</a></p>
 <p><a href="http://news.ycombinator.com/best">http://news.ycombinator.com/best</a></p>
 
@@ -593,7 +562,7 @@ This url has less article turnover, and just highlights the most important posts
     <h2><a href="articles/my-shaving-arsenal---similar-to-your-grandfather-s">My shaving arsenal - similar to your grandfather's</a></h2>
     <div class="variables">
     <div class="date">@date=2012-06-03</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>My shaving arsenal - similar to your grandfather&#39;s:</p>
@@ -603,7 +572,7 @@ This url has less article turnover, and just highlights the most important posts
 <p>and</p>
 <p><a rel="nofollow" target="_blank" href="http://www.amazon.com/Proraso-Shaving-Soap-5-2-147/dp/B0015UWUFM/ref=pd_sim_hpc_3" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://www.amazon.com/Proraso-Shaving-Soap-5-2-147/dp/B0015UWUFM/ref=pd_sim_hpc_3</a></p>
 <p>Get rid of the disposables, and get a nice close shave for cheap.</p>
-<h3>Amazon.com: Merkur Model 180 Long Handled Safety Razor: Health &amp; Personal Care</h3>
+<h3>Amazon.com: Merkur Model 180 Long Handled Safety Razor: Health &amp; Personal Care\n</h3>
 <p><a href="http://www.amazon.com/Merkur-Model-180-Handled-Safety/dp/B000NL0T1G/ref=pd_bxgy_hpc_img_b">http://www.amazon.com/Merkur-Model-180-Handled-Safety/dp/B000NL0T1G/ref=pd_bxgy_hpc_img_b</a></p>
 <p><a href="http://www.amazon.com/Tweezerman-2801-h-Mens-Shaving-Brush/dp/B000G647Y8/ref=pd_bxgy_hpc_img_b">http://www.amazon.com/Tweezerman-2801-h-Mens-Shaving-Brush/dp/B000G647Y8/ref=pd_bxgy_hpc_img_b</a></p>
 <p><a href="http://www.amazon.com/Proraso-Shaving-Soap-5-2-147/dp/B0015UWUFM/ref=pd_sim_hpc_3">http://www.amazon.com/Proraso-Shaving-Soap-5-2-147/dp/B0015UWUFM/ref=pd_sim_hpc_3</a></p>
@@ -614,7 +583,7 @@ This url has less article turnover, and just highlights the most important posts
     <h2><a href="articles/burger-time">Burger time</a></h2>
     <div class="variables">
     <div class="date">@date=2012-05-28</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>Burger time</p>
@@ -625,10 +594,10 @@ This url has less article turnover, and just highlights the most important posts
     <h2><a href="articles/google--post">Google+ post</a></h2>
     <div class="variables">
     <div class="date">@date=2012-05-24</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
-        <h3>DIY Weekend Project: How to Make a Slingshot</h3>
+        <h3>DIY Weekend Project: How to Make a Slingshot\n</h3>
 <p><a href="http://feedproxy.google.com/~r/TheArtOfManliness/~3/ks4RTnqVz6I/">http://feedproxy.google.com/~r/TheArtOfManliness/~3/ks4RTnqVz6I/</a></p>
 
     </article>
@@ -636,7 +605,7 @@ This url has less article turnover, and just highlights the most important posts
     <h2><a href="articles/when-we-reach-21-million-bitcoins--will-their-be-no-economic-activity--and---">When we reach 21 Million Bitcoins, will their be no economic activity, and...</a></h2>
     <div class="variables">
     <div class="date">@date=2012-05-09</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p><strong>When we reach 21 Million Bitcoins, will their be no economic activity, and a deflation spiral?</strong>
@@ -655,10 +624,10 @@ This url has less article turnover, and just highlights the most important posts
     <h2><a href="articles/google--post-oregonians-for-liberty">Google+ post Oregonians for Liberty</a></h2>
     <div class="variables">
     <div class="date">@date=2012-05-09</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
-        <h3>Oregonians For Liberty - Google Groups</h3>
+        <h3>Oregonians For Liberty - Google Groups\n</h3>
 <p><a href="https://groups.google.com/d/forum/oregonians-for-liberty?fromplusone=1">https://groups.google.com/d/forum/oregonians-for-liberty?fromplusone=1</a></p>
 
     </article>
@@ -666,7 +635,7 @@ This url has less article turnover, and just highlights the most important posts
     <h2><a href="articles/gop-rules">gop rules</a></h2>
     <div class="variables">
     <div class="date">@date=2012-05-07</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p><a rel="nofollow" target="_blank" href="http://www.fairvote.org/response-to-a-rogue-convention-how-gop-party-rules-may-surprise-in-201#.T6BgNatSTnj" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://www.fairvote.org/response-to-a-rogue-convention-how-gop-party-rules-may-surprise-in-201#.T6BgNatSTnj</a></p>
@@ -678,7 +647,7 @@ This url has less article turnover, and just highlights the most important posts
     <h2><a href="articles/a-little-rally-we-had-down-in-beaverton-this-weekend----ronpaul">A little rally we had down in Beaverton this weekend.  #ronpaul</a></h2>
     <div class="variables">
     <div class="date">@date=2012-05-07</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>A little rally we had down in Beaverton this weekend.  #ronpaul</p>
@@ -689,11 +658,11 @@ This url has less article turnover, and just highlights the most important posts
     <h2><a href="articles/lorem-ipsum">lorem ipsum</a></h2>
     <div class="variables">
     <div class="date">@date=2012-05-03</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p><a rel="nofollow" target="_blank" href="http://slipsum.com/" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://slipsum.com/</a></p>
-<h3>Lorem Ipsum Generator - Samuel L Ipsum</h3>
+<h3>Lorem Ipsum Generator - Samuel L Ipsum\n</h3>
 <p><a href="http://slipsum.com/">http://slipsum.com/</a></p>
 <p><a href="http://slipsum.com/">http://slipsum.com/</a></p>
 
@@ -702,14 +671,14 @@ This url has less article turnover, and just highlights the most important posts
     <h2><a href="articles/need-a-decent-rating-system-for-a-matched-based-game-system-">Need a decent rating system for a matched based game system?</a></h2>
     <div class="variables">
     <div class="date">@date=2012-04-26</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>Need a decent rating system for a matched based game system? </p>
 <p>I just implemented the glicko-2 rating system (similar to ELO, except much better) in javascript:
 <a rel="nofollow" target="_blank" href="https://github.com/RobKohr/glicko" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">https://github.com/RobKohr/glicko</a>
 If you decide to translate this into another language, let me know, and I will link to your version.</p>
-<h3>glicko</h3>
+<h3>glicko\n</h3>
 <p><a href="https://github.com/RobKohr/glicko">https://github.com/RobKohr/glicko</a></p>
 <p><a href="https://github.com/RobKohr/glicko">https://github.com/RobKohr/glicko</a></p>
 
@@ -718,10 +687,10 @@ If you decide to translate this into another language, let me know, and I will l
     <h2><a href="articles/tey-were-really-looking-forward-to-pie-">Tey were really looking forward to pie.</a></h2>
     <div class="variables">
     <div class="date">@date=2012-04-23</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
-        <h3>photo</h3>
+        <h3>photo\n</h3>
 <p><a href="http://tragedyseries.tumblr.com/post/15907855352">http://tragedyseries.tumblr.com/post/15907855352</a></p>
 
     </article>
@@ -729,7 +698,7 @@ If you decide to translate this into another language, let me know, and I will l
     <h2><a href="articles/i-am-surprised-it-took-people-this-long-to-strap-a-gun-to-a-quadrocopter--unf---">I am surprised it took people this long to strap a gun to a quadrocopter. Unf...</a></h2>
     <div class="variables">
     <div class="date">@date=2012-04-23</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>I am surprised it took people this long to strap a gun to a quadrocopter. Unfortunately, FPS is right. This is the future. Though I can see a person controlling a semi-autonomous squad of them rather than just a single one.</p>
@@ -744,12 +713,12 @@ If you decide to translate this into another language, let me know, and I will l
     <h2><a href="articles/changedetection-com-is-a-great-way-to-monitor-a-website-that-you-go-to-infreq---">ChangeDetection.com is a great way to monitor a website that you go to infreq...</a></h2>
     <div class="variables">
     <div class="date">@date=2012-04-15</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>ChangeDetection.com is a great way to monitor a website that you go to infrequently (in this example, once a year). They email you whenever a change happens</p>
 <p>The link below is for google code jam&#39;s change log, and it is fun to see some of the minor copy tweaks the make over time.</p>
-<h3>ChangeDetection - Change Log: Google Code Jam</h3>
+<h3>ChangeDetection - Change Log: Google Code Jam\n</h3>
 <p><a href="http://www.changedetection.com/log/google/code/codejam_log.html">http://www.changedetection.com/log/google/code/codejam_log.html</a></p>
 
     </article>
@@ -757,11 +726,11 @@ If you decide to translate this into another language, let me know, and I will l
     <h2><a href="articles/if-you-have-had-enough-of-high-res-flashy-backgrounds--and-you-would-like-som---">If you have had enough of high res flashy backgrounds, and you would like som...</a></h2>
     <div class="variables">
     <div class="date">@date=2012-04-09</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>If you have had enough of high res flashy backgrounds, and you would like something a little simpler.</p>
-<h3>Simple Desktops</h3>
+<h3>Simple Desktops\n</h3>
 <p><a href="http://simpledesktops.com">http://simpledesktops.com</a></p>
 
     </article>
@@ -769,7 +738,7 @@ If you decide to translate this into another language, let me know, and I will l
     <h2><a href="articles/have-a-mac--here-is-how-to-check-if-your-infected">Have a mac, here is how to check if your infected</a></h2>
     <div class="variables">
     <div class="date">@date=2012-04-07</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>Have a mac, here is how to check if your infected. 
@@ -788,7 +757,7 @@ defaults read ~/.MacOSX/environment DYLD_INSERT_LIBRARIES </p>
     <h2><a href="articles/don-t-talk-to-police">Don't talk to police</a></h2>
     <div class="variables">
     <div class="date">@date=2012-04-05</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p><a rel="nofollow" target="_blank" href="http://www.youtube.com/watch?v=6wXkI4t7nuc" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">Dont Talk to Police</a></p>
@@ -801,11 +770,11 @@ defaults read ~/.MacOSX/environment DYLD_INSERT_LIBRARIES </p>
     <h2><a href="articles/unity-is-giving-away-ios-and-android-add-ons-until-april-8th-for-free-">Unity is giving away iOS and Android add ons until April 8th for free.</a></h2>
     <div class="variables">
     <div class="date">@date=2012-04-04</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>Unity is giving away iOS and Android add ons until April 8th for free.</p>
-<h3>UNITY: Game Development Tool</h3>
+<h3>UNITY: Game Development Tool\n</h3>
 <p><a href="https://store.unity3d.com/index.html">https://store.unity3d.com/index.html</a></p>
 
     </article>
@@ -813,7 +782,7 @@ defaults read ~/.MacOSX/environment DYLD_INSERT_LIBRARIES </p>
     <h2><a href="articles/they-put-all-over-this-that-this-is-conceptual-design--and-not-actual-gamepla---">They put all over this that this is conceptual design, and not actual gamepla...</a></h2>
     <div class="variables">
     <div class="date">@date=2012-03-29</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>They put all over this that this is conceptual design, and not actual gameplay. But I hope they make it look even a little like this as it is pretty hot.</p>
@@ -829,7 +798,7 @@ defaults read ~/.MacOSX/environment DYLD_INSERT_LIBRARIES </p>
     <h2><a href="articles/on-fb-and-g--games--they-don-t-allow-you-to-modify-the-permissions-for-th---">On FB and G+ games, they don't allow you to modify the permissions for th...</a></h2>
     <div class="variables">
     <div class="date">@date=2012-03-29</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>On FB and G+ games, they don&#39;t allow you to modify the permissions for the games. What if I don&#39;t want to give you my email address and all of my info?</p>
@@ -841,7 +810,7 @@ defaults read ~/.MacOSX/environment DYLD_INSERT_LIBRARIES </p>
     <h2><a href="articles/when-i-mouse-over-a-person-who-just-circled-me--it-would-be-great-to-see-thei---">When I mouse over a person who just circled me, it would be great to see thei...</a></h2>
     <div class="variables">
     <div class="date">@date=2012-03-21</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>When I mouse over a person who just circled me, it would be great to see their most recent post(s) without having to click them.</p>
@@ -851,7 +820,7 @@ defaults read ~/.MacOSX/environment DYLD_INSERT_LIBRARIES </p>
     <h2><a href="articles/answers-are-just-the-embryos-of-new-questions-">Answers are just the embryos of new questions.</a></h2>
     <div class="variables">
     <div class="date">@date=2012-03-21</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>Answers are just the embryos of new questions.</p>
@@ -861,7 +830,7 @@ defaults read ~/.MacOSX/environment DYLD_INSERT_LIBRARIES </p>
     <h2><a href="articles/i-wish-there-was-2x--4x--8x-speed-modes-for-youtube-and-other-video-sites--so---">I wish there was 2x, 4x, 8x speed modes for youtube and other video sites. So...</a></h2>
     <div class="variables">
     <div class="date">@date=2012-03-15</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>I wish there was 2x, 4x, 8x speed modes for youtube and other video sites. Some interesting talks take to long. </p>
@@ -872,7 +841,7 @@ defaults read ~/.MacOSX/environment DYLD_INSERT_LIBRARIES </p>
     <h2><a href="articles/can-anyone-sum-up-why-the-google-policy-changes-are-important--i-would-like-t---">Can anyone sum up why the google policy changes are important. I would like t...</a></h2>
     <div class="variables">
     <div class="date">@date=2012-02-29</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>Can anyone sum up why the google policy changes are important. I would like to know the tl;dr version.</p>
@@ -882,7 +851,7 @@ defaults read ~/.MacOSX/environment DYLD_INSERT_LIBRARIES </p>
     <h2><a href="articles/singing-with-headphones-on-is-like-driving-without-looking-at-the-road-">Singing with headphones on is like driving without looking at the road.</a></h2>
     <div class="variables">
     <div class="date">@date=2012-02-27</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>Singing with headphones on is like driving without looking at the road.</p>
@@ -892,7 +861,7 @@ defaults read ~/.MacOSX/environment DYLD_INSERT_LIBRARIES </p>
     <h2><a href="articles/i-can--39-t-stand-out-of-office-auto-replies-">I can&#39;t stand out of office auto-replies.</a></h2>
     <div class="variables">
     <div class="date">@date=2012-02-24</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>I can&#39;t stand out of office auto-replies. </p>
@@ -905,7 +874,7 @@ defaults read ~/.MacOSX/environment DYLD_INSERT_LIBRARIES </p>
     <h2><a href="articles/so-the-banks-are-being-incentivised-63-cents-on-the-dollar-for-the-for-every----">So the banks are being incentivised 63 cents on the dollar for the for every ...</a></h2>
     <div class="variables">
     <div class="date">@date=2012-02-17</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>So the banks are being incentivised 63 cents on the dollar for the for every dollar of a mortgage that is forgiven. This will be paid for with tax funds.</p>
@@ -917,7 +886,7 @@ defaults read ~/.MacOSX/environment DYLD_INSERT_LIBRARIES </p>
     <h2><a href="articles/there-is-a-mongolian-place-we-go-to-where-one-of-the-bins-of-meat-is-labeled----">There is a Mongolian place we go to where one of the bins of meat is labeled ...</a></h2>
     <div class="variables">
     <div class="date">@date=2012-02-09</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>There is a Mongolian place we go to where one of the bins of meat is labeled &quot;Turkey  Shrimp.&quot; The legendary Turkey Shrimp is a crowd favorite.</p>
@@ -929,7 +898,7 @@ defaults read ~/.MacOSX/environment DYLD_INSERT_LIBRARIES </p>
     <h2><a href="articles/google--post">Google+ post</a></h2>
     <div class="variables">
     <div class="date">@date=2012-02-09</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p><a href="https://lh4.googleusercontent.com/-8NugB0sJbT0/TzP1ceEH8LI/AAAAAAAAHIA/U2Jy6I6xvfE/w288-h288/scan%2Bme.png">https://lh4.googleusercontent.com/-8NugB0sJbT0/TzP1ceEH8LI/AAAAAAAAHIA/U2Jy6I6xvfE/w288-h288/scan%2Bme.png</a></p>
@@ -939,7 +908,7 @@ defaults read ~/.MacOSX/environment DYLD_INSERT_LIBRARIES </p>
     <h2><a href="articles/google--post">Google+ post</a></h2>
     <div class="variables">
     <div class="date">@date=2012-02-06</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p><a href="https://lh3.googleusercontent.com/-Bdp6gNOMhRA/Tyrz2C3AYRI/AAAAAAAAMIc/9-OaXwI_tAY/w288-h288/421968_367813913248068_205344452828349_1366480_1278801186_n.jpg">https://lh3.googleusercontent.com/-Bdp6gNOMhRA/Tyrz2C3AYRI/AAAAAAAAMIc/9-OaXwI_tAY/w288-h288/421968_367813913248068_205344452828349_1366480_1278801186_n.jpg</a></p>
@@ -949,7 +918,7 @@ defaults read ~/.MacOSX/environment DYLD_INSERT_LIBRARIES </p>
     <h2><a href="articles/--follow-everyone-that-someone-else-is-following-on-twitter--">**Follow everyone that someone else is following on twitter**</a></h2>
     <div class="variables">
     <div class="date">@date=2012-01-29</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p><strong>Follow everyone that someone else is following on twitter</strong></p>
@@ -964,7 +933,7 @@ $(&#39;.js-action-follow&#39;).click();</p>
     <h2><a href="articles/virus-very-yes">Virus=very yes</a></h2>
     <div class="variables">
     <div class="date">@date=2012-01-25</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>Virus=very yes</p>
@@ -976,7 +945,7 @@ $(&#39;.js-action-follow&#39;).click();</p>
     <h2><a href="articles/digg-reddit-like-news-site--voting-is-based-on-bitcoins-">Digg/Reddit like News site. Voting is based on Bitcoins!</a></h2>
     <div class="variables">
     <div class="date">@date=2012-01-24</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p><strong>Digg/Reddit like News site. Voting is based on Bitcoins!</strong></p>
@@ -994,7 +963,7 @@ $(&#39;.js-action-follow&#39;).click();</p>
     <h2><a href="articles/this-will-make-it-so-you-can-click-a-button-to-open-iterm-in-any-finder-folde---">This will make it so you can click a button to open iTerm in any finder folde...</a></h2>
     <div class="variables">
     <div class="date">@date=2012-01-23</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>This will make it so you can click a button to open iTerm in any finder folder:</p>
@@ -1005,7 +974,7 @@ $(&#39;.js-action-follow&#39;).click();</p>
 *Put it in your applications folder
 *Drag the app to the toolbar of a finder window. </p>
 <p>Now whenever you have a folder selected (or are in a folder) you can click the icon and it will open iterm at that location.</p>
-<h3>Finder Open iTerm Here: Drop a folder on this script (or just run it) to open a new iTerm window there. If the selected item isn&#39;t a folder, it will open the item&#39;s parent folder. Great when bound to ...</h3>
+<h3>Finder Open iTerm Here: Drop a folder on this script (or just run it) to open a new iTerm window there. If the selected item isn&#39;t a folder, it will open the item&#39;s parent folder. Great when bound to ...\n</h3>
 <p><a href="https://raw.github.com/gist/905546/e1a34cf2d217d44858146af71d76546d3289c4b0/finder-open-iterm-here.scpt">https://raw.github.com/gist/905546/e1a34cf2d217d44858146af71d76546d3289c4b0/finder-open-iterm-here.scpt</a></p>
 <p><a href="https://gist.github.com/905546">https://gist.github.com/905546</a></p>
 
@@ -1014,14 +983,14 @@ $(&#39;.js-action-follow&#39;).click();</p>
     <h2><a href="articles/xkcd-has-a-great-comic-about-how-to-create-a-strong-yet-easy-to-remember-pass---">XKCD has a great comic about how to create a strong yet easy to remember pass...</a></h2>
     <div class="variables">
     <div class="date">@date=2012-01-22</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>XKCD has a great comic about how to create a strong yet easy to remember password:
 <a rel="nofollow" target="_blank" href="http://xkcd.com/936/" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://xkcd.com/936/</a></p>
 <p>And this site created a generator for it:
 <a rel="nofollow" target="_blank" href="http://passphra.se/" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://passphra.se/</a></p>
-<h3>xkcd: Password Strength</h3>
+<h3>xkcd: Password Strength\n</h3>
 <p><a href="http://xkcd.com/936/">http://xkcd.com/936/</a></p>
 <p><a href="http://passphra.se/">http://passphra.se/</a></p>
 <p><a href="http://xkcd.com/936/">http://xkcd.com/936/</a></p>
@@ -1031,7 +1000,7 @@ $(&#39;.js-action-follow&#39;).click();</p>
     <h2><a href="articles/pissed-about-sopa--it-will-be-back--here-are-some-better-ways-to-keep-it-from---">Pissed about SOPA, it will be back. Here are some better ways to keep it from...</a></h2>
     <div class="variables">
     <div class="date">@date=2012-01-20</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>Pissed about SOPA, it will be back. Here are some better ways to keep it from coming back:</p>
@@ -1052,7 +1021,7 @@ Adam Schiff (D-CA)
 Lee Terry (R-NE) </p>
 <p>And boycott these companies that supported the legislation:
 <a rel="nofollow" target="_blank" href="http://en.wikipedia.org/wiki/List_of_organizations_that_support_the_Stop_Online_Piracy_Act#Supporting_organizations" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://en.wikipedia.org/wiki/List_of_organizations_that_support_the_Stop_Online_Piracy_Act#Supporting_organizations</a></p>
-<h3>I hope SOPA passes.</h3>
+<h3>I hope SOPA passes.\n</h3>
 <p><a href="http://en.wikipedia.org/wiki/List_of_organizations_that_support_the_Stop_Online_Piracy_Act#Supporting_organizations">http://en.wikipedia.org/wiki/List_of_organizations_that_support_the_Stop_Online_Piracy_Act#Supporting_organizations</a></p>
 <p><a href="http://maddox.xmission.com/">http://maddox.xmission.com/</a></p>
 
@@ -1061,7 +1030,7 @@ Lee Terry (R-NE) </p>
     <h2><a href="articles/particle-physics-have-come-a-long-way-">Particle physics have come a long way.</a></h2>
     <div class="variables">
     <div class="date">@date=2012-01-20</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>Particle physics have come a long way.</p>
@@ -1073,7 +1042,7 @@ Lee Terry (R-NE) </p>
     <h2><a href="articles/it-looks-like-sopa-and-pipa-have-likely-been-stopped-as-politicians-have-drop---">It looks like SOPA and PIPA have likely been stopped as politicians have drop...</a></h2>
     <div class="variables">
     <div class="date">@date=2012-01-19</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>It looks like SOPA and PIPA have likely been stopped as politicians have dropped support for it.</p>
@@ -1090,7 +1059,7 @@ Lee Terry (R-NE) </p>
     <h2><a href="articles/cueflash-sopa">Cueflash sopa</a></h2>
     <div class="variables">
     <div class="date">@date=2012-01-18</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p><a rel="nofollow" target="_blank" href="http://editthis.info" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">editthis.info</a> and <a rel="nofollow" target="_blank" href="http://cueflash.com" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">cueflash.com</a> have a SOPA and PIPA message on them along with a zip code lookup tool for congressmen (I am working off of wikipedia&#39;s system). If you would like to do something similar on your site, you can include this simple lookup form:</p>
@@ -1109,12 +1078,12 @@ Lee Terry (R-NE) </p>
     <h2><a href="articles/picture-wars-is-a-forum-based-game-where-a-2-d-sidescroll-style-map-is-used-----">Picture wars is a forum based game where a 2-d sidescroll style map is used. ...</a></h2>
     <div class="variables">
     <div class="date">@date=2012-01-18</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>Picture wars is a forum based game where a 2-d sidescroll style map is used. 2 or more players each use their own sprite pack armies in a turned based war game. </p>
 <p>Each turn, players move their units and attack things by updating the image. Whatever makes sense is considered acceptable. Along with the update of the image, text is also included in the forum post explaining what happened in the turn.</p>
-<h3>Picture Wars - Index</h3>
+<h3>Picture Wars - Index\n</h3>
 <p><a href="http://picturewars.net/smf/index.php">http://picturewars.net/smf/index.php</a></p>
 <p><a href="http://picturewars.net/smf/index.php?topic=106.0">http://picturewars.net/smf/index.php?topic=106.0</a></p>
 
@@ -1123,7 +1092,7 @@ Lee Terry (R-NE) </p>
     <h2><a href="articles/the-best-thing-ever-to-come-out-of-fox-news-">The best thing ever to come out of FOX news.</a></h2>
     <div class="variables">
     <div class="date">@date=2012-01-16</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>The best thing ever to come out of FOX news.</p>
@@ -1135,7 +1104,7 @@ Lee Terry (R-NE) </p>
     <h2><a href="articles/virus-comix">virus comix</a></h2>
     <div class="variables">
     <div class="date">@date=2012-01-16</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p><a href="http://www.viruscomix.com/page559.html">http://www.viruscomix.com/page559.html</a></p>
@@ -1145,7 +1114,7 @@ Lee Terry (R-NE) </p>
     <h2><a href="articles/strongbad-techno">Strongbad techno</a></h2>
     <div class="variables">
     <div class="date">@date=2012-01-12</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p><a rel="nofollow" target="_blank" href="http://www.youtube.com/watch?v=JwZwkk7q25I" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">Techno</a></p>
@@ -1158,7 +1127,7 @@ Lee Terry (R-NE) </p>
     <h2><a href="articles/nostradamus--eat-your-heart-">Nostradamus, eat your heart.</a></h2>
     <div class="variables">
     <div class="date">@date=2012-01-11</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>Nostradamus, eat your heart.</p>
@@ -1170,13 +1139,13 @@ Lee Terry (R-NE) </p>
     <h2><a href="articles/i-dropped-google-a-couple-weeks-ago-as-my-default-search-system-in-favor-of">I dropped google a couple weeks ago as my default search system in favor of</a></h2>
     <div class="variables">
     <div class="date">@date=2012-01-11</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>I dropped google a couple weeks ago as my default search system in favor of <a rel="nofollow" target="_blank" href="http://duckduckgo.com" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">duckduckgo.com</a>. The reason was that the results for technical terms started getting more &quot;fuzzy&quot; (+ operator was dropped and no matter what I couldn&#39;t force it to limit results to only things that contained what I wanted)</p>
 <p>Now I am even more hesitant to use it. Google search has been a winner due to its clean layout and generally not being biased. </p>
 <p>It looks like that era is over.</p>
-<h3>Real-Life Examples Of How Google&#39;s &quot;Search Plus&quot; Pushes Google+ Over Relevancy</h3>
+<h3>Real-Life Examples Of How Google&#39;s &quot;Search Plus&quot; Pushes Google+ Over Relevancy\n</h3>
 <p><a href="http://duckduckgo.com">http://duckduckgo.com</a></p>
 <p><a href="http://searchengineland.com/examples-google-search-plus-drive-facebook-twitter-crazy-107554">http://searchengineland.com/examples-google-search-plus-drive-facebook-twitter-crazy-107554</a></p>
 
@@ -1185,7 +1154,7 @@ Lee Terry (R-NE) </p>
     <h2><a href="articles/great-comment-on-hacker-news">Great comment on hacker news</a></h2>
     <div class="variables">
     <div class="date">@date=2012-01-11</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>Great comment on hacker news:
@@ -1200,11 +1169,11 @@ This is such an important point: there is no difference between &quot;too big to
     <h2><a href="articles/top-50-entries-for-the-48-hour-game-development-competition-">Top 50 entries for the 48 hour game development competition.</a></h2>
     <div class="variables">
     <div class="date">@date=2012-01-10</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>Top 50 entries for the 48 hour game development competition.</p>
-<h3>Ludum Dare » Ludum Dare 22</h3>
+<h3>Ludum Dare » Ludum Dare 22\n</h3>
 <p><a href="http://www.ludumdare.com/compo/ludum-dare-22/?action=top">http://www.ludumdare.com/compo/ludum-dare-22/?action=top</a></p>
 
     </article>
@@ -1212,7 +1181,7 @@ This is such an important point: there is no difference between &quot;too big to
     <h2><a href="articles/fake-amazon-reviews">Fake Amazon Reviews</a></h2>
     <div class="variables">
     <div class="date">@date=2012-01-08</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p><strong>Fake Amazon Reviews</strong></p>
@@ -1228,7 +1197,7 @@ This is such an important point: there is no difference between &quot;too big to
     <h2><a href="articles/iphone-games-in-real-life">iphone Games in real life</a></h2>
     <div class="variables">
     <div class="date">@date=2012-01-05</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p><a href="http://www.youtube.com/watch?v=YrsoluSjuKc">http://www.youtube.com/watch?v=YrsoluSjuKc</a></p>
@@ -1238,7 +1207,7 @@ This is such an important point: there is no difference between &quot;too big to
     <h2><a href="articles/obama-signed-the-ndaa-today">Obama signed the NDAA today</a></h2>
     <div class="variables">
     <div class="date">@date=2012-01-02</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>Obama signed the NDAA today.</p>
@@ -1250,7 +1219,7 @@ This is such an important point: there is no difference between &quot;too big to
     <h2><a href="articles/being-a-father-of-a-4-year-old--i-have-watched-someone-learn-their-first-lang---">Being a father of a 4 year old, I have watched someone learn their first lang...</a></h2>
     <div class="variables">
     <div class="date">@date=2012-01-02</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>Being a father of a 4 year old, I have watched someone learn their first language. He really understands english very well, but he has shown me the many inconstancies and exceptions in our language. It would be great to use a survey of common &quot;mistakes&quot; a child makes in understanding the english language as a basis for how the language should be reshaped to make it more consistent.</p>
@@ -1260,7 +1229,7 @@ This is such an important point: there is no difference between &quot;too big to
     <h2><a href="articles/anyone-interested-in-minatures-should-check-out-shapeways-">Anyone interested in minatures should check out shapeways.</a></h2>
     <div class="variables">
     <div class="date">@date=2012-01-02</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>Anyone interested in minatures should check out shapeways.</p>
@@ -1271,10 +1240,22 @@ This is such an important point: there is no difference between &quot;too big to
 
     </article>
     
+    <h2><a href="articles/i-didn-t-know-so-much-awesomeness-could-fit-on-my-computer-screen-">I didn't know so much awesomeness could fit on my computer screen.</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-12-29</div>
+    <div class="tags">@tags=function link() { [native code] }</div>
+    </div>
+    <article>
+        <p>I didn&#39;t know so much awesomeness could fit on my computer screen.</p>
+<p> COMING TO YOUTUBE NOVEMBER 21 !! OFFICIAL SITE: <a href="http://www.danger5.tv">www.danger5.tv</a> FACEBOOK: <a href="http://www.facebook.com/danger5tv">www.facebook.com/danger5tv</a> TWITTER: <a href="http://www.twitter.com/danger5tv">www.twitter.com/danger5tv</a> DINOSAUR: <a href="http://www.dinosaurworldwide.com">www.dinosaurworldwide.com</a> Dinosaur Presents: DANGER 5 From Dario Russo and David Ashby, of Italian Spiderman, comes... DANGER 5!!! Jam packed with SEX, VIOLENCE, NAZIS and COCKTAILS! Watch this channel for PART 1 of: DANGER 5: THE DIAMOND GIRLS Coming MONDAY NIGHT 10pm EST 21 NOVEMBER 2011 Victory has a new name! DANGER 5</p>
+<p><a href="http://www.youtube.com/watch?v=0Z09bNgSeMI">http://www.youtube.com/watch?v=0Z09bNgSeMI</a></p>
+
+    </article>
+    
     <h2><a href="articles/thinking-of-setting-up-a-utility-to-have-the-amazon-turk-sort-out-all-of-the----">Thinking of setting up a utility to have the amazon turk sort out all of the ...</a></h2>
     <div class="variables">
     <div class="date">@date=2011-12-28</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>Thinking of setting up a utility to have the amazon turk sort out all of the good photos in my photo albums.</p>
@@ -1284,7 +1265,7 @@ This is such an important point: there is no difference between &quot;too big to
     <h2><a href="articles/a-better-way-to-fight-sopa">A better way to fight SOPA</a></h2>
     <div class="variables">
     <div class="date">@date=2011-12-26</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>A better way to fight SOPA</p>
@@ -1323,7 +1304,7 @@ If you are on hacker news, vote up:
     <h2><a href="articles/reminds-me-of-the-girl-from-real-genius">Reminds me of the girl from Real Genius</a></h2>
     <div class="variables">
     <div class="date">@date=2011-12-22</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>Reminds me of the girl from Real Genius</p>
@@ -1335,7 +1316,7 @@ If you are on hacker news, vote up:
     <h2><a href="articles/google--post">Google+ post</a></h2>
     <div class="variables">
     <div class="date">@date=2011-12-22</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p> FAIL! !!!!!!!</p>
@@ -1346,7 +1327,7 @@ If you are on hacker news, vote up:
     <h2><a href="articles/google-has-been-manipulating-their-algorithm--with-the-goal-of-making-it-more---">Google has been manipulating their algorithm, with the goal of making it more...</a></h2>
     <div class="variables">
     <div class="date">@date=2011-12-22</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>Google has been manipulating their algorithm, with the goal of making it more friendly to users.</p>
@@ -1364,7 +1345,7 @@ and do a verbatim search, just to be through (because every other variation stil
 <p>And what do we get... success. Only the results that I want. Each only contain both results.</p>
 <p>ddg is now my bitch when it comes to finding some specific chunk of code in a sea of unrelated crap.</p>
 <p>Bonus points for having a search url which is not ridiculous.</p>
-<h3>+trueskill +javascript at DuckDuckGo</h3>
+<h3>+trueskill +javascript at DuckDuckGo\n</h3>
 <p><a href="https://www.google.com/search?q=%22trueskill%22+%22javascript%22&amp;hl=en&amp;safe=off&amp;tbo=1&amp;output=search&amp;source=lnt&amp;tbs=li:1&amp;sa=X&amp;ei=MKvzTqmGEqmviQLo4dXQDg&amp;ved=0CBUQpwUoCg&amp;biw=1200&amp;bih=1505">https://www.google.com/search?q=%22trueskill%22+%22javascript%22&amp;hl=en&amp;safe=off&amp;tbo=1&amp;output=search&amp;source=lnt&amp;tbs=li:1&amp;sa=X&amp;ei=MKvzTqmGEqmviQLo4dXQDg&amp;ved=0CBUQpwUoCg&amp;biw=1200&amp;bih=1505</a></p>
 <p><a href="http://duckduckgo.com/?q=%2Btrueskill+%2Bjavascript">http://duckduckgo.com/?q=%2Btrueskill+%2Bjavascript</a></p>
 <p><a href="http://duckduckgo.com/?q=%2Btrueskill+%2Bjavascript">http://duckduckgo.com/?q=%2Btrueskill+%2Bjavascript</a></p>
@@ -1374,7 +1355,7 @@ and do a verbatim search, just to be through (because every other variation stil
     <h2><a href="articles/it-is-really-annoying-when-source-code-download-sites-don-t-provide-a-url---">It is really annoying when source code download sites don't provide a url...</a></h2>
     <div class="variables">
     <div class="date">@date=2011-12-21</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>It is really annoying when source code download sites don&#39;t provide a url that you can use with curl (usually it is some html redirect page that does tracking for them). </p>
@@ -1389,7 +1370,7 @@ and do a verbatim search, just to be through (because every other variation stil
     <h2><a href="articles/it-looks-like-the-next-batman-movie-is-a-mortal-kombat-crossover">It looks like the next batman movie is a mortal kombat crossover</a></h2>
     <div class="variables">
     <div class="date">@date=2011-12-20</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>It looks like the next batman movie is a mortal kombat crossover:
@@ -1404,7 +1385,7 @@ and do a verbatim search, just to be through (because every other variation stil
     <h2><a href="articles/after-futzing-with-adobe-illustrator-for-a-while--and-getting-fed-up--i-hand----">After futzing with Adobe Illustrator for a while, and getting fed up, I hand ...</a></h2>
     <div class="variables">
     <div class="date">@date=2011-12-13</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>After futzing with Adobe Illustrator for a while, and getting fed up, I hand coded an SVG file and imported it in. So much easier when you want to be accurate. Trying to tell the software what you want with pointing and clicking just isn&#39;t as good as typing in <polygon points="...." style="..."></p>
@@ -1415,12 +1396,12 @@ and do a verbatim search, just to be through (because every other variation stil
     <h2><a href="articles/bitcoin-ecommerce">Bitcoin ecommerce</a></h2>
     <div class="variables">
     <div class="date">@date=2011-12-06</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p><a rel="nofollow" target="_blank" href="https://bitcointalk.org/index.php?topic=53869.0" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">https://bitcointalk.org/index.php?topic=53869.0</a>
 I added a description of how I handle ecommerce.</p>
-<h3>Best practises for making a serious bitcoin web site ?</h3>
+<h3>Best practises for making a serious bitcoin web site ?\n</h3>
 <p><a href="https://bitcointalk.org/index.php?topic=53869.0">https://bitcointalk.org/index.php?topic=53869.0</a></p>
 <p><a href="https://bitcointalk.org/index.php?topic=53869.0">https://bitcointalk.org/index.php?topic=53869.0</a></p>
 
@@ -1429,13 +1410,13 @@ I added a description of how I handle ecommerce.</p>
     <h2><a href="articles/an-image-of-a-bitcoin-mining-rig--it-is-so-industrial--it-looks-almost-like-e---">An image of a bitcoin mining rig. It is so industrial, it looks almost like e...</a></h2>
     <div class="variables">
     <div class="date">@date=2011-12-04</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>An image of a bitcoin mining rig. It is so industrial, it looks almost like equipment to do real physical mining.</p>
 <p>Pictures like this remind me never to get into mining. 
 <a rel="nofollow" target="_blank" href="http://28.media.tumblr.com/tumblr_lq9z4zJUom1qfy0bho1_500.jpg" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://28.media.tumblr.com/tumblr_lq9z4zJUom1qfy0bho1_500.jpg</a></p>
-<h3><a href="http://28.media.tumblr.com/tumblr_lq9z4zJUom1qfy0bho1_500.jpg">http://28.media.tumblr.com/tumblr_lq9z4zJUom1qfy0bho1_500.jpg</a></h3>
+<h3><a href="http://28.media.tumblr.com/tumblr_lq9z4zJUom1qfy0bho1_500.jpg%5Cn">http://28.media.tumblr.com/tumblr_lq9z4zJUom1qfy0bho1_500.jpg\n</a></h3>
 <p><a href="http://28.media.tumblr.com/tumblr_lq9z4zJUom1qfy0bho1_500.jpg">http://28.media.tumblr.com/tumblr_lq9z4zJUom1qfy0bho1_500.jpg</a></p>
 <p><a href="http://28.media.tumblr.com/tumblr_lq9z4zJUom1qfy0bho1_500.jpg">http://28.media.tumblr.com/tumblr_lq9z4zJUom1qfy0bho1_500.jpg</a></p>
 <p><a href="http://www.bitcoinminer.com/">http://www.bitcoinminer.com/</a></p>
@@ -1445,7 +1426,7 @@ I added a description of how I handle ecommerce.</p>
     <h2><a href="articles/using-my-kids--39--playroom-as-a-photo-studio-can-be-amusing-in-retrospect-">Using my kids&#39; playroom as a photo studio can be amusing in retrospect.</a></h2>
     <div class="variables">
     <div class="date">@date=2011-12-02</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>Using my kids&#39; playroom as a photo studio can be amusing in retrospect.</p>
@@ -1456,7 +1437,7 @@ I added a description of how I handle ecommerce.</p>
     <h2><a href="articles/ron-paul-bitcoin-cheque-----when-you-aren--39-t-fringe-enough---">Ron Paul Bitcoin cheque.... when you aren&#39;t fringe enough...</a></h2>
     <div class="variables">
     <div class="date">@date=2011-12-02</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>Ron Paul Bitcoin cheque.... when you aren&#39;t fringe enough...</p>
@@ -1467,7 +1448,7 @@ I added a description of how I handle ecommerce.</p>
     <h2><a href="articles/printcoin-check">printcoin check</a></h2>
     <div class="variables">
     <div class="date">@date=2011-11-29</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p><a rel="nofollow" target="_blank" href="http://printcoins.com/images/gallery/cheque.jpg" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://printcoins.com/images/gallery/cheque.jpg</a></p>
@@ -1475,7 +1456,7 @@ I added a description of how I handle ecommerce.</p>
 <p>This is an easy way to give someone bitcoins, even if they don&#39;t have a bitcoin wallet. </p>
 <p>Simply scan the public address on the cheque, transfer bitcoins to it, and write in the amount the cheque was funded with. </p>
 <p>This is perfect for paying a merchant, or perhaps selling bitcoins to someone as an investment.</p>
-<h3><a href="http://printcoins.com/images/gallery/cheque.jpg">http://printcoins.com/images/gallery/cheque.jpg</a></h3>
+<h3><a href="http://printcoins.com/images/gallery/cheque.jpg%5Cn">http://printcoins.com/images/gallery/cheque.jpg\n</a></h3>
 <p><a href="http://printcoins.com/images/gallery/cheque.jpg">http://printcoins.com/images/gallery/cheque.jpg</a></p>
 <p><a href="http://printcoins.com">http://printcoins.com</a></p>
 <p><a href="http://printcoins.com/images/gallery/cheque.jpg">http://printcoins.com/images/gallery/cheque.jpg</a></p>
@@ -1485,7 +1466,7 @@ I added a description of how I handle ecommerce.</p>
     <h2><a href="articles/i-am-sharing-the-share-of-my-own-post-----and-deleting-original-----">I am sharing the share of my own post ... and deleting original. ...</a></h2>
     <div class="variables">
     <div class="date">@date=2011-11-29</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>I am sharing the share of my own post ... and deleting original. ...</p>
@@ -1495,11 +1476,11 @@ I added a description of how I handle ecommerce.</p>
     <h2><a href="articles/nice--someone-has-pulled-videos-together-for-all-of-these-academic-classes-">Nice, someone has pulled videos together for all of these academic classes.</a></h2>
     <div class="variables">
     <div class="date">@date=2011-11-22</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>Nice, someone has pulled videos together for all of these academic classes.</p>
-<h3>Academic Earth | Online Courses | Academic Video Lectures</h3>
+<h3>Academic Earth | Online Courses | Academic Video Lectures\n</h3>
 <p><a href="http://academicearth.org/">http://academicearth.org/</a></p>
 
     </article>
@@ -1507,12 +1488,12 @@ I added a description of how I handle ecommerce.</p>
     <h2><a href="articles/really--set-up-any-command-to-run-on-startup-as-a-service">Really, set up any command to run on startup as a service</a></h2>
     <div class="variables">
     <div class="date">@date=2011-11-18</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>Really, set up any command to run on startup as a service (and have &quot;start/stop myprocess&quot; commands available to you).</p>
 <p>Much easier than init.d</p>
-<h3>Run Node.js as a Service on Ubuntu</h3>
+<h3>Run Node.js as a Service on Ubuntu\n</h3>
 <p><a href="http://kevin.vanzonneveld.net/techblog/article/run_nodejs_as_a_service_on_ubuntu_karmic/">http://kevin.vanzonneveld.net/techblog/article/run_nodejs_as_a_service_on_ubuntu_karmic/</a></p>
 
     </article>
@@ -1520,7 +1501,7 @@ I added a description of how I handle ecommerce.</p>
     <h2><a href="articles/buckyballs-bb-gauss-rifle">Buckyballs bb gauss rifle</a></h2>
     <div class="variables">
     <div class="date">@date=2011-11-17</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p><a rel="nofollow" target="_blank" href="http://www.youtube.com/watch?v=Q7iVdXivmlQ" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">bucky balls/bb gauss rifle</a></p>
@@ -1533,14 +1514,14 @@ I added a description of how I handle ecommerce.</p>
     <h2><a href="articles/i-run-a-ugc-site-on-a-dreamhost-virtual-private-server-called">I run a UGC site on a dreamhost virtual private server called</a></h2>
     <div class="variables">
     <div class="date">@date=2011-11-16</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>I run a UGC site on a dreamhost virtual private server called <a rel="nofollow" target="_blank" href="http://cueflash.com" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">cueflash.com</a>. A user posted up content that was copyrighted, and dreamhost recieved a DMCA takedown notice. They shut my site down, without first giving me any notice (though, in their defense, it was easy to turn it back on).</p>
 <p>I also run a UGC site on linode (<a rel="nofollow" target="_blank" href="http://editthis.info" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">editthis.info</a>), and had the same situtation there (except the person who made the complaint was wrong and I protected the users&#39; contributions). Linode actually allowed me to address the issue rather than just pulling the plug.</p>
 <p>If you are going to run a site where a user might post something that violates copyright (a forum, a blog with comments, or practically anything), and you would prefer not to have a provider that shoots first, and asks questions later, go with Linode.
 <a rel="nofollow" target="_blank" href="http://tinyurl.com/25x4bk5" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://tinyurl.com/25x4bk5</a> (my referral code is in there)</p>
-<h3>Linode - Xen VPS Hosting</h3>
+<h3>Linode - Xen VPS Hosting\n</h3>
 <p><a href="http://cueflash.com">http://cueflash.com</a></p>
 <p><a href="http://editthis.info">http://editthis.info</a></p>
 <p><a href="http://tinyurl.com/25x4bk5">http://tinyurl.com/25x4bk5</a></p>
@@ -1551,7 +1532,7 @@ I added a description of how I handle ecommerce.</p>
     <h2><a href="articles/so-someone-sent-a-dmca-notice-to-my-service-provider--they-were-complaining-a---">So someone sent a DMCA notice to my service provider. They were complaining a...</a></h2>
     <div class="variables">
     <div class="date">@date=2011-11-08</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>So someone sent a DMCA notice to my service provider. They were complaining about content that they considered their copyright in a wiki I am hosting. It was a page about their news station WHKY TV. Looking through the history of the page, I could see that a bunch of people worked together to create the page. </p>
@@ -1569,7 +1550,7 @@ I hate DMCA lawyers. It would be great if there was some recourse for BS claims.
     <h2><a href="articles/i-wish-i-could-pay-not-to-see-ads-on-youtube--i-would-pay--10-a-year-to-not-s---">I wish I could pay not to see ads on youtube. I would pay $10 a year to not s...</a></h2>
     <div class="variables">
     <div class="date">@date=2011-11-08</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>I wish I could pay not to see ads on youtube. I would pay $10 a year to not see them. Surely that is worth more than the advertisers are paying you.</p>
@@ -1579,11 +1560,11 @@ I hate DMCA lawyers. It would be great if there was some recourse for BS claims.
     <h2><a href="articles/i-got-tired-of-being-distracted-by-that-little-red-notification--and-was-abou---">I got tired of being distracted by that little red notification, and was abou...</a></h2>
     <div class="variables">
     <div class="date">@date=2011-11-08</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>I got tired of being distracted by that little red notification, and was about to write an extension to hide it. Thankfully someone beat me to it.</p>
-<h3>Hide Google+ Notification - Chrome Web Store</h3>
+<h3>Hide Google+ Notification - Chrome Web Store\n</h3>
 <p><a href="https://chrome.google.com/webstore/detail/ogcfegjiehdakiogchpnllekccphhebd">https://chrome.google.com/webstore/detail/ogcfegjiehdakiogchpnllekccphhebd</a></p>
 <p><a href="http://amitaytweeto.com/thequietplace/">http://amitaytweeto.com/thequietplace/</a></p>
 
@@ -1592,12 +1573,12 @@ I hate DMCA lawyers. It would be great if there was some recourse for BS claims.
     <h2><a href="articles/ludum-dare">Ludum Dare</a></h2>
     <div class="variables">
     <div class="date">@date=2011-10-31</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p><a rel="nofollow" target="_blank" href="http://www.ludumdare.com/compo/october-challenge-2011/?uid=4337" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://www.ludumdare.com/compo/october-challenge-2011/?uid=4337</a>
 Launched <a rel="nofollow" target="_blank" href="http://constantsail.com" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">constantsail.com</a> for the october challenge. (yep, right before the deadline.)</p>
-<h3>Ludum Dare » October Challenge 2011</h3>
+<h3>Ludum Dare » October Challenge 2011\n</h3>
 <p><a href="http://www.ludumdare.com/compo/october-challenge-2011/?uid=4337">http://www.ludumdare.com/compo/october-challenge-2011/?uid=4337</a></p>
 <p><a href="http://constantsail.com">http://constantsail.com</a></p>
 <p><a href="http://www.ludumdare.com/compo/october-challenge-2011/?uid=4337">http://www.ludumdare.com/compo/october-challenge-2011/?uid=4337</a></p>
@@ -1607,11 +1588,11 @@ Launched <a rel="nofollow" target="_blank" href="http://constantsail.com" class=
     <h2><a href="articles/brilliant">brilliant</a></h2>
     <div class="variables">
     <div class="date">@date=2011-10-31</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>brilliant</p>
-<h3>The Knights of the Round Staples : diesel sweeties robot webcomic &amp; geeky t-shirts</h3>
+<h3>The Knights of the Round Staples : diesel sweeties robot webcomic &amp; geeky t-shirts\n</h3>
 <p><a href="http://dieselsweeties.com/archive/2923">http://dieselsweeties.com/archive/2923</a></p>
 
     </article>
@@ -1619,7 +1600,7 @@ Launched <a rel="nofollow" target="_blank" href="http://constantsail.com" class=
     <h2><a href="articles/code-at-the-end-of-the-post">code at the end of the post</a></h2>
     <div class="variables">
     <div class="date">@date=2011-10-24</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>What happens when you round 3.6 ---&gt; you get 4. </p>
@@ -1643,12 +1624,12 @@ Launched <a rel="nofollow" target="_blank" href="http://constantsail.com" class=
     <h2><a href="articles/working-hard-on-constant-sail--pirates--amp--traders-for-the-october-competit---">Working hard on Constant Sail: Pirates &amp; Traders for the October competit...</a></h2>
     <div class="variables">
     <div class="date">@date=2011-10-19</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>Working hard on Constant Sail: Pirates &amp; Traders for the October competition. It is a pirate game where you sail around a world and trade goods. It is multiplayer and web based with a big emphasis on PvP fighting.</p>
 <p>As you can see, even though I am making this for the web, it is being formatted to also work well on smartphones.</p>
-<h3>Ludum Dare » Blog Archive » Constant Sail: Pirates And Traders</h3>
+<h3>Ludum Dare » Blog Archive » Constant Sail: Pirates And Traders\n</h3>
 <p><a href="http://www.ludumdare.com/compo/2011/10/18/constantsail/">http://www.ludumdare.com/compo/2011/10/18/constantsail/</a></p>
 
     </article>
@@ -1656,7 +1637,7 @@ Launched <a rel="nofollow" target="_blank" href="http://constantsail.com" class=
     <h2><a href="articles/visited-the-portland-occupy-protests-today-and-had-some-great-chats-with-some---">Visited the portland occupy protests today and had some great chats with some...</a></h2>
     <div class="variables">
     <div class="date">@date=2011-10-18</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>Visited the portland occupy protests today and had some great chats with some revolutionaries :)</p>
@@ -1666,7 +1647,7 @@ Launched <a rel="nofollow" target="_blank" href="http://constantsail.com" class=
     <h2><a href="articles/this-is-what-3d-should-really-be-">This is what 3d should really be.</a></h2>
     <div class="variables">
     <div class="date">@date=2011-10-17</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>This is what 3d should really be.</p>
@@ -1678,7 +1659,7 @@ Launched <a rel="nofollow" target="_blank" href="http://constantsail.com" class=
     <h2><a href="articles/totally-into----">Totally into ...</a></h2>
     <div class="variables">
     <div class="date">@date=2011-10-14</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>Totally into ...</p>
@@ -1690,7 +1671,7 @@ Launched <a rel="nofollow" target="_blank" href="http://constantsail.com" class=
     <h2><a href="articles/anyone-accept--bitcoin-on-any-e-commerce-or-game-site-">Anyone accept #Bitcoin on any e-commerce or game site?</a></h2>
     <div class="variables">
     <div class="date">@date=2011-10-14</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>Anyone accept #Bitcoin on any e-commerce or game site?</p>
@@ -1700,7 +1681,7 @@ Launched <a rel="nofollow" target="_blank" href="http://constantsail.com" class=
     <h2><a href="articles/does-anyone-want-the-domain">Does anyone want the domain</a></h2>
     <div class="variables">
     <div class="date">@date=2011-10-13</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>Does anyone want the domain:
@@ -1716,7 +1697,7 @@ I had plans on building something like Survey Monkey with it, but I don&#39;t th
     <h2><a href="articles/result-set-pagers-are-really-annoying">Result set pagers are really annoying</a></h2>
     <div class="variables">
     <div class="date">@date=2011-10-12</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>If you have a search results page on your website, try to minimize the amount that users have to use the pager on those results.</p>
@@ -1728,7 +1709,7 @@ I had plans on building something like Survey Monkey with it, but I don&#39;t th
     <h2><a href="articles/destiny-is-for-people-who-are-too-lazy-to-create-alternate-timelines-">Destiny is for people who are too lazy to create alternate timelines.</a></h2>
     <div class="variables">
     <div class="date">@date=2011-10-06</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>&quot;Destiny is for people who are too lazy to create alternate timelines.&quot;
@@ -1740,7 +1721,7 @@ I had plans on building something like Survey Monkey with it, but I don&#39;t th
     <h2><a href="articles/if-i-were-at-the-nyc-protests--this-is-what-i-would-have-on-my-banner">If I were at the NYC protests, this is what I would have on my banner</a></h2>
     <div class="variables">
     <div class="date">@date=2011-10-05</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>Greed is not the problem.
@@ -1752,11 +1733,11 @@ Corporate control of the government is the problem.</p>
     <h2><a href="articles/what-is-amazing-is-that-there-are-so-many-interesting-products-that-you-can-b---">What is amazing is that there are so many interesting products that you can b...</a></h2>
     <div class="variables">
     <div class="date">@date=2011-10-03</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>What is amazing is that there are so many interesting products that you can buy now. Looks like a great way to get some cool presents for people for christmas.</p>
-<h3>quirky | social product development</h3>
+<h3>quirky | social product development\n</h3>
 <p><a href="http://www.quirky.com/">http://www.quirky.com/</a></p>
 
     </article>
@@ -1764,7 +1745,7 @@ Corporate control of the government is the problem.</p>
     <h2><a href="articles/1994---pulp-fiction--amp--inflation">1994 - Pulp fiction &amp; Inflation</a></h2>
     <div class="variables">
     <div class="date">@date=2011-09-30</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>1994 - Pulp fiction &amp; Inflation</p>
@@ -1778,7 +1759,7 @@ Corporate control of the government is the problem.</p>
     <h2><a href="articles/i-am-looking-forward-to-the-race-to-the-bottom-in-the-tablet-wars-">I am looking forward to the race to the bottom in the tablet wars.</a></h2>
     <div class="variables">
     <div class="date">@date=2011-09-29</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>I am looking forward to the race to the bottom in the tablet wars.</p>
@@ -1789,7 +1770,7 @@ Corporate control of the government is the problem.</p>
     <h2><a href="articles/what-do-people-in-ludum-dare-use-for-timelapse-on-mac-">What do people in Ludum Dare use for timelapse on Mac.</a></h2>
     <div class="variables">
     <div class="date">@date=2011-09-28</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>What do people in Ludum Dare use for timelapse on Mac.</p>
@@ -1799,7 +1780,7 @@ Corporate control of the government is the problem.</p>
     <h2><a href="articles/want-to-add-jquery-to-a-page-you-are-viewing-on-your-browser-for-some-quick-h---">Want to add jquery to a page you are viewing on your browser for some quick h...</a></h2>
     <div class="variables">
     <div class="date">@date=2011-09-28</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>Want to add jquery to a page you are viewing on your browser for some quick hackery?</p>
@@ -1814,7 +1795,7 @@ Corporate control of the government is the problem.</p>
     <h2><a href="articles/what-a-great-video-">What a great video.</a></h2>
     <div class="variables">
     <div class="date">@date=2011-09-27</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>What a great video.</p>
@@ -1827,11 +1808,11 @@ Corporate control of the government is the problem.</p>
     <h2><a href="articles/minecraft">Minecraft</a></h2>
     <div class="variables">
     <div class="date">@date=2011-09-27</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>Minecraft</p>
-<h3>The Bottom Feeder: The Hardest Game. For Adults.</h3>
+<h3>The Bottom Feeder: The Hardest Game. For Adults.\n</h3>
 <p><a href="http://jeff-vogel.blogspot.com/2011/09/hardest-game-for-adults.html">http://jeff-vogel.blogspot.com/2011/09/hardest-game-for-adults.html</a></p>
 
     </article>
@@ -1839,11 +1820,11 @@ Corporate control of the government is the problem.</p>
     <h2><a href="articles/attempted-to-play-dwarf-fortress-last-night--it-is-a-tough-game-to-get-into-">Attempted to play Dwarf Fortress last night. It is a tough game to get into.</a></h2>
     <div class="variables">
     <div class="date">@date=2011-09-27</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>Attempted to play Dwarf Fortress last night. It is a tough game to get into.</p>
-<h3>Bay 12 Games: Dwarf Fortress</h3>
+<h3>Bay 12 Games: Dwarf Fortress\n</h3>
 <p><a href="http://www.bay12games.com/dwarves/">http://www.bay12games.com/dwarves/</a></p>
 <p><a href="http://www.vayapotra.es/wordpress/wp-content/uploads/2009/02/2rmqi6o.gif">http://www.vayapotra.es/wordpress/wp-content/uploads/2009/02/2rmqi6o.gif</a></p>
 
@@ -1852,11 +1833,11 @@ Corporate control of the government is the problem.</p>
     <h2><a href="articles/build-a-house-for-less-than-5000">Build a house for less than 5000</a></h2>
     <div class="variables">
     <div class="date">@date=2011-09-26</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p><a rel="nofollow" target="_blank" href="http://ciracar.com/build-a-house-for-less-than-5000/" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://ciracar.com/build-a-house-for-less-than-5000/</a></p>
-<h3>Build a house for less than $5000 | Cira Car</h3>
+<h3>Build a house for less than $5000 | Cira Car\n</h3>
 <p><a href="http://ciracar.com/build-a-house-for-less-than-5000/">http://ciracar.com/build-a-house-for-less-than-5000/</a></p>
 <p><a href="http://ciracar.com/build-a-house-for-less-than-5000/">http://ciracar.com/build-a-house-for-less-than-5000/</a></p>
 
@@ -1865,11 +1846,11 @@ Corporate control of the government is the problem.</p>
     <h2><a href="articles/octocoptor">Octocoptor</a></h2>
     <div class="variables">
     <div class="date">@date=2011-09-23</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p><a rel="nofollow" target="_blank" href="http://hackaday.com/2011/09/23/octocopter-will-someday-kill-someone/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+hackaday%2FLgoM+%28Hack+a+Day%29" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://hackaday.com/2011/09/23/octocopter-will-someday-kill-someone/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+hackaday%2FLgoM+%28Hack+a+Day%29</a></p>
-<h3>Octocopter will someday kill someone - Hack a Day</h3>
+<h3>Octocopter will someday kill someone - Hack a Day\n</h3>
 <p><a href="http://hackaday.com/2011/09/23/octocopter-will-someday-kill-someone/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+hackaday%2FLgoM+%28Hack+a+Day%29">http://hackaday.com/2011/09/23/octocopter-will-someday-kill-someone/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+hackaday%2FLgoM+%28Hack+a+Day%29</a></p>
 <p><a href="http://hackaday.com/2011/09/23/octocopter-will-someday-kill-someone/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed:+hackaday/LgoM+%28Hack+a+Day%29">http://hackaday.com/2011/09/23/octocopter-will-someday-kill-someone/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed:+hackaday/LgoM+%28Hack+a+Day%29</a></p>
 
@@ -1878,7 +1859,7 @@ Corporate control of the government is the problem.</p>
     <h2><a href="articles/if-you-send-a-newsletter-and-your-unsubscribe-link-requi---">If you send a newsletter and your unsubscribe link requi...</a></h2>
     <div class="variables">
     <div class="date">@date=2011-09-23</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>It is simple:</p>
@@ -1891,7 +1872,7 @@ Corporate control of the government is the problem.</p>
     <h2><a href="articles/been-researching-the-cetera-audial-algorithm-after-hearing-about">Been researching the Cetera audial algorithm after hearing about</a></h2>
     <div class="variables">
     <div class="date">@date=2011-09-23</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>Been researching the Cetera audial algorithm after hearing about (and experiencing) the Virtual Barber Shop for the first time. 
@@ -1910,7 +1891,7 @@ The technology in itself is incredible, and it surely opens an entire world of a
     <h2><a href="articles/portal-clone-that-instead-of-just-traversing-space--you-do-a-snapshot-and-can---">Portal clone that instead of just traversing space, you do a snapshot and can...</a></h2>
     <div class="variables">
     <div class="date">@date=2011-09-21</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>Portal clone that instead of just traversing space, you do a snapshot and can connect moments in time (moving you and other things through time).</p>
@@ -1923,11 +1904,11 @@ The technology in itself is incredible, and it surely opens an entire world of a
     <h2><a href="articles/this-looks-very-cool--interesting-concept--i-wonder-how-well-it-plays-out-">This looks very cool. Interesting concept. I wonder how well it plays out.</a></h2>
     <div class="variables">
     <div class="date">@date=2011-09-18</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>This looks very cool. Interesting concept. I wonder how well it plays out.</p>
-<h3>Mystic Empyrean - Create. Discover. Become.</h3>
+<h3>Mystic Empyrean - Create. Discover. Become.\n</h3>
 <p><a href="http://kck.st/r2lB41">http://kck.st/r2lB41</a></p>
 <p><a href="http://kck.st/r2lB41">http://kck.st/r2lB41</a></p>
 
@@ -1936,13 +1917,13 @@ The technology in itself is incredible, and it surely opens an entire world of a
     <h2><a href="articles/-scoretag-allows-you-to-tag-your-posts-the-same-way-you-could-using-twitter-----">_scoreTag allows you to tag your posts the same way you could using twitter #...</a></h2>
     <div class="variables">
     <div class="date">@date=2011-09-15</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>_scoreTag allows you to tag your posts the same way you could using twitter #hashTags</p>
 <p>It is has a _chromeExtension which turns a _scoreTag into a link. This allows users to quickly find other posts regarding a particular topic. </p>
 <p>Why not just use #hashTag? Well, google ignores the # symbol when it indexes pages for searching, so it doesn&#39;t do much good if you actually want to find posts using it.</p>
-<h3>Google+ _scoreTag - Chrome Web Store</h3>
+<h3>Google+ _scoreTag - Chrome Web Store\n</h3>
 <p><a href="https://chrome.google.com/webstore/detail/cjllnhndndjlchndmfoalkodbpdlmedb">https://chrome.google.com/webstore/detail/cjllnhndndjlchndmfoalkodbpdlmedb</a></p>
 
     </article>
@@ -1950,11 +1931,11 @@ The technology in itself is incredible, and it surely opens an entire world of a
     <h2><a href="articles/calling-a-php-file-from-html--39-s-script-tag">Calling a PHP File From HTML&#39;s Script Tag</a></h2>
     <div class="variables">
     <div class="date">@date=2011-09-15</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>Calling a PHP File From HTML&#39;s Script Tag</p>
-<h3>Calling a PHP File From HTML&#39;s Script Tag</h3>
+<h3>Calling a PHP File From HTML&#39;s Script Tag\n</h3>
 <p><a href="http://www.impressivewebs.com/php-file-html-script-tag/">http://www.impressivewebs.com/php-file-html-script-tag/</a></p>
 
     </article>
@@ -1962,7 +1943,7 @@ The technology in itself is incredible, and it surely opens an entire world of a
     <h2><a href="articles/have-you-been-programming-in-php-for-years-and-need-to-write-some-javascript----">Have you been programming in php for years and need to write some javascript,...</a></h2>
     <div class="variables">
     <div class="date">@date=2011-09-14</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>Have you been programming in php for years and need to write some javascript, only to find you really could use a php function to solve a js problem.</p>
@@ -1978,7 +1959,7 @@ For want of a horse the rider was lost.
 For want of a rider the battle was lost.
 For want of a battle the kingdom was lost.
 And all for the want of a horseshoe nail.</h2>
-<h3>Functions overview - php.js</h3>
+<h3>Functions overview - php.js\n</h3>
 <p><a href="http://phpjs.org/">http://phpjs.org/</a></p>
 <p><a href="http://phpjs.org/">http://phpjs.org/</a></p>
 
@@ -1987,11 +1968,11 @@ And all for the want of a horseshoe nail.</h2>
     <h2><a href="articles/an-elephant-in-bantha-clothing">An Elephant in Bantha Clothing</a></h2>
     <div class="variables">
     <div class="date">@date=2011-09-13</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p><a rel="nofollow" target="_blank" href="http://sale.images.woot.com/An_Elephant_in_Bantha_Clothing7leDetail.png" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://sale.images.woot.com/An_Elephant_in_Bantha_Clothing7leDetail.png</a></p>
-<h3><a href="http://sale.images.woot.com/An_Elephant_in_Bantha_Clothing7leDetail.png">http://sale.images.woot.com/An_Elephant_in_Bantha_Clothing7leDetail.png</a></h3>
+<h3><a href="http://sale.images.woot.com/An_Elephant_in_Bantha_Clothing7leDetail.png%5Cn">http://sale.images.woot.com/An_Elephant_in_Bantha_Clothing7leDetail.png\n</a></h3>
 <p><a href="http://sale.images.woot.com/An_Elephant_in_Bantha_Clothing7leDetail.png">http://sale.images.woot.com/An_Elephant_in_Bantha_Clothing7leDetail.png</a></p>
 <p><a href="http://sale.images.woot.com/An_Elephant_in_Bantha_Clothing7leDetail.png">http://sale.images.woot.com/An_Elephant_in_Bantha_Clothing7leDetail.png</a></p>
 
@@ -2000,11 +1981,11 @@ And all for the want of a horseshoe nail.</h2>
     <h2><a href="articles/currently--1-on-ludum-dare--pretty-crazy-game-">Currently #1 on Ludum Dare. Pretty crazy game.</a></h2>
     <div class="variables">
     <div class="date">@date=2011-09-13</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>Currently #1 on Ludum Dare. Pretty crazy game.</p>
-<h3><a href="http://chevyray.com/art/ld21/5/FleeBuster_512.swf">http://chevyray.com/art/ld21/5/FleeBuster_512.swf</a></h3>
+<h3><a href="http://chevyray.com/art/ld21/5/FleeBuster_512.swf%5Cn">http://chevyray.com/art/ld21/5/FleeBuster_512.swf\n</a></h3>
 <p><a href="http://chevyray.com/art/ld21/5/FleeBuster_512.swf">http://chevyray.com/art/ld21/5/FleeBuster_512.swf</a></p>
 <p><a href="http://www.ludumdare.com/compo/ludum-dare-21/">http://www.ludumdare.com/compo/ludum-dare-21/</a></p>
 
@@ -2013,7 +1994,7 @@ And all for the want of a horseshoe nail.</h2>
     <h2><a href="articles/fun-and-challenging-game--it-requires-deep-thought--but-not-as-heavy-as-chess---">Fun and challenging game. It requires deep thought, but not as heavy as chess...</a></h2>
     <div class="variables">
     <div class="date">@date=2011-09-12</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>Fun and challenging game. It requires deep thought, but not as heavy as chess and go. This is a good thing as it makes it easy to play a bunch of rounds of it without being overwhelmed.</p>
@@ -2025,7 +2006,7 @@ And all for the want of a horseshoe nail.</h2>
     <h2><a href="articles/this-is-a-pretty-unique-game">This is a pretty unique game</a></h2>
     <div class="variables">
     <div class="date">@date=2011-09-09</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>This is a pretty unique game. </p>
@@ -2040,11 +2021,11 @@ And all for the want of a horseshoe nail.</h2>
     <h2><a href="articles/ha-">Ha!</a></h2>
     <div class="variables">
     <div class="date">@date=2011-09-09</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>Ha!</p>
-<h3>Cell Division</h3>
+<h3>Cell Division\n</h3>
 <p><a href="http://shirt.woot.com/">http://shirt.woot.com/</a></p>
 
     </article>
@@ -2052,12 +2033,12 @@ And all for the want of a horseshoe nail.</h2>
     <h2><a href="articles/fairy-tales-of-old-were-pretty-scary-">Fairy tales of old were pretty scary.</a></h2>
     <div class="variables">
     <div class="date">@date=2011-09-07</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>Fairy tales of old were pretty scary.
 <a rel="nofollow" target="_blank" href="http://www.pitt.edu/~dash/grimm047.html" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://www.pitt.edu/~dash/grimm047.html</a></p>
-<h3>Grimm 047: The Juniper Tree</h3>
+<h3>Grimm 047: The Juniper Tree\n</h3>
 <p><a href="http://www.pitt.edu/~dash/grimm047.html">http://www.pitt.edu/~dash/grimm047.html</a></p>
 <p><a href="http://www.pitt.edu/~dash/grimm047.html">http://www.pitt.edu/~dash/grimm047.html</a></p>
 
@@ -2066,7 +2047,7 @@ And all for the want of a horseshoe nail.</h2>
     <h2><a href="articles/this-was-a-semi-sarcastic-comment-i-made-on-how-all-politicians-are-controlle---">This was a semi-sarcastic comment I made on how all politicians are controlle...</a></h2>
     <div class="variables">
     <div class="date">@date=2011-09-01</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>This was a semi-sarcastic comment I made on how all politicians are controlled by political donations:
@@ -2077,7 +2058,7 @@ And all for the want of a horseshoe nail.</h2>
     <h2><a href="articles/grizzly-awesome">Grizzly awesome</a></h2>
     <div class="variables">
     <div class="date">@date=2011-09-01</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>Grizzly awesome</p>
@@ -2097,7 +2078,7 @@ And all for the want of a horseshoe nail.</h2>
     <h2><a href="articles/so-my-3-year-old-is-totally-into-video-games--in-particular-a-game-on-the-wii---">So my 3 year old is totally into video games (in particular a game on the wii...</a></h2>
     <div class="variables">
     <div class="date">@date=2011-08-27</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>So my 3 year old is totally into video games (in particular a game on the wii called Excite Truck).</p>
@@ -2111,7 +2092,7 @@ And all for the want of a horseshoe nail.</h2>
     <h2><a href="articles/i-would-love-it-if-google-allowed-you-to-sort-your-stream-by-how-often-you--1---">I would love it if google allowed you to sort your stream by how often you +1...</a></h2>
     <div class="variables">
     <div class="date">@date=2011-08-26</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>I would love it if google allowed you to sort your stream by how often you +1 posters.</p>
@@ -2121,7 +2102,7 @@ And all for the want of a horseshoe nail.</h2>
     <h2><a href="articles/i-am-working-on-a-programming-game-where-you-control-an-army-of-robots-via-a----">I am working on a programming game where you control an army of robots via a ...</a></h2>
     <div class="variables">
     <div class="date">@date=2011-08-25</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>I am working on a programming game where you control an army of robots via a web api. </p>
@@ -2134,7 +2115,7 @@ And all for the want of a horseshoe nail.</h2>
 <p>If you are interested in getting involved in the development of this game, let me know. (This is not a job, there will likely be no profit here)</p>
 <p>Technology involved: Node.js + express + mongodb</p>
 <p>If you just want to do the client end stuff, you will need to know jQuery and be able to work with JSON.</p>
-<h3>var p = { &quot;api_options&quot;: { &quot;0&quot;: { &quot;path&quot;: &quot;/test&quot;, &quot;route ...</h3>
+<h3>var p = { &quot;api_options&quot;: { &quot;0&quot;: { &quot;path&quot;: &quot;/test&quot;, &quot;route ...\n</h3>
 <p><a href="http://rts-api.com:2000/help/api_options">http://rts-api.com:2000/help/api_options</a></p>
 <p><a href="http://rts-api.com:2000/help/api_options">http://rts-api.com:2000/help/api_options</a></p>
 <p><a href="http://rts-api.com:2000/help">http://rts-api.com:2000/help</a></p>
@@ -2145,12 +2126,12 @@ And all for the want of a horseshoe nail.</h2>
     <h2><a href="articles/hi-john--this-seems-like-a-good-cheatsheet-for-you-">Hi John, this seems like a good cheatsheet for you:</a></h2>
     <div class="variables">
     <div class="date">@date=2011-08-25</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>Hi John, this seems like a good cheatsheet for you:
 <a rel="nofollow" target="_blank" href="http://startuplawyer.com/startup-issues/if-i-launched-a-startup" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://startuplawyer.com/startup-issues/if-i-launched-a-startup</a></p>
-<h3>If I Launched a Startup | Startup Lawyer</h3>
+<h3>If I Launched a Startup | Startup Lawyer\n</h3>
 <p><a href="http://startuplawyer.com/startup-issues/if-i-launched-a-startup">http://startuplawyer.com/startup-issues/if-i-launched-a-startup</a></p>
 <p><a href="http://startuplawyer.com/startup-issues/if-i-launched-a-startup">http://startuplawyer.com/startup-issues/if-i-launched-a-startup</a></p>
 
@@ -2159,7 +2140,7 @@ And all for the want of a horseshoe nail.</h2>
     <h2><a href="articles/going-to-see-the-protomen-tomorrow-night--totally-psyched-">Going to see The Protomen tomorrow night. Totally psyched.</a></h2>
     <div class="variables">
     <div class="date">@date=2011-08-24</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>Going to see The Protomen tomorrow night. Totally psyched.</p>
@@ -2172,14 +2153,14 @@ And all for the want of a horseshoe nail.</h2>
     <h2><a href="articles/needed-a-simple-painting-application--but-with-the-ability-to-do-layers--tran---">Needed a simple painting application, but with the ability to do layers, tran...</a></h2>
     <div class="variables">
     <div class="date">@date=2011-08-22</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>Needed a simple painting application, but with the ability to do layers, transparency, and a few of the things I take for granted in photoshop. Also needed it on Mac. </p>
 <p>This worked well:
 <a rel="nofollow" target="_blank" href="http://seashore.sourceforge.net/The_Seashore_Project/About.html" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://seashore.sourceforge.net/The_Seashore_Project/About.html</a>
 And is free as in bla bla ...</p>
-<h3>Seashore</h3>
+<h3>Seashore\n</h3>
 <p><a href="http://seashore.sourceforge.net/The_Seashore_Project/About.html">http://seashore.sourceforge.net/The_Seashore_Project/About.html</a></p>
 <p><a href="http://seashore.sourceforge.net/The_Seashore_Project/About.html">http://seashore.sourceforge.net/The_Seashore_Project/About.html</a></p>
 
@@ -2188,13 +2169,13 @@ And is free as in bla bla ...</p>
     <h2><a href="articles/have-you-ever-played-the-board-game-diplomacy-before--i-am-looking-to-start-a---">Have you ever played the board game Diplomacy before? I am looking to start a...</a></h2>
     <div class="variables">
     <div class="date">@date=2011-08-22</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>Have you ever played the board game Diplomacy before? I am looking to start a postal game (where you mail stamped letters to each-other) where the adjudication is done via the web (there is no game master). I set up a game that starts in 6 days at the link. Join up, and send me an email with your postal mailing address when the game starts, along with your nation. I will send the mailing addresses to everyone in the game. My email address with google is robkohr.</p>
 <p><a rel="nofollow" target="_blank" href="http://webdiplomacy.net/board.php?gameID=65923" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://webdiplomacy.net/board.php?gameID=65923</a></p>
 <p>They game turn length will most likely be increased to 14 days.</p>
-<h3>Board - webDiplomacy</h3>
+<h3>Board - webDiplomacy\n</h3>
 <p><a href="http://webdiplomacy.net/board.php?gameID=65923">http://webdiplomacy.net/board.php?gameID=65923</a></p>
 <p><a href="http://webdiplomacy.net/board.php?gameID=65923">http://webdiplomacy.net/board.php?gameID=65923</a></p>
 
@@ -2203,7 +2184,7 @@ And is free as in bla bla ...</p>
     <h2><a href="articles/google--post-nyc-female-keyboardists-playing-vintage-keyboards">Google+ post NYC female keyboardists playing vintage keyboards</a></h2>
     <div class="variables">
     <div class="date">@date=2011-08-19</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p> Filmed and Directed by Amy Hobby. Edited by Tony Zajkowski. Over 20 different NYC female keyboardists playing vintage keyboards at Joe McGinty&#39;s Carousel Studio in Brooklyn, NY. Available on iTunes! <a href="http://itunes.apple.com/us/album/tubular-bells/id398862997">http://itunes.apple.com/us/album/tubular-bells/id398862997</a> Featuring: Kaia Wong (Mixel Pixel) Kelly Rae Kerwin (Private Income) Natasha Bartolf Joanna Choy (Spray Paint Star) Amy Merril (Mia Riddle) Greta Gertler (The Universal Thump) Supercute! Anna Copa Cabanna Rolyn Hu (True Primes) Sondra Sun-Odeon (Silver Summit) Michi Turner (Crash Diet Crew) Katia Floreska (The Tall Pines) Natalie Weiss (Unicornicopia, Camp Wanatachi) Wendy Ip Alice Cohen Yvette Perez Kelly Vaughn-Kauffman (Winstron Troy) Yvette Perez (H<em>E</em>R) Hula Hoop Harlot Melissa-Anne Alix Brown (Golden Triangle) Leah Cary (Girl Crisis) Caitlin Jemison (Queen Of Sibyls) Instruments featured: Hammond M3 Organ Fender Rhodes Oberheim Xpander Dave Smith Instruments Poly Evolver Keyboard Steinway Upright Grand Piano RMI Keyboard Computer Jenco Celeste Baldwin Electric Harpsichord Bebot Magical Musical Thing Thingamagoop Hohner Clavinet D6 Casio CZ-101 Wurlitzer Electric Piano Conn Electric Band ARP 2600 ARP Omni Suzuki Omnichord Yamaha CS-01 Yamaha TX802 Vox Continental Fender Starmaster Farfisa Combo Compact Buzzing Bee Optigan Stylophone Toy Piano 360 Systems Digital Keyboard Hammond Synthesizer Gibson Clavioline Moog Little Phatty MiniMoog Mellotron Mass-Rowe Vibrachime</p>
@@ -2214,12 +2195,12 @@ And is free as in bla bla ...</p>
     <h2><a href="articles/not-shown-on-the-menu-bar-in-hacker-news--their-is-a-page-called">Not shown on the menu bar in Hacker News, their is a page called</a></h2>
     <div class="variables">
     <div class="date">@date=2011-08-19</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>Not shown on the menu bar in Hacker News, their is a page called &quot;best,&quot; which has less updates per day, and is nice if you don&#39;t want to get too sucked in to what is &quot;hot&quot;.
 <a rel="nofollow" target="_blank" href="http://news.ycombinator.com/best" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://news.ycombinator.com/best</a></p>
-<h3>Hacker News | Top Links</h3>
+<h3>Hacker News | Top Links\n</h3>
 <p><a href="http://news.ycombinator.com/best">http://news.ycombinator.com/best</a></p>
 <p><a href="http://news.ycombinator.com/best">http://news.ycombinator.com/best</a></p>
 
@@ -2228,11 +2209,11 @@ And is free as in bla bla ...</p>
     <h2><a href="articles/here--39-s-something-for-the-punk-rock-fans--the-misfits-are-releasing-their----">Here&#39;s something for the punk rock fans. The Misfits are releasing their ...</a></h2>
     <div class="variables">
     <div class="date">@date=2011-08-19</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>Here&#39;s something for the punk rock fans. The Misfits are releasing their first album in 12 years this October. I guess I know what to give my brother for Christmas.</p>
-<h3>Inside the Misfits&#39; First Album in 12 Years | Rolling Stone Music</h3>
+<h3>Inside the Misfits&#39; First Album in 12 Years | Rolling Stone Music\n</h3>
 <p><a href="http://www.rollingstone.com/music/news/inside-the-misfits-first-album-in-12-years-20110819">http://www.rollingstone.com/music/news/inside-the-misfits-first-album-in-12-years-20110819</a></p>
 
     </article>
@@ -2240,7 +2221,7 @@ And is free as in bla bla ...</p>
     <h2><a href="articles/i-am-now-registered-republican--mission--help-ron-paul-win-the-primaries-">I am now registered republican. Mission: help Ron Paul win the primaries.</a></h2>
     <div class="variables">
     <div class="date">@date=2011-08-18</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>I am now registered republican. Mission: help Ron Paul win the primaries.</p>
@@ -2250,11 +2231,11 @@ And is free as in bla bla ...</p>
     <h2><a href="articles/if-you-need-to-generate-a-sound-for-events--clicking-on-things--explosions--e---">If you need to generate a sound for events (clicking on things, explosions, e...</a></h2>
     <div class="variables">
     <div class="date">@date=2011-08-16</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>If you need to generate a sound for events (clicking on things, explosions, etc) this works great. Works on OS X, windows, and linux.</p>
-<h3>DrPetter&#39;s homepage - sfxr</h3>
+<h3>DrPetter&#39;s homepage - sfxr\n</h3>
 <p><a href="http://www.drpetter.se/project_sfxr.html">http://www.drpetter.se/project_sfxr.html</a></p>
 
     </article>
@@ -2262,7 +2243,7 @@ And is free as in bla bla ...</p>
     <h2><a href="articles/blown-away">Blown away</a></h2>
     <div class="variables">
     <div class="date">@date=2011-08-16</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>Blown away</p>
@@ -2275,7 +2256,7 @@ And is free as in bla bla ...</p>
     <h2><a href="articles/speedcrunch-is-a-great-calculator-application-that-is-available-on-all-major----">Speedcrunch is a great calculator application that is available on all major ...</a></h2>
     <div class="variables">
     <div class="date">@date=2011-08-15</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>Speedcrunch is a great calculator application that is available on all major OSes</p>
@@ -2283,7 +2264,7 @@ And is free as in bla bla ...</p>
 Though it is seems complex, it is my favorite to use even for the most basic of calculations. It is fast and the interface is simple to use.
 Oh, and it is free:
 <a rel="nofollow" target="_blank" href="http://speedcrunch.org" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://speedcrunch.org</a></p>
-<h3>SpeedCrunch - fast and usable calculator</h3>
+<h3>SpeedCrunch - fast and usable calculator\n</h3>
 <p><a href="http://speedcrunch.org">http://speedcrunch.org</a></p>
 <p><a href="http://speedcrunch.org">http://speedcrunch.org</a></p>
 
@@ -2292,7 +2273,7 @@ Oh, and it is free:
     <h2><a href="articles/google--post">Google+ post</a></h2>
     <div class="variables">
     <div class="date">@date=2011-08-15</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p><a href="https://lh3.googleusercontent.com/-2jZ1MqXTcOY/TiVWGWj0waI/AAAAAAAACDA/WlwlX5s6eSo/w288-h288/7970_89bb.jpg">https://lh3.googleusercontent.com/-2jZ1MqXTcOY/TiVWGWj0waI/AAAAAAAACDA/WlwlX5s6eSo/w288-h288/7970_89bb.jpg</a></p>
@@ -2302,12 +2283,12 @@ Oh, and it is free:
     <h2><a href="articles/due-to-really-poor-sales-in-the-app-store--kinda-expected-since-it-was-just-a---">Due to really poor sales in the app store (kinda expected since it was just a...</a></h2>
     <div class="variables">
     <div class="date">@date=2011-08-15</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>Due to really poor sales in the app store (kinda expected since it was just an astroids clone) space rocks is now free. When I get around to it, I will post up the source code on github. It was written with JS using the canvas element for drawing. It was bundled into an iOS app using phonegap.</p>
 <p>If you have an urge to hack on it, just post a comment here, and I will post up the source earlier (right now it is a low priority).</p>
-<h3>Space Rocks Battle Edition for iPhone, iPod touch, and iPad on the iTunes App Store</h3>
+<h3>Space Rocks Battle Edition for iPhone, iPod touch, and iPad on the iTunes App Store\n</h3>
 <p><a href="http://itunes.apple.com/us/app/space-rocks-battle-edition/id440217537?ls=1&amp;mt=8">http://itunes.apple.com/us/app/space-rocks-battle-edition/id440217537?ls=1&amp;mt=8</a></p>
 
     </article>
@@ -2315,11 +2296,11 @@ Oh, and it is free:
     <h2><a href="articles/full-of-awesome">Full of awesome</a></h2>
     <div class="variables">
     <div class="date">@date=2011-08-13</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>Full of awesome</p>
-<h3>Banish JavaScript in Web Forms with HTML5</h3>
+<h3>Banish JavaScript in Web Forms with HTML5\n</h3>
 <p><a href="http://www.elated.com/articles/banish-javascript-in-web-forms-with-html5/">http://www.elated.com/articles/banish-javascript-in-web-forms-with-html5/</a></p>
 <p><a href="http://www.findmebyip.com/litmus/">http://www.findmebyip.com/litmus/</a></p>
 
@@ -2328,11 +2309,11 @@ Oh, and it is free:
     <h2><a href="articles/and-even-more-really-awesomeness-">And even more really awesomeness.</a></h2>
     <div class="variables">
     <div class="date">@date=2011-08-13</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>And even more really awesomeness.</p>
-<h3>7 Lovely Things About HTML5 Markup</h3>
+<h3>7 Lovely Things About HTML5 Markup\n</h3>
 <p><a href="http://www.elated.com/articles/7-lovely-things-about-html5-markup/">http://www.elated.com/articles/7-lovely-things-about-html5-markup/</a></p>
 
     </article>
@@ -2340,7 +2321,7 @@ Oh, and it is free:
     <h2><a href="articles/google--post">Google+ post</a></h2>
     <div class="variables">
     <div class="date">@date=2011-08-12</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p> How to draw squiggles like a Hilbert.</p>
@@ -2351,12 +2332,12 @@ Oh, and it is free:
     <h2><a href="articles/i-like-this-channel-on-turntable-for-electronic-music-">I like this channel on turntable for electronic music.</a></h2>
     <div class="variables">
     <div class="date">@date=2011-08-12</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>I like this channel on turntable for electronic music. </p>
 <p>It would be nice if they gave a nice title and description view for sharing</p>
-<h3>Turntable - invite only beta</h3>
+<h3>Turntable - invite only beta\n</h3>
 <p><a href="http://turntable.fm/electronic_music_snobs_return">http://turntable.fm/electronic_music_snobs_return</a></p>
 
     </article>
@@ -2364,12 +2345,12 @@ Oh, and it is free:
     <h2><a href="articles/this-is-the-best-tank--game-ever-created--in-the-fantastically-80--39-s-vein----">This is the best TANK! game ever created. In the fantastically 80&#39;s vein ...</a></h2>
     <div class="variables">
     <div class="date">@date=2011-08-08</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>This is the best TANK! game ever created. In the fantastically 80&#39;s vein of classic arcade games...TANK! is simple, fun and satisfying. Play someone else on your iPhone and relive all the fun that old skool video games used to be.</p>
 <p>NOTE: This is a two player game only (on the same device), so be sure to bring a friend.</p>
-<h3>TANK! for iPhone, iPod touch, and iPad on the iTunes App Store</h3>
+<h3>TANK! for iPhone, iPod touch, and iPad on the iTunes App Store\n</h3>
 <p><a href="http://itunes.apple.com/us/app/tank/id394804754?mt=8">http://itunes.apple.com/us/app/tank/id394804754?mt=8</a></p>
 
     </article>
@@ -2377,7 +2358,7 @@ Oh, and it is free:
     <h2><a href="articles/google--post">Google+ post</a></h2>
     <div class="variables">
     <div class="date">@date=2011-08-05</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p><a href="https://www.google.com/maps/search/?api=1&query=45.520571,%20-122.77419099999997" class="location" target="_blank" title="45.520571, -122.77419099999997"><img src="https://www.gstatic.com/images/icons/material/system/2x/place_grey600_24dp.png"><span>Mitchell Park
@@ -2389,12 +2370,12 @@ Address: Portland, OR 97229</a></p>
     <h2><a href="articles/what-is-this-fed-thing-anyway-">What is this fed thing anyway?</a></h2>
     <div class="variables">
     <div class="date">@date=2011-08-04</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>What is this fed thing anyway?
 <a rel="nofollow" target="_blank" href="http://i.imgur.com/20wIm.jpg" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://i.imgur.com/20wIm.jpg</a></p>
-<h3><a href="http://i.imgur.com/20wIm.jpg">http://i.imgur.com/20wIm.jpg</a></h3>
+<h3><a href="http://i.imgur.com/20wIm.jpg%5Cn">http://i.imgur.com/20wIm.jpg\n</a></h3>
 <p><a href="http://i.imgur.com/20wIm.jpg">http://i.imgur.com/20wIm.jpg</a></p>
 <p><a href="http://i.imgur.com/20wIm.jpg">http://i.imgur.com/20wIm.jpg</a></p>
 
@@ -2403,7 +2384,7 @@ Address: Portland, OR 97229</a></p>
     <h2><a href="articles/google--post">Google+ post</a></h2>
     <div class="variables">
     <div class="date">@date=2011-07-21</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p> Rowan Atkinson comes across an invisible drum kit while sweeping. He&#39;s not too bad with it.</p>
@@ -2414,11 +2395,11 @@ Address: Portland, OR 97229</a></p>
     <h2><a href="articles/the-portland-oregon-trail">The Portland Oregon Trail</a></h2>
     <div class="variables">
     <div class="date">@date=2011-07-20</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p><a rel="nofollow" target="_blank" href="http://thoughtballoonhelium.blogspot.com/2011/06/portland-oregon-trail.html" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://thoughtballoonhelium.blogspot.com/2011/06/portland-oregon-trail.html</a></p>
-<h3>INCIDENTAL COMICS: The Portland Oregon Trail</h3>
+<h3>INCIDENTAL COMICS: The Portland Oregon Trail\n</h3>
 <p><a href="http://thoughtballoonhelium.blogspot.com/2011/06/portland-oregon-trail.html">http://thoughtballoonhelium.blogspot.com/2011/06/portland-oregon-trail.html</a></p>
 <p><a href="http://thoughtballoonhelium.blogspot.com/2011/06/portland-oregon-trail.html">http://thoughtballoonhelium.blogspot.com/2011/06/portland-oregon-trail.html</a></p>
 
@@ -2427,7 +2408,7 @@ Address: Portland, OR 97229</a></p>
     <h2><a href="articles/google--post-cooking-with-a-top-hat">Google+ post Cooking With A Top Hat</a></h2>
     <div class="variables">
     <div class="date">@date=2011-07-20</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p> Marvel once again at the wonders of the natural world with Monty Buggershop-Hooty, author of Cooking With A Top Hat and Wilderness Ponce.</p>
@@ -2438,7 +2419,7 @@ Address: Portland, OR 97229</a></p>
     <h2><a href="articles/google--post">Google+ post</a></h2>
     <div class="variables">
     <div class="date">@date=2011-07-20</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p><a href="https://lh4.googleusercontent.com/-iZu54AIiesI/TiXmMrvMjsI/AAAAAAAAGhg/3At_PYlx8LQ/w288-h288/circle_of_life.jpg">https://lh4.googleusercontent.com/-iZu54AIiesI/TiXmMrvMjsI/AAAAAAAAGhg/3At_PYlx8LQ/w288-h288/circle_of_life.jpg</a></p>
@@ -2448,7 +2429,7 @@ Address: Portland, OR 97229</a></p>
     <h2><a href="articles/google--post">Google+ post</a></h2>
     <div class="variables">
     <div class="date">@date=2011-07-20</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p> Michael Fishbach, co-founder of The Great Whale Conservancy (GWC), narrates his encounter with a young humpback whale entangled in local fishing nets. At first, the animal appeared to be dead, yet Fishbach investigated and quickly discovered that the poor creature was tangled in a fishing net. The humans had to act fast; what began as a tragedy soon became a thrilling rescue as Fishbach and his crew labored to free the young whale. The entire encounter was caught on videotape and later narrated by Fishbach himself. This young whale knows how to show appreciation by treating them to a magnificent aerial spectacle after it was finally freed. Facebook - <a href="http://www.facebook.com/joinwakeupworld">http://www.facebook.com/joinwakeupworld</a> Twitter - <a href="http://twitter.com/joinwakeupworld">http://twitter.com/joinwakeupworld</a> Web - <a href="http://www.wakeup-world.com">http://www.wakeup-world.com</a> - Alternative News &amp; Information</p>
@@ -2459,7 +2440,7 @@ Address: Portland, OR 97229</a></p>
     <h2><a href="articles/awesome-">Awesome.</a></h2>
     <div class="variables">
     <div class="date">@date=2011-07-20</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>Awesome.</p>
@@ -2472,7 +2453,7 @@ Address: Portland, OR 97229</a></p>
     <h2><a href="articles/test-message">Test message</a></h2>
     <div class="variables">
     <div class="date">@date=2011-07-19</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>Test message</p>
@@ -2482,7 +2463,7 @@ Address: Portland, OR 97229</a></p>
     <h2><a href="articles/so-much-sexier-than-the-more-modern-versions-">So much sexier than the more modern versions.</a></h2>
     <div class="variables">
     <div class="date">@date=2011-07-19</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>So much sexier than the more modern versions.</p>
@@ -2494,7 +2475,7 @@ Address: Portland, OR 97229</a></p>
     <h2><a href="articles/google--post">Google+ post</a></h2>
     <div class="variables">
     <div class="date">@date=2011-07-19</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p><img src="images/googlePlusPhotos/Photos%20from%20posts/2011-07-19/16s65q35h8cdu.png" alt="googlePlusPhotos/Photos%20from%20posts/2011-07-19/16s65q35h8cdu.png" style="max-width: 100%;" /></p>
@@ -2504,11 +2485,11 @@ Address: Portland, OR 97229</a></p>
     <h2><a href="articles/so-nice--i-was-fiddling-with-gimp-to-edit-an-image--but-aviary-is-so-much-eas---">So nice. I was fiddling with Gimp to edit an image, but aviary is so much eas...</a></h2>
     <div class="variables">
     <div class="date">@date=2011-07-15</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=function link() { [native code] }</div>
     </div>
     <article>
         <p>So nice. I was fiddling with Gimp to edit an image, but aviary is so much easier to use.</p>
-<h3>Aviary&#39;s Simple Embeddable Image Editor</h3>
+<h3>Aviary&#39;s Simple Embeddable Image Editor\n</h3>
 <p><a href="http://www.aviary.com/">http://www.aviary.com/</a></p>
 
     </article>

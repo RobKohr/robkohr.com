@@ -27,7 +27,7 @@
     <h2><a href="articles/i-am-working-on-a-programming-game-where-you-control-an-army-of-robots-via-a----">I am working on a programming game where you control an army of robots via a ...</a></h2>
     <div class="variables">
     <div class="date">@date=2011-08-25</div>
-    <div class="tags">@tags=<a href="tags/"></a></div>
+    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
     </div>
     <article>
         <p>I am working on a programming game where you control an army of robots via a web api. </p>
@@ -40,7 +40,7 @@
 <p>If you are interested in getting involved in the development of this game, let me know. (This is not a job, there will likely be no profit here)</p>
 <p>Technology involved: Node.js + express + mongodb</p>
 <p>If you just want to do the client end stuff, you will need to know jQuery and be able to work with JSON.</p>
-<h3>var p = { &quot;api_options&quot;: { &quot;0&quot;: { &quot;path&quot;: &quot;/test&quot;, &quot;route ...\n</h3>
+<h3>var p = { &quot;api_options&quot;: { &quot;0&quot;: { &quot;path&quot;: &quot;/test&quot;, &quot;route ...</h3>
 <p><a href="http://rts-api.com:2000/help/api_options">http://rts-api.com:2000/help/api_options</a></p>
 <p><a href="http://rts-api.com:2000/help/api_options">http://rts-api.com:2000/help/api_options</a></p>
 <p><a href="http://rts-api.com:2000/help">http://rts-api.com:2000/help</a></p>
