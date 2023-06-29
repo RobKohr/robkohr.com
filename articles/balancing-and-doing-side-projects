@@ -27,7 +27,7 @@
     <h2><a href="articles/balancing-and-doing-side-projects">Balancing and doing side projects</a></h2>
     <div class="variables">
     <div class="date">@date=2021-08-15</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags"></div>
     </div>
     <article>
         <p>Consistency with side projects is only accomplished with scheduling tasks on a consistent basis.</p>
