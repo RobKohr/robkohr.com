@@ -1,0 +1,45 @@
+
+        <html>
+            <head>
+                <title>Brought in my google plus backup - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/brought-in-my-google-plus-backup">Brought in my google plus backup</a></h2>
+    <div class="variables">
+    <div class="date">@date=2023-06-29</div>
+    <div class="tags">@tags=<a href="tags/blogging">blogging</a>, <a href="tags/googleplus">googleplus</a></div>
+    </div>
+    <article>
+        <p>About 5 years ago google plus went by by, but I made sure to export using their checkout feature all the posts. </p>
+<p>Turns out that I was a pretty prolific poster there with about 250 posts. Each exported file was a way too cluttered blob of html and style code. </p>
+<p>I had the goal of copying them into this blog one by one by hand, but about 20 in I realized this was going to be impossible. </p>
+<p>I dumped them into a new vscode project, and with some heavy leaning on Git-Copilot for making complex regex expressions I was able to siphon off what was needed from each file, and reformat it for the most part into something that could be used in this markdown formatted blog. </p>
+<p>If you are scrolling through, basically anything from 2018 back is from google plus. Later I am going to bring in my twitter and tumbler feeds as well as some of my stuff over on fb. It is time to bring all things back to old school with just a straight up anti-social networking blog.</p>
+<p>Also with this, I will be bringing my youtube videos here, and not via embedding their widget on the site. It would be nice to just do it myself</p>
+<p><a href="shared/script-to-convert-google-plus-to-blog.js">Here is the the ugly googlePlus-&gt; md converter I made</a></p>
+
+    </article>
+    
+            </body>
+          </html>
+          

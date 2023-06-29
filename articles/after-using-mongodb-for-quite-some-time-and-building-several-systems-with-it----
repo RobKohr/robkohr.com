@@ -27,7 +27,7 @@
     <h2><a href="articles/after-using-mongodb-for-quite-some-time-and-building-several-systems-with-it----">After using mongodb for quite some time and building several systems with it,...</a></h2>
     <div class="variables">
     <div class="date">@date=2012-09-22</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=<a href="tags/PHP">PHP</a>, <a href="tags/LAMP">LAMP</a>, <a href="tags/MySQL">MySQL</a>, <a href="tags/Nodejs">Nodejs</a>, <a href="tags/mongodb">mongodb</a>, <a href="tags/coding">coding</a></div>
     </div>
     <article>
         <p>After using mongodb for quite some time and building several systems with it, I am starting to drift back into preferring structured data in a mysql db. </p>
@@ -41,8 +41,7 @@
 <p>Along with that, I am drifting back to PHP for web systems rather than node.js. There just is less layers of things that you need to cobble together to put up a php web site, and less points of failure. </p>
 <p>Perhaps I am losing my hipness. I just like my web systems to be stable, fast, and easy to develop. Counting up the number of hours of work setting up and keeping stable mongodb/node.js sites, and excluding time spent just making things that actually spit out a novel piece of html for a browser, makes me reconsider these new shiny technologies. </p>
 <p>Now, with that all said, there are some cases where they really shine. Node really lets you get nitty-gritty with the type of server stuff you can do (such as real-time comet connections, or just plain old tcp sockets). Mongo allows you to really dump models right into your db - goodby ORMs (and good riddance)!</p>
-<p>But, if you want to make a website where users make requests to the server for html, and you need to store some data about the users and the results of their actions, well PHP/MySQL is still the shortest path between A &amp; B. </p>
-<p> <a rel="nofollow" class="ot-hashtag bidi_isolate" href="https://plus.google.com/s/%23PHP/posts" >#PHP</a>   <a rel="nofollow" class="ot-hashtag bidi_isolate" href="https://plus.google.com/s/%23LAMP/posts" >#LAMP</a>   <a rel="nofollow" class="ot-hashtag bidi_isolate" href="https://plus.google.com/s/%23MySQL/posts" >#MySQL</a>    <a rel="nofollow" class="ot-hashtag bidi_isolate" href="https://plus.google.com/s/%23Nodejs/posts" >#Nodejs</a>   <a rel="nofollow" class="ot-hashtag bidi_isolate" href="https://plus.google.com/s/%23mongodb/posts" >#mongodb</a></p>
+<p>But, if you want to make a website where users make requests to the server for html, and you need to store some data about the users and the results of their actions, well PHP/MySQL is still the shortest path between A &amp; B.</p>
 
     </article>
     

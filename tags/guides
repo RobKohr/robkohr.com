@@ -114,7 +114,7 @@ function Counter() {
 <p>Returns an object with a property .current that you can mutate whenever. The object will persist and so you get to keep access to current. This is sometimes used with</p>
 <p><code>&lt;div ref={yourRefObj}&gt;</code>. When react rerenders the dom, it will reapply your object to it, and your yourRefObj.current will always point to the dom element</p>
 <h3>useCallback</h3>
-<p>Stores a callback on a variable so you can use it on children elements and won&#39;t cause a render of the children for every time the parent changes. Since in the below, the reference to onChildChange always stays the same on re-renders, it makes it so <Child> doesn&#39;t detect a change in it&#39;s passed in values.</p>
+<p>Stores a callback on a variable so you can use it on children elements and won&#39;t cause a render of the children for every time the parent changes. Since in the below, the reference to onChildChange always stays the same on re-renders, it makes it so &lt;Child&gt; doesn&#39;t detect a change in it&#39;s passed in values.</p>
 <p>We use &quot;a&quot; as a dependency so that the callback is updated when the state of &quot;a&quot; is updated.</p>
 <pre><code>function Parent({ ... }) {
   const [a, setA] = useState(0);
@@ -123,7 +123,7 @@ function Counter() {
   ...
   return (
   ...
-    &lt;Child onChange={onChildChange} /&gt;
+    &lt;Child onChange={onChildChange} &gt;
   );
 }
 </code></pre>

@@ -50,6 +50,16 @@
 
     </article>
     
+    <h2><a href="articles/i-am-using">I am using</a></h2>
+    <div class="variables">
+    <div class="date">@date=2013-11-05</div>
+    <div class="tags">@tags=<a href="tags/crypto">crypto</a></div>
+    </div>
+    <article>
+        <p>I am using redphone now, so feel free to call me using it.</p>
+
+    </article>
+    
             </body>
         </html>
     
