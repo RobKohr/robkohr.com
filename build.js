@@ -89,6 +89,9 @@ var articles = articlesFull.map(function (article) {
   if (variables.publishDate && new Date(variables.publishDate) > new Date()) {
     return null;
   }
+  if(!variable.tags){
+    variable.tags = [{label:'untagged', `<a href="tags/untagged">untagged</a>`;}
+  }
 
   /* if variable tags is set, then add this article to the tag page */
   if (variables.tags) {
@@ -144,6 +147,8 @@ function addArticleToOutput(article, output) {
   let tags = article.variables?.tags?.reduce(function (output, tag, index, array) {
     return output + tag.link + (index < array.length - 1 ? ", " : "");
   }, "");
+
+
   return (
     output +
     `
