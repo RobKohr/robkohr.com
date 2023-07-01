@@ -1,7 +1,7 @@
 
         <html>
             <head>
-                <title>social-media - RobKohr's Blog</title>
+                <title>time-management - RobKohr's Blog</title>
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
@@ -23,7 +23,7 @@
             </head>
             <body>
             <a href="./index.html">Home</a>
-            <h2>Tag: social-media</h2>
+            <h2>Tag: time-management</h2>
     
     <h2><a href="articles/you-have-to-check-yourself">You have to check yourself</a></h2>
     <div class="variables">
@@ -39,16 +39,6 @@
 <p>And here you are reading my blog. Are you gaining something from it? Is it enriching you life experience? Are you learning something? It is ok, if you are just wasting your time, just as long as you are appreciating the wasting.</p>
 <p>I think that is the thing for me. In moderation I enjoy delving into a pit of distraction, and come out feeling refreshed and perhaps a bit more knowledgable. But sometimes, a day gets washed away chasing the shiny lights in the distance, and I feel disappointed in myself and reflect on not even getting anything out of the experience.</p>
 <p>I start my day with a task list of to do items, and admittedly I rarely check off all the boxes, but to look back on the previous day and see a bunch of empty squares and nothing of an enjoyable experience to reflect on encourages me to check myself.</p>
-
-    </article>
-    
-    <h2><a href="articles/reddits-fall---maybe-turn-neverall-into-a-reddit-clone-">Reddits fall - maybe turn Neverall into a Reddit clone?</a></h2>
-    <div class="variables">
-    <div class="date">@date=2023-06-16</div>
-    <div class="tags">@tags=<a href="tags/reddit">reddit</a>, <a href="tags/neverall">neverall</a>, <a href="tags/social-media">social-media</a></div>
-    </div>
-    <article>
-        <p>Finish up the analytics part, and then create a reddit clone on Neverall. The url could be something like neverall.com/n and then the subreddit name. I could have neverall.com/g be for games, and neverall.com/s for sites, and neverall.com/p for projects, and neverall.com/b for blogs, and neverall.com/d for docs, and neverall.com/qa for a stackoverflow like forum.</p>
 
     </article>
     

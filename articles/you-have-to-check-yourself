@@ -1,7 +1,7 @@
 
         <html>
             <head>
-                <title>social-media - RobKohr's Blog</title>
+                <title>You have to check yourself - RobKohr's Blog</title>
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
@@ -23,8 +23,7 @@
             </head>
             <body>
             <a href="./index.html">Home</a>
-            <h2>Tag: social-media</h2>
-    
+            
     <h2><a href="articles/you-have-to-check-yourself">You have to check yourself</a></h2>
     <div class="variables">
     <div class="date">@date=2023-07-01</div>
@@ -42,16 +41,6 @@
 
     </article>
     
-    <h2><a href="articles/reddits-fall---maybe-turn-neverall-into-a-reddit-clone-">Reddits fall - maybe turn Neverall into a Reddit clone?</a></h2>
-    <div class="variables">
-    <div class="date">@date=2023-06-16</div>
-    <div class="tags">@tags=<a href="tags/reddit">reddit</a>, <a href="tags/neverall">neverall</a>, <a href="tags/social-media">social-media</a></div>
-    </div>
-    <article>
-        <p>Finish up the analytics part, and then create a reddit clone on Neverall. The url could be something like neverall.com/n and then the subreddit name. I could have neverall.com/g be for games, and neverall.com/s for sites, and neverall.com/p for projects, and neverall.com/b for blogs, and neverall.com/d for docs, and neverall.com/qa for a stackoverflow like forum.</p>
-
-    </article>
-    
             </body>
-        </html>
-    
+          </html>
+          

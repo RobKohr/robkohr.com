@@ -5,8 +5,8 @@
             <link>https://robkohr.com</link>
             <description>RobKohr's Blog</description>
             <language>en-us</language>
-            <lastBuildDate>Thu, 29 Jun 2023 07:00:00 GMT</lastBuildDate>
-            <pubDate>Thu, 29 Jun 2023 07:00:00 GMT</pubDate>
+            <lastBuildDate>Sat, 01 Jul 2023 07:00:00 GMT</lastBuildDate>
+            <pubDate>Sat, 01 Jul 2023 07:00:00 GMT</pubDate>
             <ttl>1800</ttl>
 
             <item>
@@ -14,6 +14,13 @@
                 <link>https://robkohr.com/articles/angular-multi-level-componets</link>
                 <description>Angular multi-level componets</description>
                 <pubDate>Sat, 24 Jun 2023 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <title>You have to check yourself</title>
+                <link>https://robkohr.com/articles/you-have-to-check-yourself</link>
+                <description>You have to check yourself</description>
+                <pubDate>Wed, 31 May 2023 00:00:00 GMT</pubDate>
             </item>
     
             <item>
@@ -350,13 +357,6 @@
                 <link>https://robkohr.com/articles/the-uneasy-peace-of-nuclear-weapons-</link>
                 <description>The uneasy peace of nuclear weapons.</description>
                 <pubDate>Sun, 13 Sep 2020 00:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <title>Thoughts on using grommet for web app design</title>
-                <link>https://robkohr.com/articles/thoughts-on-using-grommet-for-web-app-design</link>
-                <description>Thoughts on using grommet for web app design</description>
-                <pubDate>Tue, 08 Sep 2020 00:00:00 GMT</pubDate>
             </item>
     
         </channel>
