@@ -25,20 +25,6 @@
             <a href="./index.html">Home</a>
             <h2>Tag: svelte</h2>
     
-    <h2><a href="articles/back-to-solidjs">Back to solidjs</a></h2>
-    <div class="variables">
-    <div class="date">@date=2023-06-12</div>
-    <div class="tags">@tags=<a href="tags/coding">coding</a>, <a href="tags/svelte">svelte</a>, <a href="tags/solidjs">solidjs</a></div>
-    </div>
-    <article>
-        <p>I delved into svelte pretty deep to get a grasp of it. I decided to try to make a set of components similar to material UI, just focusing on form elements. </p>
-<p>When it came to passing values, references, functions up and down the component stack, it just became much more difficult than doing it in React, which makes things pretty trivial.</p>
-<p>I got hit with the feeling that I was just playing with magic that I didn&#39;t understand. </p>
-<p>This past week I built two static sites for running my school board campaign using solidjs. It has some basic routing and property passing, so I haven&#39;t really given it a good trial yet, but so far it seems to be an easy stand in for React. I&#39;ll need to give it eventually the same sort of test I did with Svelte.</p>
-<p>I have a desire to move to SolidJs to move away from some of the re-rendering inefficiencies and difficulties in passing values around in React.</p>
-
-    </article>
-    
     <h2><a href="articles/svelte">Svelte</a></h2>
     <div class="variables">
     <div class="date">@date=2023-02-28</div>
