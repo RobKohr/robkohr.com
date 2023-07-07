@@ -25,6 +25,19 @@
             <a href="./index.html">Home</a>
             <h2>Tag: youtube</h2>
     
+    <h2><a href="articles/firefox-youtube-downloader-add-on">Firefox youtube downloader add on</a></h2>
+    <div class="variables">
+    <div class="date">@date=2023-07-07</div>
+    <div class="tags">@tags=<a href="tags/hacks">hacks</a>, <a href="tags/youtube">youtube</a></div>
+    </div>
+    <article>
+        <p>It seems that any addon related to youtube downloading gets zapped form the Firefox and Chrome app stores. :( </p>
+<p>Here is one I have used on Firefox that disappeared:</p>
+<p><a href="shared/Youtube Video Downloader - {a7847979-429e-4a40-8651-1a50fd8382ce}.xpi">Youtube Video Downloader - {a7847979-429e-4a40-8651-1a50fd8382ce}.xpi</a></p>
+<p>If you want to audit it before installing it, change the extension to zip, and unzip it (xpi is just a zip file). It looks like it was created by someone french, but the code is pretty simple.</p>
+
+    </article>
+    
     <h2><a href="articles/popular-youtubers---look-at-their-old-stuff">Popular YouTubers - look at their old stuff</a></h2>
     <div class="variables">
     <div class="date">@date=2023-06-22</div>
