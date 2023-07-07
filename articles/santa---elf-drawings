@@ -1,0 +1,40 @@
+
+        <html>
+            <head>
+                <title>Santa & Elf Drawings - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/santa---elf-drawings">Santa & Elf Drawings</a></h2>
+    <div class="variables">
+    <div class="date">@date=2022-12-20</div>
+    <div class="tags">@tags=<a href="tags/art">art</a>, <a href="tags/spen">spen</a></div>
+    </div>
+    <article>
+        <p><img src="images/Santa - 2022-12-20.png" alt="Santa - 2022-12-20.png" style="max-width: 100%;" /></p>
+<p><img src="images/Elf 2022-12-20.png" alt="Elf 2022-12-20.png" style="max-width: 100%;" /></p>
+
+    </article>
+    
+            </body>
+          </html>
+          

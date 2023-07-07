@@ -1,0 +1,40 @@
+
+        <html>
+            <head>
+                <title>space-battle-game - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            <h2>Tag: space-battle-game</h2>
+    
+    <h2><a href="articles/concept-art-for-space-fighting-game---2022-07-26">Concept art for space fighting game - 2022-07-26</a></h2>
+    <div class="variables">
+    <div class="date">@date=2022-07-26</div>
+    <div class="tags">@tags=<a href="tags/space-battle-game">space-battle-game</a>, <a href="tags/art">art</a>, <a href="tags/concept-art">concept-art</a></div>
+    </div>
+    <article>
+        <p><img src="images/Concept art for space fighting game - 2022-07-26.jpg" alt="Concept art for space fighting game - 2022-07-26.jpg" style="max-width: 100%;" /></p>
+
+    </article>
+    
+            </body>
+        </html>
+    

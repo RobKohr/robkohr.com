@@ -25,6 +25,16 @@
             <a href="./index.html">Home</a>
             <h2>Tag: design</h2>
     
+    <h2><a href="articles/designing-playground-structure-using-ar">Designing playground structure using AR</a></h2>
+    <div class="variables">
+    <div class="date">@date=2022-08-15</div>
+    <div class="tags">@tags=<a href="tags/ar">ar</a>, <a href="tags/drawing">drawing</a>, <a href="tags/playground">playground</a>, <a href="tags/design">design</a>, <a href="tags/woodworking">woodworking</a></div>
+    </div>
+    <article>
+        <p><img src="images/Designing playground structure using AR - 2022-08-15.png" alt="Designing playground structure using AR - 2022-08-15.png" style="max-width: 100%;" /></p>
+
+    </article>
+    
     <h2><a href="articles/thoughts-on-using-grommet-for-web-app-design">Thoughts on using grommet for web app design</a></h2>
     <div class="variables">
     <div class="date">@date=2020-10-08</div>

@@ -1,0 +1,39 @@
+
+        <html>
+            <head>
+                <title>McDonalds Breakfast - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/mcdonalds-breakfast">McDonalds Breakfast</a></h2>
+    <div class="variables">
+    <div class="date">@date=2023-03-04</div>
+    <div class="tags">@tags=<a href="tags/art">art</a>, <a href="tags/spen">spen</a>, <a href="tags/food">food</a></div>
+    </div>
+    <article>
+        <p><img src="images/McDonald&#39;s breakfast_2023-03-04.jpg" alt="McDonald&#39;s breakfast_2023-03-04.jpg" style="max-width: 100%;" /></p>
+
+    </article>
+    
+            </body>
+          </html>
+          
