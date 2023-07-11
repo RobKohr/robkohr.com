@@ -50,7 +50,7 @@
     <h2><a href="articles/password-validation-done-better">Password validation done better</a></h2>
     <div class="variables">
     <div class="date">@date=2023-07-11</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=<a href="tags/coding">coding</a>, <a href="tags/security">security</a></div>
     </div>
     <article>
         <p>One of the most annoying user experiences is registering and trying to create a password that passes a bunch of validation rules, such as must contain a uppercase, lowercase, special character, etc. </p>
@@ -65,7 +65,7 @@
 <p>etc, etc.</p>
 <p>The important thing is even if you just use lower case letters, the exponent is the most important thing, and that is the number of characters you type. </p>
 <p>So with all this in mind, here is a validator function that will measure your password strength and give you some suggestions on how to make it stronger if it is too weak. </p>
-<pre><code>Validator.register(
+<pre><code class="language-javascript">Validator.register(
 
 &quot;strongPassword&quot;,
 (value) =&gt; {

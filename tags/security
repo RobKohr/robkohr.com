@@ -1,7 +1,7 @@
 
         <html>
             <head>
-                <title>Password validation done better - RobKohr's Blog</title>
+                <title>security - RobKohr's Blog</title>
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
@@ -23,7 +23,8 @@
             </head>
             <body>
             <a href="./index.html">Home</a>
-            
+            <h2>Tag: security</h2>
+    
     <h2><a href="articles/password-validation-done-better">Password validation done better</a></h2>
     <div class="variables">
     <div class="date">@date=2023-07-11</div>
@@ -62,5 +63,5 @@
     </article>
     
             </body>
-          </html>
-          
+        </html>
+    
