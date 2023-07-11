@@ -5,8 +5,8 @@
             <link>https://robkohr.com</link>
             <description>RobKohr's Blog</description>
             <language>en-us</language>
-            <lastBuildDate>Sat, 08 Jul 2023 07:00:00 GMT</lastBuildDate>
-            <pubDate>Sat, 08 Jul 2023 07:00:00 GMT</pubDate>
+            <lastBuildDate>Tue, 11 Jul 2023 07:00:00 GMT</lastBuildDate>
+            <pubDate>Tue, 11 Jul 2023 07:00:00 GMT</pubDate>
             <ttl>1800</ttl>
 
             <item>
@@ -14,6 +14,13 @@
                 <link>https://robkohr.com/articles/angular-multi-level-componets</link>
                 <description>Angular multi-level componets</description>
                 <pubDate>Sat, 24 Jun 2023 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <title>Password validation done better</title>
+                <link>https://robkohr.com/articles/password-validation-done-better</link>
+                <description>Password validation done better</description>
+                <pubDate>Sun, 11 Jun 2023 00:00:00 GMT</pubDate>
             </item>
     
             <item>
@@ -350,13 +357,6 @@
                 <link>https://robkohr.com/articles/boston-dynamics-dancing-robots</link>
                 <description>Boston dynamics dancing robots</description>
                 <pubDate>Sat, 19 Jun 2021 00:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <title>Pick some great colors for your website or game</title>
-                <link>https://robkohr.com/articles/pick-some-great-colors-for-your-website-or-game</link>
-                <description>Pick some great colors for your website or game</description>
-                <pubDate>Sun, 25 Apr 2021 00:00:00 GMT</pubDate>
             </item>
     
         </channel>
