@@ -6,9 +6,8 @@ var headerExtras = `
 ${fs.readFileSync("analytics.html", "utf8")}
 <link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
 <link rel="shortcut icon" type="image/ico" href="favicon.ico">
-<link rel="stylesheet"
-      href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/styles/default.min.css">
-<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/highlight.min.js"></script>
+<link rel="stylesheet" href="assets/highlight/default.min.css">
+<script src="assets/highlight/highlight.min.js"></script>
 `;
 
 /* 
