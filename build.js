@@ -23,7 +23,7 @@ function replaceImageLinks(text) {
 
 /* 
 remove link tags from any youtube urls and replace them with an iframe 
-Also allow for query perameters to be passed to the youtube url
+Also allow for query parameters to be passed to the youtube url
 */
 function convertYoutubeUrlsIntoHtml(text) {
   return text.replace(

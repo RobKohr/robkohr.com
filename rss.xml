@@ -5,8 +5,8 @@
             <link>https://robkohr.com</link>
             <description>RobKohr's Blog</description>
             <language>en-us</language>
-            <lastBuildDate>Tue, 11 Jul 2023 07:00:00 GMT</lastBuildDate>
-            <pubDate>Tue, 11 Jul 2023 07:00:00 GMT</pubDate>
+            <lastBuildDate>Wed, 12 Jul 2023 07:00:00 GMT</lastBuildDate>
+            <pubDate>Wed, 12 Jul 2023 07:00:00 GMT</pubDate>
             <ttl>1800</ttl>
 
             <item>
@@ -14,6 +14,13 @@
                 <link>https://robkohr.com/articles/angular-multi-level-componets</link>
                 <description>Angular multi-level componets</description>
                 <pubDate>Sat, 24 Jun 2023 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <title>Cardboard Boat Regatta</title>
+                <link>https://robkohr.com/articles/cardboard-boat-regatta</link>
+                <description>Cardboard Boat Regatta</description>
+                <pubDate>Mon, 12 Jun 2023 00:00:00 GMT</pubDate>
             </item>
     
             <item>
@@ -350,13 +357,6 @@
                 <link>https://robkohr.com/articles/on-typescript</link>
                 <description>On typescript</description>
                 <pubDate>Thu, 15 Jul 2021 00:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <title>Boston dynamics dancing robots</title>
-                <link>https://robkohr.com/articles/boston-dynamics-dancing-robots</link>
-                <description>Boston dynamics dancing robots</description>
-                <pubDate>Sat, 19 Jun 2021 00:00:00 GMT</pubDate>
             </item>
     
         </channel>
