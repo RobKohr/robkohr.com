@@ -132,6 +132,17 @@ var articles = articlesFull.map(function (articleOrig) {
   return article
 });
 
+/* go through articles if title is not unique, then add date to title */
+var titles = {};
+articles.forEach(function (article) {
+  if (!article) {
+    return;
+  }
+  if (titles[article.title]) {
+    article.title = article.title + article.variables.date;
+  }
+});
+
 let output = `
     <html>
         <head>
