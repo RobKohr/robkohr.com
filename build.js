@@ -138,9 +138,10 @@ articles.forEach(function (article) {
   if (!article) {
     return;
   }
-  if (titles[article.title]) {
-    article.title = article.title + article.variables.date;
+  if (titles[article.title.toLowerCase()]) {
+    article.title = article.title + ' ' +article.variables.date;
   }
+  titles[article.title.toLocaleLowerCase()] = true;
 });
 
 let output = `

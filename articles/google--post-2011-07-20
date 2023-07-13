@@ -1,0 +1,42 @@
+
+        <html>
+            <head>
+                <title>Google+ post 2011-07-20 - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/google--post-2011-07-20">Google+ post 2011-07-20</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-07-20</div>
+    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    </div>
+    <article>
+        <p> Michael Fishbach, co-founder of The Great Whale Conservancy (GWC), narrates his encounter with a young humpback whale entangled in local fishing nets. At first, the animal appeared to be dead, yet Fishbach investigated and quickly discovered that the poor creature was tangled in a fishing net. The humans had to act fast; what began as a tragedy soon became a thrilling rescue as Fishbach and his crew labored to free the young whale. The entire encounter was caught on videotape and later narrated by Fishbach himself. This young whale knows how to show appreciation by treating them to a magnificent aerial spectacle after it was finally freed. Facebook - <a href="http://www.facebook.com/joinwakeupworld">http://www.facebook.com/joinwakeupworld</a> Twitter - <a href="http://twitter.com/joinwakeupworld">http://twitter.com/joinwakeupworld</a> Web - <a href="http://www.wakeup-world.com">http://www.wakeup-world.com</a> - Alternative News &amp; Information</p>
+<p><a href="http://www.youtube.com/watch?v=tcXU7G6zhjU">http://www.youtube.com/watch?v=tcXU7G6zhjU</a></p>
+
+    </article>
+    
+            </body>
+          </html>
+          
