@@ -33,8 +33,10 @@
     <div class="tags">@tags=<a href="tags/doodles">doodles</a></div>
     </div>
     <article>
-        <p><img src="images/2020-10-07-22-43-47.png" alt="2020-10-07-22-43-47.png" style="max-width: 100%;" /></p>
+        <a href="articles/place-setting"><img class="icon" src="images/2020-10-07-22-43-47.png" alt="2020-10-07-22-43-47.png" style="max-width: 100%;" /></a>
 
+
+ <a class="nowrap" href="articles/place-setting">... read more (1 words)...</a> 
     </article>
     
     <h2><a href="articles/cats">cats</a></h2>
@@ -43,8 +45,9 @@
     <div class="tags">@tags=<a href="tags/doodles">doodles</a></div>
     </div>
     <article>
-        <p><img src="images/2020-10-07-22-42-37.png" alt="2020-10-07-22-42-37.png" style="max-width: 100%;" /></p>
+        <a href="articles/cats"><img class="icon" src="images/2020-10-07-22-42-37.png" alt="2020-10-07-22-42-37.png" style="max-width: 100%;" /></a>
 
+ <a class="nowrap" href="articles/cats">... read more (1 words)...</a> 
     </article>
     
             </body>

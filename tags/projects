@@ -33,31 +33,18 @@
     <div class="tags">@tags=<a href="tags/fun">fun</a>, <a href="tags/projects">projects</a></div>
     </div>
     <article>
-        <p>Longview has an annual cardboard boat regatta, and I wanted to participate this year. </p>
-<p>The theme was Christmas in July, and my daughter Chloe&#39;s favorite movie is Nightmare Before Christmas, so of course we had to do that. </p>
-<p>I had my neighbor Scott and my son Jevon help with the construction.</p>
-<p><img src="images/2023-07-02-cardboard-boat-building.jpg" alt="2023-07-02-cardboard-boat-building.jpg" style="max-width: 100%;" /></p>
-<p>My wife Tara made the most awesome paper mache zero:
-<img src="images/2023-07-02-cardboard-boat-zero.jpg" alt="2023-07-02-cardboard-boat-zero.jpg" style="max-width: 100%;" /></p>
-<p>The boat ended up being over 16 feet long:
-<img src="images/2023-07-02-cardboard-boat-long.jpg" alt="2023-07-02-cardboard-boat-long.jpg" style="max-width: 100%;" />
-<img src="images/2023-07-02-cardboard-boat-raindeer.jpg" alt="2023-07-02-cardboard-boat-raindeer.jpg" style="max-width: 100%;" /></p>
-<p>And of course I had to surprise Chloe with being Jack the day of (this is actually ella in the picture). 
-<img src="images/2023-07-02-cardboard-boat-jack.jpg" alt="2023-07-02-cardboard-boat-jack.jpg" style="max-width: 100%;" />
-<img src="images/2023-07-02-cardboard-boat-team.jpg" alt="2023-07-02-cardboard-boat-team.jpg" style="max-width: 100%;" />
-<img src="images/2023-07-02-cardboard-boat-back.jpg" alt="2023-07-02-cardboard-boat-back.jpg" style="max-width: 100%;" />
-<img src="images/2023-07-02-cardboard-boat-walking-it-behind-truck.jpg" alt="2023-07-02-cardboard-boat-walking-it-behind-truck.jpg" style="max-width: 100%;" />
-<img src="images/2023-07-02-cardboard-boat-to-lake.jpg" alt="2023-07-02-cardboard-boat-to-lake.jpg" style="max-width: 100%;" />
-<img src="images/2023-07-02-cardboard-boat-ready-for-launch.jpg" alt="2023-07-02-cardboard-boat-ready-for-launch.jpg" style="max-width: 100%;" /></p>
-<p>Chloe and me before boat launch:
-<img src="images/2023-07-02-cardboard-boat-with-chloe.jpg" alt="2023-07-02-cardboard-boat-with-chloe.jpg" style="max-width: 100%;" /></p>
-<p>The boat ended up being too long and unstable (we had 4 adults and 2 kids in it). Amazingly we made it through two of the races, but ended up being dead last in the second race as the boat had a turn radius of about a mile, and on the second race, started to turn into a squishy accordion in the front.</p>
-<p>Thankfully we were able to save Zero. 
-<img src="images/2023-07-02-cardboard-zero-was-all-that-was-left.jpg" alt="2023-07-02-cardboard-zero-was-all-that-was-left.jpg" style="max-width: 100%;" /></p>
-<p>Video:
-<a href="https://youtu.be/Sad-diKLrV4?t=1508">https://youtu.be/Sad-diKLrV4?t=1508</a>
-First race at 25min and second at 1:05</p>
+        <a href="articles/cardboard-boat-regatta"><img class="icon" src="images/2023-07-02-cardboard-boat-building.jpg" alt="2023-07-02-cardboard-boat-building.jpg" style="max-width: 100%;" /></a>
 
+
+Longview has an annual cardboard boat regatta, and I wanted to participate this year. 
+
+The theme was Christmas in July, and my daughter Chloe's favorite movie is Nightmare Before Christmas, so of course we had to do that. 
+
+I had my neighbor Scott and my son Jevon help with the construction.
+
+
+
+ <a class="nowrap" href="articles/cardboard-boat-regatta">... read more (170 words)...</a> 
     </article>
     
     <h2><a href="articles/weighted-task-chooser">Weighted Task Chooser</a></h2>
@@ -66,23 +53,19 @@ First race at 25min and second at 1:05</p>
     <div class="tags">@tags=<a href="tags/projects">projects</a>, <a href="tags/launched">launched</a></div>
     </div>
     <article>
-        <p><img src="images/2020-06-12-08-34-20.png" alt="2020-06-12-08-34-20.png" style="max-width: 100%;" /></p>
-<p><a href="https://github.com/RobKohr/weighted-task-chooser">Weighted task chooser</a> is a command line node script that will select a randomly weighted task to do out of a tasklist markdown file.</p>
-<p>So you have a list of tasks to do in a markdown file:</p>
-<ul>
-<li><input disabled="" type="checkbox"> Task 1</li>
-<li><input disabled="" type="checkbox"> Task 2</li>
-<li>[4] Task 3<ul>
-<li><input disabled="" type="checkbox"> Subtask of 3</li>
-</ul>
-</li>
-<li><input disabled="" type="checkbox"> Task 4
-Some notes on task 4</li>
-<li><input checked="" disabled="" type="checkbox"> Task 5 - done, don&#39;t every pick this</li>
-<li><input disabled="" type="checkbox"> Task 6</li>
-</ul>
-<p>This will randomly choose one of the parent tasks from that file. It also does weighting, where each task has a default weight based on the value in the brackets.</p>
+        <a href="articles/weighted-task-chooser"><img class="icon" src="images/2020-06-12-08-34-20.png" alt="2020-06-12-08-34-20.png" style="max-width: 100%;" /></a>
 
+
+
+
+[Weighted task chooser](https://github.com/RobKohr/weighted-task-chooser) is a command line node script that will select a randomly weighted task to do out of a tasklist markdown file.
+
+So you have a list of tasks to do in a markdown file:
+
+- [ ] Task 1
+- [ ] Task 2
+- [4] Task 3
+  - [ ] Subtask <a class="nowrap" href="articles/weighted-task-chooser">... read more (110 words)...</a> 
     </article>
     
     <h2><a href="articles/constantsail-doing-surprisingly-well">ConstantSail doing surprisingly well</a></h2>
@@ -91,9 +74,10 @@ Some notes on task 4</li>
     <div class="tags">@tags=<a href="tags/projects">projects</a>, <a href="tags/constantsail">constantsail</a></div>
     </div>
     <article>
-        <p><a href="http://constantsail.com">Constant Sail Pirates and Traders</a> analytics seems to do consistently well despite being a page with no content on it other than an old video. I should make it a priority to make this game again with newer tech to support more users than before as there is just a continuous latent interest in this game that doesn&#39;t even exist.</p>
-<p><img src="constantsail-analytics.png" alt="ConstantSail"></p>
+        
 
+
+[Constant Sail Pirates and Traders](http://constantsail.com) analytics seems to do consistently well despite being a page with no content on it other than an old video. I should make it a priority to make this game again with newer tech to support more users than before as there is just a continu <a class="nowrap" href="articles/constantsail-doing-surprisingly-well">... read more (60 words)...</a> 
     </article>
     
     <h2><a href="articles/registered-godotassetstore-org">registered godotassetstore.org</a></h2>
@@ -102,8 +86,10 @@ Some notes on task 4</li>
     <div class="tags">@tags=<a href="tags/projects">projects</a>, <a href="tags/godot-asset-store">godot-asset-store</a>, <a href="tags/nginx">nginx</a>, <a href="tags/certbot">certbot</a></div>
     </div>
     <article>
-        <p>I just registered godotassetstore.org for the <a href="https://godotassetstore.org">Godot Asset Store</a>. It seems like it would be an easier name to share with people and the media than godotasset.store, which just seems a little odd. I&#39;ll have to set an nginx redirect for it on the server and set up certbot to do the https for it.</p>
+        
 
+
+I just registered godotassetstore.org for the [Godot Asset Store](https://godotassetstore.org). It seems like it would be an easier name to share with people and the media than godotasset.store, which just seems a little odd. I'll have to set an nginx redirect for it on the server and set up cert <a class="nowrap" href="articles/registered-godotassetstore-org">... read more (55 words)...</a> 
     </article>
     
     <h2><a href="articles/a-blog-generator">A blog generator</a></h2>
@@ -124,16 +110,18 @@ Some notes on task 4</li>
     <div class="tags">@tags=<a href="tags/godot">godot</a>, <a href="tags/godot-asset-store">godot-asset-store</a>, <a href="tags/projects">projects</a>, <a href="tags/in-progress">in-progress</a>, <a href="tags/angular">angular</a>, <a href="tags/nodejs">nodejs</a></div>
     </div>
     <article>
-        <p>I started developing the <a href="https://godotassetstore.org">Godot Asset Store</a> a few weeks ago. It is built with Angular and node.js as the backend api with nginx as the frontend.</p>
-<p>I am getting to the tricky parts now:</p>
-<ul>
-<li>Auth</li>
-<li>Fetching content from github</li>
-<li>payments</li>
-<li>splitting out payments</li>
-<li>accounting details</li>
-</ul>
+        
 
+
+I started developing the [Godot Asset Store](https://godotassetstore.org) a few weeks ago. It is built with Angular and node.js as the backend api with nginx as the frontend.
+
+I am getting to the tricky parts now:
+
+- Auth
+- Fetching content from github
+- payments
+- splitting out payments
+- accoun <a class="nowrap" href="articles/godot-asset-store">... read more (45 words)...</a> 
     </article>
     
     <h2><a href="articles/started-working-on-the-godot-asset-store">Started working on the Godot Asset store</a></h2>
@@ -142,11 +130,12 @@ Some notes on task 4</li>
     <div class="tags">@tags=<a href="tags/godot-asset-store">godot-asset-store</a>, <a href="tags/started-project">started-project</a>, <a href="tags/projects">projects</a>, <a href="tags/godot">godot</a></div>
     </div>
     <article>
-        <p>10/25/2019 is the day I started the Godot Asset Store, and so I am inserting this entry for that day. After creating my first godot app (the tutorial dodge game), and after years of dipping my toe into Unity but never making much of anything, I see great potential in Godot.</p>
-<p>One of the biggest pain points is that there is no commercial storefront. Yes, there is a free storefront, and with many many great open source projects, but the majority of those projects are ones that were personally made to try something out as an experiment, or to suit someone&#39;s own personal needs to finish their own game, with little long term updates and support. Yes, there are great exceptions to that, but then there are many that haven&#39;t been updated in 2 years, and aren&#39;t even compatible with the current version.</p>
-<p>The Unity and Unreal storefronts are lively bustling communities with thousands of assets updated frequently to suit the requests of people who purchase and review those assets. Throwing in a monetary reward for developers to keep there assets improving, maintained, and version compatible is a great boon for the assets and those who depend on them.</p>
-<p>So, I am working on the Godot Asset Store with the goal of filling that need for Godot to help it become an equal to, and one day surpass the other game development engines, because I believe in it, and feel the gaming world (both developers and players) will be better off with such a well built engine in use. I am not much of C programmer, and can&#39;t contribute much to the core of the project, but hopefully with this I will be able to help a little. I have built many of web applications, and even some e-commerce for some big companies, and it would be great to put those skills to use for this.</p>
+        
 
+
+10/25/2019 is the day I started the Godot Asset Store, and so I am inserting this entry for that day. After creating my first godot app (the tutorial dodge game), and after years of dipping my toe into Unity but never making much of anything, I see great potential in Godot.
+
+One of the biggest pa <a class="nowrap" href="articles/started-working-on-the-godot-asset-store">... read more (313 words)...</a> 
     </article>
     
     <h2><a href="articles/mix-match-domains">Mix Match Domains</a></h2>
@@ -155,9 +144,12 @@ Some notes on task 4</li>
     <div class="tags">@tags=<a href="tags/projects">projects</a>, <a href="tags/launched">launched</a></div>
     </div>
     <article>
-        <p><a href="https://mixmatchdomains.com">Generate domain names from keywords</a> using <a href="https://mixmatchdomains.com">mixmatchdomains.com</a></p>
-<p><img src="images/mixmatch.png" alt="mixmatch.png" style="max-width: 100%;" /></p>
+        <a href="articles/mix-match-domains"><img class="icon" src="images/mixmatch.png" alt="mixmatch.png" style="max-width: 100%;" /></a>
 
+
+[Generate domain names from keywords](https://mixmatchdomains.com) using [mixmatchdomains.com](https://mixmatchdomains.com)
+
+ <a class="nowrap" href="articles/mix-match-domains">... read more (7 words)...</a> 
     </article>
     
     <h2><a href="articles/glico-rating-system">Glico rating system</a></h2>
@@ -166,9 +158,12 @@ Some notes on task 4</li>
     <div class="tags">@tags=<a href="tags/projects">projects</a>, <a href="tags/launched">launched</a>, <a href="tags/open-source">open-source</a></div>
     </div>
     <article>
-        <p><a href="https://github.com/RobKohr/glicko">Javascript implementation of glicko-2 rating system along with a ffa-team based setup.</a></p>
-<p><img src="images/Elo_rating_graph.svg.png" alt="Elo_rating_graph.svg.png" style="max-width: 100%;" /></p>
+        <a href="articles/glico-rating-system"><img class="icon" src="images/Elo_rating_graph.svg.png" alt="Elo_rating_graph.svg.png" style="max-width: 100%;" /></a>
 
+
+[Javascript implementation of glicko-2 rating system along with a ffa-team based setup.](https://github.com/RobKohr/glicko)
+
+ <a class="nowrap" href="articles/glico-rating-system">... read more (12 words)...</a> 
     </article>
     
     <h2><a href="articles/constantsail-pirates-and-traders">ConstantSail Pirates and Traders</a></h2>
@@ -177,9 +172,12 @@ Some notes on task 4</li>
     <div class="tags">@tags=<a href="tags/projects">projects</a>, <a href="tags/suspended">suspended</a></div>
     </div>
     <article>
-        <p><a href="https://constantsail.com">Constant Sail</a> is a pirate and sailing massive multiplayer game that is in development
-<br><img src="images/constantsail.png" alt="constantsail.png" style="max-width: 100%;" /></p>
+        <a href="articles/constantsail-pirates-and-traders"><img class="icon" src="images/constantsail.png" alt="constantsail.png" style="max-width: 100%;" /></a>
 
+
+[Constant Sail](https://constantsail.com) is a pirate and sailing massive multiplayer game that is in development
+\
+ <a class="nowrap" href="articles/constantsail-pirates-and-traders">... read more (14 words)...</a> 
     </article>
     
     <h2><a href="articles/island-warfare">Island Warfare</a></h2>
@@ -198,9 +196,12 @@ Some notes on task 4</li>
     <div class="tags">@tags=<a href="tags/projects">projects</a>, <a href="tags/launched">launched</a></div>
     </div>
     <article>
-        <p><a href="https://cueflash.com">Cueflash</a> is a study tool where you can create and share flashcards (cuecards). As you study with it, it will adapt to you and show you cards more frequently based upon how well you know them.</p>
-<p><img src="images/cueflash.png" alt="cueflash.png" style="max-width: 100%;" /></p>
+        <a href="articles/cueflash-flashcard-study-tool"><img class="icon" src="images/cueflash.png" alt="cueflash.png" style="max-width: 100%;" /></a>
 
+
+[Cueflash](https://cueflash.com) is a study tool where you can create and share flashcards (cuecards). As you study with it, it will adapt to you and show you cards more frequently based upon how well you know them.
+
+ <a class="nowrap" href="articles/cueflash-flashcard-study-tool">... read more (36 words)...</a> 
     </article>
     
     <h2><a href="articles/editthis-info">Editthis.info</a></h2>
@@ -209,9 +210,12 @@ Some notes on task 4</li>
     <div class="tags">@tags=<a href="tags/projects">projects</a>, <a href="tags/launched">launched</a></div>
     </div>
     <article>
-        <p><a href="https://editthis.info">Editthis.info</a> is a wiki hosting service where you can create your own wiki in seconds for free!</p>
-<p><img src="images/editthis.png" alt="editthis.png" style="max-width: 100%;" /></p>
+        <a href="articles/editthis-info"><img class="icon" src="images/editthis.png" alt="editthis.png" style="max-width: 100%;" /></a>
 
+
+[Editthis.info](https://editthis.info) is a wiki hosting service where you can create your own wiki in seconds for free!
+
+ <a class="nowrap" href="articles/editthis-info">... read more (17 words)...</a> 
     </article>
     
     <h2><a href="articles/islandwarfare">Islandwarfare</a></h2>

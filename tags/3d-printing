@@ -33,17 +33,12 @@
     <div class="tags">@tags=<a href="tags/3d-printing">3d-printing</a></div>
     </div>
     <article>
-        <p>I like to use my 3d printer a lot, but sometimes when there is a problem, I drop out of use for a while. Recently, a big ball of melted plastic formed around the hot end, and I didn&#39;t have an urge to fix it for a while.</p>
-<p>Since we were doing the Nightmare Before Christmas as the theme for our cardboard boat for the Longview Cardboard Boat Regatta, Tara was making a Zero out of paper mache, and he needed a nice orange pumpkin nose, so the printer needed to be fixed up.</p>
-<p>I heated it up to ABS temperature, and then took a sodering iron to cut off chunks of it, then pried off whatever was left. All worked great, and no that the pumpkin was done, it was time to do something else.</p>
-<p>I hook up a laptop to my screen via usb-c and need a way to hold it vertically. I figured I should throw in some cable management, pen slots, and maybe some spaces to put magnets to put things like paperclips on. </p>
-<p>First I started in Tinkercad with a large rectiliniar cube as a hole to represent the laptop, and then put it 4 mm above the ground. Then I stacked the other parts around it and added cuts. This is the primary mode I do for design. Add chunks and then do subtracts. </p>
-<p><img src="images/before-cuts.png" alt="before-cuts.png" style="max-width: 100%;" /></p>
-<p><img src="images/after cuts.png" alt="after cuts.png" style="max-width: 100%;" /></p>
-<p>I also try to work with multiples/fractions of 12. Base 12 has the most factors (12, 6, 4, 3, 2, 1) and works well for keeping things scaled in pleasing proportions to each other (this is why lego is base 12, the imperial system works off of base 12, our clocks, western music scales, and many other things). So the height for the surrounding bases are 6mm high, and everything follows from there. </p>
-<p>So off to the printer it goes, and here is the final product:</p>
-<p>(image coming soon)</p>
+        <a href="articles/making-a-laptop-holder"><img class="icon" src="images/before-cuts.png" alt="before-cuts.png" style="max-width: 100%;" /></a>
 
+
+I like to use my 3d printer a lot, but sometimes when there is a problem, I drop out of use for a while. Recently, a big ball of melted plastic formed around the hot end, and I didn't have an urge to fix it for a while.
+
+Since we were doing the Nightmare Before Christmas as the theme for our card <a class="nowrap" href="articles/making-a-laptop-holder">... read more (316 words)...</a> 
     </article>
     
     <h2><a href="articles/standardizing-portable-board-games">Standardizing portable board games</a></h2>
@@ -52,18 +47,13 @@
     <div class="tags">@tags=<a href="tags/3d-printing">3d-printing</a>, <a href="tags/boardgames">boardgames</a></div>
     </div>
     <article>
-        <p>I have a bit of a thought that 3d printing boardgames would be great, particularly portable ones with
-nice cases.</p>
-<p>For sizing, I am thinking of basing it off of the <a href="https://en.wikipedia.org/wiki/ISO_216">iso 216 paper sizing formats</a>. Most people will think of this relating to the A4 printer paper size.</p>
-<p>The reason for focusing on this format is that is a standard that works well with doubling. There are 3 sizings in this iso standard. A, B and C. For reasons that I am not sure I fully know, B is the biggest of the lines, and then C, and then A. What is nice about this, is if we use size B6 for a standard sized box, it is 125mm x 176mm, and A6 paper is 105mm x 148mm. This means the box will fall nicely inside the print sizes for most printers, and make it possible to print pieces beside the box so things can be printed in one shot, and A6 paper can be used as the print size for instructions. A6 paper can be made by cutting an A4 sheet into quarters, so instructions could be print on A4 and then cut into 4.</p>
-<p>The boxes will have an overhang at the top so that game boards can be stacked. The lid can be a simple circle with a finger hole in the middle.</p>
-<p><img src="2021-04-23-17-09-31.png" alt="Diagram with lips on 4 sides"></p>
-<p>One issue is that with this being the size of a b6, two b7&#39;s couldn&#39;t fit inside since the lips would push up against each other. One way to remedy this is to only have two sides of each box have lips on that stick out on the sides like so:</p>
-<p><img src="2021-04-23-17-24-28.png" alt="Diagram with lips on 2 sides"></p>
-<p>So two half sized boxes can fit into a rim of a lower box and then they can tightly stack on top of each other.</p>
-<p>Alternative idea: have no sides stick out, and then have pegs that stick out of the top of each lid that fit into holes in the bottom of the box above it. The floor thickness would need to be such that it can accommodate that.</p>
-<p>This might be simpler, and as long as the hole sizes are big enough that they don&#39;t grip the peg below. This can create issues though as having holes on the bottom of models can create issues.</p>
+        
 
+
+I have a bit of a thought that 3d printing boardgames would be great, particularly portable ones with
+nice cases.
+
+For sizing, I am thinking of basing it off of the [iso 216 paper sizing formats](https://en.wikipedia.org/wiki/ISO_216). Most people will think of this relating to the A4 printer pap <a class="nowrap" href="articles/standardizing-portable-board-games">... read more (387 words)...</a> 
     </article>
     
             </body>

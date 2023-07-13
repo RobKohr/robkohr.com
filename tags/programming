@@ -33,12 +33,12 @@
     <div class="tags">@tags=<a href="tags/stackoverflow">stackoverflow</a>, <a href="tags/coding">coding</a>, <a href="tags/programming">programming</a></div>
     </div>
     <article>
-        <p>Often you will get deep in some code and come up against a wall. After working through it, and reading some documentation, if you haven&#39;t figured it out, it is time to go to stackoverflow.</p>
-<p>I have been on stackoverflow for a little over 14 years now, and while I don&#39;t answer a lot of questions (there is a lot of competition for that) I have a lot of questions that I have asked and have given me a pretty respectable score, putting me in the top 6% of users (<a href="https://stackoverflow.com/users/101909/robkohr">https://stackoverflow.com/users/101909/robkohr</a>). </p>
-<p>The best things to do, is clearly state the problem, provide <em>concise</em> code that shows the problem in a reproducible way, and then state what you would like to achieve. </p>
-<p>Sometimes when I work hard at making a clear question on stack overflow, I end up figuring out the answer myself. This is kinda like rubber duck debugging, but instead of a rubber duck, you are talking to the internet.</p>
-<p>Then you end up with being the person asking and answering the question and giving yourself double internet points... which is <em>oh so important</em> :)</p>
+        
 
+
+Often you will get deep in some code and come up against a wall. After working through it, and reading some documentation, if you haven't figured it out, it is time to go to stackoverflow.
+
+I have been on stackoverflow for a little over 14 years now, and while I don't answer a lot of questions (t <a class="nowrap" href="articles/stackoverflow-instead-of-beating-your-head-against-the-wall">... read more (184 words)...</a> 
     </article>
     
     <h2><a href="articles/coding-productivity">Coding productivity</a></h2>
@@ -47,18 +47,12 @@
     <div class="tags">@tags=<a href="tags/programming">programming</a></div>
     </div>
     <article>
-        <p>One thing that I find that helps is to open up a text file and start typing what your thoughts are and be unfiltered (I sometimes look away from my screen so I don&#39;t proofread). Try and get everything out, and let yourself brainstorm.</p>
-<p>Keeping it all in a conversation in your head creates too many threads to keep track of and you end up looping around worrying about this or that.
-Then after that, I take the blob of text and try to organize it into categories such as &quot;issues to resolve&quot;, &quot;action items&quot;, … etc</p>
-<p>Writing also slows down your thoughts a bit and keeps you from bouncing too much.</p>
-<p>I also have a thing on my desk that I do rubber duck debugging with:
-<a href="https://en.wikipedia.org/wiki/Rubber_duck_debugging">https://en.wikipedia.org/wiki/Rubber_duck_debugging</a></p>
-<p>I also turn this app on when I am trying to force myself to be productive:
-<a href="https://apps.apple.com/us/app/loud-typer/id1493508558?mt=12">https://apps.apple.com/us/app/loud-typer/id1493508558?mt=12</a></p>
-<p>and this for music:
-<a href="https://coderadio.freecodecamp.org/">https://coderadio.freecodecamp.org/</a></p>
-<p>The sound of the typing makes me feel more productive, which reinforces it, and the music gives me a rhythm.</p>
+        
 
+
+One thing that I find that helps is to open up a text file and start typing what your thoughts are and be unfiltered (I sometimes look away from my screen so I don't proofread). Try and get everything out, and let yourself brainstorm.
+
+Keeping it all in a conversation in your head creates too man <a class="nowrap" href="articles/coding-productivity">... read more (160 words)...</a> 
     </article>
     
     <h2><a href="articles/an-attempted-simple-guide-for-react-hooks-">An attempted simple guide for react hooks.</a></h2>
@@ -67,105 +61,12 @@ Then after that, I take the blob of text and try to organize it into categories 
     <div class="tags">@tags=<a href="tags/react">react</a>, <a href="tags/programming">programming</a>, <a href="tags/guides">guides</a></div>
     </div>
     <article>
-        <p><img src="images/2020-05-14-14-46-05.png" alt="2020-05-14-14-46-05.png" style="max-width: 100%;" /></p>
-<p>React hooks is what got me to actually like React enough to make it my primary web development framework (at least at this date). They break away from the ugly class based heavily nested object form of React, and make it truly more functional, while giving allowances for managing state in a stateless system.</p>
-<p>The first thing to grasp about react is that components re-render with every change in the props that come into them, and thus every time they are run (which is every time an input changes), all internal values are wiped out. It should also be noted that internal hook state changes also trigger these re-renders.</p>
-<p>The following hooks help keep all of this from getting washed away with each re-render so that your components can continue to function.</p>
-<h3>useState</h3>
-<p>This one you will likely use the most.</p>
-<p><code>const [state, setState] = useState(initialState);</code></p>
-<p>Sets a value for the initial state, and gives you something to update that state with <code>setState</code>.</p>
-<p>Updating the state will cause a rerender, but the state value will be maintained.</p>
-<p>Note that the left hand side of the equal sign is an array, not an object. state and setState are variables that you make up, and could be called anything, and it is really the order of the outputs from useState that causes state and setState to be set correctly. For example:</p>
-<p><code>const [burgersAreDoneCooking, setBurgersAreDoneCooking] = useState(false);</code></p>
-<p>Would be how you would track the state of the burgers in your cooking app.</p>
-<h3>useContext</h3>
-<p>This can be used to subscribe to a context value set higher up in the tree.</p>
-<pre><code>function Grandparent() {
-  const [favoriteColor, setFavoriteColor] = useState(&#39;blue&#39;);
-  return (
-    &lt;FavoriteColor.Provider value={favoriteColor}&gt;
-      &lt;Parent /&gt;
-    &lt;/FavoriteColor.Provider&gt;
-  );
-}
-function Parent(){
-  return (
-    &lt;div&gt;
-      &lt;Grandchild /&gt;
-    &lt;/div&gt;
-  );
-}
-function Grandchild(){
-   const grandpasFavColor = useContext(FavoriteColor);
-   return (&lt;div&gt;My grandpa&#39;s favorite color is {grandpasFavColor}&lt;/div&gt;)
-}
-</code></pre>
-<h3>useReducer</h3>
-<p>Outputs a state and a dispatcher. The dispatch is a function that will call the reducer with the current state and an action, and that reducer then returners an entirely new object that is a mutation of the original state to provide a new state value.</p>
-<pre><code>const initialState = {count: 0, otherValues:[&#39;a&#39;, &#39;b&#39;, &#39;c&#39;]};
+        <a href="articles/an-attempted-simple-guide-for-react-hooks-"><img class="icon" src="images/2020-05-14-14-46-05.png" alt="2020-05-14-14-46-05.png" style="max-width: 100%;" /></a>
 
-function countReducer(state, action){
-  switch (action.type) {
-    case &#39;increment&#39;:
-      return {...state, count:state.count+1};
-    case &#39;decrement&#39;:
-      return {...state, count:state.count-1};
-    default:
-      return state;
-  }
-}
 
-function Counter() {
-  const [state, dispatch] = useReducer(reducer, initialState);
-  return (
-    &lt;&gt;
-      Count: {state.count}
-      &lt;button onClick={() =&gt; dispatch({type:&#39;decrement&#39;})}&gt;-&lt;/button&gt;
-      &lt;button onClick={() =&gt; dispatch({type:&#39;increment&#39;})}&gt;+&lt;/button&gt;
-    &lt;/&gt;
-  );
-}
-</code></pre>
-<h3>useEffect</h3>
-<p>This is run after the page renders, and if you leave out the dependency array, it will rerun every single time. Usually you only want this to run once though, so setting it to depend on some variables changing, or at a minimum, just passing it [] as the second parameter will keep it from repeatedly running</p>
-<pre><code>useEffect(
-  () =&gt; {
-    /*Do something just once after rendering, unless depends array changes*/
-  },
-  [somethingToDependOn],
-);
-</code></pre>
-<h3>useMemo</h3>
-<p>Only re-run when the dependency changes. This is useful for expensive calculations. It can be used as a watcher for a dependency that will then cause a function to run.</p>
-<pre><code>largestPrime = useMemo(
-() =&gt; calculateLargestPrimeOfNumber(newNumber),
-[newNumber]
-);
-</code></pre>
-<p>This will update the messageHistory every time a new value comes in for lastMessage</p>
-<h3>useRef</h3>
-<pre><code>const refContainer = useRef(initialValue);
-</code></pre>
-<p>Returns an object with a property .current that you can mutate whenever. The object will persist and so you get to keep access to current. This is sometimes used with</p>
-<p><code>&lt;div ref={yourRefObj}&gt;</code>. When react rerenders the dom, it will reapply your object to it, and your yourRefObj.current will always point to the dom element</p>
-<h3>useCallback</h3>
-<p>Stores a callback on a variable so you can use it on children elements and won&#39;t cause a render of the children for every time the parent changes. Since in the below, the reference to onChildChange always stays the same on re-renders, it makes it so &lt;Child&gt; doesn&#39;t detect a change in it&#39;s passed in values.</p>
-<p>We use &quot;a&quot; as a dependency so that the callback is updated when the state of &quot;a&quot; is updated.</p>
-<pre><code>function Parent({ ... }) {
-  const [a, setA] = useState(0);
-  const onChildChange = useCallback(() =&gt;
-   {doSomething(a);}, [a]);
-  ...
-  return (
-  ...
-    &lt;Child onChange={onChildChange} &gt;
-  );
-}
-</code></pre>
-<h3>Some others</h3>
-<p>I skipped useImperativeHandle, useLayoutEffect, useDebugValue as those are rarely used. You can read <a href="https://reactjs.org/docs/hooks-reference.html">the documentation about them here.</a></p>
 
+
+React hooks is what got me to actually like React enough to make it my primary web development framework (at least at this date). They break away from the ugly class based heavily nested object form of React, and make it truly more functional, while giving allowances for managing state in a sta <a class="nowrap" href="articles/an-attempted-simple-guide-for-react-hooks-">... read more (776 words)...</a> 
     </article>
     
     <h2><a href="articles/wet-vs-dry-coding">WET vs DRY coding</a></h2>
@@ -174,15 +75,14 @@ function Counter() {
     <div class="tags">@tags=<a href="tags/programming">programming</a></div>
     </div>
     <article>
-        <p><img src="images/2020-06-12-08-35-31.png" alt="2020-06-12-08-35-31.png" style="max-width: 100%;" /></p>
-<p>This is roughly a reply to/inspired by <a href="https://dev.to/wuz/stop-trying-to-be-so-dry-instead-write-everything-twice-wet-5g33">Write everything twice, just not a third time.</a></p>
-<p>This is really a heavy &quot;it depends&quot;. The goals of making it so you have one source of things to be debugged and modified are great when we are talking about a decent number lines of code (or more importantly conceptual pieces). The other side of things is that DRY pushes to creating modules/components/functions that are nameable sections of code that increases readability of the code. An example of this is to take 20 lines of code that does one &quot;Thing&quot;, and replace it with a function call to Thing() that contains those 20 lines. Yeah, you don&#39;t save anything as far as line count of code, but you make it so when reading things, you don&#39;t have to parse apart the functionality of that 20 lines, and you can test it and know you never need to think about it again besides calling it&#39;s name.
-The DRY to WET side of things start to slip over to the wet side (pun intended) when the cost of making it DRY and the ongoing costs of the DRY structure is more then just leaving it wet. This typically comes from when over-engineering leads to a tower of babel like structure of things wrapping things wrapping things to the point where it becomes challenging to make a change:
-Having to digest the stack to understand the inner parts to find out where a change needs to happen
-Dealing with the unintended consequences of the change on other parts of the system (regression)
-Being straight-jacketed by a structure meant to be general purpose using parameters, but doesn&#39;t quite match what you need and leading to further changes to the abstraction to meet the new need.
-This last one is the one that leads to the most challenges and much of what the time is spent on large developed systems.</p>
+        <a href="articles/wet-vs-dry-coding"><img class="icon" src="images/2020-06-12-08-35-31.png" alt="2020-06-12-08-35-31.png" style="max-width: 100%;" /></a>
 
+
+
+
+This is roughly a reply to/inspired by [Write everything twice, just not a third time.](https://dev.to/wuz/stop-trying-to-be-so-dry-instead-write-everything-twice-wet-5g33)
+
+This is really a heavy "it depends". The goals of making it so you have one source of things to be debugged and modified  <a class="nowrap" href="articles/wet-vs-dry-coding">... read more (315 words)...</a> 
     </article>
     
             </body>

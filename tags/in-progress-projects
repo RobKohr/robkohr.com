@@ -33,13 +33,14 @@
     <div class="tags">@tags=<a href="tags/instaboardgame">instaboardgame</a>, <a href="tags/in-progress-projects">in-progress-projects</a></div>
     </div>
     <article>
-        <p><a href="http://instaboardgame.com">Instaboardgame</a> will be a place for people to instantly play and create boardgames with their friends wherever they may be.</p>
-<p>Think of it like a big box of board game pieces that you can pull out and start playing with.</p>
-<p>To start with, you create a table, then you can either import in a prebuilt game, or you can
-pull out pieces and drop them in, and you and others who have joined can start playing with them.</p>
-<p>Only the table creator needs to have an account, and users can just join with the private share link that the creator provides.</p>
-<p>Table creators can have up to one free table per account, and that table will maintain it&#39;s state for up to 1 week. If you have a subscription, you can have up to 5 tables and they will maintain their state for as long as you like. If you have a pro account, you can have up to 100 tables that you can manage, and you can set users to be admins of the tables. This is ideal for tournaments.</p>
+        
 
+
+[Instaboardgame](http://instaboardgame.com) will be a place for people to instantly play and create boardgames with their friends wherever they may be.
+
+Think of it like a big box of board game pieces that you can pull out and start playing with.
+
+To start with, you create a table, then you can e <a class="nowrap" href="articles/instaboardgame-com---play-board-games-instantly-with-friends">... read more (176 words)...</a> 
     </article>
     
     <h2><a href="articles/shareable-web-based-boardgame-update">Shareable web based boardgame update</a></h2>
@@ -48,35 +49,18 @@ pull out pieces and drop them in, and you and others who have joined can start p
     <div class="tags">@tags=<a href="tags/instaboardgame">instaboardgame</a>, <a href="tags/in-progress-projects">in-progress-projects</a></div>
     </div>
     <article>
-        <p><a href="http://tentoncreations.com/a/Started-on-a-shareable-web-based-boardgame-system/">Last month</a> I made a doodle post of an idea for an instant online board game system.</p>
-<p>Well, progress is coming along fast:</p>
-<p><img src="images/2020-06-04-15-12-03.png" alt="2020-06-04-15-12-03.png" style="max-width: 100%;" /></p>
-<p>So far I have:</p>
-<ul>
-<li>a react site which directs <a href="https://instaboardgame.com/game/test">/game/test</a> to a test boardgame</li>
-<li>Websocket connection where you can move around game piece elements</li>
-<li>A component hierarchy where every piece type passes props down to possibly other piece types, to then load in the Piece component. This should allow for a rapid development of lots of types of pieces, as the details of each are just specifying what makes it different from a different piece. Examples:<ul>
-<li>Chess pieces would remove other pieces from the board if you put one on top of another</li>
-<li>Clicking cards will flip them over</li>
-<li>clicking decks will pull a card from an array of cards and put it on top of the deck</li>
-<li>clicking on a dice box will roll the dice, and there will be an area to manipulate what dice are in the box</li>
-</ul>
-</li>
-<li>A json structure for a game where piece components are specified, and the props that go down to them</li>
-<li>A reducer coding system which will minimize the size of updates coming from connected clients</li>
-</ul>
-<p>Current tasks:</p>
-<ul>
-<li><input disabled="" type="checkbox"> Authentication</li>
-<li><input disabled="" type="checkbox"> Membership - allow access to premium games and ability to have more than 2 tables</li>
-<li><input disabled="" type="checkbox"> Create game table</li>
-<li><input disabled="" type="checkbox"> Auto save games to mongo</li>
-<li><input disabled="" type="checkbox"> Load and unload games from memory</li>
-<li><input disabled="" type="checkbox"> Set your player #, icon, color, and name (allow spectators?)</li>
-<li><input disabled="" type="checkbox"> Show hidden hand for player</li>
-<li><input disabled="" type="checkbox"> Drag/drop pieces onto table</li>
-</ul>
+        <a href="articles/shareable-web-based-boardgame-update"><img class="icon" src="images/2020-06-04-15-12-03.png" alt="2020-06-04-15-12-03.png" style="max-width: 100%;" /></a>
 
+
+[Last month](http://tentoncreations.com/a/Started-on-a-shareable-web-based-boardgame-system/) I made a doodle post of an idea for an instant online board game system.
+
+Well, progress is coming along fast:
+
+
+
+So far I have:
+
+- a react site which directs [/game/test](https://instaboardgame.com/game <a class="nowrap" href="articles/shareable-web-based-boardgame-update">... read more (270 words)...</a> 
     </article>
     
             </body>

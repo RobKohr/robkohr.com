@@ -51,17 +51,18 @@ var articlesFull = data.split("\n## ");
 
 var tagPages = {};
 
-var articles = articlesFull.map(function (article) {
-  var lines = article.split("\n");
-  var title = lines[0].trim();
-  var content = lines.slice(1).join("\n").trim();
+var articles = articlesFull.map(function (articleOrig) {
+  const article = {}
+  var lines = articleOrig.split("\n");
+  article.title = lines[0].trim();
+  article.content = lines.slice(1).join("\n").trim();
   /* 
         content contains variables that start with @date= or @tags=
         Those lines should be removed from the content and added to the article object
         */
-  var variables = {};
+  article.variables = {};
 
-  content = content.replace(/@(\w+)=(.*)/g, function (match, key, value) {
+  article.content = article.content.replace(/@(\w+)=(.*)/g, function (match, key, value) {
     value = value.trim();
     if (key === "tags") {
       value = value
@@ -81,45 +82,54 @@ var articles = articlesFull.map(function (article) {
           return tag !== "";
         });
     }
-    variables[key] = value;
+    article.variables[key] = value;
     return "";
   });
 
-  const html = htmlUpdaters(marked.parse(content));
+  article.html = htmlUpdaters(marked.parse(article.content));
+  const htmlHasAtLeastOneImageTag = article.html.match(/<img.+>/g);
+  const contentWithoutVariables = article.content.replace(/@(\w+)=(.*)/g, "");
+  const contentWithoutImages = contentWithoutVariables.replace(/!\[\[(.+)\]\]/g, "");
+  const contentWithoutATags = contentWithoutImages.replace(/<a href="(.+)">(.+)<\/a>/g, "");
+  const wordCount = article.content.split(" ").length;
+  const summaryLength = 300;
+  const hasReadMore = contentWithoutATags.length > summaryLength;
+  article.summary =  htmlUpdaters(contentWithoutATags.substring(0, 300)+` <a class="nowrap" href="${articleUrl(article)}">... read more (${wordCount} words)...</a> `).replace(/<img.+>/g, "");
+  if(!hasReadMore && !htmlHasAtLeastOneImageTag){
+    article.summary = article.html;
+  }
+  let icon = article.html.match(/<img src="(.+)" alt="(.+)" style="max-width: 100%;" \/>/);
+  if (icon) {
+    icon = `<a href="${ articleUrl(article)}">${icon[0].replace("img", 'img class="icon"')}</a>`
+  } else {
+    icon = "";
+  }
+  article.icon = icon;
+
+
   /*
         convert markdown content to html
     */
   /* if variable publishDate is in the future, then skip this article */
-  if (variables.publishDate && new Date(variables.publishDate) > new Date()) {
+  if (article.variables.publishDate && new Date(article.variables.publishDate) > new Date()) {
     return null;
   }
-  console.log(variables.date);
 
-  if ((!variables.tags || variables.tags.length === 0) && (variables.date)){
-    variables.tags = [{ label: "untagged", link: `<a href="tags/untagged">untagged</a>` }];
+  if ((!article.variables.tags || article.variables.tags.length === 0) && (article.variables.date)){
+    article.variables.tags = [{ label: "untagged", link: `<a href="tags/untagged">untagged</a>` }];
   }
 
   /* if variable tags is set, then add this article to the tag page */
-  if (variables.tags) {
-    variables.tags.forEach(function (tag) {
+  if (article.variables.tags) {
+    article.variables.tags.forEach(function (tag) {
       if (!tagPages[tag.label]) {
         tagPages[tag.label] = [];
       }
-      tagPages[tag.label].push({
-        title,
-        content,
-        variables,
-        html,
-      });
+      tagPages[tag.label].push(article);
     });
   }
 
-  return {
-    title,
-    content,
-    variables,
-    html,
-  };
+  return article
 });
 
 let output = `
@@ -141,7 +151,7 @@ ${headerExtras}
         </p>
 `;
 
-const toKebab = function (str) {
+function toKebab (str) {
   return str
     .trim()
     .toLowerCase()
@@ -149,7 +159,11 @@ const toKebab = function (str) {
     .trim();
 };
 
-function addArticleToOutput(article, output) {
+function articleUrl(article) {
+  return `articles/${toKebab(article.title)}`;
+}
+
+function addArticleToOutput(article, output, full) {
   const kabab = toKebab(article.title);
   if (article === null || !article.title || !article.content) {
     return output;
@@ -167,7 +181,7 @@ function addArticleToOutput(article, output) {
     <div class="tags">${tags ? `@tags=${tags}` : ""}</div>
     </div>
     <article>
-        ${article.html}
+        ${full ? article.html: article.icon + article.summary}
     </article>
     `
   );
@@ -195,7 +209,7 @@ ${headerExtras}
             </body>
           </html>
           `;
-  const articleHtml = articleStartHtml + addArticleToOutput(article, "") + articleEndHtml;
+  const articleHtml = articleStartHtml + addArticleToOutput(article, "", true) + articleEndHtml;
   const filename = `${toKebab(article.title)}`;
   if (filename) {
     fs.writeFileSync(`articles/${filename}`, articleHtml);

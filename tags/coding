@@ -33,35 +33,12 @@
     <div class="tags">@tags=<a href="tags/coding">coding</a>, <a href="tags/security">security</a></div>
     </div>
     <article>
-        <p>One of the most annoying user experiences is registering and trying to create a password that passes a bunch of validation rules, such as must contain a uppercase, lowercase, special character, etc. </p>
-<p>This doesn&#39;t always create the strongest password, and more importantly it doesn&#39;t create the most memorable password. </p>
-<p>Passphrases are way more secure and memorable, but sadly they won&#39;t pass password validation rules unless you sprinkle some extra stuff to remember on them. </p>
-<p>XKCD does a good job demonstrating their strength:
-<img src="images/xkcd-passphrases.png" alt="xkcd-passphrases.png" style="max-width: 100%;" /></p>
-<p>Users should have the option of constructing a password however they like, as long as it is strong.</p>
-<p>If you password was just lower case letters, then it&#39;s strength is 26^numberOfCharacters (because there are 26 letters in the alphabet, so if your password was 4 letters long, then there would be 26<em>26</em>26*26 possible combinations).</p>
-<p>Throw in some upper case characters, and it is 52^numCharacters. </p>
-<p>Numbers as well 62^numCharacters</p>
-<p>etc, etc.</p>
-<p>The important thing is even if you just use lower case letters, the exponent is the most important thing, and that is the number of characters you type. </p>
-<p>So with all this in mind, here is a validator function that will measure your password strength and give you some suggestions on how to make it stronger if it is too weak. </p>
-<pre><code class="language-javascript">Validator.register(
+        <a href="articles/password-validation-done-better"><img class="icon" src="images/xkcd-passphrases.png" alt="xkcd-passphrases.png" style="max-width: 100%;" /></a>
 
-&quot;strongPassword&quot;,
-(value) =&gt; {
-  value = String(value);
-  const containsAnUppercaseLetter = /[A-Z]/.test(value);
-  const containsALowercaseLetter = /[a-z]/.test(value);
-  const containsANumber = /\d/.test(value);
-  const containsASpecialCharacter = /[^a-zA-Z\d]/.test(value);
-  const numberOfPossibleCharacters =(containsAnUppercaseLetter ? 26 : 0) + (containsALowercaseLetter ? 26 : 0) + (containsANumber ? 10 : 0) + (containsASpecialCharacter ? 32 : 0);
-  const strength = numberOfPossibleCharacters ** value.length;
-  return strength &gt; 1e13;
-},
-&quot;Your password is not strong enough. You can add more characters, numbers, and symbols to make it stronger.&quot;
-);
-</code></pre>
 
+One of the most annoying user experiences is registering and trying to create a password that passes a bunch of validation rules, such as must contain a uppercase, lowercase, special character, etc. 
+
+This doesn't always create the strongest password, and more importantly it doesn't create the mo <a class="nowrap" href="articles/password-validation-done-better">... read more (290 words)...</a> 
     </article>
     
     <h2><a href="articles/created-a-new-blog-render">Created a new blog render</a></h2>
@@ -70,13 +47,12 @@
     <div class="tags">@tags=<a href="tags/coding">coding</a>, <a href="tags/blog">blog</a>, <a href="tags/obsidian">obsidian</a></div>
     </div>
     <article>
-        <p>I wiped out RobKohr.com as I haven&#39;t touched it in over 5 years, and replaced it with this blog. </p>
-<p>It was built just using one long markdown file called blog.md that I edit in obsidian and each article is separated by ## Blog titles, and under that I use @date and @tags to specify those two values. Keeping with a brutalist design aesthetic, I render out those tags as well as the ## at the beginning of the headers. </p>
-<p>The way it works is a build.js file that reads that file, splits it into separate articles, renders the md-&gt;html, applies some extra rendering and css, and spits them all out into a large collection of individual files. This makes for a very simple light weight site builder that is just serving static files. </p>
-<p>Source code is here for those who want to do something similar:
-<a href="https://github.com/RobKohr/robkohr.com">https://github.com/RobKohr/robkohr.com</a></p>
-<p>If you need any help getting it set up, let me know.</p>
+        
 
+
+I wiped out RobKohr.com as I haven't touched it in over 5 years, and replaced it with this blog. 
+
+It was built just using one long markdown file called blog.md that I edit in obsidian and each article is separated by ## Blog titles, and under that I use @date and @tags to specify those two value <a class="nowrap" href="articles/created-a-new-blog-render">... read more (156 words)...</a> 
     </article>
     
     <h2><a href="articles/stackoverflow-instead-of-beating-your-head-against-the-wall">Stackoverflow instead of beating your head against the wall</a></h2>
@@ -85,12 +61,12 @@
     <div class="tags">@tags=<a href="tags/stackoverflow">stackoverflow</a>, <a href="tags/coding">coding</a>, <a href="tags/programming">programming</a></div>
     </div>
     <article>
-        <p>Often you will get deep in some code and come up against a wall. After working through it, and reading some documentation, if you haven&#39;t figured it out, it is time to go to stackoverflow.</p>
-<p>I have been on stackoverflow for a little over 14 years now, and while I don&#39;t answer a lot of questions (there is a lot of competition for that) I have a lot of questions that I have asked and have given me a pretty respectable score, putting me in the top 6% of users (<a href="https://stackoverflow.com/users/101909/robkohr">https://stackoverflow.com/users/101909/robkohr</a>). </p>
-<p>The best things to do, is clearly state the problem, provide <em>concise</em> code that shows the problem in a reproducible way, and then state what you would like to achieve. </p>
-<p>Sometimes when I work hard at making a clear question on stack overflow, I end up figuring out the answer myself. This is kinda like rubber duck debugging, but instead of a rubber duck, you are talking to the internet.</p>
-<p>Then you end up with being the person asking and answering the question and giving yourself double internet points... which is <em>oh so important</em> :)</p>
+        
 
+
+Often you will get deep in some code and come up against a wall. After working through it, and reading some documentation, if you haven't figured it out, it is time to go to stackoverflow.
+
+I have been on stackoverflow for a little over 14 years now, and while I don't answer a lot of questions (t <a class="nowrap" href="articles/stackoverflow-instead-of-beating-your-head-against-the-wall">... read more (184 words)...</a> 
     </article>
     
     <h2><a href="articles/angular-multi-level-componets">Angular multi-level componets</a></h2>
@@ -99,8 +75,10 @@
     <div class="tags">@tags=<a href="tags/coding">coding</a>, <a href="tags/angular">angular</a>, <a href="tags/wfs">wfs</a></div>
     </div>
     <article>
-        <p>For WFS I am working on the services page and the services need to be sortable in the settings, and then show the forms in the sorted order when making a new service request. Right now the order is hard coded, and each component has its own property set. I am going to create a wrapper for the components that will take all of the properties they need, and then pass them down to the component. The display order for the services can then load all of them in.</p>
+        
 
+
+For WFS I am working on the services page and the services need to be sortable in the settings, and then show the forms in the sorted order when making a new service request. Right now the order is hard coded, and each component has its own property set. I am going to create a wrapper for the com <a class="nowrap" href="articles/angular-multi-level-componets">... read more (89 words)...</a> 
     </article>
     
     <h2><a href="articles/svelte">Svelte</a></h2>
@@ -119,10 +97,10 @@
     <div class="tags">@tags=<a href="tags/coding">coding</a></div>
     </div>
     <article>
-        <p>#IdeaNeedsHackers
-Have a good idea that you want to get some hackers on board with? Just put it out there and use the #IdeaNeedsHackers  hash tag. You should state whether or not you can contribute to the development effort, or if this is just an idea that you want to kick out into the world and want others to run with. </p>
-<p>Generally, this is an invitation for others to <em>steal</em> your idea and run with it, so you must be cool with that. This could be something that could make money or just be something that would make the world a better place. You just desire to have it exist, and want someone, anyone to build it or help you build it.</p>
+        
 
+\#IdeaNeedsHackers
+Have a good idea that you want to get some hackers on board with? Just put it out there and use the \#IdeaNeedsHackers  hash tag. You should state whether or not you can contribute to the development effort, or if this is just an idea that you want to kick out into the world and <a class="nowrap" href="articles/ideaneedshackers">... read more (119 words)...</a> 
     </article>
     
     <h2><a href="articles/after-using-mongodb-for-quite-some-time-and-building-several-systems-with-it----">After using mongodb for quite some time and building several systems with it,...</a></h2>
@@ -131,19 +109,15 @@ Have a good idea that you want to get some hackers on board with? Just put it ou
     <div class="tags">@tags=<a href="tags/PHP">PHP</a>, <a href="tags/LAMP">LAMP</a>, <a href="tags/MySQL">MySQL</a>, <a href="tags/Nodejs">Nodejs</a>, <a href="tags/mongodb">mongodb</a>, <a href="tags/coding">coding</a></div>
     </div>
     <article>
-        <p>After using mongodb for quite some time and building several systems with it, I am starting to drift back into preferring structured data in a mysql db. </p>
-<ul>
-<li>It is reliably fast</li>
-<li>Building the structure of the mysql seems to help in the designing of a system</li>
-<li>It seems more stable</li>
-</ul>
-<p>I think the second one is the biggest reason. It is a rather fuzzy thing, but I like to look at the db and see what fields are there. </p>
-<p>My convictions are weak here, and I will probably drift back at some later date, but I just feel that the relational db model matches well with how a web based system is designed.</p>
-<p>Along with that, I am drifting back to PHP for web systems rather than node.js. There just is less layers of things that you need to cobble together to put up a php web site, and less points of failure. </p>
-<p>Perhaps I am losing my hipness. I just like my web systems to be stable, fast, and easy to develop. Counting up the number of hours of work setting up and keeping stable mongodb/node.js sites, and excluding time spent just making things that actually spit out a novel piece of html for a browser, makes me reconsider these new shiny technologies. </p>
-<p>Now, with that all said, there are some cases where they really shine. Node really lets you get nitty-gritty with the type of server stuff you can do (such as real-time comet connections, or just plain old tcp sockets). Mongo allows you to really dump models right into your db - goodby ORMs (and good riddance)!</p>
-<p>But, if you want to make a website where users make requests to the server for html, and you need to store some data about the users and the results of their actions, well PHP/MySQL is still the shortest path between A &amp; B.</p>
+        
 
+After using mongodb for quite some time and building several systems with it, I am starting to drift back into preferring structured data in a mysql db. 
+
+* It is reliably fast
+* Building the structure of the mysql seems to help in the designing of a system
+* It seems more stable
+
+I think the seco <a class="nowrap" href="articles/after-using-mongodb-for-quite-some-time-and-building-several-systems-with-it----">... read more (305 words)...</a> 
     </article>
     
             </body>

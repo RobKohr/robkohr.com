@@ -33,40 +33,15 @@
     <div class="tags">@tags=<a href="tags/web-dev">web-dev</a>, <a href="tags/react">react</a>, <a href="tags/seo">seo</a>, <a href="tags/adhd">adhd</a></div>
     </div>
     <article>
-        <p>A little over a decade ago, I went on a binge and made a bunch of web apps of various sorts:</p>
-<ul>
-<li><a href="http://editthis.info">EditThis.info wiki hosting</a></li>
-<li><a href="http://cueflash.com">Cueflash flashcards study system</a></li>
-<li><a href="http://constantsail.com">ConstantSail pirate and trading game</a></li>
-<li>And atari combat and astroids clones</li>
-<li>A dice rolling program</li>
-</ul>
-<p>Since then, I have built up a huge list of projects I would like to build, I get started on some of them, but then fail to get them off the ground.</p>
-<p>Issues that I blame on this:</p>
-<ul>
-<li>I also had a messy divorce and custody struggle that for a good 6 years encompassed all of my attention (and a good chunk of $money), making it pretty impossible to focus on anything else, and really got me out of my routine for doing side projects</li>
-<li>Being overcommitted to work</li>
-<li><a href="https://www.forbes.com/sites/davidsturt/2015/06/11/decision-paralysis-why-its-prevalent-and-3-ways-to-end-it/?sh=1ad1dd1735b2">decision paralysis</a> - that big list of ideas is so big it has it&#39;s own organization structure. Settling down with one idea is really challenging<ul>
-<li>I am ADD as all hell (like 100% on most tests)... hence the giant list of ideas</li>
-</ul>
-</li>
-<li>The startup to any project involves too much overhead to keep me involved.
-Ok, I am working my normal job, and I am creating a new project: creating the css, the layout, the database, the authentication system, the different pages, etc, and by the time I get to the meat of what makes something unique, I am on to the next project.</li>
-</ul>
-<p>The first of these bullets is &quot;resolved&quot;, the middle ones aren&#39;t really resolvable, but that last one, I think that is tackle-able, and able to be handled with my scattered mind.</p>
-<p>So I created a website called <a href="http://neverall.com">neverall.com</a> (the domain name was from a <a href="http://mixmatch.com">domain name generator</a> I created called mixmatch.com that helps you find short domain names). I also created a single create-react-app repo for neverall.com, and am using it for a rebuild of the <a href="http://godotassetstore.org">godot asset store</a>. Instead of creating a bunch of domain names and a bunch of git repos and separate projects, I am going to build one site to rule them all, and everything will just be basically a &quot;subdirectory&quot; of neverall.com. This will have a few benefits:</p>
-<ul>
-<li>All of the basic site setup stuff will always be there, so it will be easy to just create a new directory and use the same common db for all of them</li>
-<li>Improvements to the design and components can be done all in one place, and so everything gets a face lift (though I do like individual projects to have their own look and feel)</li>
-<li>A little SEO hacking as projects on different domain names don&#39;t share page rank, so my projects don&#39;t really help eachother out much, except for interlinking.</li>
-</ul>
-<p>This last point is an interesting one, as it is nice to tell people, check out someCoolWebApp.com instead of neverall.com/someCoolWebApp.</p>
-<p>The thing is, both are things that can be done at the same time. Using nginx, I can point all of the domain names to the same code base, but when you go to someCoolWebApp.com, it will show you the same content as neverall.com/someCoolWebApp, and this can all be handled in the React router code (I use reach router, which is awesome).</p>
-<p>Now, duplicate content on the internet is a big SEO no-no, and google will ding you hard for it. Also, all that SEO juice flowing to someCoolWebApp.com doesn&#39;t benefit the collections of other apps that I am building. ... except it can!</p>
-<p><a href="https://developers.google.com/search/docs/advanced/crawling/consolidate-duplicate-urls">Canonical URLs</a> are things you can put in the head of your site documents. They tell google where the &quot;real&quot; original content is, and so that real content gets the SEO page ranking rather than wherever people are linking to. So I can tell everyone all about someCoolWebApp.com, and they can all be lining to it, but really neverall.com/someCoolWebApp.com gets all the benefits.</p>
-<p>Another side benefit is that since everything is in one repo, I can bounce around between directories, reuse components, and work on whatever I feel tickles my fancy any day without having to decide what repo to work on and just being stuck on that. I can start writing code anywhere for anything and it will be useable without needing to start up much or even finish anything at any time.</p>
-<p>All in all, an experiment into ADD programmer side project productivity. Maybe I will update you here on the progress... or maybe I will just be creating things.</p>
+        
 
+
+A little over a decade ago, I went on a binge and made a bunch of web apps of various sorts:
+
+- [EditThis.info wiki hosting](http://editthis.info)
+- [Cueflash flashcards study system](http://cueflash.com)
+- [ConstantSail pirate and trading game](http://constantsail.com)
+- And atari combat and ast <a class="nowrap" href="articles/one-codebase-to-rule-them-all">... read more (729 words)...</a> 
     </article>
     
     <h2><a href="articles/easy-instant-github-branch-deployment">Easy instant github branch deployment</a></h2>
@@ -86,30 +61,20 @@ Ok, I am working my normal job, and I am creating a new project: creating the cs
     <div class="tags">@tags=<a href="tags/web-dev">web-dev</a>, <a href="tags/design">design</a>, <a href="tags/react">react</a></div>
     </div>
     <article>
-        <p>I used <a href="https://icons.grommet.io/">Grommet</a> for a react project, and here are some of my thoughts on it.</p>
-<p>Things I like</p>
-<ul>
-<li>Works out of the box for most use cases</li>
-<li>Nice for form elements</li>
-<li>Gives a standard look and feel for the site without any need to work out details</li>
-</ul>
-<p>Things I don&#39;t like</p>
-<ul>
-<li>A grommet element is a wrapper for an entire dom structure that you can&#39;t directly style as it doesn&#39;t have any classes you can apply css to; a simple parent classname that you can have as a starting point would work wonders</li>
-<li>The Box wrapper and other wrappers for grid layouts just reimplement html features but in a more limited and difficult to adjust way</li>
-<li>It basically sucks for doing anything new stylistically (such as building a static landing page).</li>
-<li>It&#39;s design is kinda bla and minimal as far as customization</li>
-</ul>
-<p>If I were to do a application in the future I would:</p>
-<ul>
-<li>I&#39;d still use grommet for all of its components, but not it&#39;s layout</li>
-<li>Create a thin layer interface over grommet that just passes down props. This way a mvp can be quickly pushable, but the styles would be easily updatable<ul>
-<li>But more likely, unless styles don&#39;t matter at all, I would just do my own component library based on mocks as really stying components isn&#39;t too hard</li>
-</ul>
-</li>
-</ul>
-<p>Well structured scss is really easy to manage, and while grommet is good for building quick and dirty UI, scss custom built ui components are better to build for a project that is going to be something that will be used for a long term project.</p>
+        
 
+
+I used [Grommet](https://icons.grommet.io/) for a react project, and here are some of my thoughts on it.
+
+Things I like
+
+- Works out of the box for most use cases
+- Nice for form elements
+- Gives a standard look and feel for the site without any need to work out details
+
+Things I don't like
+
+- A  <a class="nowrap" href="articles/thoughts-on-using-grommet-for-web-app-design">... read more (266 words)...</a> 
     </article>
     
     <h2><a href="articles/next-js-vs-create-react-app">Next.js vs Create-React-App</a></h2>
@@ -118,19 +83,12 @@ Ok, I am working my normal job, and I am creating a new project: creating the cs
     <div class="tags">@tags=<a href="tags/web-dev">web-dev</a>, <a href="tags/react">react</a></div>
     </div>
     <article>
-        <p>When doing react, I have on worked with CRA up until now. I just took over a next.js app, and when built and deployed, it is speedy, but didn&#39;t like some of the details of development:</p>
-<ul>
-<li>myApp/pages/page-name/index.js is how you create a route for /page-name. While quick and friendly, I prefer the following:<ul>
-<li>Defining my own route rules in details with reach-router. I am just to particular about routing to accept the trade off of simplicity against customizability. Also, defining routes is simple, and it is good for rearranging things without renaming components.</li>
-<li>I really don&#39;t like dozens of index.js files in my codebase. I prefer to call pages pages/page-name/page-name.js so it is clear by the file name what things are for.</li>
-</ul>
-</li>
-<li>making changes when development are a little fluky when it comes to live updates, css doesn&#39;t seem to live update nicely, and there are just too many times that I have to kill the server and restart it to see my changes. This is even worse because it all seems unpredictable as to if/when changes would appear and a little frustrating</li>
-</ul>
-<p>These are little nitpicks, and if CRA didn&#39;t exist, I would go with next, but I love the way CRA is more customizable regarding routing, and is just snappy for responsiveness. I also feel there is just too much gray area as to if something is being rendered on the server or the client, and as an ex-apache/php guy, I really am not a fan of worrying about server side rendering anymore.</p>
-<p>The case where I would likely use next would be if I were building a static content based site where SEO and first page load times were everything. I also know gatsby is supposed to be good for this too, so I would do some side by side comparisons. Also SEO with react is pretty good as is.</p>
-<p>In the end though, that isn&#39;t really something I do much of, so I&#39;ll be on CRA for the forseeable future.</p>
+        
 
+
+When doing react, I have on worked with CRA up until now. I just took over a next.js app, and when built and deployed, it is speedy, but didn't like some of the details of development:
+
+- myApp/pages/page-name/index.js is how you create a route for /page-name. While quick and friendly, I prefer t <a class="nowrap" href="articles/next-js-vs-create-react-app">... read more (335 words)...</a> 
     </article>
     
     <h2><a href="articles/an-attempted-simple-guide-for-react-hooks-">An attempted simple guide for react hooks.</a></h2>
@@ -139,105 +97,12 @@ Ok, I am working my normal job, and I am creating a new project: creating the cs
     <div class="tags">@tags=<a href="tags/react">react</a>, <a href="tags/programming">programming</a>, <a href="tags/guides">guides</a></div>
     </div>
     <article>
-        <p><img src="images/2020-05-14-14-46-05.png" alt="2020-05-14-14-46-05.png" style="max-width: 100%;" /></p>
-<p>React hooks is what got me to actually like React enough to make it my primary web development framework (at least at this date). They break away from the ugly class based heavily nested object form of React, and make it truly more functional, while giving allowances for managing state in a stateless system.</p>
-<p>The first thing to grasp about react is that components re-render with every change in the props that come into them, and thus every time they are run (which is every time an input changes), all internal values are wiped out. It should also be noted that internal hook state changes also trigger these re-renders.</p>
-<p>The following hooks help keep all of this from getting washed away with each re-render so that your components can continue to function.</p>
-<h3>useState</h3>
-<p>This one you will likely use the most.</p>
-<p><code>const [state, setState] = useState(initialState);</code></p>
-<p>Sets a value for the initial state, and gives you something to update that state with <code>setState</code>.</p>
-<p>Updating the state will cause a rerender, but the state value will be maintained.</p>
-<p>Note that the left hand side of the equal sign is an array, not an object. state and setState are variables that you make up, and could be called anything, and it is really the order of the outputs from useState that causes state and setState to be set correctly. For example:</p>
-<p><code>const [burgersAreDoneCooking, setBurgersAreDoneCooking] = useState(false);</code></p>
-<p>Would be how you would track the state of the burgers in your cooking app.</p>
-<h3>useContext</h3>
-<p>This can be used to subscribe to a context value set higher up in the tree.</p>
-<pre><code>function Grandparent() {
-  const [favoriteColor, setFavoriteColor] = useState(&#39;blue&#39;);
-  return (
-    &lt;FavoriteColor.Provider value={favoriteColor}&gt;
-      &lt;Parent /&gt;
-    &lt;/FavoriteColor.Provider&gt;
-  );
-}
-function Parent(){
-  return (
-    &lt;div&gt;
-      &lt;Grandchild /&gt;
-    &lt;/div&gt;
-  );
-}
-function Grandchild(){
-   const grandpasFavColor = useContext(FavoriteColor);
-   return (&lt;div&gt;My grandpa&#39;s favorite color is {grandpasFavColor}&lt;/div&gt;)
-}
-</code></pre>
-<h3>useReducer</h3>
-<p>Outputs a state and a dispatcher. The dispatch is a function that will call the reducer with the current state and an action, and that reducer then returners an entirely new object that is a mutation of the original state to provide a new state value.</p>
-<pre><code>const initialState = {count: 0, otherValues:[&#39;a&#39;, &#39;b&#39;, &#39;c&#39;]};
+        <a href="articles/an-attempted-simple-guide-for-react-hooks-"><img class="icon" src="images/2020-05-14-14-46-05.png" alt="2020-05-14-14-46-05.png" style="max-width: 100%;" /></a>
 
-function countReducer(state, action){
-  switch (action.type) {
-    case &#39;increment&#39;:
-      return {...state, count:state.count+1};
-    case &#39;decrement&#39;:
-      return {...state, count:state.count-1};
-    default:
-      return state;
-  }
-}
 
-function Counter() {
-  const [state, dispatch] = useReducer(reducer, initialState);
-  return (
-    &lt;&gt;
-      Count: {state.count}
-      &lt;button onClick={() =&gt; dispatch({type:&#39;decrement&#39;})}&gt;-&lt;/button&gt;
-      &lt;button onClick={() =&gt; dispatch({type:&#39;increment&#39;})}&gt;+&lt;/button&gt;
-    &lt;/&gt;
-  );
-}
-</code></pre>
-<h3>useEffect</h3>
-<p>This is run after the page renders, and if you leave out the dependency array, it will rerun every single time. Usually you only want this to run once though, so setting it to depend on some variables changing, or at a minimum, just passing it [] as the second parameter will keep it from repeatedly running</p>
-<pre><code>useEffect(
-  () =&gt; {
-    /*Do something just once after rendering, unless depends array changes*/
-  },
-  [somethingToDependOn],
-);
-</code></pre>
-<h3>useMemo</h3>
-<p>Only re-run when the dependency changes. This is useful for expensive calculations. It can be used as a watcher for a dependency that will then cause a function to run.</p>
-<pre><code>largestPrime = useMemo(
-() =&gt; calculateLargestPrimeOfNumber(newNumber),
-[newNumber]
-);
-</code></pre>
-<p>This will update the messageHistory every time a new value comes in for lastMessage</p>
-<h3>useRef</h3>
-<pre><code>const refContainer = useRef(initialValue);
-</code></pre>
-<p>Returns an object with a property .current that you can mutate whenever. The object will persist and so you get to keep access to current. This is sometimes used with</p>
-<p><code>&lt;div ref={yourRefObj}&gt;</code>. When react rerenders the dom, it will reapply your object to it, and your yourRefObj.current will always point to the dom element</p>
-<h3>useCallback</h3>
-<p>Stores a callback on a variable so you can use it on children elements and won&#39;t cause a render of the children for every time the parent changes. Since in the below, the reference to onChildChange always stays the same on re-renders, it makes it so &lt;Child&gt; doesn&#39;t detect a change in it&#39;s passed in values.</p>
-<p>We use &quot;a&quot; as a dependency so that the callback is updated when the state of &quot;a&quot; is updated.</p>
-<pre><code>function Parent({ ... }) {
-  const [a, setA] = useState(0);
-  const onChildChange = useCallback(() =&gt;
-   {doSomething(a);}, [a]);
-  ...
-  return (
-  ...
-    &lt;Child onChange={onChildChange} &gt;
-  );
-}
-</code></pre>
-<h3>Some others</h3>
-<p>I skipped useImperativeHandle, useLayoutEffect, useDebugValue as those are rarely used. You can read <a href="https://reactjs.org/docs/hooks-reference.html">the documentation about them here.</a></p>
 
+
+React hooks is what got me to actually like React enough to make it my primary web development framework (at least at this date). They break away from the ugly class based heavily nested object form of React, and make it truly more functional, while giving allowances for managing state in a sta <a class="nowrap" href="articles/an-attempted-simple-guide-for-react-hooks-">... read more (776 words)...</a> 
     </article>
     
     <h2><a href="articles/angular-is-just-easier-to-make-most-web-applications-in-than-react">Angular is just easier to make most web applications in than React</a></h2>
@@ -246,26 +111,14 @@ function Counter() {
     <div class="tags">@tags=<a href="tags/angular">angular</a>, <a href="tags/react">react</a></div>
     </div>
     <article>
-        <p>UPDATE: My feelings about this have changed quite a bit, a follow up article is to come. The summary is that React has gotten so much easier with React hooks that my recommendations here have changed.</p>
-<h3>A little background</h3>
-<p>I did about 5 years of AngularJS (not newer Angular) development, 1.5 years of React, and now about 1 month of Angular, so I know my around a little bit of the the first two, and now with I have touch a bit on the third (I consider Angular and AngularJS to be fairly distant cousins).</p>
-<h3>What sets them apart</h3>
-<p>My impression is that React is a tidy powerful, elegant, and well engineered project that can suit practically any need, but especially that of a very unique web application that needs to be tackled creatively and with very modular code. It really delivers on the promise of functional programming, and is a joy to code with.</p>
-<p>That said, you have to do a fair amount of thinking and planning with React.</p>
-<h3>Where Angular thrives</h3>
-<p>Angular (and AngularJS), you don&#39;t have to think so much as just do. There really is not a huge variety in how you would slice up and build a web application with Angular, and that is nice when you are building 95% of the web applications out there on the internet. Do you need something with a load of interlinked web pages, where you can view data loaded from an API and occasionally submit some data back to said APIs. Well, then you have a friend in Angular.</p>
-<p>The lack of thought needed in such an opinionated framework is that makes it ideal, and it satisfies so many application needs, because frankly, as someone who has spent most of his life building web applications used by millions of people, all the apps start looking pretty damn much the same when you break them down to their basic functional parts.</p>
-<p><img src="donuts.jpg" alt="time to make the donuts"></p>
-<h3>Exceptions: where React thrives</h3>
-<p><img src="genie.jpg" alt="genie"></p>
-<p>Exceptions to this are more application type apps: web games, gmail, facebook, slack, google docs, twitter, photo editing, experimental stuff, etc.</p>
-<p>Basically things where the concepts of pages are meaningless, and interactions are fluid and different than the standard <a href="https://en.wikipedia.org/wiki/Create%2C_read%2C_update_and_delete">CRUD</a> based web web apps.</p>
-<p>I feel Angular and React can fullfil both basic CRUD apps and more interactive application type apps, but each are much better suited to their the specific app type with React being more flexible</p>
-<h3>Top down vs bottom up</h3>
-<p>Another little bit with the differences is with Angular, it seems to make more sense to build full pages from the top level, and then split them into components with services and you move through each of the pieces, where react you seem to build up more a lot of components to put things together.</p>
-<h3>Conclusion</h3>
-<p>I like React better, but when I just need to get the job done and do it fast, and the job is pretty straight forward, Angular is the tool I would reach for first.</p>
+        
 
+
+UPDATE: My feelings about this have changed quite a bit, a follow up article is to come. The summary is that React has gotten so much easier with React hooks that my recommendations here have changed.
+
+### A little background
+
+I did about 5 years of AngularJS (not newer Angular) development, 1.5  <a class="nowrap" href="articles/angular-is-just-easier-to-make-most-web-applications-in-than-react">... read more (493 words)...</a> 
     </article>
     
             </body>

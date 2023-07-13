@@ -33,14 +33,15 @@
     <div class="tags">@tags=<a href="tags/movies-to-watch">movies-to-watch</a></div>
     </div>
     <article>
-        <p><img src="images/2020-06-12-08-32-08.png" alt="2020-06-12-08-32-08.png" style="max-width: 100%;" /></p>
-<ul>
-<li><input disabled="" type="checkbox"> New jack city (again)</li>
-<li><input disabled="" type="checkbox"> Nick cage movies</li>
-<li><input disabled="" type="checkbox"> being john malcovich (again)</li>
-<li><input disabled="" type="checkbox"> Matilda</li>
-</ul>
+        <a href="articles/movies-for-me-to-watch----again"><img class="icon" src="images/2020-06-12-08-32-08.png" alt="2020-06-12-08-32-08.png" style="max-width: 100%;" /></a>
 
+
+
+
+- [ ] New jack city (again)
+- [ ] Nick cage movies
+- [ ] being john malcovich (again)
+- [ ] Matilda <a class="nowrap" href="articles/movies-for-me-to-watch----again">... read more (21 words)...</a> 
     </article>
     
             </body>

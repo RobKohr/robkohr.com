@@ -33,9 +33,11 @@
     <div class="tags">@tags=<a href="tags/news">news</a></div>
     </div>
     <article>
-        <p>Look a blimp</p>
-<p><img src="images/googlePlusPhotos/Photos%20from%20posts/3-13-14/19ifkm0dltfgi.jpg" alt="googlePlusPhotos/Photos%20from%20posts/3-13-14/19ifkm0dltfgi.jpg" style="max-width: 100%;" /></p>
+        <a href="articles/look-a-blimp"><img class="icon" src="images/googlePlusPhotos/Photos%20from%20posts/3-13-14/19ifkm0dltfgi.jpg" alt="googlePlusPhotos/Photos%20from%20posts/3-13-14/19ifkm0dltfgi.jpg" style="max-width: 100%;" /></a>
 
+Look a blimp
+
+ <a class="nowrap" href="articles/look-a-blimp">... read more (3 words)...</a> 
     </article>
     
             </body>

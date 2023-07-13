@@ -33,12 +33,12 @@
     <div class="tags">@tags=<a href="tags/languages">languages</a>, <a href="tags/localization">localization</a>, <a href="tags/godot-asset-store">godot-asset-store</a></div>
     </div>
     <article>
-        <p>Looking at much of the traffic on the asset store, and non-USA visitors seem to be a big part of it (China, Russia, etc).</p>
-<p>To satisfy this market (and target them for SEO), I will do something relating to using the google translate api to translate the various assets and text in the site. Urls will be something like
-/en/assets/tag1/tag2/SomeAssetName</p>
-<p>and english will be the default, with a page that will allow you to switch to the other languages. Asset translation will be kinda lazy done for whenever it works best for processing. Also, a link to see original language (perhaps english) will be provided.</p>
-<p>Handling tag translation will be tricky as that is part of navigation.</p>
+        
 
+
+Looking at much of the traffic on the asset store, and non-USA visitors seem to be a big part of it (China, Russia, etc).
+
+To satisfy this market (and target them for SEO), I will do something relating to using the google translate api to translate the various assets and text in the site. Urls wi <a class="nowrap" href="articles/godot-languages">... read more (113 words)...</a> 
     </article>
     
             </body>

@@ -33,12 +33,12 @@
     <div class="tags">@tags=<a href="tags/stackoverflow">stackoverflow</a>, <a href="tags/coding">coding</a>, <a href="tags/programming">programming</a></div>
     </div>
     <article>
-        <p>Often you will get deep in some code and come up against a wall. After working through it, and reading some documentation, if you haven&#39;t figured it out, it is time to go to stackoverflow.</p>
-<p>I have been on stackoverflow for a little over 14 years now, and while I don&#39;t answer a lot of questions (there is a lot of competition for that) I have a lot of questions that I have asked and have given me a pretty respectable score, putting me in the top 6% of users (<a href="https://stackoverflow.com/users/101909/robkohr">https://stackoverflow.com/users/101909/robkohr</a>). </p>
-<p>The best things to do, is clearly state the problem, provide <em>concise</em> code that shows the problem in a reproducible way, and then state what you would like to achieve. </p>
-<p>Sometimes when I work hard at making a clear question on stack overflow, I end up figuring out the answer myself. This is kinda like rubber duck debugging, but instead of a rubber duck, you are talking to the internet.</p>
-<p>Then you end up with being the person asking and answering the question and giving yourself double internet points... which is <em>oh so important</em> :)</p>
+        
 
+
+Often you will get deep in some code and come up against a wall. After working through it, and reading some documentation, if you haven't figured it out, it is time to go to stackoverflow.
+
+I have been on stackoverflow for a little over 14 years now, and while I don't answer a lot of questions (t <a class="nowrap" href="articles/stackoverflow-instead-of-beating-your-head-against-the-wall">... read more (184 words)...</a> 
     </article>
     
     <h2><a href="articles/stack-overflow">Stack overflow</a></h2>

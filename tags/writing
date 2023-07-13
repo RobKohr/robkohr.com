@@ -33,11 +33,10 @@
     <div class="tags">@tags=<a href="tags/index-cards">index-cards</a>, <a href="tags/writing">writing</a></div>
     </div>
     <article>
-        <p>I started working with using index cards for writing ideas similar to the slipcard (Zettelkasten Method). I started working with 3x5&#39;s but found they were too small to write ideas on. Now I am using 5x8&#39;s. This works well, because I use them in portrait orientation and they fit in the <a href="https://www.amazon.com/gp/product/B07XZ3B7F2/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1">box I got for them</a>. I also got some <a href="https://www.amazon.com/gp/product/B0784FP7BW/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1">heavy duty cards</a> that stand up well in the box and are nice to write on.</p>
-<p>Here is the first card in the box. Instead of using it as an index, I am using the first one as a list of ideas for what cards could be; this is helpful as it is always the card that is visible in front of the stack.</p>
-<p><img src="images/2020-03-30-16-17-51.png" alt="2020-03-30-16-17-51.png" style="max-width: 100%;" /></p>
-<p>So far I have made about 15-20 cards, and most are ending up under number 4 (following the system, things under 4 would be 4a, 4b, ...etc) which is where software ideas go. I don&#39;t know if this is a great choice compared to always tacking a new idea or concept at the end of the stack. The downside might be that I am always inserting most of the cards at that point as most of my ideas are software ideas. The upside is that I can have them always together so I can flip through them to see what I wanna work on next.</p>
+        <a href="articles/using-5x8-index-cards-for-random-notes-and-ideas"><img class="icon" src="images/2020-03-30-16-17-51.png" alt="2020-03-30-16-17-51.png" style="max-width: 100%;" /></a>
 
+
+I started working with using index cards for writing ideas similar to the slipcard (Zettelkasten Method). I started working with 3x5's but found they were too small to write ideas on. Now I am using 5x8's. This works well, because I use them in portrait orientation and they fit in the [box I got  <a class="nowrap" href="articles/using-5x8-index-cards-for-random-notes-and-ideas">... read more (227 words)...</a> 
     </article>
     
     <h2><a href="articles/so-many-ways-to-write">So many ways to write</a></h2>
@@ -46,10 +45,12 @@
     <div class="tags">@tags=<a href="tags/writing">writing</a></div>
     </div>
     <article>
-        <p><img src="images/2020-06-12-08-36-32.png" alt="2020-06-12-08-36-32.png" style="max-width: 100%;" /></p>
-<p>I have gotten so interested in different writing systems lately. I have more notebooks than I know what to do with. I use a daily notebook.md file which I use to track work tasks. I have this blog, which is generated from a blog.md file. I recently got index cards and am trying to figure out how to incorporate them in some way.</p>
-<p>Creating a pattern to writing is the tricky part. It takes repetition and a desire to do it... kinda like exercise.</p>
+        <a href="articles/so-many-ways-to-write"><img class="icon" src="images/2020-06-12-08-36-32.png" alt="2020-06-12-08-36-32.png" style="max-width: 100%;" /></a>
 
+
+
+
+I have gotten so interested in different writing systems lately. I have more notebooks than I know what to do with. I use a daily notebook.md file which I use to track work tasks. I have this blog, which is generated from a blog.md file. I recently got index cards and am trying to figure out ho <a class="nowrap" href="articles/so-many-ways-to-write">... read more (83 words)...</a> 
     </article>
     
             </body>

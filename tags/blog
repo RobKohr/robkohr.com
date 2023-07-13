@@ -33,13 +33,12 @@
     <div class="tags">@tags=<a href="tags/coding">coding</a>, <a href="tags/blog">blog</a>, <a href="tags/obsidian">obsidian</a></div>
     </div>
     <article>
-        <p>I wiped out RobKohr.com as I haven&#39;t touched it in over 5 years, and replaced it with this blog. </p>
-<p>It was built just using one long markdown file called blog.md that I edit in obsidian and each article is separated by ## Blog titles, and under that I use @date and @tags to specify those two values. Keeping with a brutalist design aesthetic, I render out those tags as well as the ## at the beginning of the headers. </p>
-<p>The way it works is a build.js file that reads that file, splits it into separate articles, renders the md-&gt;html, applies some extra rendering and css, and spits them all out into a large collection of individual files. This makes for a very simple light weight site builder that is just serving static files. </p>
-<p>Source code is here for those who want to do something similar:
-<a href="https://github.com/RobKohr/robkohr.com">https://github.com/RobKohr/robkohr.com</a></p>
-<p>If you need any help getting it set up, let me know.</p>
+        
 
+
+I wiped out RobKohr.com as I haven't touched it in over 5 years, and replaced it with this blog. 
+
+It was built just using one long markdown file called blog.md that I edit in obsidian and each article is separated by ## Blog titles, and under that I use @date and @tags to specify those two value <a class="nowrap" href="articles/created-a-new-blog-render">... read more (156 words)...</a> 
     </article>
     
     <h2><a href="articles/a-blog-generator">A blog generator</a></h2>

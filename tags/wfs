@@ -33,8 +33,10 @@
     <div class="tags">@tags=<a href="tags/coding">coding</a>, <a href="tags/angular">angular</a>, <a href="tags/wfs">wfs</a></div>
     </div>
     <article>
-        <p>For WFS I am working on the services page and the services need to be sortable in the settings, and then show the forms in the sorted order when making a new service request. Right now the order is hard coded, and each component has its own property set. I am going to create a wrapper for the components that will take all of the properties they need, and then pass them down to the component. The display order for the services can then load all of them in.</p>
+        
 
+
+For WFS I am working on the services page and the services need to be sortable in the settings, and then show the forms in the sorted order when making a new service request. Right now the order is hard coded, and each component has its own property set. I am going to create a wrapper for the com <a class="nowrap" href="articles/angular-multi-level-componets">... read more (89 words)...</a> 
     </article>
     
             </body>

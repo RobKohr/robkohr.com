@@ -33,9 +33,11 @@
     <div class="tags">@tags=<a href="tags/css">css</a>, <a href="tags/govt">govt</a>, <a href="tags/automating-life">automating-life</a></div>
     </div>
     <article>
-        <p><img src="images/2020-06-12-08-43-25.png" alt="2020-06-12-08-43-25.png" style="max-width: 100%;" /></p>
-<p>Tired of having to annoyingly see those accept cookies messages that EU bureaucrats have foisted upon us all? Use the <a href="https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha">StyleBot</a> chrome extension and then open stylebot-&gt;options-&gt;Edit Global Style Sheet, and then copy paste <a href="https://raw.githubusercontent.com/Manoz/Cookies-F-cker/master/app/style.css">this css in</a></p>
+        <a href="articles/remove-annoying-eu-cookie-banners"><img class="icon" src="images/2020-06-12-08-43-25.png" alt="2020-06-12-08-43-25.png" style="max-width: 100%;" /></a>
 
+
+
+Tired of having to annoyingly see those accept cookies messages that EU bureaucrats have foisted upon us all? Use the [StyleBot](https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha) chrome extension and then open stylebot->options->Edit Global Style Sheet, and the <a class="nowrap" href="articles/remove-annoying-eu-cookie-banners">... read more (37 words)...</a> 
     </article>
     
     <h2><a href="articles/govt-law-monitoring-site">Govt law monitoring site</a></h2>
@@ -44,8 +46,10 @@
     <div class="tags">@tags=<a href="tags/concept-art">concept-art</a>, <a href="tags/govt">govt</a></div>
     </div>
     <article>
-        <p><img src="images/2019-04-24%20Govt%20law%20monitoring%20site.jpg" alt="2019-04-24%20Govt%20law%20monitoring%20site.jpg" style="max-width: 100%;" /></p>
+        <a href="articles/govt-law-monitoring-site"><img class="icon" src="images/2019-04-24%20Govt%20law%20monitoring%20site.jpg" alt="2019-04-24%20Govt%20law%20monitoring%20site.jpg" style="max-width: 100%;" /></a>
 
+
+ <a class="nowrap" href="articles/govt-law-monitoring-site">... read more (1 words)...</a> 
     </article>
     
             </body>

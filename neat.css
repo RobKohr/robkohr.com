@@ -223,14 +223,28 @@ h2::before {
     content: "## ";
     color: #888888;
 }
-
-
 h3::before {
     content: "### ";
     color: #888888;
 }
 
+h1, h2, h3{
+    clear:both;
+}
 img{
     background:white;
 }
 
+img.icon{
+    padding:0.25em;
+    margin:0.25em;
+    border: 3px solid brown;
+    height: 124px;
+    float:right;
+    position:relative;
+    top:-75px;
+}
+
+.nowrap{
+    white-space:nowrap;
+}
