@@ -94,7 +94,7 @@ var articles = articlesFull.map(function (articleOrig) {
   const wordCount = article.content.split(" ").length;
   const summaryLength = 300;
   const hasReadMore = contentWithoutATags.length > summaryLength;
-  article.summary =  htmlUpdaters(contentWithoutATags.substring(0, 300)+` <p><a class="nowrap" href="${articleUrl(article)}">READ MORE (${wordCount} words)</a></p> `).replace(/<img.+>/g, "");
+  article.summary =  htmlUpdaters(contentWithoutATags.substring(0, 300)+`... <p><a class="nowrap" href="${articleUrl(article)}">READ MORE (${wordCount} words)</a></p> `).replace(/<img.+>/g, "");
   if(!hasReadMore && !htmlHasAtLeastOneImageTag){
     article.summary = article.html;
   }

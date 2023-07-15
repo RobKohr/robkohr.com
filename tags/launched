@@ -45,7 +45,7 @@ So you have a list of tasks to do in a markdown file:
 - [ ] Task 1
 - [ ] Task 2
 - [4] Task 3
-  - [ ] Subtask <p><a class="nowrap" href="articles/weighted-task-chooser">READ MORE (110 words)</a></p> 
+  - [ ] Subtask... <p><a class="nowrap" href="articles/weighted-task-chooser">READ MORE (110 words)</a></p> 
     </article>
     
     <h2><a href="articles/mix-match-domains">Mix Match Domains</a></h2>
@@ -59,7 +59,7 @@ So you have a list of tasks to do in a markdown file:
 
 [Generate domain names from keywords](https://mixmatchdomains.com) using [mixmatchdomains.com](https://mixmatchdomains.com)
 
- <p><a class="nowrap" href="articles/mix-match-domains">READ MORE (7 words)</a></p> 
+... <p><a class="nowrap" href="articles/mix-match-domains">READ MORE (7 words)</a></p> 
     </article>
     
     <h2><a href="articles/glico-rating-system">Glico rating system</a></h2>
@@ -73,7 +73,7 @@ So you have a list of tasks to do in a markdown file:
 
 [Javascript implementation of glicko-2 rating system along with a ffa-team based setup.](https://github.com/RobKohr/glicko)
 
- <p><a class="nowrap" href="articles/glico-rating-system">READ MORE (12 words)</a></p> 
+... <p><a class="nowrap" href="articles/glico-rating-system">READ MORE (12 words)</a></p> 
     </article>
     
     <h2><a href="articles/cueflash-flashcard-study-tool">Cueflash flashcard study tool</a></h2>
@@ -87,7 +87,7 @@ So you have a list of tasks to do in a markdown file:
 
 [Cueflash](https://cueflash.com) is a study tool where you can create and share flashcards (cuecards). As you study with it, it will adapt to you and show you cards more frequently based upon how well you know them.
 
- <p><a class="nowrap" href="articles/cueflash-flashcard-study-tool">READ MORE (36 words)</a></p> 
+... <p><a class="nowrap" href="articles/cueflash-flashcard-study-tool">READ MORE (36 words)</a></p> 
     </article>
     
     <h2><a href="articles/editthis-info">Editthis.info</a></h2>
@@ -101,7 +101,7 @@ So you have a list of tasks to do in a markdown file:
 
 [Editthis.info](https://editthis.info) is a wiki hosting service where you can create your own wiki in seconds for free!
 
- <p><a class="nowrap" href="articles/editthis-info">READ MORE (17 words)</a></p> 
+... <p><a class="nowrap" href="articles/editthis-info">READ MORE (17 words)</a></p> 
     </article>
     
             </body>
