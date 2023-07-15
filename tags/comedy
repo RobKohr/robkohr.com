@@ -33,7 +33,7 @@
     <div class="tags">@tags=<a href="tags/comedy">comedy</a></div>
     </div>
     <article>
-        <p><div><iframe width="560" height="315" src="https://www.youtube.com/embed/WdVkZtA4NPg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></p>
+        <p><a href="https://www.youtube.com/watch?v=WdVkZtA4NPg">https://www.youtube.com/watch?v=WdVkZtA4NPg</a></p>
 
     </article>
     

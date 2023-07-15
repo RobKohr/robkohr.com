@@ -33,18 +33,16 @@
     <div class="tags">@tags=<a href="tags/godot">godot</a>, <a href="tags/godot-asset-store">godot-asset-store</a>, <a href="tags/projects">projects</a>, <a href="tags/in-progress">in-progress</a>, <a href="tags/angular">angular</a>, <a href="tags/nodejs">nodejs</a></div>
     </div>
     <article>
-        
-
-
-I started developing the [Godot Asset Store](https://godotassetstore.org) a few weeks ago. It is built with Angular and node.js as the backend api with nginx as the frontend.
-
-I am getting to the tricky parts now:
-
-- Auth
-- Fetching content from github
-- payments
-- splitting out payments
-- accoun... <p><a class="nowrap" href="articles/godot-asset-store">READ MORE (45 words)</a></p> 
+        <p>I started developing the <a href="https://godotassetstore.org">Godot Asset Store</a> a few weeks ago. It is built with Angular and node.js as the backend api with nginx as the frontend.</p>
+<p>I am getting to the tricky parts now:</p>
+<ul>
+<li>Auth</li>
+<li>Fetching content from github</li>
+<li>payments</li>
+<li>splitting out payments</li>
+<li>accoun...</li>
+</ul>
+ <p><a class="nowrap" href="articles/godot-asset-store">READ MORE (45 words)</a></p> 
     </article>
     
             </body>

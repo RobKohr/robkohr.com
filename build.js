@@ -33,7 +33,7 @@ function convertYoutubeUrlsIntoHtml(text) {
 }
 
 function htmlUpdaters(text) {
-  return convertYoutubeUrlsIntoHtml(replaceImageLinks(text));
+  return replaceImageLinks(text);
 }
 
 marked.use({
@@ -52,7 +52,7 @@ var articlesFull = data.split("\n## ");
 var tagPages = {};
 
 var articles = articlesFull.map(function (articleOrig) {
-  const article = {}
+  const article = {};
   var lines = articleOrig.split("\n");
   article.title = lines[0].trim();
   article.content = lines.slice(1).join("\n").trim();
@@ -94,18 +94,20 @@ var articles = articlesFull.map(function (articleOrig) {
   const wordCount = article.content.split(" ").length;
   const summaryLength = 300;
   const hasReadMore = contentWithoutATags.length > summaryLength;
-  article.summary =  htmlUpdaters(contentWithoutATags.substring(0, 300)+`... <p><a class="nowrap" href="${articleUrl(article)}">READ MORE (${wordCount} words)</a></p> `).replace(/<img.+>/g, "");
-  if(!hasReadMore && !htmlHasAtLeastOneImageTag){
+  article.summary = htmlUpdaters(
+    marked.parse(contentWithoutATags.substring(0, 300) + "...") +
+      ` <p><a class="nowrap" href="${articleUrl(article)}">READ MORE (${wordCount} words)</a></p> `
+  ).replace(/<img.+>/g, "");
+  let icon = "";
+  if (!hasReadMore) {
     article.summary = article.html;
-  }
-  let icon = article.html.match(/<img src="(.+)" alt="(.+)" style="max-width: 100%;" \/>/);
-  if (icon) {
-    icon = `<a href="${ articleUrl(article)}">${icon[0].replace("img", 'img class="icon"')}</a>`
   } else {
-    icon = "";
+    let icon = article.html.match(/<img src="(.+)" alt="(.+)" style="max-width: 100%;" \/>/);
+    if (icon) {
+      icon = `<a href="${articleUrl(article)}">${icon[0].replace("img", 'img class="icon"')}</a>`;
+    }
   }
   article.icon = icon;
-
 
   /*
         convert markdown content to html
@@ -115,7 +117,7 @@ var articles = articlesFull.map(function (articleOrig) {
     return null;
   }
 
-  if ((!article.variables.tags || article.variables.tags.length === 0) && (article.variables.date)){
+  if ((!article.variables.tags || article.variables.tags.length === 0) && article.variables.date) {
     article.variables.tags = [{ label: "untagged", link: `<a href="tags/untagged">untagged</a>` }];
   }
 
@@ -129,7 +131,7 @@ var articles = articlesFull.map(function (articleOrig) {
     });
   }
 
-  return article
+  return article;
 });
 
 /* go through articles if title is not unique, then add date to title */
@@ -139,7 +141,7 @@ articles.forEach(function (article) {
     return;
   }
   if (titles[article.title.toLowerCase()]) {
-    article.title = article.title + ' ' +article.variables.date;
+    article.title = article.title + " " + article.variables.date;
   }
   titles[article.title.toLocaleLowerCase()] = true;
 });
@@ -163,13 +165,13 @@ ${headerExtras}
         </p>
 `;
 
-function toKebab (str) {
+function toKebab(str) {
   return str
     .trim()
     .toLowerCase()
     .replace(/[^a-z0-9]/g, "-")
     .trim();
-};
+}
 
 function articleUrl(article) {
   return `articles/${toKebab(article.title)}`;
@@ -193,7 +195,7 @@ function addArticleToOutput(article, output, full) {
     <div class="tags">${tags ? `@tags=${tags}` : ""}</div>
     </div>
     <article>
-        ${full ? article.html: article.icon + article.summary}
+        ${full ? article.html : article.icon + article.summary}
     </article>
     `
   );

@@ -33,15 +33,14 @@
     <div class="tags">@tags=<a href="tags/web-dev">web-dev</a>, <a href="tags/react">react</a>, <a href="tags/seo">seo</a>, <a href="tags/adhd">adhd</a></div>
     </div>
     <article>
-        
-
-
-A little over a decade ago, I went on a binge and made a bunch of web apps of various sorts:
-
-- [EditThis.info wiki hosting](http://editthis.info)
-- [Cueflash flashcards study system](http://cueflash.com)
-- [ConstantSail pirate and trading game](http://constantsail.com)
-- And atari combat and ast... <p><a class="nowrap" href="articles/one-codebase-to-rule-them-all">READ MORE (729 words)</a></p> 
+        <p>A little over a decade ago, I went on a binge and made a bunch of web apps of various sorts:</p>
+<ul>
+<li><a href="http://editthis.info">EditThis.info wiki hosting</a></li>
+<li><a href="http://cueflash.com">Cueflash flashcards study system</a></li>
+<li><a href="http://constantsail.com">ConstantSail pirate and trading game</a></li>
+<li>And atari combat and ast...</li>
+</ul>
+ <p><a class="nowrap" href="articles/one-codebase-to-rule-them-all">READ MORE (729 words)</a></p> 
     </article>
     
             </body>

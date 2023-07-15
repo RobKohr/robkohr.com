@@ -33,12 +33,9 @@
     <div class="tags">@tags=<a href="tags/webdev">webdev</a></div>
     </div>
     <article>
-        
-
-
-I have been playing with svelte, and liking it, but things just seem to mysterious. With SolidJS, I know what to expect.
-
-I got to creating some input components with svelte and started to do a registration form. Going to try again with SolidJS to build the same thing. Let's see if it goes a litt... <p><a class="nowrap" href="articles/getting-a-little-torn-between-svelte-and-solidjs">READ MORE (56 words)</a></p> 
+        <p>I have been playing with svelte, and liking it, but things just seem to mysterious. With SolidJS, I know what to expect.</p>
+<p>I got to creating some input components with svelte and started to do a registration form. Going to try again with SolidJS to build the same thing. Let&#39;s see if it goes a litt...</p>
+ <p><a class="nowrap" href="articles/getting-a-little-torn-between-svelte-and-solidjs">READ MORE (56 words)</a></p> 
     </article>
     
     <h2><a href="articles/on-typescript">On typescript</a></h2>
@@ -47,16 +44,10 @@ I got to creating some input components with svelte and started to do a registra
     <div class="tags">@tags=<a href="tags/typescript">typescript</a>, <a href="tags/webdev">webdev</a></div>
     </div>
     <article>
-        <a href="articles/on-typescript"><img class="icon" src="images/2021-08-15-11-32-29.png" alt="2021-08-15-11-32-29.png" style="max-width: 100%;" /></a>
-
-
-
-
-After working with typescript a lot on work projects, I typically skip it on personal projects as it just seems tedious at times.
-
-Well, I just threw it into the neverall project while working on an alerting system, and by golly did it help clean up some things.
-
-The issues I find are related t... <p><a class="nowrap" href="articles/on-typescript">READ MORE (159 words)</a></p> 
+        <p>After working with typescript a lot on work projects, I typically skip it on personal projects as it just seems tedious at times.</p>
+<p>Well, I just threw it into the neverall project while working on an alerting system, and by golly did it help clean up some things.</p>
+<p>The issues I find are related t...</p>
+ <p><a class="nowrap" href="articles/on-typescript">READ MORE (159 words)</a></p> 
     </article>
     
     <h2><a href="articles/bringing-things-under-one-roof">Bringing things under one roof</a></h2>
@@ -65,16 +56,11 @@ The issues I find are related t... <p><a class="nowrap" href="articles/on-typesc
     <div class="tags">@tags=<a href="tags/webdev">webdev</a>, <a href="tags/seo">seo</a></div>
     </div>
     <article>
-        
-
-
-This is a great article about using subdomains vs subfolders for seo:
-
-[subdomains vs subfolders](https://www.seoquake.com/blog/subdomains-vs-subfolders/)
-
-I looks pretty clear that subfolders are the way to go.
-
-With a single server with nginx on it, you can reverse proxy to multiple servers usi... <p><a class="nowrap" href="articles/bringing-things-under-one-roof">READ MORE (248 words)</a></p> 
+        <p>This is a great article about using subdomains vs subfolders for seo:</p>
+<p><a href="https://www.seoquake.com/blog/subdomains-vs-subfolders/">subdomains vs subfolders</a></p>
+<p>I looks pretty clear that subfolders are the way to go.</p>
+<p>With a single server with nginx on it, you can reverse proxy to multiple servers usi...</p>
+ <p><a class="nowrap" href="articles/bringing-things-under-one-roof">READ MORE (248 words)</a></p> 
     </article>
     
     <h2><a href="articles/fontello---icon-fonts-generator">Fontello - icon fonts generator</a></h2>
@@ -83,13 +69,10 @@ With a single server with nginx on it, you can reverse proxy to multiple servers
     <div class="tags">@tags=<a href="tags/webdev">webdev</a></div>
     </div>
     <article>
-        
-
-This is so cool! You can take and mesh together icons from different font sets along with svg images and define the names of the icons however you like.
-
-This is the most awesome way to make an icon set for your website!
-
-With this you can scale things as you like, and make icons any color you lik... <p><a class="nowrap" href="articles/fontello---icon-fonts-generator">READ MORE (61 words)</a></p> 
+        <p>This is so cool! You can take and mesh together icons from different font sets along with svg images and define the names of the icons however you like.</p>
+<p>This is the most awesome way to make an icon set for your website!</p>
+<p>With this you can scale things as you like, and make icons any color you lik...</p>
+ <p><a class="nowrap" href="articles/fontello---icon-fonts-generator">READ MORE (61 words)</a></p> 
     </article>
     
     <h2><a href="articles/digital-ocean">Digital Ocean</a></h2>
@@ -98,12 +81,9 @@ With this you can scale things as you like, and make icons any color you lik... 
     <div class="tags">@tags=<a href="tags/webdev">webdev</a></div>
     </div>
     <article>
-        
-
-
-Loving DigitalOcean.com vps. Only $5 a month for a base one, but if you are using it for development, you can snapshot it and shut it down, and only pay a few cents for the hours you had it running.   
-  
-Basically I treat snapshoting and shutting down like putting away my toys for playing with l... <p><a class="nowrap" href="articles/digital-ocean">READ MORE (72 words)</a></p> 
+        <p>Loving DigitalOcean.com vps. Only $5 a month for a base one, but if you are using it for development, you can snapshot it and shut it down, and only pay a few cents for the hours you had it running.   </p>
+<p>Basically I treat snapshoting and shutting down like putting away my toys for playing with l...</p>
+ <p><a class="nowrap" href="articles/digital-ocean">READ MORE (72 words)</a></p> 
     </article>
     
     <h2><a href="articles/i-used-to-work-in-e-commerce--and-one-term-you-might-not-heard-of-is-called-a---">I used to work in e-commerce, and one term you might not heard of is called a...</a></h2>
@@ -112,11 +92,9 @@ Basically I treat snapshoting and shutting down like putting away my toys for pl
     <div class="tags">@tags=<a href="tags/webdev">webdev</a></div>
     </div>
     <article>
-        
-
-I used to work in e-commerce, and one term you might not heard of is called an "abandoned cart." It is when a user is about to check out, but then leaves the site. This happens frequently, and many savvy e-commerce sites try to recover these abandoned carts.
-
-If you got through much of the process... <p><a class="nowrap" href="articles/i-used-to-work-in-e-commerce--and-one-term-you-might-not-heard-of-is-called-a---">READ MORE (151 words)</a></p> 
+        <p>I used to work in e-commerce, and one term you might not heard of is called an &quot;abandoned cart.&quot; It is when a user is about to check out, but then leaves the site. This happens frequently, and many savvy e-commerce sites try to recover these abandoned carts.</p>
+<p>If you got through much of the process...</p>
+ <p><a class="nowrap" href="articles/i-used-to-work-in-e-commerce--and-one-term-you-might-not-heard-of-is-called-a---">READ MORE (151 words)</a></p> 
     </article>
     
     <h2><a href="articles/no-database-for-node-js">No database for node.js</a></h2>
@@ -125,11 +103,9 @@ If you got through much of the process... <p><a class="nowrap" href="articles/i-
     <div class="tags">@tags=<a href="tags/webdev">webdev</a></div>
     </div>
     <article>
-        
-
-So I have been using node.js and mongo for some time, and yeah, it works fine and all, but I am starting to wonder, why bother with a db at all?
-
-When you are using PHP each load of a page restarts the PHP app, and the only way you can have any state stored for anything is to use some database sys... <p><a class="nowrap" href="articles/no-database-for-node-js">READ MORE (285 words)</a></p> 
+        <p>So I have been using node.js and mongo for some time, and yeah, it works fine and all, but I am starting to wonder, why bother with a db at all?</p>
+<p>When you are using PHP each load of a page restarts the PHP app, and the only way you can have any state stored for anything is to use some database sys...</p>
+ <p><a class="nowrap" href="articles/no-database-for-node-js">READ MORE (285 words)</a></p> 
     </article>
     
             </body>

@@ -33,18 +33,11 @@
     <div class="tags">@tags=<a href="tags/fun">fun</a>, <a href="tags/projects">projects</a></div>
     </div>
     <article>
-        <a href="articles/cardboard-boat-regatta"><img class="icon" src="images/2023-07-02-cardboard-boat-building.jpg" alt="2023-07-02-cardboard-boat-building.jpg" style="max-width: 100%;" /></a>
-
-
-Longview has an annual cardboard boat regatta, and I wanted to participate this year. 
-
-The theme was Christmas in July, and my daughter Chloe's favorite movie is Nightmare Before Christmas, so of course we had to do that. 
-
-I had my neighbor Scott and my son Jevon help with the construction.
-
-
-
-... <p><a class="nowrap" href="articles/cardboard-boat-regatta">READ MORE (170 words)</a></p> 
+        <p>Longview has an annual cardboard boat regatta, and I wanted to participate this year. </p>
+<p>The theme was Christmas in July, and my daughter Chloe&#39;s favorite movie is Nightmare Before Christmas, so of course we had to do that. </p>
+<p>I had my neighbor Scott and my son Jevon help with the construction.</p>
+<p>...</p>
+ <p><a class="nowrap" href="articles/cardboard-boat-regatta">READ MORE (170 words)</a></p> 
     </article>
     
     <h2><a href="articles/weighted-task-chooser">Weighted Task Chooser</a></h2>
@@ -53,19 +46,17 @@ I had my neighbor Scott and my son Jevon help with the construction.
     <div class="tags">@tags=<a href="tags/projects">projects</a>, <a href="tags/launched">launched</a></div>
     </div>
     <article>
-        <a href="articles/weighted-task-chooser"><img class="icon" src="images/2020-06-12-08-34-20.png" alt="2020-06-12-08-34-20.png" style="max-width: 100%;" /></a>
-
-
-
-
-[Weighted task chooser](https://github.com/RobKohr/weighted-task-chooser) is a command line node script that will select a randomly weighted task to do out of a tasklist markdown file.
-
-So you have a list of tasks to do in a markdown file:
-
-- [ ] Task 1
-- [ ] Task 2
-- [4] Task 3
-  - [ ] Subtask... <p><a class="nowrap" href="articles/weighted-task-chooser">READ MORE (110 words)</a></p> 
+        <p><a href="https://github.com/RobKohr/weighted-task-chooser">Weighted task chooser</a> is a command line node script that will select a randomly weighted task to do out of a tasklist markdown file.</p>
+<p>So you have a list of tasks to do in a markdown file:</p>
+<ul>
+<li><input disabled="" type="checkbox"> Task 1</li>
+<li><input disabled="" type="checkbox"> Task 2</li>
+<li>[4] Task 3<ul>
+<li><input disabled="" type="checkbox"> Subtask...</li>
+</ul>
+</li>
+</ul>
+ <p><a class="nowrap" href="articles/weighted-task-chooser">READ MORE (110 words)</a></p> 
     </article>
     
     <h2><a href="articles/constantsail-doing-surprisingly-well">ConstantSail doing surprisingly well</a></h2>
@@ -74,10 +65,8 @@ So you have a list of tasks to do in a markdown file:
     <div class="tags">@tags=<a href="tags/projects">projects</a>, <a href="tags/constantsail">constantsail</a></div>
     </div>
     <article>
-        
-
-
-[Constant Sail Pirates and Traders](http://constantsail.com) analytics seems to do consistently well despite being a page with no content on it other than an old video. I should make it a priority to make this game again with newer tech to support more users than before as there is just a continu... <p><a class="nowrap" href="articles/constantsail-doing-surprisingly-well">READ MORE (60 words)</a></p> 
+        <p><a href="http://constantsail.com">Constant Sail Pirates and Traders</a> analytics seems to do consistently well despite being a page with no content on it other than an old video. I should make it a priority to make this game again with newer tech to support more users than before as there is just a continu...</p>
+ <p><a class="nowrap" href="articles/constantsail-doing-surprisingly-well">READ MORE (60 words)</a></p> 
     </article>
     
     <h2><a href="articles/registered-godotassetstore-org">registered godotassetstore.org</a></h2>
@@ -86,10 +75,8 @@ So you have a list of tasks to do in a markdown file:
     <div class="tags">@tags=<a href="tags/projects">projects</a>, <a href="tags/godot-asset-store">godot-asset-store</a>, <a href="tags/nginx">nginx</a>, <a href="tags/certbot">certbot</a></div>
     </div>
     <article>
-        
-
-
-I just registered godotassetstore.org for the [Godot Asset Store](https://godotassetstore.org). It seems like it would be an easier name to share with people and the media than godotasset.store, which just seems a little odd. I'll have to set an nginx redirect for it on the server and set up cert... <p><a class="nowrap" href="articles/registered-godotassetstore-org">READ MORE (55 words)</a></p> 
+        <p>I just registered godotassetstore.org for the <a href="https://godotassetstore.org">Godot Asset Store</a>. It seems like it would be an easier name to share with people and the media than godotasset.store, which just seems a little odd. I&#39;ll have to set an nginx redirect for it on the server and set up cert...</p>
+ <p><a class="nowrap" href="articles/registered-godotassetstore-org">READ MORE (55 words)</a></p> 
     </article>
     
     <h2><a href="articles/a-blog-generator">A blog generator</a></h2>
@@ -110,18 +97,16 @@ I just registered godotassetstore.org for the [Godot Asset Store](https://godota
     <div class="tags">@tags=<a href="tags/godot">godot</a>, <a href="tags/godot-asset-store">godot-asset-store</a>, <a href="tags/projects">projects</a>, <a href="tags/in-progress">in-progress</a>, <a href="tags/angular">angular</a>, <a href="tags/nodejs">nodejs</a></div>
     </div>
     <article>
-        
-
-
-I started developing the [Godot Asset Store](https://godotassetstore.org) a few weeks ago. It is built with Angular and node.js as the backend api with nginx as the frontend.
-
-I am getting to the tricky parts now:
-
-- Auth
-- Fetching content from github
-- payments
-- splitting out payments
-- accoun... <p><a class="nowrap" href="articles/godot-asset-store">READ MORE (45 words)</a></p> 
+        <p>I started developing the <a href="https://godotassetstore.org">Godot Asset Store</a> a few weeks ago. It is built with Angular and node.js as the backend api with nginx as the frontend.</p>
+<p>I am getting to the tricky parts now:</p>
+<ul>
+<li>Auth</li>
+<li>Fetching content from github</li>
+<li>payments</li>
+<li>splitting out payments</li>
+<li>accoun...</li>
+</ul>
+ <p><a class="nowrap" href="articles/godot-asset-store">READ MORE (45 words)</a></p> 
     </article>
     
     <h2><a href="articles/started-working-on-the-godot-asset-store">Started working on the Godot Asset store</a></h2>
@@ -130,12 +115,9 @@ I am getting to the tricky parts now:
     <div class="tags">@tags=<a href="tags/godot-asset-store">godot-asset-store</a>, <a href="tags/started-project">started-project</a>, <a href="tags/projects">projects</a>, <a href="tags/godot">godot</a></div>
     </div>
     <article>
-        
-
-
-10/25/2019 is the day I started the Godot Asset Store, and so I am inserting this entry for that day. After creating my first godot app (the tutorial dodge game), and after years of dipping my toe into Unity but never making much of anything, I see great potential in Godot.
-
-One of the biggest pa... <p><a class="nowrap" href="articles/started-working-on-the-godot-asset-store">READ MORE (313 words)</a></p> 
+        <p>10/25/2019 is the day I started the Godot Asset Store, and so I am inserting this entry for that day. After creating my first godot app (the tutorial dodge game), and after years of dipping my toe into Unity but never making much of anything, I see great potential in Godot.</p>
+<p>One of the biggest pa...</p>
+ <p><a class="nowrap" href="articles/started-working-on-the-godot-asset-store">READ MORE (313 words)</a></p> 
     </article>
     
     <h2><a href="articles/mix-match-domains">Mix Match Domains</a></h2>
@@ -144,12 +126,9 @@ One of the biggest pa... <p><a class="nowrap" href="articles/started-working-on-
     <div class="tags">@tags=<a href="tags/projects">projects</a>, <a href="tags/launched">launched</a></div>
     </div>
     <article>
-        <a href="articles/mix-match-domains"><img class="icon" src="images/mixmatch.png" alt="mixmatch.png" style="max-width: 100%;" /></a>
+        <p><a href="https://mixmatchdomains.com">Generate domain names from keywords</a> using <a href="https://mixmatchdomains.com">mixmatchdomains.com</a></p>
+<p><img src="images/mixmatch.png" alt="mixmatch.png" style="max-width: 100%;" /></p>
 
-
-[Generate domain names from keywords](https://mixmatchdomains.com) using [mixmatchdomains.com](https://mixmatchdomains.com)
-
-... <p><a class="nowrap" href="articles/mix-match-domains">READ MORE (7 words)</a></p> 
     </article>
     
     <h2><a href="articles/glico-rating-system">Glico rating system</a></h2>
@@ -158,12 +137,9 @@ One of the biggest pa... <p><a class="nowrap" href="articles/started-working-on-
     <div class="tags">@tags=<a href="tags/projects">projects</a>, <a href="tags/launched">launched</a>, <a href="tags/open-source">open-source</a></div>
     </div>
     <article>
-        <a href="articles/glico-rating-system"><img class="icon" src="images/Elo_rating_graph.svg.png" alt="Elo_rating_graph.svg.png" style="max-width: 100%;" /></a>
+        <p><a href="https://github.com/RobKohr/glicko">Javascript implementation of glicko-2 rating system along with a ffa-team based setup.</a></p>
+<p><img src="images/Elo_rating_graph.svg.png" alt="Elo_rating_graph.svg.png" style="max-width: 100%;" /></p>
 
-
-[Javascript implementation of glicko-2 rating system along with a ffa-team based setup.](https://github.com/RobKohr/glicko)
-
-... <p><a class="nowrap" href="articles/glico-rating-system">READ MORE (12 words)</a></p> 
     </article>
     
     <h2><a href="articles/constantsail-pirates-and-traders">ConstantSail Pirates and Traders</a></h2>
@@ -172,12 +148,9 @@ One of the biggest pa... <p><a class="nowrap" href="articles/started-working-on-
     <div class="tags">@tags=<a href="tags/projects">projects</a>, <a href="tags/suspended">suspended</a></div>
     </div>
     <article>
-        <a href="articles/constantsail-pirates-and-traders"><img class="icon" src="images/constantsail.png" alt="constantsail.png" style="max-width: 100%;" /></a>
+        <p><a href="https://constantsail.com">Constant Sail</a> is a pirate and sailing massive multiplayer game that is in development
+<br><img src="images/constantsail.png" alt="constantsail.png" style="max-width: 100%;" /></p>
 
-
-[Constant Sail](https://constantsail.com) is a pirate and sailing massive multiplayer game that is in development
-\
-... <p><a class="nowrap" href="articles/constantsail-pirates-and-traders">READ MORE (14 words)</a></p> 
     </article>
     
     <h2><a href="articles/island-warfare">Island Warfare</a></h2>
@@ -196,12 +169,9 @@ One of the biggest pa... <p><a class="nowrap" href="articles/started-working-on-
     <div class="tags">@tags=<a href="tags/projects">projects</a>, <a href="tags/launched">launched</a></div>
     </div>
     <article>
-        <a href="articles/cueflash-flashcard-study-tool"><img class="icon" src="images/cueflash.png" alt="cueflash.png" style="max-width: 100%;" /></a>
+        <p><a href="https://cueflash.com">Cueflash</a> is a study tool where you can create and share flashcards (cuecards). As you study with it, it will adapt to you and show you cards more frequently based upon how well you know them.</p>
+<p><img src="images/cueflash.png" alt="cueflash.png" style="max-width: 100%;" /></p>
 
-
-[Cueflash](https://cueflash.com) is a study tool where you can create and share flashcards (cuecards). As you study with it, it will adapt to you and show you cards more frequently based upon how well you know them.
-
-... <p><a class="nowrap" href="articles/cueflash-flashcard-study-tool">READ MORE (36 words)</a></p> 
     </article>
     
     <h2><a href="articles/editthis-info">Editthis.info</a></h2>
@@ -210,12 +180,9 @@ One of the biggest pa... <p><a class="nowrap" href="articles/started-working-on-
     <div class="tags">@tags=<a href="tags/projects">projects</a>, <a href="tags/launched">launched</a></div>
     </div>
     <article>
-        <a href="articles/editthis-info"><img class="icon" src="images/editthis.png" alt="editthis.png" style="max-width: 100%;" /></a>
+        <p><a href="https://editthis.info">Editthis.info</a> is a wiki hosting service where you can create your own wiki in seconds for free!</p>
+<p><img src="images/editthis.png" alt="editthis.png" style="max-width: 100%;" /></p>
 
-
-[Editthis.info](https://editthis.info) is a wiki hosting service where you can create your own wiki in seconds for free!
-
-... <p><a class="nowrap" href="articles/editthis-info">READ MORE (17 words)</a></p> 
     </article>
     
     <h2><a href="articles/islandwarfare">Islandwarfare</a></h2>

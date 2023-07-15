@@ -33,10 +33,8 @@
     <div class="tags">@tags=<a href="tags/ar">ar</a>, <a href="tags/drawing">drawing</a>, <a href="tags/playground">playground</a>, <a href="tags/design">design</a>, <a href="tags/woodworking">woodworking</a></div>
     </div>
     <article>
-        <a href="articles/designing-playground-structure-using-ar"><img class="icon" src="images/Designing playground structure using AR - 2022-08-15.png" alt="Designing playground structure using AR - 2022-08-15.png" style="max-width: 100%;" /></a>
+        <p><img src="images/Designing playground structure using AR - 2022-08-15.png" alt="Designing playground structure using AR - 2022-08-15.png" style="max-width: 100%;" /></p>
 
-
-... <p><a class="nowrap" href="articles/designing-playground-structure-using-ar">READ MORE (7 words)</a></p> 
     </article>
     
     <h2><a href="articles/thoughts-on-using-grommet-for-web-app-design">Thoughts on using grommet for web app design</a></h2>
@@ -45,20 +43,18 @@
     <div class="tags">@tags=<a href="tags/web-dev">web-dev</a>, <a href="tags/design">design</a>, <a href="tags/react">react</a></div>
     </div>
     <article>
-        
-
-
-I used [Grommet](https://icons.grommet.io/) for a react project, and here are some of my thoughts on it.
-
-Things I like
-
-- Works out of the box for most use cases
-- Nice for form elements
-- Gives a standard look and feel for the site without any need to work out details
-
-Things I don't like
-
-- A ... <p><a class="nowrap" href="articles/thoughts-on-using-grommet-for-web-app-design">READ MORE (266 words)</a></p> 
+        <p>I used <a href="https://icons.grommet.io/">Grommet</a> for a react project, and here are some of my thoughts on it.</p>
+<p>Things I like</p>
+<ul>
+<li>Works out of the box for most use cases</li>
+<li>Nice for form elements</li>
+<li>Gives a standard look and feel for the site without any need to work out details</li>
+</ul>
+<p>Things I don&#39;t like</p>
+<ul>
+<li>A ...</li>
+</ul>
+ <p><a class="nowrap" href="articles/thoughts-on-using-grommet-for-web-app-design">READ MORE (266 words)</a></p> 
     </article>
     
             </body>

@@ -33,12 +33,9 @@
     <div class="tags">@tags=<a href="tags/git">git</a></div>
     </div>
     <article>
-        
-
-
-After years of using git from the command line, I pretty much only handle git from this app now. I started using it 4 months ago for work, and now also use it to manage my personal github stuff. It makes managing and visualizing git a breeze. 
-
-[Tower - The most powerful Git client for Mac](http:... <p><a class="nowrap" href="articles/git-tower">READ MORE (55 words)</a></p> 
+        <p>After years of using git from the command line, I pretty much only handle git from this app now. I started using it 4 months ago for work, and now also use it to manage my personal github stuff. It makes managing and visualizing git a breeze. </p>
+<p>[Tower - The most powerful Git client for Mac](http:...</p>
+ <p><a class="nowrap" href="articles/git-tower">READ MORE (55 words)</a></p> 
     </article>
     
             </body>

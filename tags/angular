@@ -33,10 +33,8 @@
     <div class="tags">@tags=<a href="tags/coding">coding</a>, <a href="tags/angular">angular</a>, <a href="tags/wfs">wfs</a></div>
     </div>
     <article>
-        
-
-
-For WFS I am working on the services page and the services need to be sortable in the settings, and then show the forms in the sorted order when making a new service request. Right now the order is hard coded, and each component has its own property set. I am going to create a wrapper for the com... <p><a class="nowrap" href="articles/angular-multi-level-componets">READ MORE (89 words)</a></p> 
+        <p>For WFS I am working on the services page and the services need to be sortable in the settings, and then show the forms in the sorted order when making a new service request. Right now the order is hard coded, and each component has its own property set. I am going to create a wrapper for the com...</p>
+ <p><a class="nowrap" href="articles/angular-multi-level-componets">READ MORE (89 words)</a></p> 
     </article>
     
     <h2><a href="articles/angular-is-just-easier-to-make-most-web-applications-in-than-react">Angular is just easier to make most web applications in than React</a></h2>
@@ -45,14 +43,10 @@ For WFS I am working on the services page and the services need to be sortable i
     <div class="tags">@tags=<a href="tags/angular">angular</a>, <a href="tags/react">react</a></div>
     </div>
     <article>
-        
-
-
-UPDATE: My feelings about this have changed quite a bit, a follow up article is to come. The summary is that React has gotten so much easier with React hooks that my recommendations here have changed.
-
-### A little background
-
-I did about 5 years of AngularJS (not newer Angular) development, 1.5 ... <p><a class="nowrap" href="articles/angular-is-just-easier-to-make-most-web-applications-in-than-react">READ MORE (493 words)</a></p> 
+        <p>UPDATE: My feelings about this have changed quite a bit, a follow up article is to come. The summary is that React has gotten so much easier with React hooks that my recommendations here have changed.</p>
+<h3>A little background</h3>
+<p>I did about 5 years of AngularJS (not newer Angular) development, 1.5 ...</p>
+ <p><a class="nowrap" href="articles/angular-is-just-easier-to-make-most-web-applications-in-than-react">READ MORE (493 words)</a></p> 
     </article>
     
     <h2><a href="articles/godot-asset-store">Godot Asset Store</a></h2>
@@ -61,18 +55,16 @@ I did about 5 years of AngularJS (not newer Angular) development, 1.5 ... <p><a 
     <div class="tags">@tags=<a href="tags/godot">godot</a>, <a href="tags/godot-asset-store">godot-asset-store</a>, <a href="tags/projects">projects</a>, <a href="tags/in-progress">in-progress</a>, <a href="tags/angular">angular</a>, <a href="tags/nodejs">nodejs</a></div>
     </div>
     <article>
-        
-
-
-I started developing the [Godot Asset Store](https://godotassetstore.org) a few weeks ago. It is built with Angular and node.js as the backend api with nginx as the frontend.
-
-I am getting to the tricky parts now:
-
-- Auth
-- Fetching content from github
-- payments
-- splitting out payments
-- accoun... <p><a class="nowrap" href="articles/godot-asset-store">READ MORE (45 words)</a></p> 
+        <p>I started developing the <a href="https://godotassetstore.org">Godot Asset Store</a> a few weeks ago. It is built with Angular and node.js as the backend api with nginx as the frontend.</p>
+<p>I am getting to the tricky parts now:</p>
+<ul>
+<li>Auth</li>
+<li>Fetching content from github</li>
+<li>payments</li>
+<li>splitting out payments</li>
+<li>accoun...</li>
+</ul>
+ <p><a class="nowrap" href="articles/godot-asset-store">READ MORE (45 words)</a></p> 
     </article>
     
             </body>

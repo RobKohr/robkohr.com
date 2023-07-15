@@ -33,19 +33,17 @@
     <div class="tags">@tags=<a href="tags/projects">projects</a>, <a href="tags/launched">launched</a></div>
     </div>
     <article>
-        <a href="articles/weighted-task-chooser"><img class="icon" src="images/2020-06-12-08-34-20.png" alt="2020-06-12-08-34-20.png" style="max-width: 100%;" /></a>
-
-
-
-
-[Weighted task chooser](https://github.com/RobKohr/weighted-task-chooser) is a command line node script that will select a randomly weighted task to do out of a tasklist markdown file.
-
-So you have a list of tasks to do in a markdown file:
-
-- [ ] Task 1
-- [ ] Task 2
-- [4] Task 3
-  - [ ] Subtask... <p><a class="nowrap" href="articles/weighted-task-chooser">READ MORE (110 words)</a></p> 
+        <p><a href="https://github.com/RobKohr/weighted-task-chooser">Weighted task chooser</a> is a command line node script that will select a randomly weighted task to do out of a tasklist markdown file.</p>
+<p>So you have a list of tasks to do in a markdown file:</p>
+<ul>
+<li><input disabled="" type="checkbox"> Task 1</li>
+<li><input disabled="" type="checkbox"> Task 2</li>
+<li>[4] Task 3<ul>
+<li><input disabled="" type="checkbox"> Subtask...</li>
+</ul>
+</li>
+</ul>
+ <p><a class="nowrap" href="articles/weighted-task-chooser">READ MORE (110 words)</a></p> 
     </article>
     
     <h2><a href="articles/mix-match-domains">Mix Match Domains</a></h2>
@@ -54,12 +52,9 @@ So you have a list of tasks to do in a markdown file:
     <div class="tags">@tags=<a href="tags/projects">projects</a>, <a href="tags/launched">launched</a></div>
     </div>
     <article>
-        <a href="articles/mix-match-domains"><img class="icon" src="images/mixmatch.png" alt="mixmatch.png" style="max-width: 100%;" /></a>
+        <p><a href="https://mixmatchdomains.com">Generate domain names from keywords</a> using <a href="https://mixmatchdomains.com">mixmatchdomains.com</a></p>
+<p><img src="images/mixmatch.png" alt="mixmatch.png" style="max-width: 100%;" /></p>
 
-
-[Generate domain names from keywords](https://mixmatchdomains.com) using [mixmatchdomains.com](https://mixmatchdomains.com)
-
-... <p><a class="nowrap" href="articles/mix-match-domains">READ MORE (7 words)</a></p> 
     </article>
     
     <h2><a href="articles/glico-rating-system">Glico rating system</a></h2>
@@ -68,12 +63,9 @@ So you have a list of tasks to do in a markdown file:
     <div class="tags">@tags=<a href="tags/projects">projects</a>, <a href="tags/launched">launched</a>, <a href="tags/open-source">open-source</a></div>
     </div>
     <article>
-        <a href="articles/glico-rating-system"><img class="icon" src="images/Elo_rating_graph.svg.png" alt="Elo_rating_graph.svg.png" style="max-width: 100%;" /></a>
+        <p><a href="https://github.com/RobKohr/glicko">Javascript implementation of glicko-2 rating system along with a ffa-team based setup.</a></p>
+<p><img src="images/Elo_rating_graph.svg.png" alt="Elo_rating_graph.svg.png" style="max-width: 100%;" /></p>
 
-
-[Javascript implementation of glicko-2 rating system along with a ffa-team based setup.](https://github.com/RobKohr/glicko)
-
-... <p><a class="nowrap" href="articles/glico-rating-system">READ MORE (12 words)</a></p> 
     </article>
     
     <h2><a href="articles/cueflash-flashcard-study-tool">Cueflash flashcard study tool</a></h2>
@@ -82,12 +74,9 @@ So you have a list of tasks to do in a markdown file:
     <div class="tags">@tags=<a href="tags/projects">projects</a>, <a href="tags/launched">launched</a></div>
     </div>
     <article>
-        <a href="articles/cueflash-flashcard-study-tool"><img class="icon" src="images/cueflash.png" alt="cueflash.png" style="max-width: 100%;" /></a>
+        <p><a href="https://cueflash.com">Cueflash</a> is a study tool where you can create and share flashcards (cuecards). As you study with it, it will adapt to you and show you cards more frequently based upon how well you know them.</p>
+<p><img src="images/cueflash.png" alt="cueflash.png" style="max-width: 100%;" /></p>
 
-
-[Cueflash](https://cueflash.com) is a study tool where you can create and share flashcards (cuecards). As you study with it, it will adapt to you and show you cards more frequently based upon how well you know them.
-
-... <p><a class="nowrap" href="articles/cueflash-flashcard-study-tool">READ MORE (36 words)</a></p> 
     </article>
     
     <h2><a href="articles/editthis-info">Editthis.info</a></h2>
@@ -96,12 +85,9 @@ So you have a list of tasks to do in a markdown file:
     <div class="tags">@tags=<a href="tags/projects">projects</a>, <a href="tags/launched">launched</a></div>
     </div>
     <article>
-        <a href="articles/editthis-info"><img class="icon" src="images/editthis.png" alt="editthis.png" style="max-width: 100%;" /></a>
+        <p><a href="https://editthis.info">Editthis.info</a> is a wiki hosting service where you can create your own wiki in seconds for free!</p>
+<p><img src="images/editthis.png" alt="editthis.png" style="max-width: 100%;" /></p>
 
-
-[Editthis.info](https://editthis.info) is a wiki hosting service where you can create your own wiki in seconds for free!
-
-... <p><a class="nowrap" href="articles/editthis-info">READ MORE (17 words)</a></p> 
     </article>
     
             </body>

@@ -33,28 +33,24 @@
     <div class="tags">@tags=<a href="tags/godot-asset-store">godot-asset-store</a>, <a href="tags/screenshot-saturday">screenshot-saturday</a></div>
     </div>
     <article>
-        
-
-
-![screenshot gif 2019-12-07](screenshot-saturday-2019-12-07.gif)
-
-[On youtube](https://youtu.be/JEbzAdhQo3k)
-
-Progress update on https://godotassetstore.org
-
-What works
-
-- Browse assets
-- Individual Asset Page
-- Downloading an Asset
-
-In progress
-
-- Registration Submission
-
-Next Up
-
-- Finish regis... <p><a class="nowrap" href="articles/screenshot-saturday-dec-7th-2019">READ MORE (41 words)</a></p> 
+        <p>
+<p><a href="https://youtu.be/JEbzAdhQo3k">On youtube</a></p>
+<p>Progress update on <a href="https://godotassetstore.org">https://godotassetstore.org</a></p>
+<p>What works</p>
+<ul>
+<li>Browse assets</li>
+<li>Individual Asset Page</li>
+<li>Downloading an Asset</li>
+</ul>
+<p>In progress</p>
+<ul>
+<li>Registration Submission</li>
+</ul>
+<p>Next Up</p>
+<ul>
+<li>Finish regis...</li>
+</ul>
+ <p><a class="nowrap" href="articles/screenshot-saturday-dec-7th-2019">READ MORE (41 words)</a></p> 
     </article>
     
             </body>

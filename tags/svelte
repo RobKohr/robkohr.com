@@ -33,7 +33,7 @@
     <div class="tags">@tags=<a href="tags/coding">coding</a>, <a href="tags/svelte">svelte</a></div>
     </div>
     <article>
-        <p>The best tutorial on it<br><div><iframe width="560" height="315" src="https://www.youtube.com/embed/AXwgpUvLiwk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></p>
+        <p>The best tutorial on it<br><a href="https://www.youtube.com/watch?v=AXwgpUvLiwk">https://www.youtube.com/watch?v=AXwgpUvLiwk</a></p>
 
     </article>
     

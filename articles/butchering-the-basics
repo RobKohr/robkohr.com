@@ -32,7 +32,7 @@
     <div class="tags">@tags=<a href="tags/music">music</a></div>
     </div>
     <article>
-        <p><div><iframe width="560" height="315" src="https://www.youtube.com/embed/URkGWoNTDlA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></p>
+        <p><a href="https://www.youtube.com/watch?v=URkGWoNTDlA">https://www.youtube.com/watch?v=URkGWoNTDlA</a></p>
 
     </article>
     

@@ -55,15 +55,10 @@
     <div class="tags">@tags=<a href="tags/javascript">javascript</a></div>
     </div>
     <article>
-        
-
-
-When working with mongodb especially, but also in other cases, you can create a deep stack of calls that can get pretty ugly in javascript. 
-
-To avoid this I created a function that will recursively go through an array of things you want to process in a callback stack. 
-
-
-Follow link to read more... <p><a class="nowrap" href="articles/avoiding-a-deep-stack-of-callbacks">READ MORE (62 words)</a></p> 
+        <p>When working with mongodb especially, but also in other cases, you can create a deep stack of calls that can get pretty ugly in javascript. </p>
+<p>To avoid this I created a function that will recursively go through an array of things you want to process in a callback stack. </p>
+<p>Follow link to read more...</p>
+ <p><a class="nowrap" href="articles/avoiding-a-deep-stack-of-callbacks">READ MORE (62 words)</a></p> 
     </article>
     
             </body>
