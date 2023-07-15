@@ -41,7 +41,7 @@ A little over a decade ago, I went on a binge and made a bunch of web apps of va
 - [EditThis.info wiki hosting](http://editthis.info)
 - [Cueflash flashcards study system](http://cueflash.com)
 - [ConstantSail pirate and trading game](http://constantsail.com)
-- And atari combat and ast <a class="nowrap" href="articles/one-codebase-to-rule-them-all">... read more (729 words)...</a> 
+- And atari combat and ast <p><a class="nowrap" href="articles/one-codebase-to-rule-them-all">READ MORE (729 words)</a></p> 
     </article>
     
     <h2><a href="articles/easy-instant-github-branch-deployment">Easy instant github branch deployment</a></h2>
@@ -74,7 +74,7 @@ Things I like
 
 Things I don't like
 
-- A  <a class="nowrap" href="articles/thoughts-on-using-grommet-for-web-app-design">... read more (266 words)...</a> 
+- A  <p><a class="nowrap" href="articles/thoughts-on-using-grommet-for-web-app-design">READ MORE (266 words)</a></p> 
     </article>
     
     <h2><a href="articles/next-js-vs-create-react-app">Next.js vs Create-React-App</a></h2>
@@ -88,7 +88,7 @@ Things I don't like
 
 When doing react, I have on worked with CRA up until now. I just took over a next.js app, and when built and deployed, it is speedy, but didn't like some of the details of development:
 
-- myApp/pages/page-name/index.js is how you create a route for /page-name. While quick and friendly, I prefer t <a class="nowrap" href="articles/next-js-vs-create-react-app">... read more (335 words)...</a> 
+- myApp/pages/page-name/index.js is how you create a route for /page-name. While quick and friendly, I prefer t <p><a class="nowrap" href="articles/next-js-vs-create-react-app">READ MORE (335 words)</a></p> 
     </article>
     
     <h2><a href="articles/an-attempted-simple-guide-for-react-hooks-">An attempted simple guide for react hooks.</a></h2>
@@ -102,7 +102,7 @@ When doing react, I have on worked with CRA up until now. I just took over a nex
 
 
 
-React hooks is what got me to actually like React enough to make it my primary web development framework (at least at this date). They break away from the ugly class based heavily nested object form of React, and make it truly more functional, while giving allowances for managing state in a sta <a class="nowrap" href="articles/an-attempted-simple-guide-for-react-hooks-">... read more (776 words)...</a> 
+React hooks is what got me to actually like React enough to make it my primary web development framework (at least at this date). They break away from the ugly class based heavily nested object form of React, and make it truly more functional, while giving allowances for managing state in a sta <p><a class="nowrap" href="articles/an-attempted-simple-guide-for-react-hooks-">READ MORE (776 words)</a></p> 
     </article>
     
     <h2><a href="articles/angular-is-just-easier-to-make-most-web-applications-in-than-react">Angular is just easier to make most web applications in than React</a></h2>
@@ -118,7 +118,7 @@ UPDATE: My feelings about this have changed quite a bit, a follow up article is 
 
 ### A little background
 
-I did about 5 years of AngularJS (not newer Angular) development, 1.5  <a class="nowrap" href="articles/angular-is-just-easier-to-make-most-web-applications-in-than-react">... read more (493 words)...</a> 
+I did about 5 years of AngularJS (not newer Angular) development, 1.5  <p><a class="nowrap" href="articles/angular-is-just-easier-to-make-most-web-applications-in-than-react">READ MORE (493 words)</a></p> 
     </article>
     
             </body>

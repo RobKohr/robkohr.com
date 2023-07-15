@@ -41,7 +41,7 @@ A little over a decade ago, I went on a binge and made a bunch of web apps of va
 - [EditThis.info wiki hosting](http://editthis.info)
 - [Cueflash flashcards study system](http://cueflash.com)
 - [ConstantSail pirate and trading game](http://constantsail.com)
-- And atari combat and ast <a class="nowrap" href="articles/one-codebase-to-rule-them-all">... read more (729 words)...</a> 
+- And atari combat and ast <p><a class="nowrap" href="articles/one-codebase-to-rule-them-all">READ MORE (729 words)</a></p> 
     </article>
     
     <h2><a href="articles/bringing-things-under-one-roof">Bringing things under one roof</a></h2>
@@ -59,7 +59,7 @@ This is a great article about using subdomains vs subfolders for seo:
 
 I looks pretty clear that subfolders are the way to go.
 
-With a single server with nginx on it, you can reverse proxy to multiple servers usi <a class="nowrap" href="articles/bringing-things-under-one-roof">... read more (248 words)...</a> 
+With a single server with nginx on it, you can reverse proxy to multiple servers usi <p><a class="nowrap" href="articles/bringing-things-under-one-roof">READ MORE (248 words)</a></p> 
     </article>
     
             </body>

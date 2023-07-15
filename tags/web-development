@@ -42,7 +42,7 @@ For the last few years I have been using cloudflare in front of editthis.info. O
 
 This was without any changes to the system at all, and with about 800-900 active users per day.
 
-Also, as mentio <a class="nowrap" href="articles/cloudflare-effects-on-users">... read more (150 words)...</a> 
+Also, as mentio <p><a class="nowrap" href="articles/cloudflare-effects-on-users">READ MORE (150 words)</a></p> 
     </article>
     
     <h2><a href="articles/setup-ssl-websockets-from-node-using-nginx-and-certbot">Setup ssl websockets from node using nginx and certbot</a></h2>
@@ -58,7 +58,7 @@ Also, as mentio <a class="nowrap" href="articles/cloudflare-effects-on-users">..
 
 Certbot is the tool from [letsencrypt.org](https://letsencrypt.org) that lets you generate ssl certificates for your site without having to pay the likes of Verisign ever again. Basically I love the heck out of them for what they do.
 
-Nginx runs on your server to redirect examplesite.com to loc <a class="nowrap" href="articles/setup-ssl-websockets-from-node-using-nginx-and-certbot">... read more (510 words)...</a> 
+Nginx runs on your server to redirect examplesite.com to loc <p><a class="nowrap" href="articles/setup-ssl-websockets-from-node-using-nginx-and-certbot">READ MORE (510 words)</a></p> 
     </article>
     
             </body>

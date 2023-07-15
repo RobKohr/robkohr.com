@@ -63,7 +63,7 @@ When working with mongodb especially, but also in other cases, you can create a 
 To avoid this I created a function that will recursively go through an array of things you want to process in a callback stack. 
 
 
-Follow link to read more <a class="nowrap" href="articles/avoiding-a-deep-stack-of-callbacks">... read more (62 words)...</a> 
+Follow link to read more <p><a class="nowrap" href="articles/avoiding-a-deep-stack-of-callbacks">READ MORE (62 words)</a></p> 
     </article>
     
             </body>
