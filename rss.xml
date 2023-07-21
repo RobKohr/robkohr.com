@@ -5,8 +5,8 @@
             <link>https://robkohr.com</link>
             <description>RobKohr's Blog</description>
             <language>en-us</language>
-            <lastBuildDate>Tue, 18 Jul 2023 07:00:00 GMT</lastBuildDate>
-            <pubDate>Tue, 18 Jul 2023 07:00:00 GMT</pubDate>
+            <lastBuildDate>Fri, 21 Jul 2023 07:00:00 GMT</lastBuildDate>
+            <pubDate>Fri, 21 Jul 2023 07:00:00 GMT</pubDate>
             <ttl>1800</ttl>
 
             <item>
@@ -14,6 +14,13 @@
                 <link>https://robkohr.com/articles/angular-multi-level-componets</link>
                 <description>Angular multi-level componets</description>
                 <pubDate>Sat, 24 Jun 2023 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <title>Chatbot</title>
+                <link>https://robkohr.com/articles/chatbot</link>
+                <description>Chatbot</description>
+                <pubDate>Wed, 21 Jun 2023 00:00:00 GMT</pubDate>
             </item>
     
             <item>
@@ -349,13 +356,6 @@
                 <title>Pivotal tracker for personal use</title>
                 <link>https://robkohr.com/articles/pivotal-tracker-for-personal-use</link>
                 <description>Pivotal tracker for personal use</description>
-                <pubDate>Thu, 15 Jul 2021 00:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <title>On typescript</title>
-                <link>https://robkohr.com/articles/on-typescript</link>
-                <description>On typescript</description>
                 <pubDate>Thu, 15 Jul 2021 00:00:00 GMT</pubDate>
             </item>
     
