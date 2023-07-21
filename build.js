@@ -92,19 +92,24 @@ var articles = articlesFull.map(function (articleOrig) {
   const contentWithoutImages = contentWithoutVariables.replace(/!\[\[(.+)\]\]/g, "");
   const contentWithoutATags = contentWithoutImages.replace(/<a href="(.+)">(.+)<\/a>/g, "");
   const wordCount = article.content.split(" ").length;
+  const imageCount = article.html.match(/<img.+>/g)?.length || 0;
+  const imageCountLabel = imageCount > 0 ? `, ${imageCount} images` : "";
   const summaryLength = 300;
   const hasReadMore = contentWithoutATags.length > summaryLength;
   article.summary = htmlUpdaters(
     marked.parse(contentWithoutATags.substring(0, 300) + "...") +
-      ` <p><a class="nowrap" href="${articleUrl(article)}">READ MORE (${wordCount} words)</a></p> `
+      ` <p><a class="nowrap" href="${articleUrl(article)}">READ MORE (${wordCount} words${imageCountLabel})</a></p> `
   ).replace(/<img.+>/g, "");
   let icon = "";
   if (!hasReadMore) {
     article.summary = article.html;
   } else {
-    let icon = article.html.match(/<img src="(.+)" alt="(.+)" style="max-width: 100%;" \/>/);
+    let matches = article.html.match(/<img src="(.+)" alt="(.+)" style="max-width: 100%;" \/>/);
+    icon = matches?.length ? matches[0]: ''
+    console.log('icon:', icon)
+
     if (icon) {
-      icon = `<a href="${articleUrl(article)}">${icon[0].replace("img", 'img class="icon"')}</a>`;
+      icon = `<a href="${articleUrl(article)}">${icon.replace("img", 'img class="icon"')}</a>`;
     }
   }
   article.icon = icon;
@@ -195,7 +200,7 @@ function addArticleToOutput(article, output, full) {
     <div class="tags">${tags ? `@tags=${tags}` : ""}</div>
     </div>
     <article>
-        ${full ? article.html : article.icon + article.summary}
+        ${full ?  article.html : article.icon + article.summary}
     </article>
     `
   );

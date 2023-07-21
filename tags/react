@@ -93,8 +93,8 @@
     <div class="tags">@tags=<a href="tags/react">react</a>, <a href="tags/programming">programming</a>, <a href="tags/guides">guides</a></div>
     </div>
     <article>
-        <p>React hooks is what got me to actually like React enough to make it my primary web development framework (at least at this date). They break away from the ugly class based heavily nested object form of React, and make it truly more functional, while giving allowances for managing state in a sta...</p>
- <p><a class="nowrap" href="articles/an-attempted-simple-guide-for-react-hooks-">READ MORE (776 words)</a></p> 
+        <a href="articles/an-attempted-simple-guide-for-react-hooks-"><img class="icon" src="images/2020-05-14-14-46-05.png" alt="2020-05-14-14-46-05.png" style="max-width: 100%;" /></a><p>React hooks is what got me to actually like React enough to make it my primary web development framework (at least at this date). They break away from the ugly class based heavily nested object form of React, and make it truly more functional, while giving allowances for managing state in a sta...</p>
+ <p><a class="nowrap" href="articles/an-attempted-simple-guide-for-react-hooks-">READ MORE (776 words, 1 images)</a></p> 
     </article>
     
     <h2><a href="articles/angular-is-just-easier-to-make-most-web-applications-in-than-react">Angular is just easier to make most web applications in than React</a></h2>
@@ -106,7 +106,7 @@
         <p>UPDATE: My feelings about this have changed quite a bit, a follow up article is to come. The summary is that React has gotten so much easier with React hooks that my recommendations here have changed.</p>
 <h3>A little background</h3>
 <p>I did about 5 years of AngularJS (not newer Angular) development, 1.5 ...</p>
- <p><a class="nowrap" href="articles/angular-is-just-easier-to-make-most-web-applications-in-than-react">READ MORE (493 words)</a></p> 
+ <p><a class="nowrap" href="articles/angular-is-just-easier-to-make-most-web-applications-in-than-react">READ MORE (493 words, 2 images)</a></p> 
     </article>
     
             </body>

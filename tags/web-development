@@ -33,10 +33,10 @@
     <div class="tags">@tags=<a href="tags/editthis.info">editthis.info</a>, <a href="tags/web-development">web-development</a></div>
     </div>
     <article>
-        <p>For the last few years I have been using cloudflare in front of editthis.info. On the 21st I dropped it, and saw an immediate decrease in average load times (from google analytics):</p>
+        <a href="articles/cloudflare-effects-on-users"><img class="icon" src="images/2020-09-22-15-12-53.png" alt="2020-09-22-15-12-53.png" style="max-width: 100%;" /></a><p>For the last few years I have been using cloudflare in front of editthis.info. On the 21st I dropped it, and saw an immediate decrease in average load times (from google analytics):</p>
 <p>This was without any changes to the system at all, and with about 800-900 active users per day.</p>
 <p>Also, as mentio...</p>
- <p><a class="nowrap" href="articles/cloudflare-effects-on-users">READ MORE (150 words)</a></p> 
+ <p><a class="nowrap" href="articles/cloudflare-effects-on-users">READ MORE (150 words, 2 images)</a></p> 
     </article>
     
     <h2><a href="articles/setup-ssl-websockets-from-node-using-nginx-and-certbot">Setup ssl websockets from node using nginx and certbot</a></h2>
@@ -45,9 +45,9 @@
     <div class="tags">@tags=<a href="tags/nginx">nginx</a>, <a href="tags/nodejs">nodejs</a>, <a href="tags/web-development">web-development</a>, <a href="tags/instaboardgame">instaboardgame</a>, <a href="tags/websockets">websockets</a></div>
     </div>
     <article>
-        <p>Certbot is the tool from <a href="https://letsencrypt.org">letsencrypt.org</a> that lets you generate ssl certificates for your site without having to pay the likes of Verisign ever again. Basically I love the heck out of them for what they do.</p>
+        <a href="articles/setup-ssl-websockets-from-node-using-nginx-and-certbot"><img class="icon" src="images/2020-06-12-08-30-59.png" alt="2020-06-12-08-30-59.png" style="max-width: 100%;" /></a><p>Certbot is the tool from <a href="https://letsencrypt.org">letsencrypt.org</a> that lets you generate ssl certificates for your site without having to pay the likes of Verisign ever again. Basically I love the heck out of them for what they do.</p>
 <p>Nginx runs on your server to redirect examplesite.com to loc...</p>
- <p><a class="nowrap" href="articles/setup-ssl-websockets-from-node-using-nginx-and-certbot">READ MORE (510 words)</a></p> 
+ <p><a class="nowrap" href="articles/setup-ssl-websockets-from-node-using-nginx-and-certbot">READ MORE (510 words, 1 images)</a></p> 
     </article>
     
             </body>
