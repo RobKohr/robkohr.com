@@ -113,6 +113,7 @@ var articles = articlesFull.map(function (articleOrig) {
     }
   }
   article.icon = icon;
+  
 
   /*
         convert markdown content to html

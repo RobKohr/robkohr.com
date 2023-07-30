@@ -5,10 +5,17 @@
             <link>https://robkohr.com</link>
             <description>RobKohr's Blog</description>
             <language>en-us</language>
-            <lastBuildDate>Fri, 21 Jul 2023 07:00:00 GMT</lastBuildDate>
-            <pubDate>Fri, 21 Jul 2023 07:00:00 GMT</pubDate>
+            <lastBuildDate>Sun, 30 Jul 2023 07:00:00 GMT</lastBuildDate>
+            <pubDate>Sun, 30 Jul 2023 07:00:00 GMT</pubDate>
             <ttl>1800</ttl>
 
+            <item>
+                <title>Making millions</title>
+                <link>https://robkohr.com/articles/making-millions</link>
+                <description>Making millions</description>
+                <pubDate>Fri, 30 Jun 2023 00:00:00 GMT</pubDate>
+            </item>
+    
             <item>
                 <title>Angular multi-level componets</title>
                 <link>https://robkohr.com/articles/angular-multi-level-componets</link>
@@ -349,13 +356,6 @@
                 <title>Balancing and doing side projects</title>
                 <link>https://robkohr.com/articles/balancing-and-doing-side-projects</link>
                 <description>Balancing and doing side projects</description>
-                <pubDate>Thu, 15 Jul 2021 00:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <title>Pivotal tracker for personal use</title>
-                <link>https://robkohr.com/articles/pivotal-tracker-for-personal-use</link>
-                <description>Pivotal tracker for personal use</description>
                 <pubDate>Thu, 15 Jul 2021 00:00:00 GMT</pubDate>
             </item>
     
