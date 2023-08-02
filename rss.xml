@@ -185,13 +185,6 @@
             </item>
     
             <item>
-                <title>Mountains and trees</title>
-                <link>https://robkohr.com/articles/mountains-and-trees</link>
-                <description>Mountains and trees</description>
-                <pubDate>Sun, 23 Apr 2023 00:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
                 <title>Ice Cream</title>
                 <link>https://robkohr.com/articles/ice-cream</link>
                 <description>Ice Cream</description>
@@ -356,6 +349,13 @@
                 <title>Pivotal tracker for personal use</title>
                 <link>https://robkohr.com/articles/pivotal-tracker-for-personal-use</link>
                 <description>Pivotal tracker for personal use</description>
+                <pubDate>Thu, 15 Jul 2021 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <title>On typescript</title>
+                <link>https://robkohr.com/articles/on-typescript</link>
+                <description>On typescript</description>
                 <pubDate>Thu, 15 Jul 2021 00:00:00 GMT</pubDate>
             </item>
     

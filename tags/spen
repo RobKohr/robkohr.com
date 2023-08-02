@@ -27,16 +27,6 @@
             <a href="./index.html">Home</a>
             <h2>Tag: spen</h2>
     
-    <h2><a href="articles/mountains-and-trees">Mountains and trees</a></h2>
-    <div class="variables">
-    <div class="date">@date=2023-05-23</div>
-    <div class="tags">@tags=<a href="tags/art">art</a>, <a href="tags/spen">spen</a></div>
-    </div>
-    <article>
-        <p><img src="images/mountain-2023-05-23.png" alt="mountain-2023-05-23.png" style="max-width: 100%;" /></p>
-
-    </article>
-    
     <h2><a href="articles/ice-cream">Ice Cream</a></h2>
     <div class="variables">
     <div class="date">@date=2023-05-13</div>
