@@ -10,13 +10,6 @@
             <ttl>1800</ttl>
 
             <item>
-                <title>Didn't get into Meta</title>
-                <link>https://robkohr.com/articles/didn-t-get-into-meta</link>
-                <description>Didn't get into Meta</description>
-                <pubDate>Sun, 02 Jul 2023 00:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
                 <title>Angular multi-level componets</title>
                 <link>https://robkohr.com/articles/angular-multi-level-componets</link>
                 <description>Angular multi-level componets</description>
@@ -356,6 +349,13 @@
                 <title>Balancing and doing side projects</title>
                 <link>https://robkohr.com/articles/balancing-and-doing-side-projects</link>
                 <description>Balancing and doing side projects</description>
+                <pubDate>Thu, 15 Jul 2021 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <title>Pivotal tracker for personal use</title>
+                <link>https://robkohr.com/articles/pivotal-tracker-for-personal-use</link>
+                <description>Pivotal tracker for personal use</description>
                 <pubDate>Thu, 15 Jul 2021 00:00:00 GMT</pubDate>
             </item>
     
