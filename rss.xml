@@ -1,4 +1,3 @@
-
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
             <title>RobKohr's Blog</title>
@@ -8,7 +7,6 @@
             <lastBuildDate>Fri, 04 Aug 2023 07:00:00 GMT</lastBuildDate>
             <pubDate>Fri, 04 Aug 2023 07:00:00 GMT</pubDate>
             <ttl>1800</ttl>
-
             <item>
                 <guid>https://robkohr.com/articles/joel-spolsky-makes-you-a-wizard-at-excel</guid>
                 <title>Joel Spolsky makes you a wizard at excel</title>

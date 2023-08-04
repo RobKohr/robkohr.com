@@ -308,7 +308,7 @@ output = `
             <lastBuildDate>${basicDate}</lastBuildDate>
             <pubDate>${basicDate}</pubDate>
             <ttl>1800</ttl>
-`;
+`.trim()
 articles
   .filter(function (article) {
     return article !== null;
