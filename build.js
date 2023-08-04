@@ -326,11 +326,22 @@ articles
     const date = new Date(article.variables.date);
     date.setMonth(date.getMonth() - 1);
     const dateString = date.toUTCString();
+    /* encode htm entities in title */
+    function encodeHtmlEntities(str) {
+      return str
+        .replace(/&/g, "&amp;")
+        .replace(/"/g, "&quot;")
+        .replace(/'/g, "&#39;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;");
+    }
+  
+
     output += `
             <item>
                 <title>${article.title}</title>
                 <link>https://robkohr.com/articles/${toKebab(article.title)}</link>
-                <description>${article.title}</description>
+                <description>${encodeHtmlEntities(article.title)}</description>
                 <pubDate>${dateString}</pubDate>
             </item>
     `;
