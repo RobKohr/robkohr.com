@@ -301,6 +301,7 @@ const basicDate = new Date(date.getFullYear(), date.getMonth(), date.getDate()).
 output = `
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
+            <atom:link href="https://robkohr.com/rss.xml" rel="self" type="application/rss+xml" />
             <title>RobKohr's Blog</title>
             <link>https://robkohr.com</link>
             <description>RobKohr's Blog</description>
