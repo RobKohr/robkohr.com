@@ -338,7 +338,8 @@ articles
     const link = `https://robkohr.com/articles/${toKebab(article.title)}`
 
     output += `
-            <item guid="${link}">
+            <item>
+                <guid>${link}</guid>
                 <title>${encodeHtmlEntities(article.title)}</title>
                 <link>${link}</link>
                 <description>${encodeHtmlEntities(article.title)}</description>
