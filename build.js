@@ -339,7 +339,7 @@ articles
 
     output += `
             <item>
-                <title>${article.title}</title>
+                <title>${encodeHtmlEntities(article.title)}</title>
                 <link>https://robkohr.com/articles/${toKebab(article.title)}</link>
                 <description>${encodeHtmlEntities(article.title)}</description>
                 <pubDate>${dateString}</pubDate>
