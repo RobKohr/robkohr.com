@@ -335,12 +335,12 @@ articles
         .replace(/</g, "&lt;")
         .replace(/>/g, "&gt;");
     }
-  
+    const link = `https://robkohr.com/articles/${toKebab(article.title)}`
 
     output += `
-            <item>
+            <item guid="${link}">
                 <title>${encodeHtmlEntities(article.title)}</title>
-                <link>https://robkohr.com/articles/${toKebab(article.title)}</link>
+                <link>${link}</link>
                 <description>${encodeHtmlEntities(article.title)}</description>
                 <pubDate>${dateString}</pubDate>
             </item>
