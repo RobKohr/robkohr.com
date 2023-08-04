@@ -1,0 +1,101 @@
+
+        <html>
+            <head>
+                <title>Custom tags to get over divitius - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/custom-tags-to-get-over-divitius">Custom tags to get over divitius</a></h2>
+    <div class="variables">
+    <div class="date">@date=2023-08-03</div>
+    <div class="tags">@tags=<a href="tags/html">html</a></div>
+    </div>
+    <article>
+        <p>Very often html looks like a soup of divs in projects</p>
+<pre><code>&lt;div class=&quot;item&quot;&gt;
+    &lt;div class=&quot;name&quot;&gt;Toothpaste&lt;/div&gt;
+    &lt;div class=&quot;description&quot;&gt;Used to clean teeth&lt;/div&gt;
+    &lt;div class=&quot;price&quot;&gt;$20&lt;/div&gt;
+    &lt;div class=&quot;actions&quot;&gt;&lt;button&gt;add to cart&lt;/div&gt;
+&lt;/div&gt;
+</code></pre>
+<p>Instead this could look like</p>
+<pre><code>&lt;item&gt;
+    &lt;name&gt;Toothpaste&lt;/name&gt;
+    &lt;description&gt;Used to clean teeth&lt;/description&gt;
+    &lt;price&gt;$20&lt;/price&gt;
+    &lt;actions&gt;&lt;button&gt;add to cart&lt;/actions&gt;
+&lt;/item&gt;
+</code></pre>
+<p>That looks so much better. These are custom element names, and can be used in html. Note that while custom element names &lt;should-have-hyphens&gt; according to the spec (so as to avoid conflicts with future html element names), modern browsers will handle them fine without the hyphens.</p>
+<p>One thing you will realize once you start using them is that they are by default <code>display-inline</code>, which is a hassle as you typically want them to be display:block by default as you will be using them to replace divs. </p>
+<p>You can handle this by starting out your css for your site like this:</p>
+<pre><code>body * {
+  display: block;
+}
+
+/* Revert all of the inline elements back to inline */
+a,
+abbr,
+acronym,
+b,
+bdo,
+big,
+br,
+button,
+cite,
+code,
+dfn,
+em,
+i,
+img,
+input,
+kbd,
+label,
+map,
+object,
+output,
+q,
+samp,
+script,
+select,
+small,
+span,
+strong,
+sub,
+sup,
+textarea,
+time,
+tt,
+var {
+   display: inline;
+}
+</code></pre>
+<p>Now any element</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

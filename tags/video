@@ -1,0 +1,42 @@
+
+        <html>
+            <head>
+                <title>video - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            <h2>Tag: video</h2>
+    
+    <h2><a href="articles/joel-spolsky-makes-you-a-wizard-at-excel">Joel Spolsky makes you a wizard at excel</a></h2>
+    <div class="variables">
+    <div class="date">@date=2023-08-03</div>
+    <div class="tags">@tags=<a href="tags/excel">excel</a>, <a href="tags/data">data</a>, <a href="tags/video">video</a></div>
+    </div>
+    <article>
+        <p><a href="https://www.youtube.com/watch?v=0nbkaYsR94c">https://www.youtube.com/watch?v=0nbkaYsR94c</a></p>
+
+    </article>
+    
+            </body>
+        </html>
+    
