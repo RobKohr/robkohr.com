@@ -299,8 +299,8 @@ const basicDate = new Date(date.getFullYear(), date.getMonth(), date.getDate()).
 
 /* create an rss feed of the last 50 articles */
 output = `
-    <rss version="2.0">
-        <channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
             <title>RobKohr's Blog</title>
             <link>https://robkohr.com</link>
             <description>RobKohr's Blog</description>
