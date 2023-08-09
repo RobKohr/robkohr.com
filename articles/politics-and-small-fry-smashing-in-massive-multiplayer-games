@@ -1,0 +1,53 @@
+
+        <html>
+            <head>
+                <title>Politics And Small-Fry smashing in Massive Multiplayer games - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/politics-and-small-fry-smashing-in-massive-multiplayer-games">Politics And Small-Fry smashing in Massive Multiplayer games</a></h2>
+    <div class="variables">
+    <div class="date">@date=2007-11-26</div>
+    <div class="tags">@tags=<a href="tags/blogger-post">blogger-post</a></div>
+    </div>
+    <article>
+        <p>Inselkampf is a game of diplomacy pretending to be a game of war. It mimics real politics in many ways. Small nations get trampled on so that the big get bigger, and the big nations have continual face offs that lead to few actual conflicts. When conflict occurs between big nations, there are massive casualties on both sides, lending itself to more future diplomacy to avoid such conflicts. In the end it is just a battle of who can be the most powerful without any direct conflict.  </p>
+<p>The problem is also inherent in all games of this nature. It is a massive multiplayer game where players join all the time and those who have been most active and join the earliest get a huge advantage. The losses of the big players going against each other is not worth the rewards and so the little guy gets trampled upon. If you took a game like StarCraft or some similar pure war game, and made it continuous and where thousands of players could join at any time, you would end up with the same thing.  </p>
+<p>You can even reduce it down to a 3 player war game. The usually result is the two players will team up against the weaker one, and whoever gets the most out of the deal will end up winning the final 1v1.  </p>
+<p>When you get enough players together, and put them at pure competition to each other, politics will always be the end result, as the one who gets the most players/power on their side will be the winner.  </p>
+<p>The only games where you will see a complete lack of politics is 1v1 games, and games where working together doesn&#39;t help each individual player. Poker is an example of that, but even then, if there was some sort of secret communications allowed, probably there would be a similar situation.  </p>
+<p>So this is a common problem in wargame design. The only solutions I can see if you were to design something is to limit how much players can work together, but that really is not much of a solution. Crippling players abilities to bake a game concept work is odious.  </p>
+<p>So lets start with a simple goal: make big players fight each-other rather than small fries.  </p>
+<p>One thing is to spread the world out so that the cost of traveling to the small fries gets larger as they join. This still doesn&#39;t help the infrequent player who joined early, but if they get knocked out early, they join the small fries off in the distance.  </p>
+<p>Another way to help the small fries, is to give them a military boost upon joining. So lets say the current average number of fighters per player is 1000k. When a new player joins they get that many units. This could also be set to the median if some players are enormous compared to others.  </p>
+<p>You could also hurt the players that have large stockpiles, by causing soldiers to die out if they are not used after a certain amount of time. A similar way to do this is to increase the cost of expanding. Civ4 does this with maintenance costs for far away cities and when you have too many cities.  </p>
+<p>Both the helping out of small players and the hurting of large players also have problems. It makes it so the fun tapers off for big players who can&#39;t maintain growth. Giving bonuses to small players creates an inflation factor where troops become worth less and less, and also new players will have huge armies that may be unmanageable until they learn the game better.  </p>
+<p>None of these tweaks will effect political structures that are formed to consolidate power, but only effect the small fry clobbering by individual players. Small coalitions of players will still be weaker compared to larger ones, and consolidations will still happen as the smaller alliances of players cluster together to make themselves not so much of a target.  </p>
+<p>I suppose this problem is as old as man, and probably older (multi-cellular vs single-cellular). A cluster of players working together will always crush the smaller players. The strong will always crush the weak. Any game design that goes against these principles will require endless hacks and tweaks to stamp them out, and the end effect may be a game that isn&#39;t much fun. The reason is that if the strong can&#39;t crush the weak, the weak will never aspire to be the strong.</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

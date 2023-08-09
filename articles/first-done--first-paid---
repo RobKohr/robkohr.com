@@ -29,7 +29,7 @@
     <h2><a href="articles/first-done--first-paid---">First done, first paid :)</a></h2>
     <div class="variables">
     <div class="date">@date=2012-06-29</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
     </div>
     <article>
         <p>First done, first paid :)</p>

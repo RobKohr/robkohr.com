@@ -1,0 +1,43 @@
+
+        <html>
+            <head>
+                <title>Head and tail - super large outputs and inputs - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/head-and-tail---super-large-outputs-and-inputs">Head and tail - super large outputs and inputs</a></h2>
+    <div class="variables">
+    <div class="date">@date=2008-10-09</div>
+    <div class="tags">@tags=<a href="tags/blogger-post">blogger-post</a>, <a href="tags/coding">coding</a></div>
+    </div>
+    <article>
+        <p>If ever you are dealing with a really large file in head (1GB+) and you need to grab a large segment of it (such as half the file), don&#39;t use -n option to get lines. Instead, do ls -l to find the the size of the file in bytes, figure out how many bytes you need (perhaps a portion of the of the total bytes), and then call head -c THE_AMOUNT.  </p>
+<p>The reason is, I discovered that if you try and do it by line count, head needs to read through the file and find ever new line marker before outputing. This locked up a pretty powerful machine for over a day, and still didn&#39;t output. Using byte count was done in a a minute.  </p>
+<p>UPDATE:<br>So one of the problems I am having is that head really doesn&#39;t start outputing until it is finished, so I create a php program do output the top portion of a file:</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

@@ -1,0 +1,41 @@
+
+        <html>
+            <head>
+                <title>EditThis.info .... fast - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/editthis-info------fast">EditThis.info .... fast</a></h2>
+    <div class="variables">
+    <div class="date">@date=2008-02-11</div>
+    <div class="tags">@tags=<a href="tags/constantsun-blogger-post">constantsun-blogger-post</a>, <a href="tags/editthisinfo">editthisinfo</a></div>
+    </div>
+    <article>
+        <p>The network seems to be back up to speed. I am still going to moving off the current ISP, as I haven&#39;t been happy with their service recently.</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

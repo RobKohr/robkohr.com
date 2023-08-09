@@ -1,0 +1,44 @@
+
+        <html>
+            <head>
+                <title>cueFlash now on Slicehost - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/cueflash-now-on-slicehost">cueFlash now on Slicehost</a></h2>
+    <div class="variables">
+    <div class="date">@date=2009-11-30</div>
+    <div class="tags">@tags=<a href="tags/constantsun-blogger-post">constantsun-blogger-post</a>, <a href="tags/cueflash">cueflash</a></div>
+    </div>
+    <article>
+        <p>After being on Dreamhost for a long time, I have switched for Slicehost. They have great uptime, cheaper prices, and allows you to do more geeky things with your webserver.  </p>
+<p>This isn&#39;t a big jab against Dreamhost though. I am still a big user of them, but their VPS service doesn&#39;t give me the configuration ease that I need. Too many times I am harassing their customer service to do X, where X would have been something I could do in 5 minutes with root access. If I were a more basic user (as I used to be) they would be golden, and most of my requests would go against serving basic users.  </p>
+<p>I will slowly be pulling bits and pieces of other sites (such as editthis.info and constantsail) over to slicehost, and then just using dreamhost for subversion and domain registration management.  </p>
+<p>Some discount codes:<br>Dreamhost: RobKohr<br>Slicehost: <a href="https://manage.slicehost.com/customers/new?referrer=38c309ee9e8ab330cb30559973734835">https://manage.slicehost.com/customers/new?referrer=38c309ee9e8ab330cb30559973734835</a></p>
+
+    </article>
+    
+            </body>
+          </html>
+          

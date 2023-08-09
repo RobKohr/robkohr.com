@@ -29,7 +29,7 @@
     <h2><a href="articles/hi-john--this-seems-like-a-good-cheatsheet-for-you-">Hi John, this seems like a good cheatsheet for you:</a></h2>
     <div class="variables">
     <div class="date">@date=2011-08-25</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
     </div>
     <article>
         <p>Hi John, this seems like a good cheatsheet for you:

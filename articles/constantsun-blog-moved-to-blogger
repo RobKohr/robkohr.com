@@ -1,0 +1,44 @@
+
+        <html>
+            <head>
+                <title>ConstantSun blog moved to blogger - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/constantsun-blog-moved-to-blogger">ConstantSun blog moved to blogger</a></h2>
+    <div class="variables">
+    <div class="date">@date=2008-01-23</div>
+    <div class="tags">@tags=<a href="tags/constantsun-blogger-post">constantsun-blogger-post</a></div>
+    </div>
+    <article>
+        <p>In an effort to maintain information flows during down times, I have moved the ConstantSun status blog to blogger.  </p>
+<p>Please go here for to check for updates:<br><a href="https://www.blogger.com/#">http://constantsun.blogspot.com/</a>  </p>
+<p>Thanks,<br>Rob  </p>
+<p>PS: Old posts will still be available <a href="https://www.blogger.com/#">here</a>.</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

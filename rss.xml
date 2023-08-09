@@ -5,9 +5,17 @@
             <link>https://robkohr.com</link>
             <description>RobKohr's Blog</description>
             <language>en-us</language>
-            <lastBuildDate>Fri, 04 Aug 2023 07:00:00 GMT</lastBuildDate>
-            <pubDate>Fri, 04 Aug 2023 07:00:00 GMT</pubDate>
+            <lastBuildDate>Wed, 09 Aug 2023 07:00:00 GMT</lastBuildDate>
+            <pubDate>Wed, 09 Aug 2023 07:00:00 GMT</pubDate>
             <ttl>1800</ttl>
+            <item>
+                <guid>https://robkohr.com/articles/tailwind</guid>
+                <title>Tailwind</title>
+                <link>https://robkohr.com/articles/tailwind</link>
+                <description>Tailwind</description>
+                <pubDate>Fri, 07 Jul 2023 00:00:00 GMT</pubDate>
+            </item>
+    
             <item>
                 <guid>https://robkohr.com/articles/joel-spolsky-makes-you-a-wizard-at-excel</guid>
                 <title>Joel Spolsky makes you a wizard at excel</title>
@@ -398,14 +406,6 @@
                 <link>https://robkohr.com/articles/john-cleese-on-creativity-summary</link>
                 <description>John Cleese On Creativity Summary</description>
                 <pubDate>Tue, 27 Jul 2021 00:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/balancing-and-doing-side-projects</guid>
-                <title>Balancing and doing side projects</title>
-                <link>https://robkohr.com/articles/balancing-and-doing-side-projects</link>
-                <description>Balancing and doing side projects</description>
-                <pubDate>Thu, 15 Jul 2021 00:00:00 GMT</pubDate>
             </item>
     
         </channel>

@@ -1,0 +1,45 @@
+
+        <html>
+            <head>
+                <title>No more blogging - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/no-more-blogging">No more blogging</a></h2>
+    <div class="variables">
+    <div class="date">@date=2009-11-30</div>
+    <div class="tags">@tags=<a href="tags/constantsun-blogger-post">constantsun-blogger-post</a>, <a href="tags/blogging">blogging</a>, <a href="tags/editthisinfo">editthisinfo</a></div>
+    </div>
+    <article>
+        <p>I created a google group here:</p>
+<p><a href="http://groups.google.com/group/editthisinfo">http://groups.google.com/group/editthisinfo</a></p>
+<p>from now on status messages and updates will be posted there. A blog is very much a one way form of communication, and I feel it goes against the collaborative nature of a wiki service. This group will be where problems and enhancements will be discussed.</p>
+<p>If you are simply requesting a feature be added to editthis.info, please use the uservoice page:
+<a href="http://editthis.uservoice.com/pages/35672-feature-requests">http://editthis.uservoice.com/pages/35672-feature-requests</a></p>
+
+    </article>
+    
+            </body>
+          </html>
+          

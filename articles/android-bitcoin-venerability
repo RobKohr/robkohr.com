@@ -29,7 +29,7 @@
     <h2><a href="articles/android-bitcoin-venerability">Android Bitcoin Venerability</a></h2>
     <div class="variables">
     <div class="date">@date=2013-08-19</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
     </div>
     <article>
         <p>If you or anyone you know is using bitcoin on android, there is a issue with how android was creating random numbers which made transactions generated on android wallets vulnerable where the private keys could be reverse engineered. </p>

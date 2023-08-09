@@ -1,0 +1,46 @@
+
+        <html>
+            <head>
+                <title>EDI attacked - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/edi-attacked">EDI attacked</a></h2>
+    <div class="variables">
+    <div class="date">@date=2009-04-16</div>
+    <div class="tags">@tags=<a href="tags/constantsun-blogger-post">constantsun-blogger-post</a>, <a href="tags/editthisinfo">editthisinfo</a></div>
+    </div>
+    <article>
+        <p>It seems that editthis.info was attacked by a distributor of malware. I have reverted the site code that was modified and removed the offending code they added (they add iframe tags that make it so when you visit editthis.info, you were also visiting their site in the background).  </p>
+<p>I have since changed the passwords on the servers, made a further backup of all data, and am switching the site to a separate account in case there is a compromise that still exists in the current account.  </p>
+<p>In the last 24 hours since the attack, google has labeled editthis.info as a malware site, and I have requested a rescan of the site since it has been cleaned up.  </p>
+<p>I am uncertain as to the vector of the attack, so I am taking a number of simultaneous paths to close down possible holes.  </p>
+<p>If you would like to help, a great help would be to do a view source on any editthis wiki you use for the next couple days. If you see a hidden iframe on the page, just report it here:<br><a href="http://spreadsheets.google.com/viewform?key=pwTWRDXAdLN84h6Bk0oA4Pg">http://spreadsheets.google.com/viewform?key=pwTWRDXAdLN84h6Bk0oA4Pg</a>  </p>
+<p>Thanks,<br>Rob</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

@@ -1,0 +1,46 @@
+
+        <html>
+            <head>
+                <title>Tailwind - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/tailwind">Tailwind</a></h2>
+    <div class="variables">
+    <div class="date">@date=2023-08-07</div>
+    <div class="tags">@tags=<a href="tags/coding">coding</a>, <a href="tags/css">css</a></div>
+    </div>
+    <article>
+        <p>Tailwind is a css framework that with some html code that looks like this:
+<img src="images/Pasted image 20230807125724.png" alt="Pasted image 20230807125724.png" style="max-width: 100%;" /></p>
+<p>You can style your site without css. </p>
+<p>Instead, you throw classes on dom elements and then tailwind will ladle some css on your element to get it to look the way you like. </p>
+<p>As someone who has done scss for a long time, I rather like giving things a class name, fitting them in the structure of the site, and writing the css for them. You can set some padding, width, rounded borders, etc, fairly easy in css, and not learn and integrate another thing.</p>
+<p>And projects with less frameworks are great.</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

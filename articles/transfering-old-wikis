@@ -1,0 +1,42 @@
+
+        <html>
+            <head>
+                <title>Transfering old wikis - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/transfering-old-wikis">Transfering old wikis</a></h2>
+    <div class="variables">
+    <div class="date">@date=2008-06-08</div>
+    <div class="tags">@tags=<a href="tags/constantsun-blogger-post">constantsun-blogger-post</a>, <a href="tags/editthisinfo">editthisinfo</a></div>
+    </div>
+    <article>
+        <p>Some of the wikis still reside on the previous server. There is now a transfer system in place. Simply go to your wiki&#39;s url and it will ask you if you want to transfer. Click the link and it will add you to the transfer queue.</p>
+<p>If the transfer queue gets stuck (no wikis are disappearing off the queue after an hour) feel free to send me an email (account robkohr and I use gmail). It was hacked together the other night, and sometimes needs a little push.</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

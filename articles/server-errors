@@ -1,0 +1,47 @@
+
+        <html>
+            <head>
+                <title>Server Errors - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/server-errors">Server Errors</a></h2>
+    <div class="variables">
+    <div class="date">@date=2009-04-27</div>
+    <div class="tags">@tags=<a href="tags/constantsun-blogger-post">constantsun-blogger-post</a>, <a href="tags/editthisinfo">editthisinfo</a></div>
+    </div>
+    <article>
+        <p>There have been a lot of server errors recently, and they are the result of system resources being overwhelmed (using up system memory and processor).</p>
+<p>I suspect that this is due to another app I have been working on - a real time web game called constantsail.com.</p>
+<p>I am now setting up a separate server for the that game so that it&#39;s performance does not effect editthis.info. I expect it will be set up within the next 48 hours, and hopefully this resolves the issues.</p>
+<p>Thanks,
+Rob</p>
+<p>Update</p>
+<p>This problem has been resolved and you should not see any more server errors relating to this problem. The app has been moved to another server.</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

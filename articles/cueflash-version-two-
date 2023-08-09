@@ -1,0 +1,45 @@
+
+        <html>
+            <head>
+                <title>cueFlash version two! - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/cueflash-version-two-">cueFlash version two!</a></h2>
+    <div class="variables">
+    <div class="date">@date=2008-02-11</div>
+    <div class="tags">@tags=<a href="tags/constantsun-blogger-post">constantsun-blogger-post</a>, <a href="tags/cueflash">cueflash</a></div>
+    </div>
+    <article>
+        <p>A new version of cueflash is in development and will be released shortly. It will feature deck ratings, ajax card loads (just loads the content of the cards to speed up card viewing), comments, and a cleaned up interface.  </p>
+<p>The current design (not really functional) is at:<br><a href="https://www.blogger.com/#">http://robkohr.com/dev/cueflash.com</a>  </p>
+<p>You can see the current working system at:<br><a href="https://www.blogger.com/#">http://cueflash.com</a>  </p>
+<p>Feel free to comment here with any suggestions.  </p>
+<p>Thanks,<br>Rob</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

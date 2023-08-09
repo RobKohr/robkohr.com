@@ -1,0 +1,43 @@
+
+        <html>
+            <head>
+                <title>Blogger Post Dec 31, 2003 - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/blogger-post-dec-31--2003">Blogger Post Dec 31, 2003</a></h2>
+    <div class="variables">
+    <div class="date">@date=2003-12-31</div>
+    <div class="tags">@tags=<a href="tags/blogger-post">blogger-post</a></div>
+    </div>
+    <article>
+        <p>Put up this fine web site I also put together my image gallery. Feel<br>free to browse around it and leave comments and stuff.</p>
+<p>A little while back I had a video game night. I put the photos of that<br>night <a href="https://www.blogger.com/#">here</a>.<br>It includes the final scoreboard of tournament.</p>
+<p>Happy New Year!</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

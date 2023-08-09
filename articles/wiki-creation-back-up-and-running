@@ -1,0 +1,42 @@
+
+        <html>
+            <head>
+                <title>Wiki Creation back up and running - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/wiki-creation-back-up-and-running">Wiki Creation back up and running</a></h2>
+    <div class="variables">
+    <div class="date">@date=2008-06-07</div>
+    <div class="tags">@tags=<a href="tags/constantsun-blogger-post">constantsun-blogger-post</a>, <a href="tags/editthisinfo">editthisinfo</a></div>
+    </div>
+    <article>
+        <p>.....<br>UPDATE: Ok, not quite working yet. Debugging...  </p>
+<p>.....<br>Updated update: didn&#39;t really do anything, but it seems to be working now.</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

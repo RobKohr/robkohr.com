@@ -1,0 +1,114 @@
+
+        <html>
+            <head>
+                <title>blogger-post - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            <h2>Tag: blogger-post</h2>
+    
+    <h2><a href="articles/a-new-way-to-round---rand-round-2008-11-28">A new way to round - rand_round 2008-11-28</a></h2>
+    <div class="variables">
+    <div class="date">@date=2008-11-28</div>
+    <div class="tags">@tags=<a href="tags/blogger-post">blogger-post</a>, <a href="tags/coding">coding</a></div>
+    </div>
+    <article>
+        <p>So in grade school you are taught the basics of rounding. If the decimal portion of the number is &lt; .5 round down to the integer so 5.3 becomes 5. If it is &gt;= .5 round up, so 5.8 becomes 6.</p>
+<p>This is well and good if you are doing something that has an even distribution after the decimal point. Bu...</p>
+ <p><a class="nowrap" href="articles/a-new-way-to-round---rand-round">READ MORE (303 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/head-and-tail---super-large-outputs-and-inputs">Head and tail - super large outputs and inputs</a></h2>
+    <div class="variables">
+    <div class="date">@date=2008-10-09</div>
+    <div class="tags">@tags=<a href="tags/blogger-post">blogger-post</a>, <a href="tags/coding">coding</a></div>
+    </div>
+    <article>
+        <p>If ever you are dealing with a really large file in head (1GB+) and you need to grab a large segment of it (such as half the file), don&#39;t use -n option to get lines. Instead, do ls -l to find the the size of the file in bytes, figure out how many bytes you need (perhaps a portion of the of the to...</p>
+ <p><a class="nowrap" href="articles/head-and-tail---super-large-outputs-and-inputs">READ MORE (166 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/politics-and-small-fry-smashing-in-massive-multiplayer-games">Politics And Small-Fry smashing in Massive Multiplayer games</a></h2>
+    <div class="variables">
+    <div class="date">@date=2007-11-26</div>
+    <div class="tags">@tags=<a href="tags/blogger-post">blogger-post</a></div>
+    </div>
+    <article>
+        <p>Inselkampf is a game of diplomacy pretending to be a game of war. It mimics real politics in many ways. Small nations get trampled on so that the big get bigger, and the big nations have continual face offs that lead to few actual conflicts. When conflict occurs between big nations, there are mas...</p>
+ <p><a class="nowrap" href="articles/politics-and-small-fry-smashing-in-massive-multiplayer-games">READ MORE (782 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/blogger-post-june-1--2004">Blogger Post June 1, 2004</a></h2>
+    <div class="variables">
+    <div class="date">@date=2004-06-01</div>
+    <div class="tags">@tags=<a href="tags/blogger-post">blogger-post</a></div>
+    </div>
+    <article>
+        <p>I just started a movie making group. I am pulling people together through
+craig&#39;s list and using yahoo groups as a forum. I also set up this
+site: <a href="http://moviemakers.robkohr.com">http://moviemakers.robkohr.com</a></p>
+<p>I figure this will be a fun hobby to start on. I always loved watching
+movies, I figure it might be intresting to make...</p>
+ <p><a class="nowrap" href="articles/blogger-post-june-1--2004">READ MORE (50 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/blogger-post-may-23--2004">Blogger Post May 23, 2004</a></h2>
+    <div class="variables">
+    <div class="date">@date=2004-06-01</div>
+    <div class="tags">@tags=<a href="tags/blogger-post">blogger-post</a></div>
+    </div>
+    <article>
+        <p>Went up to play diplomacy in nyc and had a good time despite losing quickly.</p>
+
+    </article>
+    
+    <h2><a href="articles/blogger-post-may-19--2004">Blogger Post May 19, 2004</a></h2>
+    <div class="variables">
+    <div class="date">@date=2004-05-19</div>
+    <div class="tags">@tags=<a href="tags/blogger-post">blogger-post</a></div>
+    </div>
+    <article>
+        <p>Just bought a new cell phone,</p>
+<p>
+<p>It is pretty cool, and has a camera on the back</p>
+<p>
+<p>So I am going to start a little blog here with images from places I visit.</p>
+<p>U...</p>
+ <p><a class="nowrap" href="articles/blogger-post-may-19--2004">READ MORE (39 words, 2 images)</a></p> 
+    </article>
+    
+    <h2><a href="articles/blogger-post-dec-31--2003">Blogger Post Dec 31, 2003</a></h2>
+    <div class="variables">
+    <div class="date">@date=2003-12-31</div>
+    <div class="tags">@tags=<a href="tags/blogger-post">blogger-post</a></div>
+    </div>
+    <article>
+        <p>Put up this fine web site I also put together my image gallery. Feel<br>free to browse around it and leave comments and stuff.</p>
+<p>A little while back I had a video game night. I put the photos of that<br>night <a href="https://www.blogger.com/#">here</a>.<br>It includes the final scoreboard of tournament.</p>
+<p>Hap...</p>
+ <p><a class="nowrap" href="articles/blogger-post-dec-31--2003">READ MORE (55 words)</a></p> 
+    </article>
+    
+            </body>
+        </html>
+    

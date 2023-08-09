@@ -1,0 +1,44 @@
+
+        <html>
+            <head>
+                <title>cueFlash version 2 is here! - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/cueflash-version-2-is-here-">cueFlash version 2 is here!</a></h2>
+    <div class="variables">
+    <div class="date">@date=2008-04-06</div>
+    <div class="tags">@tags=<a href="tags/constantsun-blogger-post">constantsun-blogger-post</a>, <a href="tags/cueflash">cueflash</a></div>
+    </div>
+    <article>
+        <p>The new version of cueflash is now out. It has been rewritten from the ground up with the following goals:<br>*Easier to add features to - my previous version was pretty poorly coded<br>*Decks are no longer copied when imported by new users - this created a bloated db<br>*People can edit each other&#39;s decks, making the system more wiki like  </p>
+<p>There are lots of other features I have planned, so stay tuned. This is just the first iteration.  </p>
+<p>All of the data from the prior system has been imported into the newest version. You can still access the old version at <a href="http://old.cueflash.com">http://old.cueflash.com</a> , but keep in mind that it isn&#39;t being maintained and nothing you add to it will be imported into the new version of <a href="https://www.blogger.com/#">cueFlash</a>.  </p>
+<p>Thanks!<br>Rob</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

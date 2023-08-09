@@ -1,0 +1,46 @@
+
+        <html>
+            <head>
+                <title>Blogger Post May 19, 2004 - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/blogger-post-may-19--2004">Blogger Post May 19, 2004</a></h2>
+    <div class="variables">
+    <div class="date">@date=2004-05-19</div>
+    <div class="tags">@tags=<a href="tags/blogger-post">blogger-post</a></div>
+    </div>
+    <article>
+        <p>Just bought a new cell phone,</p>
+<p><img src="http://gort.rutgers.edu/~kohr/images/blog_images/my_phone.jpg" alt=""></p>
+<p>It is pretty cool, and has a camera on the back</p>
+<p><img src="http://gort.rutgers.edu/~kohr/images/blog_images/camera_phone.jpg" alt=""></p>
+<p>So I am going to start a little blog here with images from places I visit.</p>
+<p>Update: all photos are lost to time from blogger</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

@@ -29,7 +29,7 @@
     <h2><a href="articles/after-futzing-with-adobe-illustrator-for-a-while--and-getting-fed-up--i-hand----">After futzing with Adobe Illustrator for a while, and getting fed up, I hand ...</a></h2>
     <div class="variables">
     <div class="date">@date=2011-12-13</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
     </div>
     <article>
         <p>After futzing with Adobe Illustrator for a while, and getting fed up, I hand coded an SVG file and imported it in. So much easier when you want to be accurate. Trying to tell the software what you want with pointing and clicking just isn&#39;t as good as typing in <polygon points="...." style="..."></p>

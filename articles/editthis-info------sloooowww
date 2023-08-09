@@ -1,0 +1,44 @@
+
+        <html>
+            <head>
+                <title>EditThis.info .... sloooowww - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/editthis-info------sloooowww">EditThis.info .... sloooowww</a></h2>
+    <div class="variables">
+    <div class="date">@date=2008-02-11</div>
+    <div class="tags">@tags=<a href="tags/constantsun-blogger-post">constantsun-blogger-post</a>, <a href="tags/editthisinfo">editthisinfo</a></div>
+    </div>
+    <article>
+        <p>I am currently research new ISPs since recently it has had intermittent slowness/outages. I didn&#39;t really have a problem with them when they were out for a power outage, or a downed line, or a nearby transformer bursting into flame. That is just the way the network crumbles. Now it just seems to be random and frequent. Obviously their success in signing up new customers has led to me losing customers as their network gets saturated.  </p>
+<p>Current options I am looking into:<br>*Signing up with a new ISP. Most seem to be more expensive for what I want to do and/or provide slower outbound bandwidth<br>*Moving back to a web hosting company, except dedicated<br>**This would be more expensive, but may be worth it in the long time as I am looking to host more products and they will be more relyable<br>**I will have to do a rewrite of editthis.info so my tweaks play nicer on another companies server... this may be good since ETI is in desperate need of an upgrade.  </p>
+<p>In the end it comes to a cost/time issue.<br>C)EDI makes just enough in ad revenue to support its current setup, and dedicated hosting would put it in the red. There is a lot of free wiki hosts out there, and I don&#39;t know if charging a premium would really increase revenue enough to make up the difference<br>T)The system would have to be revamped to both upgrade it and to move it to most servers.  </p>
+<p>In the end, I think rewriting it will be the best plan. I am not satisfied with its current lack of portability and a number of structural issues. I also admit I am a better programmer than a sysadmin, and it is better to hand this off to be hosted by professionals. I expect to have cueflash out the door by the end of the month (another project I felt needed a rebuild) and after that I am going to try my second crack at rebuilding EDI.</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

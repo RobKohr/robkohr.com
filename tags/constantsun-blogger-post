@@ -1,0 +1,221 @@
+
+        <html>
+            <head>
+                <title>constantsun-blogger-post - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            <h2>Tag: constantsun-blogger-post</h2>
+    
+    <h2><a href="articles/no-more-blogging">No more blogging</a></h2>
+    <div class="variables">
+    <div class="date">@date=2009-11-30</div>
+    <div class="tags">@tags=<a href="tags/constantsun-blogger-post">constantsun-blogger-post</a>, <a href="tags/blogging">blogging</a>, <a href="tags/editthisinfo">editthisinfo</a></div>
+    </div>
+    <article>
+        <p>I created a google group here:</p>
+<p><a href="http://groups.google.com/group/editthisinfo">http://groups.google.com/group/editthisinfo</a></p>
+<p>from now on status messages and updates will be posted there. A blog is very much a one way form of communication, and I feel it goes against the collaborative nature of a wiki service. This group will be where problem...</p>
+ <p><a class="nowrap" href="articles/no-more-blogging">READ MORE (68 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/cueflash-now-on-slicehost">cueFlash now on Slicehost</a></h2>
+    <div class="variables">
+    <div class="date">@date=2009-11-30</div>
+    <div class="tags">@tags=<a href="tags/constantsun-blogger-post">constantsun-blogger-post</a>, <a href="tags/cueflash">cueflash</a></div>
+    </div>
+    <article>
+        <p>After being on Dreamhost for a long time, I have switched for Slicehost. They have great uptime, cheaper prices, and allows you to do more geeky things with your webserver.  </p>
+<p>This isn&#39;t a big jab against Dreamhost though. I am still a big user of them, but their VPS service doesn&#39;t give me the...</p>
+ <p><a class="nowrap" href="articles/cueflash-now-on-slicehost">READ MORE (161 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/editthis-info-upgrade">Editthis.info upgrade</a></h2>
+    <div class="variables">
+    <div class="date">@date=2009-11-30</div>
+    <div class="tags">@tags=<a href="tags/constantsun-blogger-post">constantsun-blogger-post</a>, <a href="tags/editthisinfo">editthisinfo</a></div>
+    </div>
+    <article>
+        <p>Editthis.info has gone through a major upgrade over the last week. It has been moved to a new database system (mysql-&gt;sqlite) and has been upgraded from mediawiki 1.5.5 to 1.15.1. This is basically a 3 year jump in versions.  </p>
+<p>Some of the reasons for the upgrade:<br>*Stability - The massive MyS...</p>
+ <p><a class="nowrap" href="articles/editthis-info-upgrade">READ MORE (384 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/character-encodings-for-different-languages">Character encodings for different languages</a></h2>
+    <div class="variables">
+    <div class="date">@date=2009-04-27</div>
+    <div class="tags">@tags=<a href="tags/constantsun-blogger-post">constantsun-blogger-post</a>, <a href="tags/editthisinfo">editthisinfo</a></div>
+    </div>
+    <article>
+        <p>Editthis.info now handles foreign characters properly (just tested cyrillic and french).  </p>
+<p>For those that are a little geeky, it seems that the php function htmlentities doesn&#39;t have a multibyte string version.</p>
+
+    </article>
+    
+    <h2><a href="articles/server-errors">Server Errors</a></h2>
+    <div class="variables">
+    <div class="date">@date=2009-04-27</div>
+    <div class="tags">@tags=<a href="tags/constantsun-blogger-post">constantsun-blogger-post</a>, <a href="tags/editthisinfo">editthisinfo</a></div>
+    </div>
+    <article>
+        <p>There have been a lot of server errors recently, and they are the result of system resources being overwhelmed (using up system memory and processor).</p>
+<p>I suspect that this is due to another app I have been working on - a real time web game called constantsail.com.</p>
+<p>I am now setting up a separate ...</p>
+ <p><a class="nowrap" href="articles/server-errors">READ MORE (108 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/edi-attacked">EDI attacked</a></h2>
+    <div class="variables">
+    <div class="date">@date=2009-04-16</div>
+    <div class="tags">@tags=<a href="tags/constantsun-blogger-post">constantsun-blogger-post</a>, <a href="tags/editthisinfo">editthisinfo</a></div>
+    </div>
+    <article>
+        <p>It seems that editthis.info was attacked by a distributor of malware. I have reverted the site code that was modified and removed the offending code they added (they add iframe tags that make it so when you visit editthis.info, you were also visiting their site in the background).  </p>
+<p>I have sinc...</p>
+ <p><a class="nowrap" href="articles/edi-attacked">READ MORE (201 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/constantsail-initial-post">Constantsail initial post</a></h2>
+    <div class="variables">
+    <div class="date">@date=2008-11-08</div>
+    <div class="tags">@tags=<a href="tags/constantsun-blogger-post">constantsun-blogger-post</a>, <a href="tags/constantsail">constantsail</a></div>
+    </div>
+    <article>
+        <p>I am working on a great new web game at:
+<a href="http://constantsail.com/">http://constantsail.com/</a>
+It is currently somewhere between alpha and beta phases, and I am</p>
+
+    </article>
+    
+    <h2><a href="articles/islandwarfare-com-coming-soon">islandwarfare.com coming soon</a></h2>
+    <div class="variables">
+    <div class="date">@date=2008-07-11</div>
+    <div class="tags">@tags=<a href="tags/constantsun-blogger-post">constantsun-blogger-post</a>, <a href="tags/islandwarfare">islandwarfare</a></div>
+    </div>
+    <article>
+        <p>I am currently looking for users to beta test Island Warfare, which is a new game I am developing. In it you start with an empty island that you can build various types of buildings on, train soldiers, and sail off to conquer other players islands.</p>
+<p>To sign up to become a beta tester go to:
+http:/...</p>
+ <p><a class="nowrap" href="articles/islandwarfare-com-coming-soon">READ MORE (55 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/image-upload-issues">Image upload issues</a></h2>
+    <div class="variables">
+    <div class="date">@date=2008-07-06</div>
+    <div class="tags">@tags=<a href="tags/constantsun-blogger-post">constantsun-blogger-post</a>, <a href="tags/editthisinfo">editthisinfo</a></div>
+    </div>
+    <article>
+        <p>So <a href="https://www.dreamhost.com/">Dreamhost</a> recently locked out creation of new files on the account that hosts editthis.info. It turns out that that account had 250,000+ files, and huge file systems have been a problem for them regarding stability. Almost all of the files were in the image upload...</p>
+ <p><a class="nowrap" href="articles/image-upload-issues">READ MORE (271 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/transfering-old-wikis">Transfering old wikis</a></h2>
+    <div class="variables">
+    <div class="date">@date=2008-06-08</div>
+    <div class="tags">@tags=<a href="tags/constantsun-blogger-post">constantsun-blogger-post</a>, <a href="tags/editthisinfo">editthisinfo</a></div>
+    </div>
+    <article>
+        <p>Some of the wikis still reside on the previous server. There is now a transfer system in place. Simply go to your wiki&#39;s url and it will ask you if you want to transfer. Click the link and it will add you to the transfer queue.</p>
+<p>If the transfer queue gets stuck (no wikis are disappearing off the ...</p>
+ <p><a class="nowrap" href="articles/transfering-old-wikis">READ MORE (87 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/wiki-creation-back-up-and-running">Wiki Creation back up and running</a></h2>
+    <div class="variables">
+    <div class="date">@date=2008-06-07</div>
+    <div class="tags">@tags=<a href="tags/constantsun-blogger-post">constantsun-blogger-post</a>, <a href="tags/editthisinfo">editthisinfo</a></div>
+    </div>
+    <article>
+        <p>.....<br>UPDATE: Ok, not quite working yet. Debugging...  </p>
+<p>.....<br>Updated update: didn&#39;t really do anything, but it seems to be working now.</p>
+
+    </article>
+    
+    <h2><a href="articles/editthis-info-downtime">Editthis.info downtime</a></h2>
+    <div class="variables">
+    <div class="date">@date=2008-04-06</div>
+    <div class="tags">@tags=<a href="tags/constantsun-blogger-post">constantsun-blogger-post</a>, <a href="tags/editthisinfo">editthisinfo</a></div>
+    </div>
+    <article>
+        <p>Editthis.info will be down from Friday May 23rd to roughly Friday May 30th. My family and I are moving from New Jersey to San Francisco, California, and it will take about a week before the server is set up out there. My goal is to have it set up in 5 days, but I think 7 is more realistic.</p>
+<p>I wil...</p>
+ <p><a class="nowrap" href="articles/editthis-info-downtime">READ MORE (210 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/cueflash-version-2-is-here-">cueFlash version 2 is here!</a></h2>
+    <div class="variables">
+    <div class="date">@date=2008-04-06</div>
+    <div class="tags">@tags=<a href="tags/constantsun-blogger-post">constantsun-blogger-post</a>, <a href="tags/cueflash">cueflash</a></div>
+    </div>
+    <article>
+        <p>The new version of cueflash is now out. It has been rewritten from the ground up with the following goals:<br>*Easier to add features to - my previous version was pretty poorly coded<br>*Decks are no longer copied when imported by new users - this created a bloated db<br>*People can edit each other&#39;...</p>
+ <p><a class="nowrap" href="articles/cueflash-version-2-is-here-">READ MORE (143 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/editthis-info------fast">EditThis.info .... fast</a></h2>
+    <div class="variables">
+    <div class="date">@date=2008-02-11</div>
+    <div class="tags">@tags=<a href="tags/constantsun-blogger-post">constantsun-blogger-post</a>, <a href="tags/editthisinfo">editthisinfo</a></div>
+    </div>
+    <article>
+        <p>The network seems to be back up to speed. I am still going to moving off the current ISP, as I haven&#39;t been happy with their service recently.</p>
+
+    </article>
+    
+    <h2><a href="articles/editthis-info------sloooowww">EditThis.info .... sloooowww</a></h2>
+    <div class="variables">
+    <div class="date">@date=2008-02-11</div>
+    <div class="tags">@tags=<a href="tags/constantsun-blogger-post">constantsun-blogger-post</a>, <a href="tags/editthisinfo">editthisinfo</a></div>
+    </div>
+    <article>
+        <p>I am currently research new ISPs since recently it has had intermittent slowness/outages. I didn&#39;t really have a problem with them when they were out for a power outage, or a downed line, or a nearby transformer bursting into flame. That is just the way the network crumbles. Now it just seems to ...</p>
+ <p><a class="nowrap" href="articles/editthis-info------sloooowww">READ MORE (351 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/cueflash-version-two-">cueFlash version two!</a></h2>
+    <div class="variables">
+    <div class="date">@date=2008-02-11</div>
+    <div class="tags">@tags=<a href="tags/constantsun-blogger-post">constantsun-blogger-post</a>, <a href="tags/cueflash">cueflash</a></div>
+    </div>
+    <article>
+        <p>A new version of cueflash is in development and will be released shortly. It will feature deck ratings, ajax card loads (just loads the content of the cards to speed up card viewing), comments, and a cleaned up interface.  </p>
+<p>The current design (not really functional) is at:<br>[<a href="http://robkohr.co">http://robkohr.co</a>...</p>
+ <p><a class="nowrap" href="articles/cueflash-version-two-">READ MORE (82 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/constantsun-blog-moved-to-blogger">ConstantSun blog moved to blogger</a></h2>
+    <div class="variables">
+    <div class="date">@date=2008-01-23</div>
+    <div class="tags">@tags=<a href="tags/constantsun-blogger-post">constantsun-blogger-post</a></div>
+    </div>
+    <article>
+        <p>In an effort to maintain information flows during down times, I have moved the ConstantSun status blog to blogger.  </p>
+<p>Please go here for to check for updates:<br><a href="https://www.blogger.com/#">http://constantsun.blogspot.com/</a>  </p>
+<p>Thanks,<br>Rob  </p>
+<p>PS: Old posts will still be available [here](htt...</p>
+ <p><a class="nowrap" href="articles/constantsun-blog-moved-to-blogger">READ MORE (49 words)</a></p> 
+    </article>
+    
+            </body>
+        </html>
+    

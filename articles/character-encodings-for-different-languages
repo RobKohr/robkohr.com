@@ -1,0 +1,42 @@
+
+        <html>
+            <head>
+                <title>Character encodings for different languages - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/character-encodings-for-different-languages">Character encodings for different languages</a></h2>
+    <div class="variables">
+    <div class="date">@date=2009-04-27</div>
+    <div class="tags">@tags=<a href="tags/constantsun-blogger-post">constantsun-blogger-post</a>, <a href="tags/editthisinfo">editthisinfo</a></div>
+    </div>
+    <article>
+        <p>Editthis.info now handles foreign characters properly (just tested cyrillic and french).  </p>
+<p>For those that are a little geeky, it seems that the php function htmlentities doesn&#39;t have a multibyte string version.</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

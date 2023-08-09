@@ -29,7 +29,7 @@
     <h2><a href="articles/this-is-my-first-phone-app-i-have-m---">This is my first phone app I have m...</a></h2>
     <div class="variables">
     <div class="date">@date=2013-03-04</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
     </div>
     <article>
         <p>Now available in the iTunes store!</p>

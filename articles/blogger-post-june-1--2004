@@ -1,0 +1,45 @@
+
+        <html>
+            <head>
+                <title>Blogger Post June 1, 2004 - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/blogger-post-june-1--2004">Blogger Post June 1, 2004</a></h2>
+    <div class="variables">
+    <div class="date">@date=2004-06-01</div>
+    <div class="tags">@tags=<a href="tags/blogger-post">blogger-post</a></div>
+    </div>
+    <article>
+        <p>I just started a movie making group. I am pulling people together through
+craig&#39;s list and using yahoo groups as a forum. I also set up this
+site: <a href="http://moviemakers.robkohr.com">http://moviemakers.robkohr.com</a></p>
+<p>I figure this will be a fun hobby to start on. I always loved watching
+movies, I figure it might be intresting to make some.</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

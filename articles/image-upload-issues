@@ -1,0 +1,47 @@
+
+        <html>
+            <head>
+                <title>Image upload issues - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/image-upload-issues">Image upload issues</a></h2>
+    <div class="variables">
+    <div class="date">@date=2008-07-06</div>
+    <div class="tags">@tags=<a href="tags/constantsun-blogger-post">constantsun-blogger-post</a>, <a href="tags/editthisinfo">editthisinfo</a></div>
+    </div>
+    <article>
+        <p>So <a href="https://www.dreamhost.com/">Dreamhost</a> recently locked out creation of new files on the account that hosts editthis.info. It turns out that that account had 250,000+ files, and huge file systems have been a problem for them regarding stability. Almost all of the files were in the image upload directory.  </p>
+<p>The problem is mediawiki creates a large number of directories, thumbnails, and archive files for every image uploaded. Many of the directories it creates are actually empty, and every directory in linux is really just a file.  </p>
+<p>I went into the image storage location and ran the command:  </p>
+<p> nohup  find -depth -type d -empty -exec rmdir {} ;&amp;  </p>
+<p>Which deleted all empty directories, which brought me back under quota, but it won&#39;t be long before file count gets to a point where real files will have to be deleted... so I am blocking image uploads for right now.  </p>
+<p>The solution I am looking at is possibly making image uploads a premium service only, and just charging a small cost for this. So many users create wikis on EDI, upload a few images, and then stop using the site. This will make it so those users don&#39;t have an impact on the usage, and the more heavier users most likely won&#39;t mind paying a few bucks to host their images.  </p>
+<p>As always, if you ever want you can host images elsewhere, and then include them in your pages. You simply put the url to the image in your page, and it automatically shows up there.</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

@@ -1,0 +1,46 @@
+
+        <html>
+            <head>
+                <title>Editthis.info upgrade - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/editthis-info-upgrade">Editthis.info upgrade</a></h2>
+    <div class="variables">
+    <div class="date">@date=2009-11-30</div>
+    <div class="tags">@tags=<a href="tags/constantsun-blogger-post">constantsun-blogger-post</a>, <a href="tags/editthisinfo">editthisinfo</a></div>
+    </div>
+    <article>
+        <p>Editthis.info has gone through a major upgrade over the last week. It has been moved to a new database system (mysql-&gt;sqlite) and has been upgraded from mediawiki 1.5.5 to 1.15.1. This is basically a 3 year jump in versions.  </p>
+<p>Some of the reasons for the upgrade:<br>*Stability - The massive MySQL db has reached its scaling limit<br>*Security - More up to date usually is more secure<br>*Extensibility - Many extensions that I would like to add were not available in the older mediawiki<br>*Portability - With the ability to use sqlite with the new mediawiki codebase, I can easily move wikis and their databases (sqlite databases are single files) from one server to another. I may be adding a feature where you can download your wiki and host it elsewhere or on a flash drive.<br>*Features - There has been many subtle changes over the years that I wanted to catch up on.  </p>
+<p>I probably have about 5 other bullet points. The hesitation has been partly due to the complexity in making the transition. The other reason was that until recently the sqlite support has been very much in beta.  </p>
+<p>The change upgrade has not been smooth. I have had web server config issues, database overloading issues (trying to export too much at once), and database syntax issues (the database systems use slightly different syntax which has caused many problems).  </p>
+<p>Most of the wikis are now imported correctly, but there are plenty that have errors or no content. I am revisiting them and seeing why they didn&#39;t transfer correctly. I am suspecting it is just syntax issues. If your wiki is not working ... DON&#39;T PANIC. The original that I am working off has been untouched, and it is just a matter of finessing it so that it translates correctly. If your wiki has problems, please post the url to the wiki here:<br><a href="https://www.blogger.com/#">http://editthis.info/wiki/?title=Wikis_that_are_broken&amp;action=edit</a>  </p>
+<p>Other things that are missing but will be added in the next week:<br>*Control panel to manage logo, wiki title, and permissions<br>*Cookie error when you log in (it shows the error, but really the login worked)<br>*Create wiki and create wiki page not available</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

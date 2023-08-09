@@ -1,0 +1,1952 @@
+
+        <html>
+            <head>
+                <title>google-plus-post - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            <h2>Tag: google-plus-post</h2>
+    
+    <h2><a href="articles/google-plus-is-pretty-great">Google plus is pretty great</a></h2>
+    <div class="variables">
+    <div class="date">@date=2015-02-10</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>Starting to re-find my love of google+. Facebook tends to just be a collection of highschool and other old friends&#39; updates about their lives: marriage, kids, etc. It is nice to browse, but in the end I don&#39;t think I get much from it. Also, since I was in politics for a while, and made a lot of p...</p>
+ <p><a class="nowrap" href="articles/google-plus-is-pretty-great">READ MORE (207 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/android-bitcoin-venerability">Android Bitcoin Venerability</a></h2>
+    <div class="variables">
+    <div class="date">@date=2013-08-19</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>If you or anyone you know is using bitcoin on android, there is a issue with how android was creating random numbers which made transactions generated on android wallets vulnerable where the private keys could be reverse engineered. </p>
+<p>I use BitcoinSpinner, and I upgraded BitcoinSpinner, and then i...</p>
+ <p><a class="nowrap" href="articles/android-bitcoin-venerability">READ MORE (219 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/the-end-of-hp">The end of HP</a></h2>
+    <div class="variables">
+    <div class="date">@date=2013-07-15</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>For some reason I have been thinking a lot about health bars, HP in RPGs, and RTS&#39;</p>
+<p>The idea of diminishing health until a character is dead just seems to be very far from reality. If you get hit by a sword or arrow or bullet, you are either critically wounded (crippled), dead, or maybe it was ju...</p>
+ <p><a class="nowrap" href="articles/the-end-of-hp">READ MORE (225 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/google-distopia-">Google Distopia?</a></h2>
+    <div class="variables">
+    <div class="date">@date=2013-07-08</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p><em><em>Google Distopia?</em></em></p>
+<p>So I was watching this video
+<a rel="nofollow" target="_blank" href="http://www.youtube.com/watch?v=4isOSntnpo8&list=TLm9HuHWtV2zw" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">Google Glass - The First Fight &amp; Arrest Caught on Glass - July 4 Wildwood, N...</p>
+ <p><a class="nowrap" href="articles/google-distopia-">READ MORE (262 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/this-looks-to-be-big">This looks to be big</a></h2>
+    <div class="variables">
+    <div class="date">@date=2013-05-26</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>This looks to be big:
+<a rel="nofollow" target="_blank" href="https://bitmessage.org/wiki/Main_Page" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">https://bitmessage.org/wiki/Main_Page</a></p>
+<h3>Bitmessage Wiki</h3>
+<p><a href="https://bitmessage.org/wiki/Main_Page">https://bitmessage.org/wiki/Main_Page</a></p>
+<p><a href="https://bitmessage.org/wiki">https://bitmessage.org/wiki</a>...</p>
+ <p><a class="nowrap" href="articles/this-looks-to-be-big">READ MORE (15 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/constantsail-nodepdx">ConstantSail Nodepdx</a></h2>
+    <div class="variables">
+    <div class="date">@date=2013-05-18</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p> Demo of <a href="http://ConstantSail.com">http://ConstantSail.com</a> for nodepdx ( <a href="http://nodepdx.org/">http://nodepdx.org/</a> )</p>
+<p>This was done completely with node.js using mongodb as the data store, and using jQuery Mobile as the front end framework. Also used was express.js and ejs as the templating engine.</p>
+<p><a href="http://www.youtube.com/watch?v=OMJFhzbe7">http://www.youtube.com/watch?v=OMJFhzbe7</a>_...</p>
+ <p><a class="nowrap" href="articles/constantsail-nodepdx">READ MORE (39 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/this-is-my-first-phone-app-i-have-m---">This is my first phone app I have m...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2013-03-04</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>Now available in the iTunes store!</p>
+<p>This is my first phone app I have made in over a year. It is a simple RPG dice roller. More apps to come :)</p>
+<h3>Quick RPG Dice</h3>
+<p><a href="https://itunes.apple.com/us/app/id603097725?mt=8&amp;ign-mpt=uo%3D4">https://itunes.apple.com/us/app/id603097725?mt=8&amp;ign-mpt=uo%3D4</a></p>
+
+    </article>
+    
+    <h2><a href="articles/-go-go-red-team-">"Go Go Red Team"</a></h2>
+    <div class="variables">
+    <div class="date">@date=2013-02-28</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>&quot;Go Go Red Team&quot;
+&quot;Go Go Blue Team&quot;</p>
+<p>Whatever side you are identified yourself with, you are identifying yourself with a side that supports an evil financial system, an imperialist military system, and a corrupt bought out political system controlled by career politicians who&#39;s main focus is gettin...</p>
+ <p><a class="nowrap" href="articles/-go-go-red-team-">READ MORE (130 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/i-put-out-my-first-android-app-today----">I put out my first android app today. :)</a></h2>
+    <div class="variables">
+    <div class="date">@date=2013-02-12</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>I put out my first android app today. :)</p>
+
+    </article>
+    
+    <h2><a href="articles/wow--this-looks-like-it-will-be-a-really-fun-game-">Wow, this looks like it will be a really fun game.</a></h2>
+    <div class="variables">
+    <div class="date">@date=2013-02-01</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>Wow, this looks like it will be a really fun game.</p>
+<h3>Artizens</h3>
+<p><a href="http://www.kickstarter.com/projects/artizens/artizens-0">http://www.kickstarter.com/projects/artizens/artizens-0</a></p>
+
+    </article>
+    
+    <h2><a href="articles/google--post-2013-01-11">Google+ post 2013-01-11</a></h2>
+    <div class="variables">
+    <div class="date">@date=2013-01-11</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <h3>Nomination seals break with past policies - FT.com</h3>
+<p><a href="http://on.ft.com/VGryJ6">http://on.ft.com/VGryJ6</a></p>
+
+    </article>
+    
+    <h2><a href="articles/google--post-2012-12-07">Google+ post 2012-12-07</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-12-07</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        
+    </article>
+    
+    <h2><a href="articles/wow--the-fiscal-cliff-sounds-great">Wow, the fiscal cliff sounds great</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-11-11</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>Wow, the fiscal cliff sounds great:
+<a rel="nofollow" target="_blank" href="https://en.wikipedia.org/wiki/United_States_fiscal_cliff" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">https://en.wikipedia.org/wiki/United_States_fiscal_cliff</a>
+Basically both parties hate it as i...</p>
+ <p><a class="nowrap" href="articles/wow--the-fiscal-cliff-sounds-great">READ MORE (167 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/this-is-the-first-time-i-funded-a-kickstarter--although-i-don-t-do-miniat---">This is the first time I funded a kickstarter. Although I don't do miniat...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-10-06</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>This is the first time I funded a kickstarter. Although I don&#39;t do miniature gaming, I love these little houses that you can pop apart and put back together, and think they would be great for the kids. </p>
+<p>I funded this for $15 to get the &quot;Fisherman&#39;s Cottage&quot; which comes with a cool sod roof.</p>
+<h3>...</h3>
+ <p><a class="nowrap" href="articles/this-is-the-first-time-i-funded-a-kickstarter--although-i-don-t-do-miniat---">READ MORE (59 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/i-know-everyone-is-all-heated-up-about-the-presidential-race--but-if-you-are----">I know everyone is all heated up about the presidential race, but if you are ...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-10-05</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>I know everyone is all heated up about the presidential race, but if you are local to oregon, check out <strong>James Buchal</strong> who is running for <strong>Attorney General</strong>. He is a liberty oriented candidate who got on the Republican ticket through a write in campaign. </p>
+<p>Issues that are important to him are ...</p>
+ <p><a class="nowrap" href="articles/i-know-everyone-is-all-heated-up-about-the-presidential-race--but-if-you-are----">READ MORE (87 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/google--post-2012-09-28">Google+ post 2012-09-28</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-09-28</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p><img src="images/googlePlusPhotos/Photos%20from%20posts/9-28-12/180jaeu40rs2a.jpg" alt="googlePlusPhotos/Photos%20from%20posts/9-28-12/180jaeu40rs2a.jpg" style="max-width: 100%;" /></p>
+
+    </article>
+    
+    <h2><a href="articles/i-am-in-on-the-october-challenge-for-ludum-dare--and-will-be-developing">I am in on the October Challenge for Ludum Dare, and will be developing</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-09-28</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>I am in on the October Challenge for Ludum Dare, and will be developing <a rel="nofollow" target="_blank" href="http://islandwarfare.com" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://islandwarfare.com</a></p>
+<p>You can sign up for email/rss/twitter updates on the website.
+...</p>
+ <p><a class="nowrap" href="articles/i-am-in-on-the-october-challenge-for-ludum-dare--and-will-be-developing">READ MORE (59 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/i-think-conspiracy-theories-are-sometimes-conspiracy-in-themselves-">I think conspiracy theories are sometimes conspiracy in themselves.</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-09-25</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>I think conspiracy theories are sometimes conspiracy in themselves. </p>
+<p>ZeroHedge put the RT as a bullet point, and feel that it requires a little comment. </p>
+<p>I think that the RT is nothing more than a russian news puppet show that is similar to our leaflet bombings of enemies in prior wars. Their pu...</p>
+ <p><a class="nowrap" href="articles/i-think-conspiracy-theories-are-sometimes-conspiracy-in-themselves-">READ MORE (188 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/so-i-now-have-two-separate-projects-on-github-where-people-are-forking-and-me---">So I now have two separate projects on github where people are forking and me...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-09-23</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>So I now have two separate projects on github where people are forking and merging in code. </p>
+<p>I now see the delight in the git experience. :)</p>
+
+    </article>
+    
+    <h2><a href="articles/a-new-way-to-round---rand-round">A new way to round - rand_round</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-09-08</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p><strong>A new way to round - rand_round</strong>
+So in grade school you are taught the basics of rounding. If the decimal portion of the number is &lt; .5 round down to the integer so 5.3 becomes 5. If it is &gt;= .5 round up, so 5.8 becomes 6.
+ 
+This is well and good if you are doing something that has an even d...</p>
+ <p><a class="nowrap" href="articles/a-new-way-to-round---rand-round">READ MORE (312 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/ebay-s-failure-as-an-auction-sitego-to-eb-">Ebay's failure as an auction sitego to eb.</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-08-31</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p><em>Ebay&#39;s failure as an auction site</em></p>
+<p>Too often when I go to ebay now, I just find merchants filling the search results with either &quot;buy it now&quot; items, or auctions with too high of a starting price.</p>
+<p>I wish they would do something about this. A simple solution would be a 5% charge of the listing pr...</p>
+ <p><a class="nowrap" href="articles/ebay-s-failure-as-an-auction-sitego-to-eb-">READ MORE (93 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/this-is-a-pretty-no-fills-website-that-has-been-running-since-1999--it-emails---">This is a pretty no-fills website that has been running since 1999. It emails...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-08-27</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>This is a pretty no-fills website that has been running since 1999. It emails you whenever a web page changes. I use it whenever a site doesn&#39;t provide rss or a newsletter, but I want to keep track of when there are updates.</p>
+<h3>ChangeDetection - Know when any web page changes</h3>
+<p><a href="https://www.changed">https://www.changed</a>...</p>
+ <p><a class="nowrap" href="articles/this-is-a-pretty-no-fills-website-that-has-been-running-since-1999--it-emails---">READ MORE (51 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/the-original-plot-of-the-little-mermaid-was-more-dramatic-than-disney--39-s-v---">The original plot of the Little Mermaid was more dramatic than Disney&#39;s v...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-07-22</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>The original plot of the Little Mermaid was more dramatic than Disney&#39;s version.</p>
+<h3>The Little Mermaid - Wikipedia, the free encyclopedia</h3>
+<p><a href="https://en.wikipedia.org/wiki/The_Little_Mermaid#Plot">https://en.wikipedia.org/wiki/The_Little_Mermaid#Plot</a></p>
+
+    </article>
+    
+    <h2><a href="articles/book-review-of-starship-troopers-i-posted-on-amazon-com">Book review of Starship Troopers I posted on Amazon.com</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-07-06</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p><strong>Book review of Starship Troopers I posted on Amazon.com</strong></p>
+<p>This is totally different than the movie, but only in good ways. Heinlein is a expert of political philosophy applied to science fiction and paints a world of a fascist government that is embraced by its citizens, and you can sympathise ...</p>
+ <p><a class="nowrap" href="articles/book-review-of-starship-troopers-i-posted-on-amazon-com">READ MORE (185 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/first-done--first-paid---">First done, first paid :)</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-06-29</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>First done, first paid :)</p>
+<h3>I need a simple image fix for this image - 0.75 BTC</h3>
+<p><a href="https://bitcointalk.org/index.php?topic=90701.msg998158#msg998158">https://bitcointalk.org/index.php?topic=90701.msg998158#msg998158</a></p>
+
+    </article>
+    
+    <h2><a href="articles/google--post-clang">Google+ post Clang</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-06-09</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <h3>CLANG</h3>
+<p><a href="http://www.kickstarter.com/projects/260688528/clang">http://www.kickstarter.com/projects/260688528/clang</a></p>
+<p><a href="http://www.kickstarter.com/projects/260688528/clang">http://www.kickstarter.com/projects/260688528/clang</a></p>
+
+    </article>
+    
+    <h2><a href="articles/the-code-isn-t-going-to-write-itself">The code isn't going to write itself</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-06-04</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>&quot;The code isn&#39;t going to write itself&quot;</p>
+<p>I constantly tell myself that every time I wonder why things aren&#39;t getting done at the speed that I expect for personal projects. Typically it comes down to being overzealous with my project timelines, or just doing too many things that are distracting me f...</p>
+ <p><a class="nowrap" href="articles/the-code-isn-t-going-to-write-itself">READ MORE (89 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/my-shaving-arsenal---similar-to-your-grandfather-s">My shaving arsenal - similar to your grandfather's</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-06-03</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>My shaving arsenal - similar to your grandfather&#39;s:</p>
+<p><a rel="nofollow" target="_blank" href="http://www.amazon.com/Merkur-Model-180-Handled-Safety/dp/B000NL0T1G/ref=pd_bxgy_hpc_img_b" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://www.amazon.com/Merkur-Model-180-Handled...</p>
+ <p><a class="nowrap" href="articles/my-shaving-arsenal---similar-to-your-grandfather-s">READ MORE (54 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/burger-time">Burger time</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-05-28</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>Burger time</p>
+<p><img src="images/googlePlusPhotos/Photos%20from%20posts/5-28-12/17o2p76icx8xu.jpg" alt="googlePlusPhotos/Photos%20from%20posts/5-28-12/17o2p76icx8xu.jpg" style="max-width: 100%;" /></p>
+
+    </article>
+    
+    <h2><a href="articles/google--post-make-a-slingshot">Google+ post make a slingshot</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-05-24</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <h3>DIY Weekend Project: How to Make a Slingshot</h3>
+<p><a href="http://feedproxy.google.com/~r/TheArtOfManliness/~3/ks4RTnqVz6I/">http://feedproxy.google.com/~r/TheArtOfManliness/~3/ks4RTnqVz6I/</a></p>
+
+    </article>
+    
+    <h2><a href="articles/when-we-reach-21-million-bitcoins--will-their-be-no-economic-activity--and---">When we reach 21 Million Bitcoins, will their be no economic activity, and...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-05-09</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p><strong>When we reach 21 Million Bitcoins, will their be no economic activity, and a deflation spiral?</strong>
+ #bitcoin<br>I think an assumption here is </p>
+<p>Fixed monetary quantity = deflation.</p>
+<p>The increase or decrease in money value is not entirely based upon scarcity. </p>
+<p>A major factor in inflation is monetar...</p>
+ <p><a class="nowrap" href="articles/when-we-reach-21-million-bitcoins--will-their-be-no-economic-activity--and---">READ MORE (451 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/google--post-oregonians-for-liberty">Google+ post Oregonians for Liberty</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-05-09</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <h3>Oregonians For Liberty - Google Groups</h3>
+<p><a href="https://groups.google.com/d/forum/oregonians-for-liberty?fromplusone=1">https://groups.google.com/d/forum/oregonians-for-liberty?fromplusone=1</a></p>
+
+    </article>
+    
+    <h2><a href="articles/gop-rules">gop rules</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-05-07</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p><a rel="nofollow" target="_blank" href="http://www.fairvote.org/response-to-a-rogue-convention-how-gop-party-rules-may-surprise-in-201#.T6BgNatSTnj" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://www.fairvote.org/response-to-a-rogue-convention-how-gop-party-rules-may-su...</p>
+ <p><a class="nowrap" href="articles/gop-rules">READ MORE (9 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/lorem-ipsum">lorem ipsum</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-05-03</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p><a rel="nofollow" target="_blank" href="http://slipsum.com/" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://slipsum.com/</a></p>
+<h3>Lorem Ipsum Generator - Samuel L Ipsum</h3>
+<p><a href="http://slipsum.com/">http://slipsum.com/</a></p>
+<p><a href="http://slipsum.com/">http://slipsum.com/</a></p>
+
+    </article>
+    
+    <h2><a href="articles/need-a-decent-rating-system-for-a-matched-based-game-system-">Need a decent rating system for a matched based game system?</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-04-26</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>Need a decent rating system for a matched based game system? </p>
+<p>I just implemented the glicko-2 rating system (similar to ELO, except much better) in javascript:
+&lt;a rel=&quot;nofollow&quot; target=&quot;_blank&quot; href=&quot;<a href="https://github.com/RobKohr/glicko">https://github.com/RobKohr/glicko</a>&quot; class=&quot;ot-anchor bidi_isolate&quot; jslog=&quot;10929; track:click&quot; dir=...</p>
+ <p><a class="nowrap" href="articles/need-a-decent-rating-system-for-a-matched-based-game-system-">READ MORE (53 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/tey-were-really-looking-forward-to-pie-">Tey were really looking forward to pie.</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-04-23</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <h3>photo</h3>
+<p><a href="http://tragedyseries.tumblr.com/post/15907855352">http://tragedyseries.tumblr.com/post/15907855352</a></p>
+
+    </article>
+    
+    <h2><a href="articles/i-am-surprised-it-took-people-this-long-to-strap-a-gun-to-a-quadrocopter--unf---">I am surprised it took people this long to strap a gun to a quadrocopter. Unf...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-04-23</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>I am surprised it took people this long to strap a gun to a quadrocopter. Unfortunately, FPS is right. This is the future. Though I can see a person controlling a semi-autonomous squad of them rather than just a single one.</p>
+<p>One would be the eyes of the operator, and with a mouse he could click mu...</p>
+ <p><a class="nowrap" href="articles/i-am-surprised-it-took-people-this-long-to-strap-a-gun-to-a-quadrocopter--unf---">READ MORE (213 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/changedetection-com-is-a-great-way-to-monitor-a-website-that-you-go-to-infreq---">ChangeDetection.com is a great way to monitor a website that you go to infreq...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-04-15</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>ChangeDetection.com is a great way to monitor a website that you go to infrequently (in this example, once a year). They email you whenever a change happens</p>
+<p>The link below is for google code jam&#39;s change log, and it is fun to see some of the minor copy tweaks the make over time.</p>
+<h3>ChangeDetect...</h3>
+ <p><a class="nowrap" href="articles/changedetection-com-is-a-great-way-to-monitor-a-website-that-you-go-to-infreq---">READ MORE (59 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/if-you-have-had-enough-of-high-res-flashy-backgrounds--and-you-would-like-som---">If you have had enough of high res flashy backgrounds, and you would like som...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-04-09</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>If you have had enough of high res flashy backgrounds, and you would like something a little simpler.</p>
+<h3>Simple Desktops</h3>
+<p><a href="http://simpledesktops.com">http://simpledesktops.com</a></p>
+
+    </article>
+    
+    <h2><a href="articles/have-a-mac--here-is-how-to-check-if-your-infected">Have a mac, here is how to check if your infected</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-04-07</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>Have a mac, here is how to check if your infected. 
+*Open terminal
+run this</p>
+<p>defaults read /Applications/Safari.app/Contents/Info LSEnvironment 
+and this
+defaults read ~/.MacOSX/environment DYLD_INSERT_LIBRARIES </p>
+<p>If both those commands come back with something that ends with &quot;does not exist&quot; you ...</p>
+ <p><a class="nowrap" href="articles/have-a-mac--here-is-how-to-check-if-your-infected">READ MORE (72 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/don-t-talk-to-police">Don't talk to police</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-04-05</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p><a rel="nofollow" target="_blank" href="http://www.youtube.com/watch?v=6wXkI4t7nuc" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">Dont Talk to Police</a></p>
+<p> An law school professor and former criminal defense attorney tells you why you should never agree to be interviewed by t...</p>
+ <p><a class="nowrap" href="articles/don-t-talk-to-police">READ MORE (35 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/unity-is-giving-away-ios-and-android-add-ons-until-april-8th-for-free-">Unity is giving away iOS and Android add ons until April 8th for free.</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-04-04</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>Unity is giving away iOS and Android add ons until April 8th for free.</p>
+<h3>UNITY: Game Development Tool</h3>
+<p><a href="https://store.unity3d.com/index.html">https://store.unity3d.com/index.html</a></p>
+
+    </article>
+    
+    <h2><a href="articles/they-put-all-over-this-that-this-is-conceptual-design--and-not-actual-gamepla---">They put all over this that this is conceptual design, and not actual gamepla...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-03-29</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>They put all over this that this is conceptual design, and not actual gameplay. But I hope they make it look even a little like this as it is pretty hot.</p>
+<p>This will require a constant internet connection as they are implementing stuff that will have economic balancing with other cities in your &quot;re...</p>
+ <p><a class="nowrap" href="articles/they-put-all-over-this-that-this-is-conceptual-design--and-not-actual-gamepla---">READ MORE (361 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/on-fb-and-g--games--they-don-t-allow-you-to-modify-the-permissions-for-th---">On FB and G+ games, they don't allow you to modify the permissions for th...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-03-29</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>On FB and G+ games, they don&#39;t allow you to modify the permissions for the games. What if I don&#39;t want to give you my email address and all of my info?</p>
+<p>Checkboxes would be nice, and the game creator will then have the chose of refusing me if I don&#39;t give enough info.</p>
+<p>For game creators, don&#39;t ask...</p>
+ <p><a class="nowrap" href="articles/on-fb-and-g--games--they-don-t-allow-you-to-modify-the-permissions-for-th---">READ MORE (104 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/when-i-mouse-over-a-person-who-just-circled-me--it-would-be-great-to-see-thei---">When I mouse over a person who just circled me, it would be great to see thei...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-03-21</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>When I mouse over a person who just circled me, it would be great to see their most recent post(s) without having to click them.</p>
+
+    </article>
+    
+    <h2><a href="articles/answers-are-just-the-embryos-of-new-questions-">Answers are just the embryos of new questions.</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-03-21</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>Answers are just the embryos of new questions.</p>
+
+    </article>
+    
+    <h2><a href="articles/i-wish-there-was-2x--4x--8x-speed-modes-for-youtube-and-other-video-sites--so---">I wish there was 2x, 4x, 8x speed modes for youtube and other video sites. So...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-03-15</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>I wish there was 2x, 4x, 8x speed modes for youtube and other video sites. Some interesting talks take to long. </p>
+<p>I remember this was a feature on my iphone, and I used to use it for some podcasts.</p>
+
+    </article>
+    
+    <h2><a href="articles/can-anyone-sum-up-why-the-google-policy-changes-are-important--i-would-like-t---">Can anyone sum up why the google policy changes are important. I would like t...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-02-29</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>Can anyone sum up why the google policy changes are important. I would like to know the tl;dr version.</p>
+
+    </article>
+    
+    <h2><a href="articles/singing-with-headphones-on-is-like-driving-without-looking-at-the-road-">Singing with headphones on is like driving without looking at the road.</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-02-27</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>Singing with headphones on is like driving without looking at the road.</p>
+
+    </article>
+    
+    <h2><a href="articles/i-can--39-t-stand-out-of-office-auto-replies-">I can&#39;t stand out of office auto-replies.</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-02-24</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>I can&#39;t stand out of office auto-replies. </p>
+<p>I send a message to 10 people and 3 back. I don&#39;t care that you took off on friday. </p>
+<p>It would be great if when you send out an email you can tack on #noOOO or something like that, and the auto-reply system will not send those back. </p>
+<p>Or maybe reverse it...</p>
+ <p><a class="nowrap" href="articles/i-can--39-t-stand-out-of-office-auto-replies-">READ MORE (83 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/so-the-banks-are-being-incentivised-63-cents-on-the-dollar-for-the-for-every----">So the banks are being incentivised 63 cents on the dollar for the for every ...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-02-17</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>So the banks are being incentivised 63 cents on the dollar for the for every dollar of a mortgage that is forgiven. This will be paid for with tax funds.</p>
+<p>That is huge.</p>
+<p>If you are in forclosue is time to give the bank a call and negotiate.</p>
+
+    </article>
+    
+    <h2><a href="articles/there-is-a-mongolian-place-we-go-to-where-one-of-the-bins-of-meat-is-labeled----">There is a Mongolian place we go to where one of the bins of meat is labeled ...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-02-09</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <a href="articles/there-is-a-mongolian-place-we-go-to-where-one-of-the-bins-of-meat-is-labeled----"><img class="icon" src="images/googlePlusPhotos/Photos%20from%20posts/2012-02-09/17czchqxocgma.jpg" alt="googlePlusPhotos/Photos%20from%20posts/2012-02-09/17czchqxocgma.jpg" style="max-width: 100%;" /></a><p>There is a Mongolian place we go to where one of the bins of meat is labeled &quot;Turkey  Shrimp.&quot; The legendary Turkey Shrimp is a crowd favorite.</p>
+<p>This is a sketch of a live turkey shrimp drawn by <span class="proflinkWrapper"><span class="proflinkPrefix">+&lt;a class=&quot;proflink bidi_isolate&quot; href=&quot;http...</p>
+ <p><a class="nowrap" href="articles/there-is-a-mongolian-place-we-go-to-where-one-of-the-bins-of-meat-is-labeled----">READ MORE (47 words, 1 images)</a></p> 
+    </article>
+    
+    <h2><a href="articles/google--post-2012-02-09">Google+ post 2012-02-09</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-02-09</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p><a href="https://lh4.googleusercontent.com/-8NugB0sJbT0/TzP1ceEH8LI/AAAAAAAAHIA/U2Jy6I6xvfE/w288-h288/scan%2Bme.png">https://lh4.googleusercontent.com/-8NugB0sJbT0/TzP1ceEH8LI/AAAAAAAAHIA/U2Jy6I6xvfE/w288-h288/scan%2Bme.png</a></p>
+
+    </article>
+    
+    <h2><a href="articles/google--post-2012-02-06">Google+ post 2012-02-06</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-02-06</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p><a href="https://lh3.googleusercontent.com/-Bdp6gNOMhRA/Tyrz2C3AYRI/AAAAAAAAMIc/9-OaXwI_tAY/w288-h288/421968_367813913248068_205344452828349_1366480_1278801186_n.jpg">https://lh3.googleusercontent.com/-Bdp6gNOMhRA/Tyrz2C3AYRI/AAAAAAAAMIc/9-OaXwI_tAY/w288-h288/421968_367813913248068_205344452828349_1366480_1278801186_n.jpg</a></p>
+
+    </article>
+    
+    <h2><a href="articles/--follow-everyone-that-someone-else-is-following-on-twitter--">**Follow everyone that someone else is following on twitter**</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-01-29</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p><strong>Follow everyone that someone else is following on twitter</strong></p>
+<p>I opened up a second twitter account, and I wanted to follow everyone my first twitter account was following. I went to the &quot;following&quot; page for the first account and started clicking away, till bordom ensued. Then I did an inspect ele...</p>
+ <p><a class="nowrap" href="articles/--follow-everyone-that-someone-else-is-following-on-twitter--">READ MORE (75 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/virus-very-yes">Virus=very yes</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-01-25</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>Virus=very yes</p>
+<p> Strong Bad Email</p>
+<p><a href="http://www.youtube.com/watch?v=6oiGj2ZiDxQ">http://www.youtube.com/watch?v=6oiGj2ZiDxQ</a></p>
+
+    </article>
+    
+    <h2><a href="articles/digg-reddit-like-news-site--voting-is-based-on-bitcoins-">Digg/Reddit like News site. Voting is based on Bitcoins!</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-01-24</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <a href="articles/digg-reddit-like-news-site--voting-is-based-on-bitcoins-"><img class="icon" src="images/googlePlusPhotos/Photos%20from%20posts/2012-01-24/17bdnmnuwt2b6.png" alt="googlePlusPhotos/Photos%20from%20posts/2012-01-24/17bdnmnuwt2b6.png" style="max-width: 100%;" /></a><p><strong>Digg/Reddit like News site. Voting is based on Bitcoins!</strong></p>
+<p><a rel="nofollow" target="_blank" href="http://coinsmack.com" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://coinsmack.com</a></p>
+<p>I created a site where you can post links, videos, images, and blobs of text (h...</p>
+ <p><a class="nowrap" href="articles/digg-reddit-like-news-site--voting-is-based-on-bitcoins-">READ MORE (135 words, 1 images)</a></p> 
+    </article>
+    
+    <h2><a href="articles/this-will-make-it-so-you-can-click-a-button-to-open-iterm-in-any-finder-folde---">This will make it so you can click a button to open iTerm in any finder folde...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-01-23</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>This will make it so you can click a button to open iTerm in any finder folder:</p>
+<p>Download 
+*&lt;a rel=&quot;nofollow&quot; target=&quot;_blank&quot; href=&quot;<a href="https://raw.github.com/gist/905546/e1a34cf2d217d44858146af71d76546d3289c4b0/finder-open-iterm-here.scpt">https://raw.github.com/gist/905546/e1a34cf2d217d44858146af71d76546d3289c4b0/finder-open-iterm-here.scpt</a>&quot; class=&quot;ot-anchor bidi_isolate&quot; jslog=&quot;10929; track:click&quot; dir...</p>
+ <p><a class="nowrap" href="articles/this-will-make-it-so-you-can-click-a-button-to-open-iterm-in-any-finder-folde---">READ MORE (123 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/xkcd-has-a-great-comic-about-how-to-create-a-strong-yet-easy-to-remember-pass---">XKCD has a great comic about how to create a strong yet easy to remember pass...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-01-22</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>XKCD has a great comic about how to create a strong yet easy to remember password:
+<a rel="nofollow" target="_blank" href="http://xkcd.com/936/" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://xkcd.com/936/</a></p>
+<p>And this site created a generator for it:
+&lt;a rel=&quot;nofollow&quot;...</p>
+ <p><a class="nowrap" href="articles/xkcd-has-a-great-comic-about-how-to-create-a-strong-yet-easy-to-remember-pass---">READ MORE (42 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/pissed-about-sopa--it-will-be-back--here-are-some-better-ways-to-keep-it-from---">Pissed about SOPA, it will be back. Here are some better ways to keep it from...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-01-20</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>Pissed about SOPA, it will be back. Here are some better ways to keep it from coming back:</p>
+<p>Make sure these pricks don&#39;t get reelected:</p>
+<p>Lamar Smith (R-TX)  -- introduced the legislation
+Harry Reid (D-NV) 
+Howard Berman (D-CA) 
+Marsha Blackburn (R-TN) 
+Mary Bono Mack (R-CA) 
+Steve Chabot (R-OH) 
+J...</p>
+ <p><a class="nowrap" href="articles/pissed-about-sopa--it-will-be-back--here-are-some-better-ways-to-keep-it-from---">READ MORE (91 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/particle-physics-have-come-a-long-way-">Particle physics have come a long way.</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-01-20</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>Particle physics have come a long way.</p>
+<p> This is a new Multiphysics simulator by Lagoa Technologies Inc.</p>
+<p><a href="http://www.vimeo.com/13457383">http://www.vimeo.com/13457383</a></p>
+
+    </article>
+    
+    <h2><a href="articles/it-looks-like-sopa-and-pipa-have-likely-been-stopped-as-politicians-have-drop---">It looks like SOPA and PIPA have likely been stopped as politicians have drop...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-01-19</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>It looks like SOPA and PIPA have likely been stopped as politicians have dropped support for it.</p>
+<p>It was a great move for freedom, but on a more sour grapes note: where was this outpouring of popular dissent when so many non-internet freedoms have been taken away. </p>
+<p>It looks as though without yest...</p>
+ <p><a class="nowrap" href="articles/it-looks-like-sopa-and-pipa-have-likely-been-stopped-as-politicians-have-drop---">READ MORE (307 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/cueflash-sopa">Cueflash sopa</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-01-18</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p><a rel="nofollow" target="_blank" href="http://editthis.info" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">editthis.info</a> and <a rel="nofollow" target="_blank" href="http://cueflash.com" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">cueflash.com</a> ...</p>
+ <p><a class="nowrap" href="articles/cueflash-sopa">READ MORE (86 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/picture-wars-is-a-forum-based-game-where-a-2-d-sidescroll-style-map-is-used-----">Picture wars is a forum based game where a 2-d sidescroll style map is used. ...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-01-18</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>Picture wars is a forum based game where a 2-d sidescroll style map is used. 2 or more players each use their own sprite pack armies in a turned based war game. </p>
+<p>Each turn, players move their units and attack things by updating the image. Whatever makes sense is considered acceptable. Along with ...</p>
+ <p><a class="nowrap" href="articles/picture-wars-is-a-forum-based-game-where-a-2-d-sidescroll-style-map-is-used-----">READ MORE (76 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/the-best-thing-ever-to-come-out-of-fox-news-">The best thing ever to come out of FOX news.</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-01-16</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>The best thing ever to come out of FOX news.</p>
+<p> For media black-outs: <a href="http://www.reddit.com/r/RonPaulCensored">http://www.reddit.com/r/RonPaulCensored</a> Is the NY Times Ignoring Ron Paul Deliberately?: <a href="http://www.youtube.com/watch?v=S2DLrhoOlZo">http://www.youtube.com/watch?v=S2DLrhoOlZo</a> Need to Black Out Ron Paul for 12.5 Minutes? - CBS Shows You How It&#39;s Done: <a href="http://www.youtub">http://www.youtub</a>...</p>
+ <p><a class="nowrap" href="articles/the-best-thing-ever-to-come-out-of-fox-news-">READ MORE (91 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/virus-comix">virus comix</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-01-16</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p><a href="http://www.viruscomix.com/page559.html">http://www.viruscomix.com/page559.html</a></p>
+
+    </article>
+    
+    <h2><a href="articles/strongbad-techno">Strongbad techno</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-01-12</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p><a rel="nofollow" target="_blank" href="http://www.youtube.com/watch?v=JwZwkk7q25I" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">Techno</a></p>
+<p> Strong Bad makes a techno song.</p>
+<p><a href="http://www.youtube.com/watch?v=JwZwkk7q25I">http://www.youtube.com/watch?v=JwZwkk7q25I</a></p>
+<p><a href="http://www.youtube.com/watch?v=JwZwkk7q25I">http://www.youtube.com/watch?v=JwZwkk7q25I</a></p>
+
+    </article>
+    
+    <h2><a href="articles/nostradamus--eat-your-heart-">Nostradamus, eat your heart.</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-01-11</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>Nostradamus, eat your heart.</p>
+<p> This is Ron Paul&#39;s famous Predictions speech from April 24, 2002. This is the original video compiling recent images and video to give his speech a chilling effect. &quot;I have no timetable for these predictions, but just in case, keep them around and look at th...</p>
+ <p><a class="nowrap" href="articles/nostradamus--eat-your-heart-">READ MORE (71 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/i-dropped-google-a-couple-weeks-ago-as-my-default-search-system-in-favor-of">I dropped google a couple weeks ago as my default search system in favor of</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-01-11</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>I dropped google a couple weeks ago as my default search system in favor of <a rel="nofollow" target="_blank" href="http://duckduckgo.com" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">duckduckgo.com</a>. The reason was that the results for technical terms started getting mor...</p>
+ <p><a class="nowrap" href="articles/i-dropped-google-a-couple-weeks-ago-as-my-default-search-system-in-favor-of">READ MORE (102 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/great-comment-on-hacker-news">Great comment on hacker news</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-01-11</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>Great comment on hacker news:
+<a rel="nofollow" target="_blank" href="http://news.ycombinator.com/item?id=3451527" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://news.ycombinator.com/item?id=3451527</a></p>
+<p>sunchild 27 minutes ago 
+This is such an important point: there is...</p>
+ <p><a class="nowrap" href="articles/great-comment-on-hacker-news">READ MORE (60 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/top-50-entries-for-the-48-hour-game-development-competition-">Top 50 entries for the 48 hour game development competition.</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-01-10</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>Top 50 entries for the 48 hour game development competition.</p>
+<h3>Ludum Dare » Ludum Dare 22</h3>
+<p><a href="http://www.ludumdare.com/compo/ludum-dare-22/?action=top">http://www.ludumdare.com/compo/ludum-dare-22/?action=top</a></p>
+
+    </article>
+    
+    <h2><a href="articles/fake-amazon-reviews">Fake Amazon Reviews</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-01-08</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p><strong>Fake Amazon Reviews</strong></p>
+<p>Important when looking at reviews on Amazon: click on their profiles and see what else a person reviewed.</p>
+<p>I find a lot of reviewers are fake, and are really just sock puppets of the person selling the item.</p>
+<p>When the person reviewing the item only ever reviewed this item,...</p>
+ <p><a class="nowrap" href="articles/fake-amazon-reviews">READ MORE (72 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/iphone-games-in-real-life">iphone Games in real life</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-01-05</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p><a href="http://www.youtube.com/watch?v=YrsoluSjuKc">http://www.youtube.com/watch?v=YrsoluSjuKc</a></p>
+
+    </article>
+    
+    <h2><a href="articles/obama-signed-the-ndaa-today">Obama signed the NDAA today</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-01-02</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>Obama signed the NDAA today.</p>
+<p>The Act legislatively codifies the President&#39;s authority to indefinitely detain terrorism <em>suspects</em> without trial. This can include US citizens on American soil.</p>
+<p>(at this point I had about a dozen sarcastic remarks about Obama, but really I think none are needed.)</p>
+
+    </article>
+    
+    <h2><a href="articles/being-a-father-of-a-4-year-old--i-have-watched-someone-learn-their-first-lang---">Being a father of a 4 year old, I have watched someone learn their first lang...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-01-02</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>Being a father of a 4 year old, I have watched someone learn their first language. He really understands english very well, but he has shown me the many inconstancies and exceptions in our language. It would be great to use a survey of common &quot;mistakes&quot; a child makes in understanding the english l...</p>
+ <p><a class="nowrap" href="articles/being-a-father-of-a-4-year-old--i-have-watched-someone-learn-their-first-lang---">READ MORE (69 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/anyone-interested-in-minatures-should-check-out-shapeways-">Anyone interested in minatures should check out shapeways.</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-01-02</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>Anyone interested in minatures should check out shapeways.</p>
+<p>You can have them 3d print pretty much anything you can come up with. </p>
+<p>#rpg #gaming</p>
+<h3>Shapeways | Gallery</h3>
+<p><a href="http://www.shapeways.com/gallery?mg%5Bpage%5D=2#mg">http://www.shapeways.com/gallery?mg%5Bpage%5D=2#mg</a></p>
+
+    </article>
+    
+    <h2><a href="articles/thinking-of-setting-up-a-utility-to-have-the-amazon-turk-sort-out-all-of-the----">Thinking of setting up a utility to have the amazon turk sort out all of the ...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-12-28</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>Thinking of setting up a utility to have the amazon turk sort out all of the good photos in my photo albums.</p>
+
+    </article>
+    
+    <h2><a href="articles/a-better-way-to-fight-sopa">A better way to fight SOPA</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-12-26</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>A better way to fight SOPA</p>
+<p>GoDaddy has been a supporter of SOPA which has caused many to boycott them.</p>
+<p>Here is an even better way to hit them in the bottom line...</p>
+<p>Add this somewhere in your webpage (you can just stick it somewhere in the footer)</p>
+<p>GoDaddy is #1 in google for &quot;Domain Registrati...</p>
+ <p><a class="nowrap" href="articles/a-better-way-to-fight-sopa">READ MORE (279 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/reminds-me-of-the-girl-from-real-genius">Reminds me of the girl from Real Genius</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-12-22</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>Reminds me of the girl from Real Genius</p>
+<p> Triangles!</p>
+<p><a href="http://www.youtube.com/watch?v=o6KlpIWhbcw">http://www.youtube.com/watch?v=o6KlpIWhbcw</a></p>
+
+    </article>
+    
+    <h2><a href="articles/google--post-2011-12-22">Google+ post 2011-12-22</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-12-22</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p> FAIL! !!!!!!!</p>
+<p><a href="http://www.youtube.com/watch?v=WlEzvdlYRes">http://www.youtube.com/watch?v=WlEzvdlYRes</a></p>
+
+    </article>
+    
+    <h2><a href="articles/google-has-been-manipulating-their-algorithm--with-the-goal-of-making-it-more---">Google has been manipulating their algorithm, with the goal of making it more...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-12-22</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>Google has been manipulating their algorithm, with the goal of making it more friendly to users.</p>
+<p>This means it will find results that do not match all of your criteria, but are more &quot;meaningful&quot; ~= higher page rank.</p>
+<p>They have also ditched the + operator (+keyword) which forces only results that ...</p>
+ <p><a class="nowrap" href="articles/google-has-been-manipulating-their-algorithm--with-the-goal-of-making-it-more---">READ MORE (251 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/it-is-really-annoying-when-source-code-download-sites-don-t-provide-a-url---">It is really annoying when source code download sites don't provide a url...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-12-21</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>It is really annoying when source code download sites don&#39;t provide a url that you can use with curl (usually it is some html redirect page that does tracking for them). </p>
+<p>I want to download the code onto the server. I don&#39;t want to download it locally and then scp it to the server. </p>
+<p>What I love ...</p>
+ <p><a class="nowrap" href="articles/it-is-really-annoying-when-source-code-download-sites-don-t-provide-a-url---">READ MORE (95 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/it-looks-like-the-next-batman-movie-is-a-mortal-kombat-crossover">It looks like the next batman movie is a mortal kombat crossover</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-12-20</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>It looks like the next batman movie is a mortal kombat crossover:
+<a rel="nofollow" target="_blank" href="http://en.wikipedia.org/wiki/Scorpion_%28Mortal_Kombat%29" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://en.wikipedia.org/wiki/Scorpion_(Mortal_Kombat)</a></p>
+<p> The D...</p>
+ <p><a class="nowrap" href="articles/it-looks-like-the-next-batman-movie-is-a-mortal-kombat-crossover">READ MORE (271 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/after-futzing-with-adobe-illustrator-for-a-while--and-getting-fed-up--i-hand----">After futzing with Adobe Illustrator for a while, and getting fed up, I hand ...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-12-13</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>After futzing with Adobe Illustrator for a while, and getting fed up, I hand coded an SVG file and imported it in. So much easier when you want to be accurate. Trying to tell the software what you want with pointing and clicking just isn&#39;t as good as typing in <polygon points="...." style="..."></p>
+<p>...</p>
+ <p><a class="nowrap" href="articles/after-futzing-with-adobe-illustrator-for-a-while--and-getting-fed-up--i-hand----">READ MORE (83 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/bitcoin-ecommerce">Bitcoin ecommerce</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-12-06</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p><a rel="nofollow" target="_blank" href="https://bitcointalk.org/index.php?topic=53869.0" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">https://bitcointalk.org/index.php?topic=53869.0</a>
+I added a description of how I handle ecommerce.</p>
+<h3>Best practises for making a serious...</h3>
+ <p><a class="nowrap" href="articles/bitcoin-ecommerce">READ MORE (27 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/an-image-of-a-bitcoin-mining-rig--it-is-so-industrial--it-looks-almost-like-e---">An image of a bitcoin mining rig. It is so industrial, it looks almost like e...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-12-04</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>An image of a bitcoin mining rig. It is so industrial, it looks almost like equipment to do real physical mining.</p>
+<p>Pictures like this remind me never to get into mining. 
+&lt;a rel=&quot;nofollow&quot; target=&quot;_blank&quot; href=&quot;<a href="http://28.media.tumblr.com/tumblr_lq9z4zJUom1qfy0bho1_500.jpg">http://28.media.tumblr.com/tumblr_lq9z4zJUom1qfy0bho1_500.jpg</a>&quot; class=&quot;ot-anchor bidi_is...</p>
+ <p><a class="nowrap" href="articles/an-image-of-a-bitcoin-mining-rig--it-is-so-industrial--it-looks-almost-like-e---">READ MORE (40 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/using-my-kids--39--playroom-as-a-photo-studio-can-be-amusing-in-retrospect-">Using my kids&#39; playroom as a photo studio can be amusing in retrospect.</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-12-02</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>Using my kids&#39; playroom as a photo studio can be amusing in retrospect.</p>
+<p><img src="images/googlePlusPhotos/Photos%20from%20posts/December%202,%202011/175cnoc8bb9he.jpg" alt="googlePlusPhotos/Photos%20from%20posts/December%202,%202011/175cnoc8bb9he.jpg" style="max-width: 100%;" /></p>
+
+    </article>
+    
+    <h2><a href="articles/ron-paul-bitcoin-cheque-----when-you-aren--39-t-fringe-enough---">Ron Paul Bitcoin cheque.... when you aren&#39;t fringe enough...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-12-02</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>Ron Paul Bitcoin cheque.... when you aren&#39;t fringe enough...</p>
+<p><img src="images/googlePlusPhotos/Photos%20from%20posts/December%202,%202011/175rwtrvbd8tu.jpg" alt="googlePlusPhotos/Photos%20from%20posts/December%202,%202011/175rwtrvbd8tu.jpg" style="max-width: 100%;" /></p>
+
+    </article>
+    
+    <h2><a href="articles/printcoin-check">printcoin check</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-11-29</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p><a rel="nofollow" target="_blank" href="http://printcoins.com/images/gallery/cheque.jpg" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://printcoins.com/images/gallery/cheque.jpg</a></p>
+<p>Bitcoin cheques now available on &lt;a rel=&quot;nofollow&quot; target=&quot;_blank&quot; href=&quot;<a href="http://printcoi">http://printcoi</a>...</p>
+ <p><a class="nowrap" href="articles/printcoin-check">READ MORE (77 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/i-am-sharing-the-share-of-my-own-post-----and-deleting-original-----">I am sharing the share of my own post ... and deleting original. ...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-11-29</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>I am sharing the share of my own post ... and deleting original. ...</p>
+
+    </article>
+    
+    <h2><a href="articles/nice--someone-has-pulled-videos-together-for-all-of-these-academic-classes-">Nice, someone has pulled videos together for all of these academic classes.</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-11-22</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>Nice, someone has pulled videos together for all of these academic classes.</p>
+<h3>Academic Earth | Online Courses | Academic Video Lectures</h3>
+<p><a href="http://academicearth.org/">http://academicearth.org/</a></p>
+
+    </article>
+    
+    <h2><a href="articles/really--set-up-any-command-to-run-on-startup-as-a-service">Really, set up any command to run on startup as a service</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-11-18</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>Really, set up any command to run on startup as a service (and have &quot;start/stop myprocess&quot; commands available to you).</p>
+<p>Much easier than init.d</p>
+<h3>Run Node.js as a Service on Ubuntu</h3>
+<p><a href="http://kevin.vanzonneveld.net/techblog/article/run_nodejs_as_a_service_on_ubuntu_karmic/">http://kevin.vanzonneveld.net/techblog/article/run_nodejs_as_a_service_on_ubuntu_karmic/</a></p>
+
+    </article>
+    
+    <h2><a href="articles/buckyballs-bb-gauss-rifle">Buckyballs bb gauss rifle</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-11-17</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p><a rel="nofollow" target="_blank" href="http://www.youtube.com/watch?v=Q7iVdXivmlQ" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">bucky balls/bb gauss rifle</a></p>
+<p> This video was uploaded from an Android phone.</p>
+<p><a href="http://www.youtube.com/watch?v=Q7iVdXivmlQ">http://www.youtube.com/watch?v=Q7iVdXivmlQ</a></p>
+<p><a href="http://www.youtube">http://www.youtube</a>....</p>
+ <p><a class="nowrap" href="articles/buckyballs-bb-gauss-rifle">READ MORE (20 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/i-run-a-ugc-site-on-a-dreamhost-virtual-private-server-called">I run a UGC site on a dreamhost virtual private server called</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-11-16</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>I run a UGC site on a dreamhost virtual private server called <a rel="nofollow" target="_blank" href="http://cueflash.com" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">cueflash.com</a>. A user posted up content that was copyrighted, and dreamhost recieved a DMCA takedown not...</p>
+ <p><a class="nowrap" href="articles/i-run-a-ugc-site-on-a-dreamhost-virtual-private-server-called">READ MORE (173 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/so-someone-sent-a-dmca-notice-to-my-service-provider--they-were-complaining-a---">So someone sent a DMCA notice to my service provider. They were complaining a...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-11-08</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>So someone sent a DMCA notice to my service provider. They were complaining about content that they considered their copyright in a wiki I am hosting. It was a page about their news station WHKY TV. Looking through the history of the page, I could see that a bunch of people worked together to crea...</p>
+ <p><a class="nowrap" href="articles/so-someone-sent-a-dmca-notice-to-my-service-provider--they-were-complaining-a---">READ MORE (147 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/i-wish-i-could-pay-not-to-see-ads-on-youtube--i-would-pay--10-a-year-to-not-s---">I wish I could pay not to see ads on youtube. I would pay $10 a year to not s...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-11-08</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>I wish I could pay not to see ads on youtube. I would pay $10 a year to not see them. Surely that is worth more than the advertisers are paying you.</p>
+
+    </article>
+    
+    <h2><a href="articles/i-got-tired-of-being-distracted-by-that-little-red-notification--and-was-abou---">I got tired of being distracted by that little red notification, and was abou...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-11-08</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>I got tired of being distracted by that little red notification, and was about to write an extension to hide it. Thankfully someone beat me to it.</p>
+<h3>Hide Google+ Notification - Chrome Web Store</h3>
+<p><a href="https://chrome.google.com/webstore/detail/ogcfegjiehdakiogchpnllekccphhebd">https://chrome.google.com/webstore/detail/ogcfegjiehdakiogchpnllekccphhebd</a></p>
+<p><a href="http://amitaytweeto.com/t">http://amitaytweeto.com/t</a>...</p>
+ <p><a class="nowrap" href="articles/i-got-tired-of-being-distracted-by-that-little-red-notification--and-was-abou---">READ MORE (34 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/ludum-dare">Ludum Dare</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-10-31</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p><a rel="nofollow" target="_blank" href="http://www.ludumdare.com/compo/october-challenge-2011/?uid=4337" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://www.ludumdare.com/compo/october-challenge-2011/?uid=4337</a>
+Launched &lt;a rel=&quot;nofollow&quot; target=&quot;_blank&quot; href=&quot;<a href="http://c">http://c</a>...</p>
+ <p><a class="nowrap" href="articles/ludum-dare">READ MORE (33 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/brilliant">brilliant</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-10-31</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>brilliant</p>
+<h3>The Knights of the Round Staples : diesel sweeties robot webcomic &amp; geeky t-shirts</h3>
+<p><a href="http://dieselsweeties.com/archive/2923">http://dieselsweeties.com/archive/2923</a></p>
+
+    </article>
+    
+    <h2><a href="articles/code-at-the-end-of-the-post">code at the end of the post</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-10-24</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>What happens when you round 3.6 ---&gt; you get 4. </p>
+<p>What about in a game? Should every time a player kills 3.6 of an enemy, should it be really 4? </p>
+<p>Probably not, but the math might have that happen all of the time. It should be that it rounds up 60% of the time. Over time, the average player would ...</p>
+ <p><a class="nowrap" href="articles/code-at-the-end-of-the-post">READ MORE (150 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/working-hard-on-constant-sail--pirates--amp--traders-for-the-october-competit---">Working hard on Constant Sail: Pirates &amp; Traders for the October competit...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-10-19</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>Working hard on Constant Sail: Pirates &amp; Traders for the October competition. It is a pirate game where you sail around a world and trade goods. It is multiplayer and web based with a big emphasis on PvP fighting.</p>
+<p>As you can see, even though I am making this for the web, it is being formatted to ...</p>
+ <p><a class="nowrap" href="articles/working-hard-on-constant-sail--pirates--amp--traders-for-the-october-competit---">READ MORE (72 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/visited-the-portland-occupy-protests-today-and-had-some-great-chats-with-some---">Visited the portland occupy protests today and had some great chats with some...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-10-18</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>Visited the portland occupy protests today and had some great chats with some revolutionaries :)</p>
+
+    </article>
+    
+    <h2><a href="articles/this-is-what-3d-should-really-be-">This is what 3d should really be.</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-10-17</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>This is what 3d should really be.</p>
+<p> Using the infrared camera in the Wii remote and a head mounted sensor bar (two IR LEDs), you can accurately track the location of your head and render view dependent images on the screen. This effectively transforms your display into a portal to a virtual enviro...</p>
+ <p><a class="nowrap" href="articles/this-is-what-3d-should-really-be-">READ MORE (91 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/totally-into----">Totally into ...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-10-14</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>Totally into ...</p>
+<p> We&#39;re going on tour in October, check it out!!! Pomplamoose 2011 West Coast Tour Los Angeles October 21 @ The Troubadour Tickets: <a href="http://www.ticketfly.com/event/62829/">http://www.ticketfly.com/event/62829/</a> Facebook: <a href="https://www.facebook.com/#!/event.php?eid=150526285036434">https://www.facebook.com/#!/event.php?eid=150526285036434</a> Santa Barbara October 22 @ SoHo (21+) T...</p>
+ <p><a class="nowrap" href="articles/totally-into----">READ MORE (327 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/anyone-accept--bitcoin-on-any-e-commerce-or-game-site-">Anyone accept #Bitcoin on any e-commerce or game site?</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-10-14</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>Anyone accept #Bitcoin on any e-commerce or game site?</p>
+
+    </article>
+    
+    <h2><a href="articles/does-anyone-want-the-domain">Does anyone want the domain</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-10-13</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>Does anyone want the domain:
+PopulationMatrix.com
+?
+I had plans on building something like Survey Monkey with it, but I don&#39;t think it would be worth my time. </p>
+<p>I think it is a pretty awesome name, but not worth it to me to do the $10 renewal. If you want it, let me know (though keep in mind it wi...</p>
+ <p><a class="nowrap" href="articles/does-anyone-want-the-domain">READ MORE (78 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/result-set-pagers-are-really-annoying">Result set pagers are really annoying</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-10-12</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>If you have a search results page on your website, try to minimize the amount that users have to use the pager on those results.</p>
+<p>Google gets away with showing only 10 results, because they are awesome at delivering what you are looking for in that first page. Your results probably aren&#39;t that su...</p>
+ <p><a class="nowrap" href="articles/result-set-pagers-are-really-annoying">READ MORE (92 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/destiny-is-for-people-who-are-too-lazy-to-create-alternate-timelines-">Destiny is for people who are too lazy to create alternate timelines.</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-10-06</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>&quot;Destiny is for people who are too lazy to create alternate timelines.&quot;
+(<a rel="nofollow" target="_blank" href="http://www.dieselsweeties.com/archive/2907" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://www.dieselsweeties.com/archive/2907</a>)</p>
+<p><a href="http://www.dieselsweetie">http://www.dieselsweetie</a>...</p>
+ <p><a class="nowrap" href="articles/destiny-is-for-people-who-are-too-lazy-to-create-alternate-timelines-">READ MORE (20 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/if-i-were-at-the-nyc-protests--this-is-what-i-would-have-on-my-banner">If I were at the NYC protests, this is what I would have on my banner</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-10-05</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>Greed is not the problem.
+Capitalism is not the problem.
+Corporate control of the government is the problem.</p>
+
+    </article>
+    
+    <h2><a href="articles/what-is-amazing-is-that-there-are-so-many-interesting-products-that-you-can-b---">What is amazing is that there are so many interesting products that you can b...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-10-03</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>What is amazing is that there are so many interesting products that you can buy now. Looks like a great way to get some cool presents for people for christmas.</p>
+<h3>quirky | social product development</h3>
+<p><a href="http://www.quirky.com/">http://www.quirky.com/</a></p>
+
+    </article>
+    
+    <h2><a href="articles/1994---pulp-fiction--amp--inflation">1994 - Pulp fiction &amp; Inflation</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-09-30</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>1994 - Pulp fiction &amp; Inflation</p>
+<p>There was a scene that really focused on the cost of a $5 milkshake. This was between two characters that probably blow plenty of money on coke and heroin.</p>
+<p>Today, a $5 milkshake is no big deal. Heck, that is how much a coffee is (the cheapest beverage to make on e...</p>
+ <p><a class="nowrap" href="articles/1994---pulp-fiction--amp--inflation">READ MORE (79 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/i-am-looking-forward-to-the-race-to-the-bottom-in-the-tablet-wars-">I am looking forward to the race to the bottom in the tablet wars.</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-09-29</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>I am looking forward to the race to the bottom in the tablet wars.</p>
+<p>Give me a call when they are priced right above the raw materials it took to produce them.</p>
+
+    </article>
+    
+    <h2><a href="articles/what-do-people-in-ludum-dare-use-for-timelapse-on-mac-">What do people in Ludum Dare use for timelapse on Mac.</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-09-28</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>What do people in Ludum Dare use for timelapse on Mac.</p>
+
+    </article>
+    
+    <h2><a href="articles/want-to-add-jquery-to-a-page-you-are-viewing-on-your-browser-for-some-quick-h---">Want to add jquery to a page you are viewing on your browser for some quick h...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-09-28</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>Want to add jquery to a page you are viewing on your browser for some quick hackery?</p>
+<p>Create a bookmark with this as the location:</p>
+<pre><code>javascript:void((function(){j=document.createElement(&quot;SCRIPT&quot;);j.src=&quot;&lt;a rel=&quot;nofollow&quot; target=&quot;_blank&quot; href=&quot;http://code.jquery.com/jquery-latest.pack.js&quot; class=&quot;...
+</code></pre>
+ <p><a class="nowrap" href="articles/want-to-add-jquery-to-a-page-you-are-viewing-on-your-browser-for-some-quick-h---">READ MORE (54 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/what-a-great-video-">What a great video.</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-09-27</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>What a great video.</p>
+<p> Official video for &#39;The Stampede&#39; by Biting Elbows from our debut EP - &#39;Dope Fiend Massacre&#39; Click to Tweet: <a href="http://clicktotweet.com/7fIbn">http://clicktotweet.com/7fIbn</a> Buy @ iTunes <a href="http://goo.gl/07jyf">http://goo.gl/07jyf</a> @ Amazon <a href="http://goo.gl/53Kcl">http://goo.gl/53Kcl</a> facebook: <a href="http://www.facebook.com/bitingelbows">http://www.facebook.com/bitingelbows</a> <a href="http://www.BitingEl">www.BitingEl</a>...</p>
+ <p><a class="nowrap" href="articles/what-a-great-video-">READ MORE (115 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/minecraft">Minecraft</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-09-27</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>Minecraft</p>
+<h3>The Bottom Feeder: The Hardest Game. For Adults.</h3>
+<p><a href="http://jeff-vogel.blogspot.com/2011/09/hardest-game-for-adults.html">http://jeff-vogel.blogspot.com/2011/09/hardest-game-for-adults.html</a></p>
+
+    </article>
+    
+    <h2><a href="articles/attempted-to-play-dwarf-fortress-last-night--it-is-a-tough-game-to-get-into-">Attempted to play Dwarf Fortress last night. It is a tough game to get into.</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-09-27</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>Attempted to play Dwarf Fortress last night. It is a tough game to get into.</p>
+<h3>Bay 12 Games: Dwarf Fortress</h3>
+<p><a href="http://www.bay12games.com/dwarves/">http://www.bay12games.com/dwarves/</a></p>
+<p><a href="http://www.vayapotra.es/wordpress/wp-content/uploads/2009/02/2rmqi6o.gif">http://www.vayapotra.es/wordpress/wp-content/uploads/2009/02/2rmqi6o.gif</a></p>
+
+    </article>
+    
+    <h2><a href="articles/build-a-house-for-less-than-5000">Build a house for less than 5000</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-09-26</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p><a rel="nofollow" target="_blank" href="http://ciracar.com/build-a-house-for-less-than-5000/" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://ciracar.com/build-a-house-for-less-than-5000/</a></p>
+<h3>Build a house for less than $5000 | Cira Car</h3>
+<p><a href="http://ciracar.com/build-a-ho">http://ciracar.com/build-a-ho</a>...</p>
+ <p><a class="nowrap" href="articles/build-a-house-for-less-than-5000">READ MORE (19 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/octocoptor">Octocoptor</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-09-23</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p><a rel="nofollow" target="_blank" href="http://hackaday.com/2011/09/23/octocopter-will-someday-kill-someone/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+hackaday%2FLgoM+%28Hack+a+Day%29" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://hackaday.com/2011/09/...</p>
+ <p><a class="nowrap" href="articles/octocoptor">READ MORE (18 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/if-you-send-a-newsletter-and-your-unsubscribe-link-requi---">If you send a newsletter and your unsubscribe link requi...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-09-23</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>It is simple:</p>
+<p>If you send a newsletter and your unsubscribe link requires me to log in, fill out a form, or do anything for that matter, I go back to the email and just mark as spam.</p>
+<p>If you are too lazy to make it easy to opt out, I am too lazy to help you with your email deliverability. </p>
+<p>Unsub...</p>
+ <p><a class="nowrap" href="articles/if-you-send-a-newsletter-and-your-unsubscribe-link-requi---">READ MORE (73 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/been-researching-the-cetera-audial-algorithm-after-hearing-about">Been researching the Cetera audial algorithm after hearing about</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-09-23</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>Been researching the Cetera audial algorithm after hearing about (and experiencing) the Virtual Barber Shop for the first time. 
+The technology in itself is incredible, and it surely opens an entire world of alternative entertainment and media. It&#39;s a surprise no one&#39;s really capitalised on it yet...</p>
+ <p><a class="nowrap" href="articles/been-researching-the-cetera-audial-algorithm-after-hearing-about">READ MORE (214 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/portal-clone-that-instead-of-just-traversing-space--you-do-a-snapshot-and-can---">Portal clone that instead of just traversing space, you do a snapshot and can...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-09-21</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>Portal clone that instead of just traversing space, you do a snapshot and can connect moments in time (moving you and other things through time).</p>
+<p> in which i rip off portal and snapshot <a href="http://www.superfundungeonrun.com">http://www.superfundungeonrun.com</a></p>
+<p><a href="http://www.youtube.com/watch?v=ph60iKWmtos">http://www.youtube.com/watch?v=ph60iKWmtos</a></p>
+<p><a href="http://www.youtube.com/watch?v">http://www.youtube.com/watch?v</a>...</p>
+ <p><a class="nowrap" href="articles/portal-clone-that-instead-of-just-traversing-space--you-do-a-snapshot-and-can---">READ MORE (34 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/this-looks-very-cool--interesting-concept--i-wonder-how-well-it-plays-out-">This looks very cool. Interesting concept. I wonder how well it plays out.</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-09-18</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>This looks very cool. Interesting concept. I wonder how well it plays out.</p>
+<h3>Mystic Empyrean - Create. Discover. Become.</h3>
+<p><a href="http://kck.st/r2lB41">http://kck.st/r2lB41</a></p>
+<p><a href="http://kck.st/r2lB41">http://kck.st/r2lB41</a></p>
+
+    </article>
+    
+    <h2><a href="articles/-scoretag-allows-you-to-tag-your-posts-the-same-way-you-could-using-twitter-----">_scoreTag allows you to tag your posts the same way you could using twitter #...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-09-15</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>_scoreTag allows you to tag your posts the same way you could using twitter #hashTags</p>
+<p>It is has a _chromeExtension which turns a _scoreTag into a link. This allows users to quickly find other posts regarding a particular topic. </p>
+<p>Why not just use #hashTag? Well, google ignores the # symbol when i...</p>
+ <p><a class="nowrap" href="articles/-scoretag-allows-you-to-tag-your-posts-the-same-way-you-could-using-twitter-----">READ MORE (76 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/calling-a-php-file-from-html--39-s-script-tag">Calling a PHP File From HTML&#39;s Script Tag</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-09-15</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>Calling a PHP File From HTML&#39;s Script Tag</p>
+<h3>Calling a PHP File From HTML&#39;s Script Tag</h3>
+<p><a href="http://www.impressivewebs.com/php-file-html-script-tag/">http://www.impressivewebs.com/php-file-html-script-tag/</a></p>
+
+    </article>
+    
+    <h2><a href="articles/have-you-been-programming-in-php-for-years-and-need-to-write-some-javascript----">Have you been programming in php for years and need to write some javascript,...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-09-14</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>Have you been programming in php for years and need to write some javascript, only to find you really could use a php function to solve a js problem.</p>
+<p>Well stop before you rewrite it. </p>
+<p>&lt;a rel=&quot;nofollow&quot; target=&quot;_blank&quot; href=&quot;<a href="http://phpjs.org/">http://phpjs.org/</a>&quot; class=&quot;ot-anchor bidi_isolate&quot; jslog=&quot;10929; track:c...</p>
+ <p><a class="nowrap" href="articles/have-you-been-programming-in-php-for-years-and-need-to-write-some-javascript----">READ MORE (151 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/an-elephant-in-bantha-clothing">An Elephant in Bantha Clothing</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-09-13</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p><a rel="nofollow" target="_blank" href="http://sale.images.woot.com/An_Elephant_in_Bantha_Clothing7leDetail.png" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://sale.images.woot.com/An_Elephant_in_Bantha_Clothing7leDetail.png</a></p>
+<h3><a href="http://sale.images.woot.com/An_Eleph">http://sale.images.woot.com/An_Eleph</a>...</h3>
+ <p><a class="nowrap" href="articles/an-elephant-in-bantha-clothing">READ MORE (10 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/currently--1-on-ludum-dare--pretty-crazy-game-">Currently #1 on Ludum Dare. Pretty crazy game.</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-09-13</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>Currently #1 on Ludum Dare. Pretty crazy game.</p>
+<h3><a href="http://chevyray.com/art/ld21/5/FleeBuster_512.swf">http://chevyray.com/art/ld21/5/FleeBuster_512.swf</a></h3>
+<p><a href="http://chevyray.com/art/ld21/5/FleeBuster_512.swf">http://chevyray.com/art/ld21/5/FleeBuster_512.swf</a></p>
+<p><a href="http://www.ludumdare.com/compo/ludum-dare-21/">http://www.ludumdare.com/compo/ludum-dare-21/</a></p>
+
+    </article>
+    
+    <h2><a href="articles/fun-and-challenging-game--it-requires-deep-thought--but-not-as-heavy-as-chess---">Fun and challenging game. It requires deep thought, but not as heavy as chess...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-09-12</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>Fun and challenging game. It requires deep thought, but not as heavy as chess and go. This is a good thing as it makes it easy to play a bunch of rounds of it without being overwhelmed.</p>
+<p> Don&#39;t lose your marbles -- make them stronger with this classic marble strategy game from Foxmind. See mor...</p>
+ <p><a class="nowrap" href="articles/fun-and-challenging-game--it-requires-deep-thought--but-not-as-heavy-as-chess---">READ MORE (59 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/this-is-a-pretty-unique-game">This is a pretty unique game</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-09-09</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>This is a pretty unique game. </p>
+<p>In it you create a fleet and send it into battle, but the catch is that you don&#39;t control anything once play begins. </p>
+<p>Most of the actual interaction you have with the game is tweaking the ships, and you can do it in extreme detail. This is basically where you grit ...</p>
+ <p><a class="nowrap" href="articles/this-is-a-pretty-unique-game">READ MORE (106 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/ha-">Ha!</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-09-09</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>Ha!</p>
+<h3>Cell Division</h3>
+<p><a href="http://shirt.woot.com/">http://shirt.woot.com/</a></p>
+
+    </article>
+    
+    <h2><a href="articles/fairy-tales-of-old-were-pretty-scary-">Fairy tales of old were pretty scary.</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-09-07</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>Fairy tales of old were pretty scary.
+<a rel="nofollow" target="_blank" href="http://www.pitt.edu/~dash/grimm047.html" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://www.pitt.edu/~dash/grimm047.html</a></p>
+<h3>Grimm 047: The Juniper Tree</h3>
+<p><a href="http://www.pitt.edu/~dash/grimm047">http://www.pitt.edu/~dash/grimm047</a>...</p>
+ <p><a class="nowrap" href="articles/fairy-tales-of-old-were-pretty-scary-">READ MORE (20 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/this-was-a-semi-sarcastic-comment-i-made-on-how-all-politicians-are-controlle---">This was a semi-sarcastic comment I made on how all politicians are controlle...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-09-01</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>This was a semi-sarcastic comment I made on how all politicians are controlled by political donations:
+&quot;Maybe to remove the whole illusion, we should just literally vote with dollars. Those dollars can than be used by the govt in place of taxes. Could lead to an interesting distopia or utopia. Who...</p>
+ <p><a class="nowrap" href="articles/this-was-a-semi-sarcastic-comment-i-made-on-how-all-politicians-are-controlle---">READ MORE (51 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/grizzly-awesome">Grizzly awesome</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-09-01</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>Grizzly awesome</p>
+<p><a href="http://ronpippin.com">http://ronpippin.com</a></p>
+<p><a href="https://lh4.googleusercontent.com/-qRt9uekcJQI/Tl-cwxL1bBI/AAAAAAAAehk/xIeLQYyKefM/s184/3b72e442b59c.jpg">https://lh4.googleusercontent.com/-qRt9uekcJQI/Tl-cwxL1bBI/AAAAAAAAehk/xIeLQYyKefM/s184/3b72e442b59c.jpg</a></p>
+<p><a href="https://lh3.googleusercontent.com/-OJDIjnx2hT4/Tl-cx_WM0-I/AAAAAAAAeho/jEEj2ITFgyo/s134/40ec41209c5b.jpg">https://lh3.googleusercontent.com/-OJDIjnx2hT4/Tl-cx_WM0-I/AAAAAAAAeho/jEEj2ITFgyo/s134/40ec41209c5b.jpg</a></p>
+<p><a href="https://lh4.googleusercontent.com/-37XuuTOkO7Y/">https://lh4.googleusercontent.com/-37XuuTOkO7Y/</a>...</p>
+ <p><a class="nowrap" href="articles/grizzly-awesome">READ MORE (2 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/so-my-3-year-old-is-totally-into-video-games--in-particular-a-game-on-the-wii---">So my 3 year old is totally into video games (in particular a game on the wii...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-08-27</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>So my 3 year old is totally into video games (in particular a game on the wii called Excite Truck).</p>
+<p>This game and a bunch of games on the iphone that he likes has led me to one conclusion.</p>
+<p>Menus suck (especially if you can&#39;t read). </p>
+<p>What would be best is a big Go button that is green and flashi...</p>
+ <p><a class="nowrap" href="articles/so-my-3-year-old-is-totally-into-video-games--in-particular-a-game-on-the-wii---">READ MORE (111 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/i-would-love-it-if-google-allowed-you-to-sort-your-stream-by-how-often-you--1---">I would love it if google allowed you to sort your stream by how often you +1...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-08-26</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>I would love it if google allowed you to sort your stream by how often you +1 posters.</p>
+
+    </article>
+    
+    <h2><a href="articles/i-am-working-on-a-programming-game-where-you-control-an-army-of-robots-via-a----">I am working on a programming game where you control an army of robots via a ...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-08-25</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>I am working on a programming game where you control an army of robots via a web api. </p>
+<p>You can send orders to robots, or you can install javascript code in robots, and when they are out of communications range from your command center, they can use that code to work autonomously. </p>
+<p>The robots wil...</p>
+ <p><a class="nowrap" href="articles/i-am-working-on-a-programming-game-where-you-control-an-army-of-robots-via-a----">READ MORE (257 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/hi-john--this-seems-like-a-good-cheatsheet-for-you-">Hi John, this seems like a good cheatsheet for you:</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-08-25</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>Hi John, this seems like a good cheatsheet for you:
+<a rel="nofollow" target="_blank" href="http://startuplawyer.com/startup-issues/if-i-launched-a-startup" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://startuplawyer.com/startup-issues/if-i-launched-a-startup</a></p>
+<h3>...</h3>
+ <p><a class="nowrap" href="articles/hi-john--this-seems-like-a-good-cheatsheet-for-you-">READ MORE (26 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/going-to-see-the-protomen-tomorrow-night--totally-psyched-">Going to see The Protomen tomorrow night. Totally psyched.</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-08-24</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>Going to see The Protomen tomorrow night. Totally psyched.</p>
+<p> The first music video of The Protomen. For more info. visit <a href="http://www.protomen.com/">http://www.protomen.com/</a> [Lyrics] Narrator: No one was left who could remember how it had happened, how the world had fallen under darkness. At least no one who would do anythin...</p>
+ <p><a class="nowrap" href="articles/going-to-see-the-protomen-tomorrow-night--totally-psyched-">READ MORE (405 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/needed-a-simple-painting-application--but-with-the-ability-to-do-layers--tran---">Needed a simple painting application, but with the ability to do layers, tran...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-08-22</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>Needed a simple painting application, but with the ability to do layers, transparency, and a few of the things I take for granted in photoshop. Also needed it on Mac. </p>
+<p>This worked well:
+&lt;a rel=&quot;nofollow&quot; target=&quot;_blank&quot; href=&quot;<a href="http://seashore.sourceforge.net/The_Seashore_Project/About.html">http://seashore.sourceforge.net/The_Seashore_Project/About.html</a>&quot; class=...</p>
+ <p><a class="nowrap" href="articles/needed-a-simple-painting-application--but-with-the-ability-to-do-layers--tran---">READ MORE (49 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/have-you-ever-played-the-board-game-diplomacy-before--i-am-looking-to-start-a---">Have you ever played the board game Diplomacy before? I am looking to start a...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-08-22</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>Have you ever played the board game Diplomacy before? I am looking to start a postal game (where you mail stamped letters to each-other) where the adjudication is done via the web (there is no game master). I set up a game that starts in 6 days at the link. Join up, and send me an email with your ...</p>
+ <p><a class="nowrap" href="articles/have-you-ever-played-the-board-game-diplomacy-before--i-am-looking-to-start-a---">READ MORE (110 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/google--post-nyc-female-keyboardists-playing-vintage-keyboards">Google+ post NYC female keyboardists playing vintage keyboards</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-08-19</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p> Filmed and Directed by Amy Hobby. Edited by Tony Zajkowski. Over 20 different NYC female keyboardists playing vintage keyboards at Joe McGinty&#39;s Carousel Studio in Brooklyn, NY. Available on iTunes! <a href="http://itunes.apple.com/us/album/tubular-bells/id398862997">http://itunes.apple.com/us/album/tubular-bells/id398862997</a> Featuring: Kaia Wong (Mixel Pixel...</p>
+ <p><a class="nowrap" href="articles/google--post-nyc-female-keyboardists-playing-vintage-keyboards">READ MORE (196 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/not-shown-on-the-menu-bar-in-hacker-news--their-is-a-page-called">Not shown on the menu bar in Hacker News, their is a page called</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-08-19</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>Not shown on the menu bar in Hacker News, their is a page called &quot;best,&quot; which has less updates per day, and is nice if you don&#39;t want to get too sucked in to what is &quot;hot&quot;.
+&lt;a rel=&quot;nofollow&quot; target=&quot;_blank&quot; href=&quot;<a href="http://news.ycombinator.com/best">http://news.ycombinator.com/best</a>&quot; class=&quot;ot-anchor bidi_isolate&quot; jslog=&quot;10929; track...</p>
+ <p><a class="nowrap" href="articles/not-shown-on-the-menu-bar-in-hacker-news--their-is-a-page-called">READ MORE (50 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/here--39-s-something-for-the-punk-rock-fans--the-misfits-are-releasing-their----">Here&#39;s something for the punk rock fans. The Misfits are releasing their ...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-08-19</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>Here&#39;s something for the punk rock fans. The Misfits are releasing their first album in 12 years this October. I guess I know what to give my brother for Christmas.</p>
+<h3>Inside the Misfits&#39; First Album in 12 Years | Rolling Stone Music</h3>
+<p><a href="http://www.rollingstone.com/music/news/inside-the-misfits-">http://www.rollingstone.com/music/news/inside-the-misfits-</a>...</p>
+ <p><a class="nowrap" href="articles/here--39-s-something-for-the-punk-rock-fans--the-misfits-are-releasing-their----">READ MORE (42 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/i-am-now-registered-republican--mission--help-ron-paul-win-the-primaries-">I am now registered republican. Mission: help Ron Paul win the primaries.</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-08-18</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>I am now registered republican. Mission: help Ron Paul win the primaries.</p>
+
+    </article>
+    
+    <h2><a href="articles/if-you-need-to-generate-a-sound-for-events--clicking-on-things--explosions--e---">If you need to generate a sound for events (clicking on things, explosions, e...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-08-16</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>If you need to generate a sound for events (clicking on things, explosions, etc) this works great. Works on OS X, windows, and linux.</p>
+<h3>DrPetter&#39;s homepage - sfxr</h3>
+<p><a href="http://www.drpetter.se/project_sfxr.html">http://www.drpetter.se/project_sfxr.html</a></p>
+
+    </article>
+    
+    <h2><a href="articles/blown-away">Blown away</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-08-16</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>Blown away</p>
+<p> Industrial Revolutions is the amazing new film from street trials riding star Danny Macaskill. Filmed and edited for Channel 4 &#39;s documentary Concrete Circus. Industrial Revolutions sees Danny take his incredible bike skills into an industrial train yard and some derelict building...</p>
+ <p><a class="nowrap" href="articles/blown-away">READ MORE (81 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/speedcrunch-is-a-great-calculator-application-that-is-available-on-all-major----">Speedcrunch is a great calculator application that is available on all major ...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-08-15</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>Speedcrunch is a great calculator application that is available on all major OSes</p>
+<p>It works very much like a scientific calculator, with variables and complex expressions. It also gives you updates to the calculation as you are typing.
+Though it is seems complex, it is my favorite to use even for ...</p>
+ <p><a class="nowrap" href="articles/speedcrunch-is-a-great-calculator-application-that-is-available-on-all-major----">READ MORE (82 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/google--post-2011-08-15">Google+ post 2011-08-15</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-08-15</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p><a href="https://lh3.googleusercontent.com/-2jZ1MqXTcOY/TiVWGWj0waI/AAAAAAAACDA/WlwlX5s6eSo/w288-h288/7970_89bb.jpg">https://lh3.googleusercontent.com/-2jZ1MqXTcOY/TiVWGWj0waI/AAAAAAAACDA/WlwlX5s6eSo/w288-h288/7970_89bb.jpg</a></p>
+
+    </article>
+    
+    <h2><a href="articles/due-to-really-poor-sales-in-the-app-store--kinda-expected-since-it-was-just-a---">Due to really poor sales in the app store (kinda expected since it was just a...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-08-15</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>Due to really poor sales in the app store (kinda expected since it was just an astroids clone) space rocks is now free. When I get around to it, I will post up the source code on github. It was written with JS using the canvas element for drawing. It was bundled into an iOS app using phonegap.</p>
+<p>If...</p>
+ <p><a class="nowrap" href="articles/due-to-really-poor-sales-in-the-app-store--kinda-expected-since-it-was-just-a---">READ MORE (101 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/full-of-awesome">Full of awesome</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-08-13</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>Full of awesome</p>
+<h3>Banish JavaScript in Web Forms with HTML5</h3>
+<p><a href="http://www.elated.com/articles/banish-javascript-in-web-forms-with-html5/">http://www.elated.com/articles/banish-javascript-in-web-forms-with-html5/</a></p>
+<p><a href="http://www.findmebyip.com/litmus/">http://www.findmebyip.com/litmus/</a></p>
+
+    </article>
+    
+    <h2><a href="articles/and-even-more-really-awesomeness-">And even more really awesomeness.</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-08-13</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>And even more really awesomeness.</p>
+<h3>7 Lovely Things About HTML5 Markup</h3>
+<p><a href="http://www.elated.com/articles/7-lovely-things-about-html5-markup/">http://www.elated.com/articles/7-lovely-things-about-html5-markup/</a></p>
+
+    </article>
+    
+    <h2><a href="articles/google--post-2011-08-12">Google+ post 2011-08-12</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-08-12</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p> How to draw squiggles like a Hilbert.</p>
+<p><a href="http://www.youtube.com/watch?v=ik2CZqsAw28">http://www.youtube.com/watch?v=ik2CZqsAw28</a></p>
+
+    </article>
+    
+    <h2><a href="articles/i-like-this-channel-on-turntable-for-electronic-music-">I like this channel on turntable for electronic music.</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-08-12</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>I like this channel on turntable for electronic music. </p>
+<p>It would be nice if they gave a nice title and description view for sharing</p>
+<h3>Turntable - invite only beta</h3>
+<p><a href="http://turntable.fm/electronic_music_snobs_return">http://turntable.fm/electronic_music_snobs_return</a></p>
+
+    </article>
+    
+    <h2><a href="articles/this-is-the-best-tank--game-ever-created--in-the-fantastically-80--39-s-vein----">This is the best TANK! game ever created. In the fantastically 80&#39;s vein ...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-08-08</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>This is the best TANK! game ever created. In the fantastically 80&#39;s vein of classic arcade games...TANK! is simple, fun and satisfying. Play someone else on your iPhone and relive all the fun that old skool video games used to be.</p>
+<p>NOTE: This is a two player game only (on the same device), so be...</p>
+ <p><a class="nowrap" href="articles/this-is-the-best-tank--game-ever-created--in-the-fantastically-80--39-s-vein----">READ MORE (71 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/google--post-2011-08-05">Google+ post 2011-08-05</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-08-05</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p><a href="https://www.google.com/maps/search/?api=1&query=45.520571,%20-122.77419099999997" class="location" target="_blank" title="45.520571, -122.77419099999997">Mitchell Park
+Address: Portland, OR 972...</p>
+ <p><a class="nowrap" href="articles/google--post">READ MORE (11 words, 1 images)</a></p> 
+    </article>
+    
+    <h2><a href="articles/what-is-this-fed-thing-anyway-">What is this fed thing anyway?</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-08-04</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>What is this fed thing anyway?
+<a rel="nofollow" target="_blank" href="http://i.imgur.com/20wIm.jpg" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://i.imgur.com/20wIm.jpg</a></p>
+<h3><a href="http://i.imgur.com/20wIm.jpg">http://i.imgur.com/20wIm.jpg</a></h3>
+<p><a href="http://i.imgur.com/20wIm.jpg">http://i.imgur.com/20wIm.jpg</a></p>
+<p><a href="http://i.imgur.com/20wIm.jpg">http://i.imgur.com/20wIm.jpg</a></p>
+
+    </article>
+    
+    <h2><a href="articles/google--post-2011-07-21">Google+ post 2011-07-21</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-07-21</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p> Rowan Atkinson comes across an invisible drum kit while sweeping. He&#39;s not too bad with it.</p>
+<p><a href="http://www.youtube.com/watch?v=6Sf_pogZ8jE">http://www.youtube.com/watch?v=6Sf_pogZ8jE</a></p>
+
+    </article>
+    
+    <h2><a href="articles/the-portland-oregon-trail">The Portland Oregon Trail</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-07-20</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p><a rel="nofollow" target="_blank" href="http://thoughtballoonhelium.blogspot.com/2011/06/portland-oregon-trail.html" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://thoughtballoonhelium.blogspot.com/2011/06/portland-oregon-trail.html</a></p>
+<h3>INCIDENTAL COMICS: The Port...</h3>
+ <p><a class="nowrap" href="articles/the-portland-oregon-trail">READ MORE (15 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/google--post-cooking-with-a-top-hat">Google+ post Cooking With A Top Hat</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-07-20</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p> Marvel once again at the wonders of the natural world with Monty Buggershop-Hooty, author of Cooking With A Top Hat and Wilderness Ponce.</p>
+<p><a href="http://www.youtube.com/watch?v=OZH5GFe8Gmk">http://www.youtube.com/watch?v=OZH5GFe8Gmk</a></p>
+
+    </article>
+    
+    <h2><a href="articles/google--post-2011-07-20">Google+ post 2011-07-20</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-07-20</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p><a href="https://lh4.googleusercontent.com/-iZu54AIiesI/TiXmMrvMjsI/AAAAAAAAGhg/3At_PYlx8LQ/w288-h288/circle_of_life.jpg">https://lh4.googleusercontent.com/-iZu54AIiesI/TiXmMrvMjsI/AAAAAAAAGhg/3At_PYlx8LQ/w288-h288/circle_of_life.jpg</a></p>
+
+    </article>
+    
+    <h2><a href="articles/google--post-2011-07-20">Google+ post 2011-07-20</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-07-20</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p> Michael Fishbach, co-founder of The Great Whale Conservancy (GWC), narrates his encounter with a young humpback whale entangled in local fishing nets. At first, the animal appeared to be dead, yet Fishbach investigated and quickly discovered that the poor creature was tangled in a fishing net. ...</p>
+ <p><a class="nowrap" href="articles/google--post">READ MORE (122 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/awesome-">Awesome.</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-07-20</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>Awesome.</p>
+<p> *DISCLAIMER: Dear movie studio and Benny Benassi- this video is not intended for commercial use. It is simply a side project created for the fun of it. I like apes and monkeys, I like classic movies like this one, I like dance music, I like Benny Benassi, and I used to like glowsticks w...</p>
+ <p><a class="nowrap" href="articles/awesome-">READ MORE (218 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/test-message">Test message</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-07-19</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>Test message</p>
+
+    </article>
+    
+    <h2><a href="articles/so-much-sexier-than-the-more-modern-versions-">So much sexier than the more modern versions.</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-07-19</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>So much sexier than the more modern versions.</p>
+<p> The late great Peggy Lee, a favorite of mine (I&#39;m a huge Jazz fan). Peggy was a singer in The Benny Goodman Orchestra before going solo. You may also know her as the voice of the Siamese Cats in Disneys &#39;Lady and The Tramp.&#39;</p>
+<p><a href="http://www">http://www</a>...</p>
+ <p><a class="nowrap" href="articles/so-much-sexier-than-the-more-modern-versions-">READ MORE (52 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/google--post-2011-07-19">Google+ post 2011-07-19</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-07-19</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p><img src="images/googlePlusPhotos/Photos%20from%20posts/2011-07-19/16s65q35h8cdu.png" alt="googlePlusPhotos/Photos%20from%20posts/2011-07-19/16s65q35h8cdu.png" style="max-width: 100%;" /></p>
+
+    </article>
+    
+            </body>
+        </html>
+    

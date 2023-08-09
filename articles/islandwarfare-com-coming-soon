@@ -1,0 +1,43 @@
+
+        <html>
+            <head>
+                <title>islandwarfare.com coming soon - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/islandwarfare-com-coming-soon">islandwarfare.com coming soon</a></h2>
+    <div class="variables">
+    <div class="date">@date=2008-07-11</div>
+    <div class="tags">@tags=<a href="tags/constantsun-blogger-post">constantsun-blogger-post</a>, <a href="tags/islandwarfare">islandwarfare</a></div>
+    </div>
+    <article>
+        <p>I am currently looking for users to beta test Island Warfare, which is a new game I am developing. In it you start with an empty island that you can build various types of buildings on, train soldiers, and sail off to conquer other players islands.</p>
+<p>To sign up to become a beta tester go to:
+<a href="http://islandwarfare.com">http://islandwarfare.com</a></p>
+
+    </article>
+    
+            </body>
+          </html>
+          

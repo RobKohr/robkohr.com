@@ -29,7 +29,7 @@
     <h2><a href="articles/i-got-tired-of-being-distracted-by-that-little-red-notification--and-was-abou---">I got tired of being distracted by that little red notification, and was abou...</a></h2>
     <div class="variables">
     <div class="date">@date=2011-11-08</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
     </div>
     <article>
         <p>I got tired of being distracted by that little red notification, and was about to write an extension to hide it. Thankfully someone beat me to it.</p>

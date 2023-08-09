@@ -29,7 +29,7 @@
     <h2><a href="articles/this-is-a-pretty-unique-game">This is a pretty unique game</a></h2>
     <div class="variables">
     <div class="date">@date=2011-09-09</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
     </div>
     <article>
         <p>This is a pretty unique game. </p>

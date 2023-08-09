@@ -29,7 +29,7 @@
     <h2><a href="articles/due-to-really-poor-sales-in-the-app-store--kinda-expected-since-it-was-just-a---">Due to really poor sales in the app store (kinda expected since it was just a...</a></h2>
     <div class="variables">
     <div class="date">@date=2011-08-15</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
     </div>
     <article>
         <p>Due to really poor sales in the app store (kinda expected since it was just an astroids clone) space rocks is now free. When I get around to it, I will post up the source code on github. It was written with JS using the canvas element for drawing. It was bundled into an iOS app using phonegap.</p>

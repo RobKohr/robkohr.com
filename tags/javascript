@@ -49,18 +49,6 @@
 
     </article>
     
-    <h2><a href="articles/avoiding-a-deep-stack-of-callbacks">Avoiding a deep stack of callbacks</a></h2>
-    <div class="variables">
-    <div class="date">@date=2011-10-20</div>
-    <div class="tags">@tags=<a href="tags/javascript">javascript</a></div>
-    </div>
-    <article>
-        <p>When working with mongodb especially, but also in other cases, you can create a deep stack of calls that can get pretty ugly in javascript. </p>
-<p>To avoid this I created a function that will recursively go through an array of things you want to process in a callback stack. </p>
-<p>Follow link to read more...</p>
- <p><a class="nowrap" href="articles/avoiding-a-deep-stack-of-callbacks">READ MORE (62 words)</a></p> 
-    </article>
-    
             </body>
         </html>
     
