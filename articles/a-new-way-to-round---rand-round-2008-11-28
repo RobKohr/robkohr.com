@@ -39,7 +39,7 @@
 <p>The equation is:</p>
 <pre><code>function rand_round(x){
  D = x - floor(x);
- if(rand()&lt;D){
+ if(rand()&amp;lt;D){
    return floor(x)+1;
  }else{
    return floor(x);

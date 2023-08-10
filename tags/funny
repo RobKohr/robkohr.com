@@ -51,6 +51,16 @@
 
     </article>
     
+    <h2><a href="articles/photoshop-thing-i-did-in-the-computerlab">Photoshop thing I did in the computerlab</a></h2>
+    <div class="variables">
+    <div class="date">@date=2000-01-01</div>
+    <div class="tags">@tags=<a href="tags/funny">funny</a></div>
+    </div>
+    <article>
+        <p><img src="images/Jeeves-2000ish 2.jpg" alt="Jeeves-2000ish 2.jpg" style="max-width: 100%;" /></p>
+
+    </article>
+    
             </body>
         </html>
     
