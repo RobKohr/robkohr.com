@@ -18,7 +18,29 @@ and replace it with this:
 */
 
 function replaceImageLinks(text) {
-  return text.replace(/!\[\[(.+)\]\]/g, '<img src="images/$1" alt="$1" style="max-width: 100%;" />');
+
+  const out = text.replace(/!\[\[(.+)\]\]/g, '<img src="images/$1" alt="$1" style="max-width: 100%;" />');
+  /* find all image paths, remove the syntax around them, and put the file names in an array */
+  const matches = text.match(/!\[\[(.+)\]\]/g)?.map(function (match) {
+    return match.replace(/!\[\[(.+)\]\]/, "$1");
+  });
+  /* check to see which of the matched filenames are not in the images/ directory */
+  const missingImages = matches?.filter(function (match) {
+    /* url decode the filename */
+    match = decodeURIComponent(match);
+    match = match.replace('&#39;', "'")
+    return !fs.existsSync(`images/${match}`);
+  });
+  /* if there are missing images, then print them out */
+  if (missingImages?.length) {
+    /* url decode all of the matches */
+    missingImages.forEach(function (match, index, array) {
+      array[index] = decodeURIComponent(match);
+    });
+    
+    console.log("missing images:", missingImages.join(", "));
+  }
+  return out;
 }
 
 /* 
@@ -106,8 +128,6 @@ var articles = articlesFull.map(function (articleOrig) {
   } else {
     let matches = article.html.match(/<img src="(.+)" alt="(.+)" style="max-width: 100%;" \/>/);
     icon = matches?.length ? matches[0]: ''
-    console.log('icon:', icon)
-
     if (icon) {
       icon = `<a href="${articleUrl(article)}">${icon.replace("img", 'img class="icon"')}</a>`;
     }
