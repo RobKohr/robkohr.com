@@ -5,9 +5,33 @@
             <link>https://robkohr.com</link>
             <description>RobKohr's Blog</description>
             <language>en-us</language>
-            <lastBuildDate>Thu, 10 Aug 2023 07:00:00 GMT</lastBuildDate>
-            <pubDate>Thu, 10 Aug 2023 07:00:00 GMT</pubDate>
+            <lastBuildDate>Mon, 21 Aug 2023 07:00:00 GMT</lastBuildDate>
+            <pubDate>Mon, 21 Aug 2023 07:00:00 GMT</pubDate>
             <ttl>1800</ttl>
+            <item>
+                <guid>https://robkohr.com/articles/movie--the-stand-in</guid>
+                <title>Movie: the stand in</title>
+                <link>https://robkohr.com/articles/movie--the-stand-in</link>
+                <description>Movie: the stand in</description>
+                <pubDate>Fri, 21 Jul 2023 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/writing-it-down</guid>
+                <title>Writing it down</title>
+                <link>https://robkohr.com/articles/writing-it-down</link>
+                <description>Writing it down</description>
+                <pubDate>Fri, 21 Jul 2023 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/solid---usecontext</guid>
+                <title>Solid - useContext</title>
+                <link>https://robkohr.com/articles/solid---usecontext</link>
+                <description>Solid - useContext</description>
+                <pubDate>Fri, 21 Jul 2023 00:00:00 GMT</pubDate>
+            </item>
+    
             <item>
                 <guid>https://robkohr.com/articles/tailwind</guid>
                 <title>Tailwind</title>
@@ -382,30 +406,6 @@
                 <link>https://robkohr.com/articles/favorite-movies-list</link>
                 <description>Favorite Movies List</description>
                 <pubDate>Fri, 20 Aug 2021 00:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/mind-racing--can-t-nap</guid>
-                <title>Mind racing, can&#39;t nap</title>
-                <link>https://robkohr.com/articles/mind-racing--can-t-nap</link>
-                <description>Mind racing, can&#39;t nap</description>
-                <pubDate>Tue, 27 Jul 2021 00:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/concepts-for-work-time</guid>
-                <title>Concepts for work time</title>
-                <link>https://robkohr.com/articles/concepts-for-work-time</link>
-                <description>Concepts for work time</description>
-                <pubDate>Tue, 27 Jul 2021 00:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/john-cleese-on-creativity-summary</guid>
-                <title>John Cleese On Creativity Summary</title>
-                <link>https://robkohr.com/articles/john-cleese-on-creativity-summary</link>
-                <description>John Cleese On Creativity Summary</description>
-                <pubDate>Tue, 27 Jul 2021 00:00:00 GMT</pubDate>
             </item>
     
         </channel>

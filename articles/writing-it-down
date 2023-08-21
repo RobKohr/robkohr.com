@@ -1,0 +1,51 @@
+
+        <html>
+            <head>
+                <title>Writing it down - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/writing-it-down">Writing it down</a></h2>
+    <div class="variables">
+    <div class="date">@date=2023-08-21</div>
+    <div class="tags">@tags=<a href="tags/writing">writing</a></div>
+    </div>
+    <article>
+        <p>Writing things down is a way of thinking. Not a way of recording what you wrote. One way to do this is to create a TIL - today I learned. </p>
+<p>Another way is to apply the...</p>
+<h3>The Feynman Technique</h3>
+<p>The Feynman Technique is a method named after the physicist Richard Feynman, designed to help individuals learn and understand subjects deeply. It aligns well with the practice of writing about what you learn, and its principles can be summarized in the following steps:</p>
+<ol>
+<li><strong>Choose a Concept</strong>: Select a concept or topic you want to understand.</li>
+<li><strong>Teach It to a Child</strong>: Try to explain the concept as if you were teaching it to a child. Use simple language and avoid jargon.</li>
+<li><strong>Identify Gaps and Go Back to the Source Material</strong>: If you find areas where your explanation falters, go back to the source material to fill in the gaps.</li>
+<li><strong>Simplify and Use Analogies</strong>: Create analogies and use simple language to make the concept more relatable and easier to grasp.</li>
+<li><strong>Review and Refine</strong>: Continuously review and refine your explanation until you can articulate the concept in the simplest terms possible.</li>
+</ol>
+
+    </article>
+    
+            </body>
+          </html>
+          
