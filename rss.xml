@@ -9,10 +9,18 @@
             <pubDate>Mon, 21 Aug 2023 07:00:00 GMT</pubDate>
             <ttl>1800</ttl>
             <item>
-                <guid>https://robkohr.com/articles/movie--the-stand-in</guid>
-                <title>Movie: the stand in</title>
-                <link>https://robkohr.com/articles/movie--the-stand-in</link>
-                <description>Movie: the stand in</description>
+                <guid>https://robkohr.com/articles/45-going-on-46</guid>
+                <title>45 going on 46</title>
+                <link>https://robkohr.com/articles/45-going-on-46</link>
+                <description>45 going on 46</description>
+                <pubDate>Fri, 21 Jul 2023 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/movie-review--the-stand-in</guid>
+                <title>Movie review: the stand in</title>
+                <link>https://robkohr.com/articles/movie-review--the-stand-in</link>
+                <description>Movie review: the stand in</description>
                 <pubDate>Fri, 21 Jul 2023 00:00:00 GMT</pubDate>
             </item>
     
@@ -398,14 +406,6 @@
                 <link>https://robkohr.com/articles/mushroom-container</link>
                 <description>Mushroom Container</description>
                 <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/favorite-movies-list</guid>
-                <title>Favorite Movies List</title>
-                <link>https://robkohr.com/articles/favorite-movies-list</link>
-                <description>Favorite Movies List</description>
-                <pubDate>Fri, 20 Aug 2021 00:00:00 GMT</pubDate>
             </item>
     
         </channel>
