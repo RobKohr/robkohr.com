@@ -1,0 +1,48 @@
+
+        <html>
+            <head>
+                <title>Why isn't VR exploding into the mainstream? - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/why-isn-t-vr-exploding-into-the-mainstream-">Why isn't VR exploding into the mainstream?</a></h2>
+    <div class="variables">
+    <div class="date">@date=2023-08-28</div>
+    <div class="tags">@tags=<a href="tags/vr">vr</a></div>
+    </div>
+    <article>
+        <p><img src="images/2023-08-28 Valve Deckard.png" alt="2023-08-28 Valve Deckard.png" style="max-width: 100%;" /></p>
+<p>You have two real options:  </p>
+<ol>
+<li>PC VR with a huge upfront expense, a required dedicated space, and a wire attached to your head  </li>
+<li>Quest - A tightly controlled platform with limited experimental titles. It is a pain in the ass to develop for, and if you don&#39;t make a smash hit, you won&#39;t be accepted on the storefront. Oh, and lower spec device, but I think people focus too much on graphics quality</li>
+</ol>
+<p>Yeah, you can bridge the gap between the two, but is kinda jenky.  </p>
+<p>Whenever valve gets off their butt and releases Deckard, I think it will be a huge change. Develop easily on your PC, pay $100 to get on steam, and regardless of how indie you are, you can reach your audience.</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

@@ -1,7 +1,7 @@
 
         <html>
             <head>
-                <title>thoughts - RobKohr's Blog</title>
+                <title>How to run a company the Netflix way - RobKohr's Blog</title>
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
@@ -25,18 +25,17 @@
             </head>
             <body>
             <a href="./index.html">Home</a>
-            <h2>Tag: thoughts</h2>
-    
-    <h2><a href="articles/45-going-on-46">45 going on 46</a></h2>
+            
+    <h2><a href="articles/how-to-run-a-company-the-netflix-way">How to run a company the Netflix way</a></h2>
     <div class="variables">
-    <div class="date">@date=2023-08-21</div>
-    <div class="tags">@tags=<a href="tags/thoughts">thoughts</a></div>
+    <div class="date">@date=2023-08-22</div>
+    <div class="tags">@tags=<a href="tags/business">business</a></div>
     </div>
     <article>
-        <a href="articles/45-going-on-46"><img class="icon" src="images/2023-08-21 dumbell.png" alt="2023-08-21 dumbell.png" style="max-width: 100%;" /></a><p>So I am 45, about to be 46. My father is 83. He is pretty far along with dementia, is in a VA home in Alabama, and nearly died, but that was due to being in a really bad state care facility prior that seemed to prefer to drug and leave their patients in a room to die rather than take care of th...</p>
- <p><a class="nowrap" href="articles/45-going-on-46">READ MORE (300 words, 1 images)</a></p> 
+        <p><a href="https://hbr.org/2014/01/how-netflix-reinvented-hr">https://hbr.org/2014/01/how-netflix-reinvented-hr</a></p>
+
     </article>
     
             </body>
-        </html>
-    
+          </html>
+          
