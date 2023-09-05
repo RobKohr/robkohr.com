@@ -240,7 +240,7 @@ articles.forEach(function (article) {
             <head>
                 <title>${article.title} - RobKohr's Blog</title>
 ${headerExtras}
-                <link rel="canonical" href="https://robkohr.com.com/articles/${filename}" />
+                <link rel="canonical" href="https://robkohr.com/articles/${filename}" />
                 <link rel="stylesheet" href="../neat.css">
                 <base href="../">
             </head>
