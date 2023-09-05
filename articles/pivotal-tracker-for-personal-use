@@ -25,7 +25,7 @@
                 <base href="../">
             </head>
             <body>
-            <a href="./index.html">Home</a>
+            <a href="./index.html">← Home</a>
             
     <h2><a href="articles/pivotal-tracker-for-personal-use">Pivotal tracker for personal use</a></h2>
     <div class="variables">

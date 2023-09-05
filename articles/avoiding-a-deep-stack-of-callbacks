@@ -25,7 +25,7 @@
                 <base href="../">
             </head>
             <body>
-            <a href="./index.html">Home</a>
+            <a href="./index.html">← Home</a>
             
     <h2><a href="articles/avoiding-a-deep-stack-of-callbacks">Avoiding a deep stack of callbacks</a></h2>
     <div class="variables">

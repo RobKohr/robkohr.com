@@ -24,7 +24,7 @@
                 <base href="../">
             </head>
             <body>
-            <a href="./index.html">Home</a>
+            <a href="./index.html">← Home</a>
             <h2>Tag: numbers</h2>
     
     <h2><a href="articles/dictionary-of-numbers">dictionary of numbers</a></h2>

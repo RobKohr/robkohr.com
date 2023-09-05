@@ -25,7 +25,7 @@
                 <base href="../">
             </head>
             <body>
-            <a href="./index.html">Home</a>
+            <a href="./index.html">← Home</a>
             
     <h2><a href="articles/monty-python-universe-song">Monty Python Universe song</a></h2>
     <div class="variables">

@@ -24,7 +24,7 @@
                 <base href="../">
             </head>
             <body>
-            <a href="./index.html">Home</a>
+            <a href="./index.html">← Home</a>
             <h2>Tag: security</h2>
     
     <h2><a href="articles/password-validation-done-better">Password validation done better</a></h2>

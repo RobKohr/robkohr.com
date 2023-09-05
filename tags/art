@@ -24,7 +24,7 @@
                 <base href="../">
             </head>
             <body>
-            <a href="./index.html">Home</a>
+            <a href="./index.html">← Home</a>
             <h2>Tag: art</h2>
     
     <h2><a href="articles/chatbot">Chatbot</a></h2>

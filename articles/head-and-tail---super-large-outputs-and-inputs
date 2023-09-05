@@ -25,7 +25,7 @@
                 <base href="../">
             </head>
             <body>
-            <a href="./index.html">Home</a>
+            <a href="./index.html">← Home</a>
             
     <h2><a href="articles/head-and-tail---super-large-outputs-and-inputs">Head and tail - super large outputs and inputs</a></h2>
     <div class="variables">

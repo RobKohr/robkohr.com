@@ -245,7 +245,7 @@ ${headerExtras}
                 <base href="../">
             </head>
             <body>
-            <a href="./index.html">Home</a>
+            <a href="./index.html">← Home</a>
             `;
   const articleEndHtml = `
             </body>
@@ -272,7 +272,7 @@ ${headerExtras}
                 <base href="../">
             </head>
             <body>
-            <a href="./index.html">Home</a>
+            <a href="./index.html">← Home</a>
             <h2>Tag: ${tag}</h2>
     `;
   tagPages[tag].forEach(function (article) {
@@ -297,7 +297,7 @@ ${headerExtras}
             <base href="../">
         </head>
         <body>
-        <a href="./index.html">Home</a>
+        <a href="./index.html">← Home</a>
         <h2>Tags</h2>
 `;
 

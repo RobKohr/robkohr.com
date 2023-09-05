@@ -25,7 +25,7 @@
                 <base href="../">
             </head>
             <body>
-            <a href="./index.html">Home</a>
+            <a href="./index.html">← Home</a>
             
     <h2><a href="articles/after-using-mongodb-for-quite-some-time-and-building-several-systems-with-it----">After using mongodb for quite some time and building several systems with it,...</a></h2>
     <div class="variables">

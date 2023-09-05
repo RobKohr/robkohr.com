@@ -24,7 +24,7 @@
                 <base href="../">
             </head>
             <body>
-            <a href="./index.html">Home</a>
+            <a href="./index.html">← Home</a>
             <h2>Tag: google-plus-postjavascript</h2>
     
     <h2><a href="articles/avoiding-a-deep-stack-of-callbacks">Avoiding a deep stack of callbacks</a></h2>
