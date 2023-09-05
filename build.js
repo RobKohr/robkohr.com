@@ -234,11 +234,13 @@ articles.forEach(function (article) {
   if (!article.variables.page) {
     output = addArticleToOutput(article, output);
   }
+  const filename = `${toKebab(article.title)}`;
   const articleStartHtml = `
         <html>
             <head>
                 <title>${article.title} - RobKohr's Blog</title>
 ${headerExtras}
+                <link rel="canonical" href="https://robkohr.com.com/articles/${filename}" />
                 <link rel="stylesheet" href="../neat.css">
                 <base href="../">
             </head>
@@ -250,7 +252,6 @@ ${headerExtras}
           </html>
           `;
   const articleHtml = articleStartHtml + addArticleToOutput(article, "", true) + articleEndHtml;
-  const filename = `${toKebab(article.title)}`;
   if (filename) {
     fs.writeFileSync(`articles/${filename}`, articleHtml);
   }
