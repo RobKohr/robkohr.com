@@ -25,7 +25,7 @@
                 <base href="../">
             </head>
             <body>
-            <a href="./index.html">← Home</a>
+            <a href="./index.html">&larr; Home</a>
             
     <h2><a href="articles/a-new-way-to-round---rand-round">A new way to round - rand_round</a></h2>
     <div class="variables">

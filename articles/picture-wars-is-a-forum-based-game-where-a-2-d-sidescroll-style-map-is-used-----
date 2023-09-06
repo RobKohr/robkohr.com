@@ -25,7 +25,7 @@
                 <base href="../">
             </head>
             <body>
-            <a href="./index.html">← Home</a>
+            <a href="./index.html">&larr; Home</a>
             
     <h2><a href="articles/picture-wars-is-a-forum-based-game-where-a-2-d-sidescroll-style-map-is-used-----">Picture wars is a forum based game where a 2-d sidescroll style map is used. ...</a></h2>
     <div class="variables">

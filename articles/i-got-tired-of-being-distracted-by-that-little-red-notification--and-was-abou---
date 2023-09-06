@@ -25,7 +25,7 @@
                 <base href="../">
             </head>
             <body>
-            <a href="./index.html">← Home</a>
+            <a href="./index.html">&larr; Home</a>
             
     <h2><a href="articles/i-got-tired-of-being-distracted-by-that-little-red-notification--and-was-abou---">I got tired of being distracted by that little red notification, and was abou...</a></h2>
     <div class="variables">

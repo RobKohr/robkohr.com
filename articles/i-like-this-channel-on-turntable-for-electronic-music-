@@ -25,7 +25,7 @@
                 <base href="../">
             </head>
             <body>
-            <a href="./index.html">← Home</a>
+            <a href="./index.html">&larr; Home</a>
             
     <h2><a href="articles/i-like-this-channel-on-turntable-for-electronic-music-">I like this channel on turntable for electronic music.</a></h2>
     <div class="variables">

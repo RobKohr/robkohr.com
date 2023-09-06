@@ -24,7 +24,7 @@
                 <base href="../">
             </head>
             <body>
-            <a href="./index.html">← Home</a>
+            <a href="./index.html">&larr; Home</a>
             <h2>Tag: javascript</h2>
     
     <h2><a href="articles/the-joys-of-js">The joys of JS</a></h2>

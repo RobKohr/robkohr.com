@@ -25,7 +25,7 @@
                 <base href="../">
             </head>
             <body>
-            <a href="./index.html">← Home</a>
+            <a href="./index.html">&larr; Home</a>
             
     <h2><a href="articles/anyone-interested-in-minatures-should-check-out-shapeways-">Anyone interested in minatures should check out shapeways.</a></h2>
     <div class="variables">

@@ -24,7 +24,7 @@
                 <base href="../">
             </head>
             <body>
-            <a href="./index.html">← Home</a>
+            <a href="./index.html">&larr; Home</a>
             <h2>Tag: movie-review</h2>
     
     <h2><a href="articles/movie-review--press-play">Movie Review: Press Play</a></h2>

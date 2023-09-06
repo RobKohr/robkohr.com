@@ -25,7 +25,7 @@
                 <base href="../">
             </head>
             <body>
-            <a href="./index.html">← Home</a>
+            <a href="./index.html">&larr; Home</a>
             
     <h2><a href="articles/an-image-of-a-bitcoin-mining-rig--it-is-so-industrial--it-looks-almost-like-e---">An image of a bitcoin mining rig. It is so industrial, it looks almost like e...</a></h2>
     <div class="variables">

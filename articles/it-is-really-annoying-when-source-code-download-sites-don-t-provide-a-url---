@@ -25,7 +25,7 @@
                 <base href="../">
             </head>
             <body>
-            <a href="./index.html">← Home</a>
+            <a href="./index.html">&larr; Home</a>
             
     <h2><a href="articles/it-is-really-annoying-when-source-code-download-sites-don-t-provide-a-url---">It is really annoying when source code download sites don't provide a url...</a></h2>
     <div class="variables">

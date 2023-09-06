@@ -25,7 +25,7 @@
                 <base href="../">
             </head>
             <body>
-            <a href="./index.html">← Home</a>
+            <a href="./index.html">&larr; Home</a>
             
     <h2><a href="articles/what-do-people-in-ludum-dare-use-for-timelapse-on-mac-">What do people in Ludum Dare use for timelapse on Mac.</a></h2>
     <div class="variables">

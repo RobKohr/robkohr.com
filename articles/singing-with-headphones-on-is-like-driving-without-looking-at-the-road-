@@ -25,7 +25,7 @@
                 <base href="../">
             </head>
             <body>
-            <a href="./index.html">← Home</a>
+            <a href="./index.html">&larr; Home</a>
             
     <h2><a href="articles/singing-with-headphones-on-is-like-driving-without-looking-at-the-road-">Singing with headphones on is like driving without looking at the road.</a></h2>
     <div class="variables">

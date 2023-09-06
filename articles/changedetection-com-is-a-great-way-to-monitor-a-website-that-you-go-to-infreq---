@@ -25,7 +25,7 @@
                 <base href="../">
             </head>
             <body>
-            <a href="./index.html">← Home</a>
+            <a href="./index.html">&larr; Home</a>
             
     <h2><a href="articles/changedetection-com-is-a-great-way-to-monitor-a-website-that-you-go-to-infreq---">ChangeDetection.com is a great way to monitor a website that you go to infreq...</a></h2>
     <div class="variables">

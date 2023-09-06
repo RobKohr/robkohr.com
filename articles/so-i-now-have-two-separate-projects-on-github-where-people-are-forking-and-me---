@@ -25,7 +25,7 @@
                 <base href="../">
             </head>
             <body>
-            <a href="./index.html">← Home</a>
+            <a href="./index.html">&larr; Home</a>
             
     <h2><a href="articles/so-i-now-have-two-separate-projects-on-github-where-people-are-forking-and-me---">So I now have two separate projects on github where people are forking and me...</a></h2>
     <div class="variables">

@@ -25,7 +25,7 @@
                 <base href="../">
             </head>
             <body>
-            <a href="./index.html">← Home</a>
+            <a href="./index.html">&larr; Home</a>
             
     <h2><a href="articles/top-50-entries-for-the-48-hour-game-development-competition-">Top 50 entries for the 48 hour game development competition.</a></h2>
     <div class="variables">

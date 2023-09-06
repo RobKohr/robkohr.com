@@ -25,7 +25,7 @@
                 <base href="../">
             </head>
             <body>
-            <a href="./index.html">← Home</a>
+            <a href="./index.html">&larr; Home</a>
             
     <h2><a href="articles/so-nice--i-was-fiddling-with-gimp-to-edit-an-image--but-aviary-is-so-much-eas---">So nice. I was fiddling with Gimp to edit an image, but aviary is so much eas...</a></h2>
     <div class="variables">

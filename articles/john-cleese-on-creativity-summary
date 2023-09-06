@@ -25,7 +25,7 @@
                 <base href="../">
             </head>
             <body>
-            <a href="./index.html">← Home</a>
+            <a href="./index.html">&larr; Home</a>
             
     <h2><a href="articles/john-cleese-on-creativity-summary">John Cleese On Creativity Summary</a></h2>
     <div class="variables">

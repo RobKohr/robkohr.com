@@ -25,7 +25,7 @@
                 <base href="../">
             </head>
             <body>
-            <a href="./index.html">← Home</a>
+            <a href="./index.html">&larr; Home</a>
             
     <h2><a href="articles/i-run-a-ugc-site-on-a-dreamhost-virtual-private-server-called">I run a UGC site on a dreamhost virtual private server called</a></h2>
     <div class="variables">

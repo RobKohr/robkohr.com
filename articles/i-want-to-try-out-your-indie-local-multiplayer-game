@@ -25,7 +25,7 @@
                 <base href="../">
             </head>
             <body>
-            <a href="./index.html">← Home</a>
+            <a href="./index.html">&larr; Home</a>
             
     <h2><a href="articles/i-want-to-try-out-your-indie-local-multiplayer-game">I want to try out your Indie Local Multiplayer Game</a></h2>
     <div class="variables">

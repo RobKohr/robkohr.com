@@ -25,7 +25,7 @@
                 <base href="../">
             </head>
             <body>
-            <a href="./index.html">← Home</a>
+            <a href="./index.html">&larr; Home</a>
             
     <h2><a href="articles/google-maps-has-a-bike-mode-and-a-mass-transit-mode--it-would-be-great-if-the---">Google maps has a bike mode and a mass transit mode. It would be great if the...</a></h2>
     <div class="variables">

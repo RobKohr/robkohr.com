@@ -24,7 +24,7 @@
                 <base href="../">
             </head>
             <body>
-            <a href="./index.html">← Home</a>
+            <a href="./index.html">&larr; Home</a>
             <h2>Tag: blog</h2>
     
     <h2><a href="articles/created-a-new-blog-render">Created a new blog render</a></h2>

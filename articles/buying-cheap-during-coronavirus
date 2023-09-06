@@ -25,7 +25,7 @@
                 <base href="../">
             </head>
             <body>
-            <a href="./index.html">← Home</a>
+            <a href="./index.html">&larr; Home</a>
             
     <h2><a href="articles/buying-cheap-during-coronavirus">Buying cheap during coronavirus</a></h2>
     <div class="variables">

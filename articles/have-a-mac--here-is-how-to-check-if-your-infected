@@ -25,7 +25,7 @@
                 <base href="../">
             </head>
             <body>
-            <a href="./index.html">← Home</a>
+            <a href="./index.html">&larr; Home</a>
             
     <h2><a href="articles/have-a-mac--here-is-how-to-check-if-your-infected">Have a mac, here is how to check if your infected</a></h2>
     <div class="variables">

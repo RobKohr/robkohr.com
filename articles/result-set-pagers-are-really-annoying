@@ -25,7 +25,7 @@
                 <base href="../">
             </head>
             <body>
-            <a href="./index.html">← Home</a>
+            <a href="./index.html">&larr; Home</a>
             
     <h2><a href="articles/result-set-pagers-are-really-annoying">Result set pagers are really annoying</a></h2>
     <div class="variables">

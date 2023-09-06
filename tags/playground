@@ -24,7 +24,7 @@
                 <base href="../">
             </head>
             <body>
-            <a href="./index.html">← Home</a>
+            <a href="./index.html">&larr; Home</a>
             <h2>Tag: playground</h2>
     
     <h2><a href="articles/designing-playground-structure-using-ar">Designing playground structure using AR</a></h2>

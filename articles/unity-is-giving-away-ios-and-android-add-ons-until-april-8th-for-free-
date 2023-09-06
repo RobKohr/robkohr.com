@@ -25,7 +25,7 @@
                 <base href="../">
             </head>
             <body>
-            <a href="./index.html">← Home</a>
+            <a href="./index.html">&larr; Home</a>
             
     <h2><a href="articles/unity-is-giving-away-ios-and-android-add-ons-until-april-8th-for-free-">Unity is giving away iOS and Android add ons until April 8th for free.</a></h2>
     <div class="variables">

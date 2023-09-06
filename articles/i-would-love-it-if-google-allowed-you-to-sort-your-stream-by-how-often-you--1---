@@ -25,7 +25,7 @@
                 <base href="../">
             </head>
             <body>
-            <a href="./index.html">← Home</a>
+            <a href="./index.html">&larr; Home</a>
             
     <h2><a href="articles/i-would-love-it-if-google-allowed-you-to-sort-your-stream-by-how-often-you--1---">I would love it if google allowed you to sort your stream by how often you +1...</a></h2>
     <div class="variables">

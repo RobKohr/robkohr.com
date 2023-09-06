@@ -24,7 +24,7 @@
                 <base href="../">
             </head>
             <body>
-            <a href="./index.html">← Home</a>
+            <a href="./index.html">&larr; Home</a>
             <h2>Tag: extensions</h2>
     
     <h2><a href="articles/a-quick-and-easy-way-to-make-chrome-web-browser-more-secure">A quick and easy way to make Chrome web browser more secure</a></h2>

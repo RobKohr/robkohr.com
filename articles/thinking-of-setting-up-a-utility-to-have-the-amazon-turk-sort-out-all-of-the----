@@ -25,7 +25,7 @@
                 <base href="../">
             </head>
             <body>
-            <a href="./index.html">← Home</a>
+            <a href="./index.html">&larr; Home</a>
             
     <h2><a href="articles/thinking-of-setting-up-a-utility-to-have-the-amazon-turk-sort-out-all-of-the----">Thinking of setting up a utility to have the amazon turk sort out all of the ...</a></h2>
     <div class="variables">

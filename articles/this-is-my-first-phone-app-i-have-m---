@@ -25,7 +25,7 @@
                 <base href="../">
             </head>
             <body>
-            <a href="./index.html">← Home</a>
+            <a href="./index.html">&larr; Home</a>
             
     <h2><a href="articles/this-is-my-first-phone-app-i-have-m---">This is my first phone app I have m...</a></h2>
     <div class="variables">
