@@ -9,6 +9,14 @@
             <pubDate>Fri, 22 Sep 2023 07:00:00 GMT</pubDate>
             <ttl>1800</ttl>
             <item>
+                <guid>https://robkohr.com/articles/done-manifesto</guid>
+                <title>Done manifesto</title>
+                <link>https://robkohr.com/articles/done-manifesto</link>
+                <description>Done manifesto</description>
+                <pubDate>Tue, 22 Aug 2023 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
                 <guid>https://robkohr.com/articles/being-yourself-after-you-forget-yourself</guid>
                 <title>Being yourself after you forget yourself</title>
                 <link>https://robkohr.com/articles/being-yourself-after-you-forget-yourself</link>
@@ -398,14 +406,6 @@
                 <link>https://robkohr.com/articles/desk</link>
                 <description>Desk</description>
                 <pubDate>Mon, 18 Jul 2022 00:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/designing-playground-structure-using-ar</guid>
-                <title>Designing playground structure using AR</title>
-                <link>https://robkohr.com/articles/designing-playground-structure-using-ar</link>
-                <description>Designing playground structure using AR</description>
-                <pubDate>Fri, 15 Jul 2022 00:00:00 GMT</pubDate>
             </item>
     
         </channel>
