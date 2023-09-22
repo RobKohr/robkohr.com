@@ -1,0 +1,60 @@
+
+        <html>
+            <head>
+                <title>Done manifesto - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
+
+                <link rel="canonical" href="https://robkohr.com/articles/done-manifesto" />
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            
+    <h2><a href="articles/done-manifesto">Done manifesto</a></h2>
+    <div class="variables">
+    <div class="date"></div>
+    <div class="tags"></div>
+    </div>
+    <article>
+        <blockquote>
+<ol>
+<li>There are three states of being. Not knowing, action and completion.</li>
+<li>Accept that everything is a draft. It helps to get it done.</li>
+<li>There is no editing stage.</li>
+<li>Pretending you know what you&#39;re doing is almost the same as knowing what you are doing, so just accept that you know what you&#39;re doing even if you don&#39;t and do it.</li>
+<li>Banish procrastination. If you wait more than a week to get an idea done, abandon it.</li>
+<li>The point of being done is not to finish but to get other things done.</li>
+<li>Once you&#39;re done you can throw it away.</li>
+<li>Laugh at perfection. It&#39;s boring and keeps you from being done.</li>
+<li>People without dirty hands are wrong. Doing something makes you right.</li>
+<li>Failure counts as done. So do mistakes.</li>
+<li>Destruction is a variant of done.</li>
+<li>If you have an idea and publish it on the internet, that counts as a ghost of done.</li>
+<li>Done is the engine of more.</li>
+</ol>
+</blockquote>
+<p>Source: <a href="https://medium.com/@bre/the-cult-of-done-manifesto-724ca1c2ff13">https://medium.com/@bre/the-cult-of-done-manifesto-724ca1c2ff13</a></p>
+<p><img src="images/2023-09-22 Done manifesto.png" alt="2023-09-22 Done manifesto.png" style="max-width: 100%;" /></p>
+
+    </article>
+    
+            </body>
+          </html>
+          

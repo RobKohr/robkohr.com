@@ -5,9 +5,17 @@
             <link>https://robkohr.com</link>
             <description>RobKohr's Blog</description>
             <language>en-us</language>
-            <lastBuildDate>Sun, 17 Sep 2023 07:00:00 GMT</lastBuildDate>
-            <pubDate>Sun, 17 Sep 2023 07:00:00 GMT</pubDate>
+            <lastBuildDate>Fri, 22 Sep 2023 07:00:00 GMT</lastBuildDate>
+            <pubDate>Fri, 22 Sep 2023 07:00:00 GMT</pubDate>
             <ttl>1800</ttl>
+            <item>
+                <guid>https://robkohr.com/articles/being-yourself-after-you-forget-yourself</guid>
+                <title>Being yourself after you forget yourself</title>
+                <link>https://robkohr.com/articles/being-yourself-after-you-forget-yourself</link>
+                <description>Being yourself after you forget yourself</description>
+                <pubDate>Fri, 18 Aug 2023 00:00:00 GMT</pubDate>
+            </item>
+    
             <item>
                 <guid>https://robkohr.com/articles/why-isn-t-vr-exploding-into-the-mainstream-</guid>
                 <title>Why isn&#39;t VR exploding into the mainstream?</title>
@@ -398,14 +406,6 @@
                 <link>https://robkohr.com/articles/designing-playground-structure-using-ar</link>
                 <description>Designing playground structure using AR</description>
                 <pubDate>Fri, 15 Jul 2022 00:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/concept-art-for-space-fighting-game---2022-07-26</guid>
-                <title>Concept art for space fighting game - 2022-07-26</title>
-                <link>https://robkohr.com/articles/concept-art-for-space-fighting-game---2022-07-26</link>
-                <description>Concept art for space fighting game - 2022-07-26</description>
-                <pubDate>Sun, 26 Jun 2022 00:00:00 GMT</pubDate>
             </item>
     
         </channel>

@@ -7,9 +7,6 @@ fonts/Courier_Prime fonts/Cutive fonts/Fira_Code fonts/IBM_Plex_Mono fonts/Kosug
     font-family: 'Courier Prime';
     src: url('fonts/Courier_Prime/CourierPrime-Regular.ttf') format('truetype');
 }
-article{
-b}
-
 /* 
 @font-face {
     font-family: 'Cutive';
