@@ -1,0 +1,78 @@
+
+        <html>
+            <head>
+                <title>Bookmarks - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
+
+                <link rel="canonical" href="https://robkohr.com/articles/bookmarks" />
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            
+    <h2><a href="articles/bookmarks">Bookmarks</a></h2>
+    <div class="variables">
+    <div class="date"></div>
+    <div class="tags"></div>
+    </div>
+    <article>
+        <h3>Blogs</h3>
+<ul>
+<li><a href="https://sambleckley.com/blog/">https://sambleckley.com/blog/</a><ul>
+<li>Great articles on writing, coding, and philosophy.</li>
+</ul>
+</li>
+<li><a href="https://substack.com/@abundantia">https://substack.com/@abundantia</a><ul>
+<li>Ancient historical stuff related to freedom</li>
+</ul>
+</li>
+<li><a href="https://ploum.net/index_en.html">https://ploum.net/index_en.html</a><ul>
+<li>Some esoteric self reflection on the state of living</li>
+</ul>
+</li>
+</ul>
+<h3>Tech I like</h3>
+<ul>
+<li><a href="https://www.solidjs.com/">https://www.solidjs.com/</a><ul>
+<li>A fast light alternative to react that makes me feel like the early days of JS web dev - but in a good way</li>
+</ul>
+</li>
+<li><a href="https://bevyengine.org/">https://bevyengine.org/</a><ul>
+<li>Game engine built in Rust that I am getting interested in.</li>
+</ul>
+</li>
+</ul>
+<h3>Other</h3>
+<ul>
+<li><a href="https://flashbak.com/">https://flashbak.com/</a><ul>
+<li>Amazing photographs from other time periods</li>
+</ul>
+</li>
+<li><a href="https://poestories.com/">https://poestories.com/</a><ul>
+<li>short stories by Edgar Allan Poe</li>
+</ul>
+</li>
+</ul>
+
+    </article>
+    
+            </body>
+          </html>
+          
