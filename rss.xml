@@ -5,9 +5,25 @@
             <link>https://robkohr.com</link>
             <description>RobKohr's Blog</description>
             <language>en-us</language>
-            <lastBuildDate>Tue, 26 Sep 2023 07:00:00 GMT</lastBuildDate>
-            <pubDate>Tue, 26 Sep 2023 07:00:00 GMT</pubDate>
+            <lastBuildDate>Tue, 03 Oct 2023 07:00:00 GMT</lastBuildDate>
+            <pubDate>Tue, 03 Oct 2023 07:00:00 GMT</pubDate>
             <ttl>1800</ttl>
+            <item>
+                <guid>https://robkohr.com/articles/light-painter-picking-up-blur</guid>
+                <title>Light painter picking up blur</title>
+                <link>https://robkohr.com/articles/light-painter-picking-up-blur</link>
+                <description>Light painter picking up blur</description>
+                <pubDate>Sun, 03 Sep 2023 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/tree-sketch</guid>
+                <title>Tree sketch</title>
+                <link>https://robkohr.com/articles/tree-sketch</link>
+                <description>Tree sketch</description>
+                <pubDate>Sun, 03 Sep 2023 00:00:00 GMT</pubDate>
+            </item>
+    
             <item>
                 <guid>https://robkohr.com/articles/done-manifesto</guid>
                 <title>Done manifesto</title>
@@ -390,22 +406,6 @@
                 <link>https://robkohr.com/articles/on-game-development</link>
                 <description>On game development</description>
                 <pubDate>Fri, 04 Nov 2022 23:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/inserting-political-messaging-into-education</guid>
-                <title>Inserting political messaging into education</title>
-                <link>https://robkohr.com/articles/inserting-political-messaging-into-education</link>
-                <description>Inserting political messaging into education</description>
-                <pubDate>Fri, 22 Jul 2022 00:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/desk</guid>
-                <title>Desk</title>
-                <link>https://robkohr.com/articles/desk</link>
-                <description>Desk</description>
-                <pubDate>Mon, 18 Jul 2022 00:00:00 GMT</pubDate>
             </item>
     
         </channel>

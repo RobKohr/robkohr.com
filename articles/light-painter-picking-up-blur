@@ -1,0 +1,42 @@
+
+        <html>
+            <head>
+                <title>Light painter picking up blur - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
+
+                <link rel="canonical" href="https://robkohr.com/articles/light-painter-picking-up-blur" />
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            
+    <h2><a href="articles/light-painter-picking-up-blur">Light painter picking up blur</a></h2>
+    <div class="variables">
+    <div class="date">@date=2023-10-03</div>
+    <div class="tags">@tags=<a href="tags/design">design</a>, <a href="tags/light-painter">light-painter</a>, <a href="tags/excelidraw">excelidraw</a></div>
+    </div>
+    <article>
+        <p>[[2023-10-03 Light painter picking up blur.png]]</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

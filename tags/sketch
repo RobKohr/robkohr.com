@@ -1,7 +1,7 @@
 
         <html>
             <head>
-                <title>drawing - RobKohr's Blog</title>
+                <title>sketch - RobKohr's Blog</title>
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
@@ -25,7 +25,7 @@
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>
-            <h2>Tag: drawing</h2>
+            <h2>Tag: sketch</h2>
     
     <h2><a href="articles/tree-sketch">Tree sketch</a></h2>
     <div class="variables">
@@ -34,16 +34,6 @@
     </div>
     <article>
         <p>[[2022-08-18 Tree sketch.png]]</p>
-
-    </article>
-    
-    <h2><a href="articles/designing-playground-structure-using-ar">Designing playground structure using AR</a></h2>
-    <div class="variables">
-    <div class="date">@date=2022-08-15</div>
-    <div class="tags">@tags=<a href="tags/ar">ar</a>, <a href="tags/drawing">drawing</a>, <a href="tags/playground">playground</a>, <a href="tags/design">design</a>, <a href="tags/woodworking">woodworking</a></div>
-    </div>
-    <article>
-        <p><img src="images/Designing playground structure using AR - 2022-08-15.png" alt="Designing playground structure using AR - 2022-08-15.png" style="max-width: 100%;" /></p>
 
     </article>
     
