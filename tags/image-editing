@@ -1,7 +1,7 @@
 
         <html>
             <head>
-                <title>tools - RobKohr's Blog</title>
+                <title>image-editing - RobKohr's Blog</title>
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
@@ -25,7 +25,7 @@
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>
-            <h2>Tag: tools</h2>
+            <h2>Tag: image-editing</h2>
     
     <h2><a href="articles/online-tool-for-quick-photo-edits">Online tool for quick photo edits</a></h2>
     <div class="variables">
@@ -38,27 +38,6 @@
 <p>You can create animated gifs, do art style filters, do some basic drawing and modifications, etc.</p>
 <p>Many of the thinks ...</p>
  <p><a class="nowrap" href="articles/online-tool-for-quick-photo-edits">READ MORE (59 words)</a></p> 
-    </article>
-    
-    <h2><a href="articles/alternative-to-zoom--google-meet--and-teams">Alternative to zoom, google meet, and teams</a></h2>
-    <div class="variables">
-    <div class="date">@date=2023-08-22</div>
-    <div class="tags">@tags=<a href="tags/tools">tools</a></div>
-    </div>
-    <article>
-        <p><a href="https://meet.jit.si/">https://meet.jit.si/</a></p>
-
-    </article>
-    
-    <h2><a href="articles/bringing-back-the-pipes">Bringing back the pipes</a></h2>
-    <div class="variables">
-    <div class="date">@date=2019-11-30</div>
-    <div class="tags">@tags=<a href="tags/tools">tools</a></div>
-    </div>
-    <article>
-        <p><img src="images/2020-06-12-08-44-16.png" alt="2020-06-12-08-44-16.png" style="max-width: 100%;" /></p>
-<p><a href="https://nodered.org/">Node red</a> this is a very similar thing to yahoo pipes back in the day. It is a self hosted tool to pipe things into each other and do operations on them (best to watch the video there).</p>
-
     </article>
     
             </body>

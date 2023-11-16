@@ -1,0 +1,47 @@
+
+        <html>
+            <head>
+                <title>Failure state for computers and AI - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
+
+                <link rel="canonical" href="https://robkohr.com/articles/failure-state-for-computers-and-ai" />
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            
+    <h2><a href="articles/failure-state-for-computers-and-ai">Failure state for computers and AI</a></h2>
+    <div class="variables">
+    <div class="date">@date=2023-10-15</div>
+    <div class="tags">@tags=<a href="tags/ai">ai</a></div>
+    </div>
+    <article>
+        <p>Dishwasher that wouldn&#39;t run because it thought it wasn&#39;t draining but it was
+Car backup sensor thought there was something there, but wasn&#39;t and wouldn&#39;t let me back up, but car had an override
+The airplane that they were pulling up in, but ignoring the stall warning
+Teslas that people let drive and then kill them. 
+Not re-reading something that chat gpt improved the writing of</p>
+<p>Don&#39;t let zombies control your life.</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

@@ -5,9 +5,33 @@
             <link>https://robkohr.com</link>
             <description>RobKohr's Blog</description>
             <language>en-us</language>
-            <lastBuildDate>Tue, 03 Oct 2023 07:00:00 GMT</lastBuildDate>
-            <pubDate>Tue, 03 Oct 2023 07:00:00 GMT</pubDate>
+            <lastBuildDate>Thu, 16 Nov 2023 08:00:00 GMT</lastBuildDate>
+            <pubDate>Thu, 16 Nov 2023 08:00:00 GMT</pubDate>
             <ttl>1800</ttl>
+            <item>
+                <guid>https://robkohr.com/articles/online-tool-for-quick-photo-edits</guid>
+                <title>Online tool for quick photo edits</title>
+                <link>https://robkohr.com/articles/online-tool-for-quick-photo-edits</link>
+                <description>Online tool for quick photo edits</description>
+                <pubDate>Sun, 15 Oct 2023 23:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/pointing-away-from-the-pointless</guid>
+                <title>Pointing away from the pointless</title>
+                <link>https://robkohr.com/articles/pointing-away-from-the-pointless</link>
+                <description>Pointing away from the pointless</description>
+                <pubDate>Sun, 01 Oct 2023 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/failure-state-for-computers-and-ai</guid>
+                <title>Failure state for computers and AI</title>
+                <link>https://robkohr.com/articles/failure-state-for-computers-and-ai</link>
+                <description>Failure state for computers and AI</description>
+                <pubDate>Fri, 15 Sep 2023 00:00:00 GMT</pubDate>
+            </item>
+    
             <item>
                 <guid>https://robkohr.com/articles/light-painter-picking-up-blur</guid>
                 <title>Light painter picking up blur</title>
@@ -382,30 +406,6 @@
                 <link>https://robkohr.com/articles/svelte</link>
                 <description>Svelte</description>
                 <pubDate>Sat, 28 Jan 2023 00:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/santa---elf-drawings</guid>
-                <title>Santa &amp; Elf Drawings</title>
-                <link>https://robkohr.com/articles/santa---elf-drawings</link>
-                <description>Santa &amp; Elf Drawings</description>
-                <pubDate>Sun, 20 Nov 2022 00:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/movie-review--press-play</guid>
-                <title>Movie Review: Press Play</title>
-                <link>https://robkohr.com/articles/movie-review--press-play</link>
-                <description>Movie Review: Press Play</description>
-                <pubDate>Fri, 04 Nov 2022 23:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/on-game-development</guid>
-                <title>On game development</title>
-                <link>https://robkohr.com/articles/on-game-development</link>
-                <description>On game development</description>
-                <pubDate>Fri, 04 Nov 2022 23:00:00 GMT</pubDate>
             </item>
     
         </channel>
