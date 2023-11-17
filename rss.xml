@@ -9,6 +9,14 @@
             <pubDate>Thu, 16 Nov 2023 08:00:00 GMT</pubDate>
             <ttl>1800</ttl>
             <item>
+                <guid>https://robkohr.com/articles/tapping-out-a-muscle-group-with-20-reps</guid>
+                <title>Tapping out a muscle group with 20 reps</title>
+                <link>https://robkohr.com/articles/tapping-out-a-muscle-group-with-20-reps</link>
+                <description>Tapping out a muscle group with 20 reps</description>
+                <pubDate>Sun, 15 Oct 2023 23:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
                 <guid>https://robkohr.com/articles/online-tool-for-quick-photo-edits</guid>
                 <title>Online tool for quick photo edits</title>
                 <link>https://robkohr.com/articles/online-tool-for-quick-photo-edits</link>
@@ -397,14 +405,6 @@
                 <title>AWS</title>
                 <link>https://robkohr.com/articles/aws</link>
                 <description>AWS</description>
-                <pubDate>Sat, 28 Jan 2023 00:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/svelte</guid>
-                <title>Svelte</title>
-                <link>https://robkohr.com/articles/svelte</link>
-                <description>Svelte</description>
                 <pubDate>Sat, 28 Jan 2023 00:00:00 GMT</pubDate>
             </item>
     
