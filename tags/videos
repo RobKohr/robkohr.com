@@ -1,0 +1,44 @@
+
+        <html>
+            <head>
+                <title>videos - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            <h2>Tag: videos</h2>
+    
+    <h2><a href="articles/downloading-youtube-videos">Downloading youtube videos</a></h2>
+    <div class="variables">
+    <div class="date">@date=2023-11-21</div>
+    <div class="tags">@tags=<a href="tags/youtube">youtube</a>, <a href="tags/videos">videos</a>, <a href="tags/music">music</a></div>
+    </div>
+    <article>
+        <p>If you ever have a need to download some video from youtube, this is the best tool I found:
+<a href="https://github.com/yt-dlp/yt-dlp">https://github.com/yt-dlp/yt-dlp</a></p>
+<p>It gives you lots of options for output sizes and types and can download channels and playlists.</p>
+
+    </article>
+    
+            </body>
+        </html>
+    

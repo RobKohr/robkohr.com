@@ -1,0 +1,46 @@
+
+        <html>
+            <head>
+                <title>Perfect quote about the hard part about programming - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
+
+                <link rel="canonical" href="https://robkohr.com/articles/perfect-quote-about-the-hard-part-about-programming" />
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            
+    <h2><a href="articles/perfect-quote-about-the-hard-part-about-programming">Perfect quote about the hard part about programming</a></h2>
+    <div class="variables">
+    <div class="date">@date=2023-12-11</div>
+    <div class="tags">@tags=<a href="tags/programming">programming</a></div>
+    </div>
+    <article>
+        <p>&quot;This is what I constantly tell my students: The <em>hard</em> part about doing a tech product for the most part isn&#39;t the what beginners <em>think</em> makes tech hard — the hard part is wrangling systemic complexity in a good, sustainable and reliable way.</p>
+<p>Many non-tech people e.g. look at programmers and think the hard part is knowing what this garble of weird text means. But this is the easy part. And if you are a person who would think it is hard, you probably don&#39;t know about all the demons out there that will come to haunt you if you don&#39;t build a foundation that helps you actively keeping them away.&quot;</p>
+<p>User <em>atoav</em> on <a href="https://news.ycombinator.com/item?id=38477057">https://news.ycombinator.com/item?id=38477057</a> about &quot;You do need a technical co-founder&quot;</p>
+<p>Other funny thing to read about system complexity:
+<a href="https://grugbrain.dev/">https://grugbrain.dev/</a></p>
+
+    </article>
+    
+            </body>
+          </html>
+          

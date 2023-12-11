@@ -27,6 +27,17 @@
             <a href="./index.html">&larr; Home</a>
             <h2>Tag: programming</h2>
     
+    <h2><a href="articles/perfect-quote-about-the-hard-part-about-programming">Perfect quote about the hard part about programming</a></h2>
+    <div class="variables">
+    <div class="date">@date=2023-12-11</div>
+    <div class="tags">@tags=<a href="tags/programming">programming</a></div>
+    </div>
+    <article>
+        <p>&quot;This is what I constantly tell my students: The <em>hard</em> part about doing a tech product for the most part isn&#39;t the what beginners <em>think</em> makes tech hard — the hard part is wrangling systemic complexity in a good, sustainable and reliable way.</p>
+<p>Many non-tech people e.g. look at programmers and t...</p>
+ <p><a class="nowrap" href="articles/perfect-quote-about-the-hard-part-about-programming">READ MORE (127 words)</a></p> 
+    </article>
+    
     <h2><a href="articles/stackoverflow-instead-of-beating-your-head-against-the-wall">Stackoverflow instead of beating your head against the wall</a></h2>
     <div class="variables">
     <div class="date">@date=2023-06-22</div>

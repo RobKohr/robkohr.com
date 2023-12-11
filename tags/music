@@ -27,6 +27,18 @@
             <a href="./index.html">&larr; Home</a>
             <h2>Tag: music</h2>
     
+    <h2><a href="articles/downloading-youtube-videos">Downloading youtube videos</a></h2>
+    <div class="variables">
+    <div class="date">@date=2023-11-21</div>
+    <div class="tags">@tags=<a href="tags/youtube">youtube</a>, <a href="tags/videos">videos</a>, <a href="tags/music">music</a></div>
+    </div>
+    <article>
+        <p>If you ever have a need to download some video from youtube, this is the best tool I found:
+<a href="https://github.com/yt-dlp/yt-dlp">https://github.com/yt-dlp/yt-dlp</a></p>
+<p>It gives you lots of options for output sizes and types and can download channels and playlists.</p>
+
+    </article>
+    
     <h2><a href="articles/on-nostalgia-in-the-evolution-of-music">On Nostalgia In The Evolution of Music</a></h2>
     <div class="variables">
     <div class="date">@date=2022-02-14</div>

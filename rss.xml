@@ -5,9 +5,41 @@
             <link>https://robkohr.com</link>
             <description>RobKohr's Blog</description>
             <language>en-us</language>
-            <lastBuildDate>Fri, 17 Nov 2023 08:00:00 GMT</lastBuildDate>
-            <pubDate>Fri, 17 Nov 2023 08:00:00 GMT</pubDate>
+            <lastBuildDate>Mon, 11 Dec 2023 08:00:00 GMT</lastBuildDate>
+            <pubDate>Mon, 11 Dec 2023 08:00:00 GMT</pubDate>
             <ttl>1800</ttl>
+            <item>
+                <guid>https://robkohr.com/articles/perfect-quote-about-the-hard-part-about-programming</guid>
+                <title>Perfect quote about the hard part about programming</title>
+                <link>https://robkohr.com/articles/perfect-quote-about-the-hard-part-about-programming</link>
+                <description>Perfect quote about the hard part about programming</description>
+                <pubDate>Sat, 11 Nov 2023 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/updating-elf-factory</guid>
+                <title>Updating Elf Factory</title>
+                <link>https://robkohr.com/articles/updating-elf-factory</link>
+                <description>Updating Elf Factory</description>
+                <pubDate>Wed, 08 Nov 2023 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/mountain-forest-and-lake</guid>
+                <title>Mountain forest and lake</title>
+                <link>https://robkohr.com/articles/mountain-forest-and-lake</link>
+                <description>Mountain forest and lake</description>
+                <pubDate>Tue, 07 Nov 2023 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/downloading-youtube-videos</guid>
+                <title>Downloading youtube videos</title>
+                <link>https://robkohr.com/articles/downloading-youtube-videos</link>
+                <description>Downloading youtube videos</description>
+                <pubDate>Fri, 20 Oct 2023 23:00:00 GMT</pubDate>
+            </item>
+    
             <item>
                 <guid>https://robkohr.com/articles/tapping-out-a-muscle-group-with-20-reps</guid>
                 <title>Tapping out a muscle group with 20 reps</title>
@@ -374,38 +406,6 @@
                 <link>https://robkohr.com/articles/i-made-a-thing-for-a-school-auction</link>
                 <description>I made a thing for a school auction</description>
                 <pubDate>Thu, 09 Feb 2023 00:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/you-gotta----</guid>
-                <title>You gotta ...</title>
-                <link>https://robkohr.com/articles/you-gotta----</link>
-                <description>You gotta ...</description>
-                <pubDate>Sat, 04 Feb 2023 00:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/mcdonalds-breakfast</guid>
-                <title>McDonalds Breakfast</title>
-                <link>https://robkohr.com/articles/mcdonalds-breakfast</link>
-                <description>McDonalds Breakfast</description>
-                <pubDate>Sat, 04 Feb 2023 00:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/telemarketing-speed-bump</guid>
-                <title>Telemarketing speed bump</title>
-                <link>https://robkohr.com/articles/telemarketing-speed-bump</link>
-                <description>Telemarketing speed bump</description>
-                <pubDate>Sun, 29 Jan 2023 00:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/aws</guid>
-                <title>AWS</title>
-                <link>https://robkohr.com/articles/aws</link>
-                <description>AWS</description>
-                <pubDate>Sat, 28 Jan 2023 00:00:00 GMT</pubDate>
             </item>
     
         </channel>
