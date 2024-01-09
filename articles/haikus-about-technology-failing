@@ -1,0 +1,81 @@
+
+        <html>
+            <head>
+                <title>Haikus about technology failing - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
+
+                <link rel="canonical" href="https://robkohr.com/articles/haikus-about-technology-failing" />
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            
+    <h2><a href="articles/haikus-about-technology-failing">Haikus about technology failing</a></h2>
+    <div class="variables">
+    <div class="date">@date=2024-01-8</div>
+    <div class="tags">@tags=<a href="tags/programming">programming</a></div>
+    </div>
+    <article>
+        <p>First snow, then silence.
+This thousand dollar screen dies
+so beautifully.</p>
+<p>-- Simon Firth</p>
+<p>The Web site you seek
+cannot be located but
+endless others exist</p>
+<p>-- Joy Rothke</p>
+<p>There is a chasm
+of carbon and silicon
+the software can&#39;t bridge</p>
+<p>-- Rahul Sonnad</p>
+<p>To have no errors
+Would be life without meaning
+No struggle, no joy</p>
+<p>-- Brian M. Porter</p>
+<hr>
+<p>You step in the stream,
+but the water has moved on.
+This page is not here.</p>
+<p>-- Cass Whittington</p>
+<p>Rather than a beep
+Or a rude error message,
+These words: &quot;File not found.&quot;</p>
+<p>-- Len Dvorkin</p>
+<hr>
+<p>Serious error.
+All shortcuts have disappeared.
+Screen. Mind. Both are blank.
+-- Ian Hughes</p>
+<p>No-one can tell
+what God or Heaven will do
+If you divide by zero.</p>
+<ul>
+<li>Elas Giordano</li>
+</ul>
+<p>Login incorrect.
+Only perfect spellers may
+enter this system.</p>
+<p>-- Jason Axley</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

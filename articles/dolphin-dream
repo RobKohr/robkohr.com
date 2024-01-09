@@ -1,0 +1,42 @@
+
+        <html>
+            <head>
+                <title>Dolphin Dream - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
+
+                <link rel="canonical" href="https://robkohr.com/articles/dolphin-dream" />
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            
+    <h2><a href="articles/dolphin-dream">Dolphin Dream</a></h2>
+    <div class="variables">
+    <div class="date">@date=2004-11-09</div>
+    <div class="tags">@tags=<a href="tags/dreams">dreams</a></div>
+    </div>
+    <article>
+        <p>Had a crazy dream where I was preparing to climb up the cliff face of a cove. After stopping at a little wooden shack that rented out the climbing equipment I headed down to the water. It was a beautiful blue and it was cold and refreshing. The cove was a deep lake that was surrounded by huge cliffs, and at the end was an opening out into the ocean. I was supposed to climb into the water and swim to the area where you climb up. When I got in the water I looked down and an orca swam up to me with is mouth open and I could see his teeth. Everyone in the group including me was scared that it was about to attack, but it stopped and I petted its head and it was happy. It stuck out its tongue and I petted that too and it was all smooth and slippery. Then a porpoise came up and I petted it too. It was a pretty happy dream.</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

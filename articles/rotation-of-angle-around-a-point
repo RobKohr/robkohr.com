@@ -1,0 +1,89 @@
+
+        <html>
+            <head>
+                <title>Rotation of angle around a point - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
+
+                <link rel="canonical" href="https://robkohr.com/articles/rotation-of-angle-around-a-point" />
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            
+    <h2><a href="articles/rotation-of-angle-around-a-point">Rotation of angle around a point</a></h2>
+    <div class="variables">
+    <div class="date">@date=2005-02-26</div>
+    <div class="tags">@tags=<a href="tags/math">math</a></div>
+    </div>
+    <article>
+        <pre>
+ Sin(a)   Sin(b)   Sin(g)
+------ = ------ = ------
+  A        B        C
+
+
+Where A, B, and C are the lengths of the sides of a triangle, and a, b, and g are the angles directly opposite those sides...
+
+
+       /|
+      /b|
+   C /  |
+    /   |A
+   /    |
+  /     |
+ /a    g|
+ --------
+    B
+
+
+sin(90) = 1
+
+Sin(a+b) = Sin(a)*Cos(b) + Cos(a)*Sin(b)
+
+http://www.gamedev.net/reference/articles/article796.asp
+
+To rotate x an y cords:
+
+NewX = (OldX*Cos(Theta)) - (OldY*Sin(Theta))
+NewY = (OldY*Cos(Theta)) + (OldX*Sin(Theta))
+
+
+Rotate x y and z
+
+NewY = (OldY*Cos(ThetaX)) - (OldZ*Sin(ThetaX))  ** X axis rotation **
+NewZ = (OldZ*Cos(ThetaX)) + (OldY*Sin(ThetaX))
+
+(Copy NewY and NewZ into OldY and OldZ)
+
+NewZ = (OldZ*Cos(ThetaY)) - (OldX*Sin(ThetaY))  ** Y axis rotation **
+NewX = (OldX*Cos(ThetaY)) + (OldZ*Sin(ThetaY))
+
+(Copy NewZ and NewX into OldZ and OldX)
+
+NewX = (OldX*Cos(ThetaZ)) - (OldY*Sin(ThetaZ))  ** Z axis rotation **
+NewY = (OldY*Cos(ThetaZ)) + (OldX*Sin(ThetaZ))
+
+Keep in mind that angles are in radians!
+</pre>
+    </article>
+    
+            </body>
+          </html>
+          
