@@ -5,9 +5,17 @@
             <link>https://robkohr.com</link>
             <description>RobKohr's Blog</description>
             <language>en-us</language>
-            <lastBuildDate>Mon, 08 Jan 2024 08:00:00 GMT</lastBuildDate>
-            <pubDate>Mon, 08 Jan 2024 08:00:00 GMT</pubDate>
+            <lastBuildDate>Thu, 11 Jan 2024 08:00:00 GMT</lastBuildDate>
+            <pubDate>Thu, 11 Jan 2024 08:00:00 GMT</pubDate>
             <ttl>1800</ttl>
+            <item>
+                <guid>https://robkohr.com/articles/3-exercises-a-day</guid>
+                <title>3 exercises a day</title>
+                <link>https://robkohr.com/articles/3-exercises-a-day</link>
+                <description>3 exercises a day</description>
+                <pubDate>Mon, 11 Dec 2023 00:00:00 GMT</pubDate>
+            </item>
+    
             <item>
                 <guid>https://robkohr.com/articles/haikus-about-technology-failing</guid>
                 <title>Haikus about technology failing</title>
@@ -398,14 +406,6 @@
                 <link>https://robkohr.com/articles/haiku---woodworking</link>
                 <description>Haiku - woodworking</description>
                 <pubDate>Tue, 21 Feb 2023 01:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/getting-a-little-torn-between-svelte-and-solidjs</guid>
-                <title>Getting a little torn between svelte and SolidJS</title>
-                <link>https://robkohr.com/articles/getting-a-little-torn-between-svelte-and-solidjs</link>
-                <description>Getting a little torn between svelte and SolidJS</description>
-                <pubDate>Thu, 09 Feb 2023 00:00:00 GMT</pubDate>
             </item>
     
         </channel>
