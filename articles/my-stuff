@@ -1,7 +1,7 @@
 
         <html>
             <head>
-                <title>Navigation - RobKohr's Blog</title>
+                <title>My Stuff - RobKohr's Blog</title>
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
@@ -20,26 +20,44 @@
 <link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
 <script src="libs/highlight/highlight.min.js"></script>
 
-                <link rel="canonical" href="https://robkohr.com/articles/navigation" />
+                <link rel="canonical" href="https://robkohr.com/articles/my-stuff" />
                 <link rel="stylesheet" href="../neat.css">
                 <base href="../">
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>
             
-    <h2><a href="articles/navigation">Navigation</a></h2>
+    <h2><a href="articles/my-stuff">My Stuff</a></h2>
     <div class="variables">
     <div class="date"></div>
     <div class="tags"></div>
     </div>
     <article>
         <ul>
-<li><a href="articles/about">About</a></li>
-<li><a href="tags/index.html">Tags</a></li>
-<li><a href="articles/projects">Projects</a></li>
-<li><a href="rss.xml">RSS feed</a></li>
-<li><a href="articles/my-stuff">My stuff out on the web</a></li>
-<li><a href="articles/bookmarks">Bookmarks to sites I like</a></li>
+<li><a href="https://open.spotify.com/user/1258723561">https://open.spotify.com/user/1258723561</a><ul>
+<li>Spotify music</li>
+</ul>
+</li>
+<li><a href="https://twitter.com/rkohr">https://twitter.com/rkohr</a><ul>
+<li>Twitter</li>
+</ul>
+</li>
+<li><a href="https://github.com/robkohr">https://github.com/robkohr</a><ul>
+<li>Github</li>
+</ul>
+</li>
+<li><a href="https://stackoverflow.com/users/101909/robkohr">https://stackoverflow.com/users/101909/robkohr</a><ul>
+<li>Stackoverflow</li>
+</ul>
+</li>
+<li><a href="https://neverall.itch.io/">https://neverall.itch.io/</a><ul>
+<li>Itch games I made</li>
+</ul>
+</li>
+<li><a href="http://discretethought.tumblr.com/">Tumbler</a><ul>
+<li>Tumbler</li>
+</ul>
+</li>
 </ul>
 
     </article>

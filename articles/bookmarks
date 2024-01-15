@@ -33,30 +33,7 @@
     <div class="tags"></div>
     </div>
     <article>
-        <h3>My stuff</h3>
-<ul>
-<li><a href="https://open.spotify.com/user/1258723561">https://open.spotify.com/user/1258723561</a><ul>
-<li>Spotify music</li>
-</ul>
-</li>
-<li><a href="https://twitter.com/rkohr">https://twitter.com/rkohr</a><ul>
-<li>Twitter</li>
-</ul>
-</li>
-<li><a href="https://github.com/robkohr">https://github.com/robkohr</a><ul>
-<li>Github</li>
-</ul>
-</li>
-<li><a href="https://stackoverflow.com/users/101909/robkohr">https://stackoverflow.com/users/101909/robkohr</a><ul>
-<li>Stackoverflow</li>
-</ul>
-</li>
-<li><a href="https://neverall.itch.io/">https://neverall.itch.io/</a><ul>
-<li>Itch games I made</li>
-</ul>
-</li>
-</ul>
-<h3>Blogs</h3>
+        <h3>Blogs</h3>
 <ul>
 <li><a href="https://sambleckley.com/blog/">https://sambleckley.com/blog/</a><ul>
 <li>Great articles on writing, coding, and philosophy.</li>
