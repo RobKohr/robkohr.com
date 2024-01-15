@@ -5,9 +5,17 @@
             <link>https://robkohr.com</link>
             <description>RobKohr's Blog</description>
             <language>en-us</language>
-            <lastBuildDate>Thu, 11 Jan 2024 08:00:00 GMT</lastBuildDate>
-            <pubDate>Thu, 11 Jan 2024 08:00:00 GMT</pubDate>
+            <lastBuildDate>Mon, 15 Jan 2024 08:00:00 GMT</lastBuildDate>
+            <pubDate>Mon, 15 Jan 2024 08:00:00 GMT</pubDate>
             <ttl>1800</ttl>
+            <item>
+                <guid>https://robkohr.com/articles/javascript-game-development-resources</guid>
+                <title>Javascript game development resources</title>
+                <link>https://robkohr.com/articles/javascript-game-development-resources</link>
+                <description>Javascript game development resources</description>
+                <pubDate>Mon, 11 Dec 2023 00:00:00 GMT</pubDate>
+            </item>
+    
             <item>
                 <guid>https://robkohr.com/articles/3-exercises-a-day</guid>
                 <title>3 exercises a day</title>
@@ -398,14 +406,6 @@
                 <link>https://robkohr.com/articles/ice-cream</link>
                 <description>Ice Cream</description>
                 <pubDate>Thu, 13 Apr 2023 00:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/haiku---woodworking</guid>
-                <title>Haiku - woodworking</title>
-                <link>https://robkohr.com/articles/haiku---woodworking</link>
-                <description>Haiku - woodworking</description>
-                <pubDate>Tue, 21 Feb 2023 01:00:00 GMT</pubDate>
             </item>
     
         </channel>
