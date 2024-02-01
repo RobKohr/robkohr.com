@@ -27,6 +27,17 @@
             <a href="./index.html">&larr; Home</a>
             <h2>Tag: ai</h2>
     
+    <h2><a href="articles/artificial-intelligence-vs-computational-intelligence">Artificial Intelligence vs Computational Intelligence</a></h2>
+    <div class="variables">
+    <div class="date">@date=2024-01-24</div>
+    <div class="tags">@tags=<a href="tags/ai">ai</a></div>
+    </div>
+    <article>
+        <p>These two terms are sometimes used interchangeably, and there are many conflicting definitions that sometimes switch the roles of these terms. </p>
+<p>To me, artificial intelligence is the effort to simulate the real intelligence of humans. For this Artificial Neural Networks (ANN) and other simulation...</p>
+ <p><a class="nowrap" href="articles/artificial-intelligence-vs-computational-intelligence">READ MORE (378 words)</a></p> 
+    </article>
+    
     <h2><a href="articles/failure-state-for-computers-and-ai">Failure state for computers and AI</a></h2>
     <div class="variables">
     <div class="date">@date=2023-10-15</div>

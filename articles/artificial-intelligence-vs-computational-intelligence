@@ -1,0 +1,51 @@
+
+        <html>
+            <head>
+                <title>Artificial Intelligence vs Computational Intelligence - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
+
+                <link rel="canonical" href="https://robkohr.com/articles/artificial-intelligence-vs-computational-intelligence" />
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            
+    <h2><a href="articles/artificial-intelligence-vs-computational-intelligence">Artificial Intelligence vs Computational Intelligence</a></h2>
+    <div class="variables">
+    <div class="date">@date=2024-01-24</div>
+    <div class="tags">@tags=<a href="tags/ai">ai</a></div>
+    </div>
+    <article>
+        <p>These two terms are sometimes used interchangeably, and there are many conflicting definitions that sometimes switch the roles of these terms. </p>
+<p>To me, artificial intelligence is the effort to simulate the real intelligence of humans. For this Artificial Neural Networks (ANN) and other simulations of how human thought works would match. Modern LLMs would tend to fall in this bucket, even if their model isn&#39;t complete - it is at least inspired from and derived from how neurons work, with some shortcomings.</p>
+<p>Computational intelligence would be along the lines Deep Blue, the first chess system to beat the the human chess world champion. It was programmed with an advanced database of openings, and a deep search algorithm that used heuristics to prune the search tree to find optimal solutions. This was a mechanical process that was written in concrete terms by man, and was special purposed. </p>
+<p>And Deep Blue, was basically one of the most CI systems of the time, but the time was dominated by these systems.</p>
+<p>Now with AIs and their ANNs, we are having systems that build themselves from training data in databases of weighted neurons. These are not debuggable, and it is difficult to glean information about their inner workings, but the same could be said for their biological counterparts.</p>
+<p>We are still lightyears from an AI that could be considered to have true general intelligence, similar to humans. I think we will have an another <a href="https://en.wikipedia.org/wiki/AI_winter">AI Winter</a> to go through before we reach that point. </p>
+<p>AI is often oversold in some ways (I am a mixed AI cynic and optimist), but where it excels is what I would refer to as &quot;pattern finding&quot;. That is really what is happening in LLMs - it finds the pattern in human writing to predict the next word, or for coming up with image patterns to add in image generation. </p>
+<p>It has been shown at being very good at identify cancers in MRIs, possibly better than people, thanks to having a huge body of training data.</p>
+<p>Pattern matching has always been a power that computational intelligence has progressed on, but the new LLMs are ideal at the pattern finding aspect of things.</p>
+<p>Just like identifying cancers with proper training in images, identifying records of interest with training from past data could be powerful.</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

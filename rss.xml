@@ -5,9 +5,17 @@
             <link>https://robkohr.com</link>
             <description>RobKohr's Blog</description>
             <language>en-us</language>
-            <lastBuildDate>Mon, 15 Jan 2024 08:00:00 GMT</lastBuildDate>
-            <pubDate>Mon, 15 Jan 2024 08:00:00 GMT</pubDate>
+            <lastBuildDate>Thu, 01 Feb 2024 08:00:00 GMT</lastBuildDate>
+            <pubDate>Thu, 01 Feb 2024 08:00:00 GMT</pubDate>
             <ttl>1800</ttl>
+            <item>
+                <guid>https://robkohr.com/articles/artificial-intelligence-vs-computational-intelligence</guid>
+                <title>Artificial Intelligence vs Computational Intelligence</title>
+                <link>https://robkohr.com/articles/artificial-intelligence-vs-computational-intelligence</link>
+                <description>Artificial Intelligence vs Computational Intelligence</description>
+                <pubDate>Sun, 24 Dec 2023 00:00:00 GMT</pubDate>
+            </item>
+    
             <item>
                 <guid>https://robkohr.com/articles/javascript-game-development-resources</guid>
                 <title>Javascript game development resources</title>
@@ -398,14 +406,6 @@
                 <link>https://robkohr.com/articles/future-space-lady</link>
                 <description>future space lady</description>
                 <pubDate>Sun, 07 May 2023 00:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/ice-cream</guid>
-                <title>Ice Cream</title>
-                <link>https://robkohr.com/articles/ice-cream</link>
-                <description>Ice Cream</description>
-                <pubDate>Thu, 13 Apr 2023 00:00:00 GMT</pubDate>
             </item>
     
         </channel>
