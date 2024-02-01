@@ -2,3 +2,4 @@ blog.md
 node_modules
 *.md
 
+.DS_Store
