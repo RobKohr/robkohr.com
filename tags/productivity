@@ -27,6 +27,17 @@
             <a href="./index.html">&larr; Home</a>
             <h2>Tag: productivity</h2>
     
+    <h2><a href="articles/great-life-advice">Great life advice</a></h2>
+    <div class="variables">
+    <div class="date">@date=2024-02-27</div>
+    <div class="tags">@tags=<a href="tags/productivity">productivity</a></div>
+    </div>
+    <article>
+        <p>This video is a great video listing life 
+<a href="https://www.youtube.com/watch?v=XUZ9VATeF_4">https://www.youtube.com/watch?v=XUZ9VATeF_4</a></p>
+
+    </article>
+    
     <h2><a href="articles/concepts-for-work-time">Concepts for work time</a></h2>
     <div class="variables">
     <div class="date">@date=2021-08-27</div>

@@ -5,9 +5,41 @@
             <link>https://robkohr.com</link>
             <description>RobKohr's Blog</description>
             <language>en-us</language>
-            <lastBuildDate>Thu, 01 Feb 2024 08:00:00 GMT</lastBuildDate>
-            <pubDate>Thu, 01 Feb 2024 08:00:00 GMT</pubDate>
+            <lastBuildDate>Wed, 28 Feb 2024 08:00:00 GMT</lastBuildDate>
+            <pubDate>Wed, 28 Feb 2024 08:00:00 GMT</pubDate>
             <ttl>1800</ttl>
+            <item>
+                <guid>https://robkohr.com/articles/great-life-advice</guid>
+                <title>Great life advice</title>
+                <link>https://robkohr.com/articles/great-life-advice</link>
+                <description>Great life advice</description>
+                <pubDate>Sat, 27 Jan 2024 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/why-we-shouldn-t-have-switched-to-metric--clickbait--</guid>
+                <title>Why we shouldn&#39;t have switched to metric (clickbait!)</title>
+                <link>https://robkohr.com/articles/why-we-shouldn-t-have-switched-to-metric--clickbait--</link>
+                <description>Why we shouldn&#39;t have switched to metric (clickbait!)</description>
+                <pubDate>Sat, 20 Jan 2024 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/planning-on-extending-the-playground-structure</guid>
+                <title>Planning on extending the playground structure</title>
+                <link>https://robkohr.com/articles/planning-on-extending-the-playground-structure</link>
+                <description>Planning on extending the playground structure</description>
+                <pubDate>Sat, 13 Jan 2024 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/should-have-never-went-to-metric</guid>
+                <title>Should have never went to metric</title>
+                <link>https://robkohr.com/articles/should-have-never-went-to-metric</link>
+                <description>Should have never went to metric</description>
+                <pubDate>Sat, 13 Jan 2024 00:00:00 GMT</pubDate>
+            </item>
+    
             <item>
                 <guid>https://robkohr.com/articles/artificial-intelligence-vs-computational-intelligence</guid>
                 <title>Artificial Intelligence vs Computational Intelligence</title>
@@ -374,38 +406,6 @@
                 <link>https://robkohr.com/articles/how-you-move-a-mountain--one-stone-at-a-time</link>
                 <description>How you move a mountain, one stone at a time</description>
                 <pubDate>Tue, 16 May 2023 00:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/cardboard-boat-regatta-2023-06-15</guid>
-                <title>Cardboard boat regatta 2023-06-15</title>
-                <link>https://robkohr.com/articles/cardboard-boat-regatta-2023-06-15</link>
-                <description>Cardboard boat regatta 2023-06-15</description>
-                <pubDate>Mon, 15 May 2023 00:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/attempt-2-at-making-sourdough-starter</guid>
-                <title>attempt 2 at making sourdough starter</title>
-                <link>https://robkohr.com/articles/attempt-2-at-making-sourdough-starter</link>
-                <description>attempt 2 at making sourdough starter</description>
-                <pubDate>Sat, 13 May 2023 00:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/my-daily-process-with-obsidian</guid>
-                <title>My daily process with Obsidian</title>
-                <link>https://robkohr.com/articles/my-daily-process-with-obsidian</link>
-                <description>My daily process with Obsidian</description>
-                <pubDate>Tue, 09 May 2023 00:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/future-space-lady</guid>
-                <title>future space lady</title>
-                <link>https://robkohr.com/articles/future-space-lady</link>
-                <description>future space lady</description>
-                <pubDate>Sun, 07 May 2023 00:00:00 GMT</pubDate>
             </item>
     
         </channel>

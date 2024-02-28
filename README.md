@@ -1,5 +1,12 @@
 # blog
 
+
+Possible design alternatives:
+https://www.andreinc.net/
+
+https://edwardtufte.github.io/tufte-css/
+
+
 Blog article about this blog renderer:
 
 http://robkohr.com/articles/created-a-new-blog-render

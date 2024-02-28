@@ -30,10 +30,11 @@
     <h2><a href="articles/artificial-intelligence-vs-computational-intelligence">Artificial Intelligence vs Computational Intelligence</a></h2>
     <div class="variables">
     <div class="date">@date=2024-01-24</div>
-    <div class="tags">@tags=<a href="tags/ai">ai</a></div>
+    <div class="tags">@tags=<a href="tags/ai">ai</a>, <a href="tags/youtube">youtube</a></div>
     </div>
     <article>
-        <p>These two terms are sometimes used interchangeably, and there are many conflicting definitions that sometimes switch the roles of these terms. </p>
+        <p>Youtube video for this: <a href="https://youtu.be/wb9hVUk3SS8">https://youtu.be/wb9hVUk3SS8</a></p>
+<p>These two terms are sometimes used interchangeably, and there are many conflicting definitions that sometimes switch the roles of these terms. </p>
 <p>To me, artificial intelligence is the effort to simulate the real intelligence of humans. For this Artificial Neural Networks (ANN) and other simulations of how human thought works would match. Modern LLMs would tend to fall in this bucket, even if their model isn&#39;t complete - it is at least inspired from and derived from how neurons work, with some shortcomings.</p>
 <p>Computational intelligence would be along the lines Deep Blue, the first chess system to beat the the human chess world champion. It was programmed with an advanced database of openings, and a deep search algorithm that used heuristics to prune the search tree to find optimal solutions. This was a mechanical process that was written in concrete terms by man, and was special purposed. </p>
 <p>And Deep Blue, was basically one of the most CI systems of the time, but the time was dominated by these systems.</p>
