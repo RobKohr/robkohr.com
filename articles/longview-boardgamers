@@ -39,7 +39,55 @@
 <li>There is a facebook group here: <a href="https://www.facebook.com/groups/603728688043181">https://www.facebook.com/groups/603728688043181</a></li>
 <li>And a meetup group here: <a href="https://www.meetup.com/longview-kelso-cowlitz-county-board-games-meetup-group/discussions/">https://www.meetup.com/longview-kelso-cowlitz-county-board-games-meetup-group/discussions/</a></li>
 </ul>
-<p>If you want to </p>
+<div class="classictemplate template" style="display: block;">
+    <style type="text/css">
+        #groupsio_embed_signup input {border:1px solid #999; -webkit-appearance:none;}
+        #groupsio_embed_signup label {display:block; font-size:16px; padding-bottom:10px; font-weight:bold;}
+        #groupsio_embed_signup .email {display:block; padding:8px 0; margin:0 4% 10px 0; text-indent:5px; width:58%; min-width:130px;}
+        #groupsio_embed_signup {
+        background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif;
+        }
+        #groupsio_embed_signup .button {
+
+<pre><code>    width:25%; margin:0 0 10px 0; min-width:90px;
+    background-image: linear-gradient(to bottom,#337ab7 0,#265a88 100%);
+    background-repeat: repeat-x;
+    border-color: #245580;
+    text-shadow: 0 -1px 0 rgba(0,0,0,.2);
+    box-shadow: inset 0 1px 0 rgba(255,255,255,.15),0 1px 1px rgba(0,0,0,.075);
+    padding: 5px 10px;
+    font-size: 12px;
+    line-height: 1.5;
+    border-radius: 3px;
+    color: #fff;
+    background-color: #337ab7;
+    display: inline-block;
+    margin-bottom: 0;
+    font-weight: 400;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    }
+&lt;/style&gt;
+&lt;div id=&quot;groupsio_embed_signup&quot;&gt;
+    &lt;form action=&quot;https://groups.io/g/Longview-Washington-Boardgamers/signup?u=9177709238032268018&quot; method=&quot;post&quot; id=&quot;groupsio-embedded-subscribe-form&quot; name=&quot;groupsio-embedded-subscribe-form&quot; target=&quot;_blank&quot;&gt;
+        &lt;div id=&quot;groupsio_embed_signup_scroll&quot;&gt;
+            &lt;label for=&quot;email&quot; id=&quot;templateformtitle&quot;&gt;
+                Subscribe to our group
+            &lt;/label&gt;
+            &lt;input type=&quot;email&quot; value=&quot;&quot; name=&quot;email&quot; class=&quot;email&quot; id=&quot;email&quot; placeholder=&quot;Email Address&quot; required=&quot;&quot;&gt;
+            &lt;!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups--&gt;
+            &lt;div style=&quot;position: absolute; left: -5000px;&quot; aria-hidden=&quot;true&quot;&gt;
+                &lt;input type=&quot;text&quot; name=&quot;b_9177709238032268018&quot; tabindex=&quot;-1&quot; value=&quot;&quot;&gt;
+            &lt;/div&gt;
+            &lt;div id=&quot;templatearchives&quot;&gt;&lt;/div&gt;
+            &lt;input type=&quot;submit&quot; value=&quot;Subscribe&quot; name=&quot;subscribe&quot; id=&quot;groupsio-embedded-subscribe&quot; class=&quot;button&quot;&gt;
+        &lt;/div&gt;
+    &lt;/form&gt;
+&lt;/div&gt;
+</code></pre>
+</div>
+
 <h3>Updates</h3>
 <h4>Feb 28, 2024</h4>
 <p>Our group is growing and we had 7 players show up for the most recent game night
