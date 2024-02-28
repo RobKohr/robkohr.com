@@ -246,5 +246,6 @@ img.icon{
     white-space:nowrap;
 }
 a {
-    text-decoration: none;
+    /* text-decoration: none;*/
+    color: darkblue;
 }
