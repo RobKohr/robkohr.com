@@ -82,7 +82,7 @@ var articles = articlesFull.map(function (articleOrig) {
         Those lines should be removed from the content and added to the article object
         */
   article.variables = {};
-
+  const tagLabels = [];
   article.content = article.content.replace(/@(\w+)=(.*)/g, function (match, key, value) {
     value = value.trim();
     if (key === "tags") {
@@ -90,6 +90,7 @@ var articles = articlesFull.map(function (articleOrig) {
         .split(",")
         .map(function (tagLabel) {
           tagLabel = tagLabel.trim();
+          tagLabels.push(tagLabel);
           if (tagLabel === "") {
             return "";
           }
@@ -140,7 +141,7 @@ var articles = articlesFull.map(function (articleOrig) {
   if (article.variables.publishDate && new Date(article.variables.publishDate) > new Date()) {
     return null;
   }
-  if (article.variables.tags && article.variables.tags.includes("politics")) {
+  if (tagLabels.includes("politics")) {
     return null;
   }
 
