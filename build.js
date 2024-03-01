@@ -18,7 +18,6 @@ and replace it with this:
 */
 
 function replaceImageLinks(text) {
-
   const out = text.replace(/!\[\[(.+)\]\]/g, '<img src="images/$1" alt="$1" style="max-width: 100%;" />');
   /* find all image paths, remove the syntax around them, and put the file names in an array */
   const matches = text.match(/!\[\[(.+)\]\]/g)?.map(function (match) {
@@ -28,7 +27,7 @@ function replaceImageLinks(text) {
   const missingImages = matches?.filter(function (match) {
     /* url decode the filename */
     match = decodeURIComponent(match);
-    match = match.replace('&#39;', "'")
+    match = match.replace("&#39;", "'");
     return !fs.existsSync(`images/${match}`);
   });
   /* if there are missing images, then print them out */
@@ -37,7 +36,7 @@ function replaceImageLinks(text) {
     missingImages.forEach(function (match, index, array) {
       array[index] = decodeURIComponent(match);
     });
-    
+
     console.log("missing images:", missingImages.join(", "));
   }
   return out;
@@ -127,19 +126,21 @@ var articles = articlesFull.map(function (articleOrig) {
     article.summary = article.html;
   } else {
     let matches = article.html.match(/<img src="(.+)" alt="(.+)" style="max-width: 100%;" \/>/);
-    icon = matches?.length ? matches[0]: ''
+    icon = matches?.length ? matches[0] : "";
     if (icon) {
       icon = `<a href="${articleUrl(article)}">${icon.replace("img", 'img class="icon"')}</a>`;
     }
   }
   article.icon = icon;
-  
 
   /*
         convert markdown content to html
     */
   /* if variable publishDate is in the future, then skip this article */
   if (article.variables.publishDate && new Date(article.variables.publishDate) > new Date()) {
+    return null;
+  }
+  if (article.variables.tags && article.variables.tags.includes("politics")) {
     return null;
   }
 
@@ -221,7 +222,7 @@ function addArticleToOutput(article, output, full) {
     <div class="tags">${tags ? `@tags=${tags}` : ""}</div>
     </div>
     <article>
-        ${full ?  article.html : article.icon + article.summary}
+        ${full ? article.html : article.icon + article.summary}
     </article>
     `
   );
@@ -330,7 +331,7 @@ output = `
             <lastBuildDate>${basicDate}</lastBuildDate>
             <pubDate>${basicDate}</pubDate>
             <ttl>1800</ttl>
-`.trim()
+`.trim();
 articles
   .filter(function (article) {
     return article !== null;
@@ -350,14 +351,9 @@ articles
     const dateString = date.toUTCString();
     /* encode htm entities in title */
     function encodeHtmlEntities(str) {
-      return str
-        .replace(/&/g, "&amp;")
-        .replace(/"/g, "&quot;")
-        .replace(/'/g, "&#39;")
-        .replace(/</g, "&lt;")
-        .replace(/>/g, "&gt;");
+      return str.replace(/&/g, "&amp;").replace(/"/g, "&quot;").replace(/'/g, "&#39;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
     }
-    const link = `https://robkohr.com/articles/${toKebab(article.title)}`
+    const link = `https://robkohr.com/articles/${toKebab(article.title)}`;
 
     output += `
             <item>
