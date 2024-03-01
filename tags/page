@@ -1,0 +1,42 @@
+
+        <html>
+            <head>
+                <title>page - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            <h2>Tag: page</h2>
+    
+    <h2><a href="articles/inserting-political-messaging-into-education">Inserting political messaging into education</a></h2>
+    <div class="variables">
+    <div class="date">@date=2022-08-22</div>
+    <div class="tags">@tags=<a href="tags/politics">politics</a>, <a href="tags/page">page</a></div>
+    </div>
+    <article>
+        <a href="articles/inserting-political-messaging-into-education"><img class="icon" src="images/10 Other books to ban immediately.png" alt="10 Other books to ban immediately.png" style="max-width: 100%;" /></a><p>The actual samples of things the press actually show from the rejection list are things like math textbooks using &quot;What me, racist?&quot; and then having the student use racial bias data that is questionable to solve a problem. This is subtly pushing the racial focused narrative, and they are findin...</p>
+ <p><a class="nowrap" href="articles/inserting-political-messaging-into-education">READ MORE (243 words, 1 images)</a></p> 
+    </article>
+    
+            </body>
+        </html>
+    
