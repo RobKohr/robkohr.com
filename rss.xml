@@ -5,9 +5,25 @@
             <link>https://robkohr.com</link>
             <description>RobKohr's Blog</description>
             <language>en-us</language>
-            <lastBuildDate>Fri, 01 Mar 2024 08:00:00 GMT</lastBuildDate>
-            <pubDate>Fri, 01 Mar 2024 08:00:00 GMT</pubDate>
+            <lastBuildDate>Wed, 06 Mar 2024 08:00:00 GMT</lastBuildDate>
+            <pubDate>Wed, 06 Mar 2024 08:00:00 GMT</pubDate>
             <ttl>1800</ttl>
+            <item>
+                <guid>https://robkohr.com/articles/why-generative-ai-violates-copyright---for-skeptics</guid>
+                <title>Why Generative AI Violates Copyright - for skeptics</title>
+                <link>https://robkohr.com/articles/why-generative-ai-violates-copyright---for-skeptics</link>
+                <description>Why Generative AI Violates Copyright - for skeptics</description>
+                <pubDate>Wed, 06 Mar 2024 01:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/landships</guid>
+                <title>Landships</title>
+                <link>https://robkohr.com/articles/landships</link>
+                <description>Landships</description>
+                <pubDate>Sun, 04 Feb 2024 00:00:00 GMT</pubDate>
+            </item>
+    
             <item>
                 <guid>https://robkohr.com/articles/great-life-advice</guid>
                 <title>Great life advice</title>
@@ -390,22 +406,6 @@
                 <link>https://robkohr.com/articles/every-day-i-am-shuffling</link>
                 <description>Every day I am shuffling</description>
                 <pubDate>Sat, 20 May 2023 00:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/reddits-fall---maybe-turn-neverall-into-a-reddit-clone-</guid>
-                <title>Reddits fall - maybe turn Neverall into a Reddit clone?</title>
-                <link>https://robkohr.com/articles/reddits-fall---maybe-turn-neverall-into-a-reddit-clone-</link>
-                <description>Reddits fall - maybe turn Neverall into a Reddit clone?</description>
-                <pubDate>Tue, 16 May 2023 00:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/how-you-move-a-mountain--one-stone-at-a-time</guid>
-                <title>How you move a mountain, one stone at a time</title>
-                <link>https://robkohr.com/articles/how-you-move-a-mountain--one-stone-at-a-time</link>
-                <description>How you move a mountain, one stone at a time</description>
-                <pubDate>Tue, 16 May 2023 00:00:00 GMT</pubDate>
             </item>
     
         </channel>

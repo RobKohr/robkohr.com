@@ -1,0 +1,46 @@
+
+        <html>
+            <head>
+                <title>Landships - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
+
+                <link rel="canonical" href="https://robkohr.com/articles/landships" />
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            
+    <h2><a href="articles/landships">Landships</a></h2>
+    <div class="variables">
+    <div class="date">@date=2024-03-04</div>
+    <div class="tags">@tags=<a href="tags/war">war</a></div>
+    </div>
+    <article>
+        <p>In WWI when tanks were being developed, they were first thought of landships. Kinda like a battleship that rolled on the land.</p>
+<p>The Brits chose the rather commonplace name of tank to keep it a secret about what they were developing. &quot;Oh, this here we are making... oh it&#39;s just a tank. Nothing interesting, move along now&quot;. Eventually the fake name became the real name through common use.</p>
+<p>I sometimes wish the name Landship stuck.</p>
+<p>Looking at the bohemiths of WWI, they kinda would look like a ship flowing over the mud with port and starboard guns aiming out the sides. Here is a picture of one show using a banana for scale:
+<img src="images/20240304 Me with WWII tank.png" alt="20240304 Me with WWII tank.png" style="max-width: 100%;" /></p>
+
+    </article>
+    
+            </body>
+          </html>
+          
