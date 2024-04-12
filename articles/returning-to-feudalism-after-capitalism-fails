@@ -1,0 +1,49 @@
+
+        <html>
+            <head>
+                <title>Returning to Feudalism after capitalism fails - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
+
+                <link rel="canonical" href="https://robkohr.com/articles/returning-to-feudalism-after-capitalism-fails" />
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            
+    <h2><a href="articles/returning-to-feudalism-after-capitalism-fails">Returning to Feudalism after capitalism fails</a></h2>
+    <div class="variables">
+    <div class="date">@date=2024-03-29</div>
+    <div class="tags">@tags=<a href="tags/capitalism">capitalism</a></div>
+    </div>
+    <article>
+        <p>This was inspired by this article:
+<a href="https://crookedtimber.org/2024/03/25/capitalism-is-dead-long-live-capital/">https://crookedtimber.org/2024/03/25/capitalism-is-dead-long-live-capital/</a></p>
+<p>Through the weaving of all forms of capitalism through large entities that perform rent seeking behavior, we have turned ourselves into pesants working the land of our lord. Nearly companies now use amazon cloud as their data system backend. We funnel all of our communication and connections through social media. All of our shopping is done via platforms that stand between the buyer and seller and take a large cut of the revenue. Our music, apps, and media all give a 30% cut to a handful of big tech companies. It is all controlled by a few: Facebook, Apple, Amazon, Netflix and Google - aptly called FAANG. They know all that you do, they control what you see, and they are the middle man in all transactions, even in the background when you don&#39;t see them there. They control your authenticated access to the sites you visit. They are your way of paying for things.</p>
+<p>Netflix is probably the most beign of them all, and I include it just because it it typically rapped up in the FAANG acronym, but they seem to be souly focused on just being a streaming video provider, and even they are feudal slaves to the rest of FAANG as they are primarily powered by AWS on the backend. </p>
+<p>Webtech and non-webtech companies that use webtech need to go back to their roots, and throw off the cloud provider shackles. Spin up some VPSs, or even get some dedicated hosting and start running on linux boxes using open source tools that aren&#39;t rented from them. Don&#39;t make google &amp; facebook the default method for single sign on. Don&#39;t stick analytics and social code in your website. </p>
+<p>All of these services that these big companies provide have the some formula to suck companies into using them: It is cheap or free to startup with, you don&#39;t need to hire any sysadmins (though aws admins are now a thing), and then the price goes up quickly with use, and they charge large prices to get your data back from them to leave the service. </p>
+<p>There are other types of fuedelism that are growing: Banks have merged and are backed by your dollars by the government since they made themselves too big to fail, the govt has become more of the lord of college graduates with student loans that keep growing, and over health insurance as they control the markets more. </p>
+<p>There are likely other things, but the concentration of wealth by large entities, and the power they gain to keep anyone that is not massive out of the market is destroying capitalism. We need a constant influx of scrappy companies having big growth, and we need at the same time a constant flow of huge dusty companies falling to shambles. Our systems are leading more to permeant mega control by entrenched powers.</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

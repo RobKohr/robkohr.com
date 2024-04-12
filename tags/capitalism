@@ -1,7 +1,7 @@
 
         <html>
             <head>
-                <title>data - RobKohr's Blog</title>
+                <title>capitalism - RobKohr's Blog</title>
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
@@ -25,17 +25,18 @@
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>
-            <h2>Tag: data</h2>
+            <h2>Tag: capitalism</h2>
     
-    <h2><a href="articles/joel-spolsky-makes-you-a-wizard-at-excel">Joel Spolsky makes you a wizard at excel</a></h2>
+    <h2><a href="articles/returning-to-feudalism-after-capitalism-fails">Returning to Feudalism after capitalism fails</a></h2>
     <div class="variables">
-    <div class="date">@date=2023-08-03</div>
-    <div class="tags">@tags=<a href="tags/excel">excel</a>, <a href="tags/data">data</a>, <a href="tags/video">video</a></div>
+    <div class="date">@date=2024-03-29</div>
+    <div class="tags">@tags=<a href="tags/capitalism">capitalism</a></div>
     </div>
     <article>
-        <p>I had a link to his youtube video, but it looks like he took down his youtube account. You can watch the video here:
-<a href="https://www.dropbox.com/scl/fo/ho5mm103zt33w2uywzvth/h?dl=0&e=1&preview=You+Suck+at+Excel+with+Joel+Spolsky+%5BBV1734y187KS%5D.mp4&rlkey=qq3y3axe5u31goaiqffx05g32">https://www.dropbox.com/scl/fo/ho5mm103zt33w2uywzvth/h?dl=0&amp;e=1&amp;preview=You+Suck+at+Excel+with+Joel+Spolsky+%5BBV1734y187KS%5D.mp4&amp;rlkey=qq3y3axe5u31goaiqffx05g32</a></p>
-
+        <p>This was inspired by this article:
+<a href="https://crookedtimber.org/2024/03/25/capitalism-is-dead-long-live-capital/">https://crookedtimber.org/2024/03/25/capitalism-is-dead-long-live-capital/</a></p>
+<p>Through the weaving of all forms of capitalism through large entities that perform rent seeking behavior, we have turned ourselves into pesants working the land of our lord. Nearly compa...</p>
+ <p><a class="nowrap" href="articles/returning-to-feudalism-after-capitalism-fails">READ MORE (479 words)</a></p> 
     </article>
     
             </body>

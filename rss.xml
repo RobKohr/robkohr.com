@@ -5,15 +5,23 @@
             <link>https://robkohr.com</link>
             <description>RobKohr's Blog</description>
             <language>en-us</language>
-            <lastBuildDate>Wed, 06 Mar 2024 08:00:00 GMT</lastBuildDate>
-            <pubDate>Wed, 06 Mar 2024 08:00:00 GMT</pubDate>
+            <lastBuildDate>Fri, 12 Apr 2024 07:00:00 GMT</lastBuildDate>
+            <pubDate>Fri, 12 Apr 2024 07:00:00 GMT</pubDate>
             <ttl>1800</ttl>
+            <item>
+                <guid>https://robkohr.com/articles/returning-to-feudalism-after-capitalism-fails</guid>
+                <title>Returning to Feudalism after capitalism fails</title>
+                <link>https://robkohr.com/articles/returning-to-feudalism-after-capitalism-fails</link>
+                <description>Returning to Feudalism after capitalism fails</description>
+                <pubDate>Thu, 29 Feb 2024 01:00:00 GMT</pubDate>
+            </item>
+    
             <item>
                 <guid>https://robkohr.com/articles/why-generative-ai-violates-copyright---for-skeptics</guid>
                 <title>Why Generative AI Violates Copyright - for skeptics</title>
                 <link>https://robkohr.com/articles/why-generative-ai-violates-copyright---for-skeptics</link>
                 <description>Why Generative AI Violates Copyright - for skeptics</description>
-                <pubDate>Wed, 06 Mar 2024 01:00:00 GMT</pubDate>
+                <pubDate>Tue, 06 Feb 2024 00:00:00 GMT</pubDate>
             </item>
     
             <item>
@@ -398,14 +406,6 @@
                 <link>https://robkohr.com/articles/learned-how-to-spell-labyrinth</link>
                 <description>Learned how to spell Labyrinth</description>
                 <pubDate>Mon, 22 May 2023 00:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/every-day-i-am-shuffling</guid>
-                <title>Every day I am shuffling</title>
-                <link>https://robkohr.com/articles/every-day-i-am-shuffling</link>
-                <description>Every day I am shuffling</description>
-                <pubDate>Sat, 20 May 2023 00:00:00 GMT</pubDate>
             </item>
     
         </channel>
