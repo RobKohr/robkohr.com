@@ -3,7 +3,13 @@ document.addEventListener("DOMContentLoaded", function () {
   function loadImagesLazily(e) {
     for (let i = 0; i < images.length; i++) {
       let rect = images[i].getBoundingClientRect();
-      if (images[i].hasAttribute("data-src") && rect.bottom > 0 && rect.top < window.innerHeight && rect.right > 0 && rect.left < window.innerWidth) {
+      if (
+        images[i].hasAttribute("data-src") &&
+        rect.bottom > -window.innerHeight &&
+        rect.top < window.innerHeight * 2 &&
+        rect.right > 0 &&
+        rect.left < window.innerWidth
+      ) {
         images[i].setAttribute("src", images[i].getAttribute("data-src"));
         images[i].removeAttribute("data-src");
       }
