@@ -33,7 +33,7 @@
     <div class="tags">@tags=<a href="tags/doodles">doodles</a></div>
     </div>
     <article>
-        <p><img src="images/2020-10-07-22-43-47.png" alt="2020-10-07-22-43-47.png" style="max-width: 100%;" /></p>
+        <p><img realsrc="images/2020-10-07-22-43-47.png" alt="2020-10-07-22-43-47.png" style="max-width: 100%;" /></p>
 
     </article>
     
@@ -43,7 +43,7 @@
     <div class="tags">@tags=<a href="tags/doodles">doodles</a></div>
     </div>
     <article>
-        <p><img src="images/2020-10-07-22-42-37.png" alt="2020-10-07-22-42-37.png" style="max-width: 100%;" /></p>
+        <p><img realsrc="images/2020-10-07-22-42-37.png" alt="2020-10-07-22-42-37.png" style="max-width: 100%;" /></p>
 
     </article>
     

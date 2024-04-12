@@ -33,7 +33,7 @@
     <div class="tags">@tags=<a href="tags/playground">playground</a></div>
     </div>
     <article>
-        <p><img src="images/2024-02-13 play structure redesign.png" alt="2024-02-13 play structure redesign.png" style="max-width: 100%;" /></p>
+        <p><img realsrc="images/2024-02-13 play structure redesign.png" alt="2024-02-13 play structure redesign.png" style="max-width: 100%;" /></p>
 <p>Also, looking at this for some insperation:
 <a href="https://www.facebook.com/reel/1019224596054886">https://www.facebook.com/reel/1019224596054886</a></p>
 

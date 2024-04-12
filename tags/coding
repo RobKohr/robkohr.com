@@ -33,7 +33,7 @@
     <div class="tags">@tags=<a href="tags/coding">coding</a>, <a href="tags/css">css</a></div>
     </div>
     <article>
-        <a href="articles/tailwind"><img class="icon" src="images/Pasted image 20230807125724.png" alt="Pasted image 20230807125724.png" style="max-width: 100%;" /></a><p>Tailwind is a css framework that with some html code that looks like this:</p>
+        <a href="articles/tailwind"><img class="icon" realsrc="images/Pasted image 20230807125724.png" alt="Pasted image 20230807125724.png" style="max-width: 100%;" /></a><p>Tailwind is a css framework that with some html code that looks like this:</p>
 <p>You can style your site without css. </p>
 <p>Instead, you throw classes on dom elements and then tailwind will ladle some css on your element to get it to look the way you like. </p>
 <p>As someone who has done scss for a long time, ...</p>
@@ -46,7 +46,7 @@
     <div class="tags">@tags=<a href="tags/coding">coding</a>, <a href="tags/security">security</a></div>
     </div>
     <article>
-        <a href="articles/password-validation-done-better"><img class="icon" src="images/xkcd-passphrases.png" alt="xkcd-passphrases.png" style="max-width: 100%;" /></a><p>One of the most annoying user experiences is registering and trying to create a password that passes a bunch of validation rules, such as must contain a uppercase, lowercase, special character, etc. </p>
+        <a href="articles/password-validation-done-better"><img class="icon" realsrc="images/xkcd-passphrases.png" alt="xkcd-passphrases.png" style="max-width: 100%;" /></a><p>One of the most annoying user experiences is registering and trying to create a password that passes a bunch of validation rules, such as must contain a uppercase, lowercase, special character, etc. </p>
 <p>This doesn&#39;t always create the strongest password, and more importantly it doesn&#39;t create the mo...</p>
  <p><a class="nowrap" href="articles/password-validation-done-better">READ MORE (290 words, 2 minutes, 1 images)</a></p> 
     </article>

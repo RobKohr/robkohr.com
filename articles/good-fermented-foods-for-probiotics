@@ -33,7 +33,7 @@
     <div class="tags">@tags=<a href="tags/food">food</a></div>
     </div>
     <article>
-        <p><img src="images/2020-06-12-08-32-42.png" alt="2020-06-12-08-32-42.png" style="max-width: 100%;" /></p>
+        <p><img realsrc="images/2020-06-12-08-32-42.png" alt="2020-06-12-08-32-42.png" style="max-width: 100%;" /></p>
 <ul>
 <li>Yogurt</li>
 <li>Kimchi</li>

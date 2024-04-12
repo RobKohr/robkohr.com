@@ -33,7 +33,7 @@
     <div class="tags">@tags=<a href="tags/fun">fun</a>, <a href="tags/projects">projects</a></div>
     </div>
     <article>
-        <a href="articles/cardboard-boat-regatta"><img class="icon" src="images/2023-07-02-cardboard-boat-building.jpg" alt="2023-07-02-cardboard-boat-building.jpg" style="max-width: 100%;" /></a><p>Longview has an annual cardboard boat regatta, and I wanted to participate this year. </p>
+        <a href="articles/cardboard-boat-regatta"><img class="icon" realsrc="images/2023-07-02-cardboard-boat-building.jpg" alt="2023-07-02-cardboard-boat-building.jpg" style="max-width: 100%;" /></a><p>Longview has an annual cardboard boat regatta, and I wanted to participate this year. </p>
 <p>The theme was Christmas in July, and my daughter Chloe&#39;s favorite movie is Nightmare Before Christmas, so of course we had to do that. </p>
 <p>I had my neighbor Scott and my son Jevon help with the construction.</p>
 <p>...</p>

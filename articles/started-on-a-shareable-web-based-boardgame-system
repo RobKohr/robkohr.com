@@ -33,9 +33,9 @@
     <div class="tags">@tags=<a href="tags/shareable-board-game">shareable-board-game</a>, <a href="tags/software-ideas">software-ideas</a>, <a href="tags/instaboardgame">instaboardgame</a>, <a href="tags/boardgames">boardgames</a></div>
     </div>
     <article>
-        <p><img src="images/2020-05-07-11-13-10.png" alt="2020-05-07-11-13-10.png" style="max-width: 100%;" /></p>
-<p><img src="images/2020-05-07-11-13-49.png" alt="2020-05-07-11-13-49.png" style="max-width: 100%;" /></p>
-<p><img src="images/2020-05-07-11-14-09.png" alt="2020-05-07-11-14-09.png" style="max-width: 100%;" /></p>
+        <p><img realsrc="images/2020-05-07-11-13-10.png" alt="2020-05-07-11-13-10.png" style="max-width: 100%;" /></p>
+<p><img realsrc="images/2020-05-07-11-13-49.png" alt="2020-05-07-11-13-49.png" style="max-width: 100%;" /></p>
+<p><img realsrc="images/2020-05-07-11-14-09.png" alt="2020-05-07-11-14-09.png" style="max-width: 100%;" /></p>
 
     </article>
     

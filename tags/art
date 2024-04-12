@@ -33,7 +33,7 @@
     <div class="tags">@tags=<a href="tags/art">art</a></div>
     </div>
     <article>
-        <p><img src="images/2023-12-07 Mountain lake and forest.png" alt="2023-12-07 Mountain lake and forest.png" style="max-width: 100%;" /></p>
+        <p><img realsrc="images/2023-12-07 Mountain lake and forest.png" alt="2023-12-07 Mountain lake and forest.png" style="max-width: 100%;" /></p>
 
     </article>
     
@@ -56,7 +56,7 @@
     <div class="tags">@tags=<a href="tags/art">art</a>, <a href="tags/pen">pen</a></div>
     </div>
     <article>
-        <p><img src="images/2023-07-21 Chatbot.jpg" alt="2023-07-21 Chatbot.jpg" style="max-width: 100%;" /></p>
+        <p><img realsrc="images/2023-07-21 Chatbot.jpg" alt="2023-07-21 Chatbot.jpg" style="max-width: 100%;" /></p>
 
     </article>
     
@@ -66,7 +66,7 @@
     <div class="tags">@tags=<a href="tags/art">art</a>, <a href="tags/spen">spen</a></div>
     </div>
     <article>
-        <p><img src="images/Ice cream 2023-05-13.jpg" alt="Ice cream 2023-05-13.jpg" style="max-width: 100%;" /></p>
+        <p><img realsrc="images/Ice cream 2023-05-13.jpg" alt="Ice cream 2023-05-13.jpg" style="max-width: 100%;" /></p>
 
     </article>
     
@@ -76,7 +76,7 @@
     <div class="tags">@tags=<a href="tags/art">art</a>, <a href="tags/spen">spen</a>, <a href="tags/food">food</a></div>
     </div>
     <article>
-        <p><img src="images/McDonald&#39;s breakfast_2023-03-04.jpg" alt="McDonald&#39;s breakfast_2023-03-04.jpg" style="max-width: 100%;" /></p>
+        <p><img realsrc="images/McDonald&#39;s breakfast_2023-03-04.jpg" alt="McDonald&#39;s breakfast_2023-03-04.jpg" style="max-width: 100%;" /></p>
 
     </article>
     
@@ -86,8 +86,8 @@
     <div class="tags">@tags=<a href="tags/art">art</a>, <a href="tags/spen">spen</a></div>
     </div>
     <article>
-        <p><img src="images/Santa - 2022-12-20.png" alt="Santa - 2022-12-20.png" style="max-width: 100%;" /></p>
-<p><img src="images/Elf 2022-12-20.png" alt="Elf 2022-12-20.png" style="max-width: 100%;" /></p>
+        <p><img realsrc="images/Santa - 2022-12-20.png" alt="Santa - 2022-12-20.png" style="max-width: 100%;" /></p>
+<p><img realsrc="images/Elf 2022-12-20.png" alt="Elf 2022-12-20.png" style="max-width: 100%;" /></p>
 
     </article>
     
@@ -97,7 +97,7 @@
     <div class="tags">@tags=<a href="tags/art">art</a>, <a href="tags/spen">spen</a></div>
     </div>
     <article>
-        <p><img src="images/Desk 2022-08-18.jpg" alt="Desk 2022-08-18.jpg" style="max-width: 100%;" /></p>
+        <p><img realsrc="images/Desk 2022-08-18.jpg" alt="Desk 2022-08-18.jpg" style="max-width: 100%;" /></p>
 
     </article>
     
@@ -107,7 +107,7 @@
     <div class="tags">@tags=<a href="tags/space-battle-game">space-battle-game</a>, <a href="tags/art">art</a>, <a href="tags/concept-art">concept-art</a></div>
     </div>
     <article>
-        <p><img src="images/Concept art for space fighting game - 2022-07-26.jpg" alt="Concept art for space fighting game - 2022-07-26.jpg" style="max-width: 100%;" /></p>
+        <p><img realsrc="images/Concept art for space fighting game - 2022-07-26.jpg" alt="Concept art for space fighting game - 2022-07-26.jpg" style="max-width: 100%;" /></p>
 
     </article>
     
@@ -117,7 +117,7 @@
     <div class="tags">@tags=<a href="tags/art">art</a>, <a href="tags/spen">spen</a></div>
     </div>
     <article>
-        <p><img src="images/Mushroom Container - 2021-12-25.jpg" alt="Mushroom Container - 2021-12-25.jpg" style="max-width: 100%;" /></p>
+        <p><img realsrc="images/Mushroom Container - 2021-12-25.jpg" alt="Mushroom Container - 2021-12-25.jpg" style="max-width: 100%;" /></p>
 
     </article>
     

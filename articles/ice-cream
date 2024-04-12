@@ -33,7 +33,7 @@
     <div class="tags">@tags=<a href="tags/art">art</a>, <a href="tags/spen">spen</a></div>
     </div>
     <article>
-        <p><img src="images/Ice cream 2023-05-13.jpg" alt="Ice cream 2023-05-13.jpg" style="max-width: 100%;" /></p>
+        <p><img realsrc="images/Ice cream 2023-05-13.jpg" alt="Ice cream 2023-05-13.jpg" style="max-width: 100%;" /></p>
 
     </article>
     

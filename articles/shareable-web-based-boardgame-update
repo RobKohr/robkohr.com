@@ -35,7 +35,7 @@
     <article>
         <p><a href="http://tentoncreations.com/a/Started-on-a-shareable-web-based-boardgame-system/">Last month</a> I made a doodle post of an idea for an instant online board game system.</p>
 <p>Well, progress is coming along fast:</p>
-<p><img src="images/2020-06-04-15-12-03.png" alt="2020-06-04-15-12-03.png" style="max-width: 100%;" /></p>
+<p><img realsrc="images/2020-06-04-15-12-03.png" alt="2020-06-04-15-12-03.png" style="max-width: 100%;" /></p>
 <p>So far I have:</p>
 <ul>
 <li>a react site which directs <a href="https://instaboardgame.com/game/test">/game/test</a> to a test boardgame</li>

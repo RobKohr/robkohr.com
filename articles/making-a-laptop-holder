@@ -38,8 +38,8 @@
 <p>I heated it up to ABS temperature, and then took a sodering iron to cut off chunks of it, then pried off whatever was left. All worked great, and no that the pumpkin was done, it was time to do something else.</p>
 <p>I hook up a laptop to my screen via usb-c and need a way to hold it vertically. I figured I should throw in some cable management, pen slots, and maybe some spaces to put magnets to put things like paperclips on. </p>
 <p>First I started in Tinkercad with a large rectiliniar cube as a hole to represent the laptop, and then put it 4 mm above the ground. Then I stacked the other parts around it and added cuts. This is the primary mode I do for design. Add chunks and then do subtracts. </p>
-<p><img src="images/before-cuts.png" alt="before-cuts.png" style="max-width: 100%;" /></p>
-<p><img src="images/after cuts.png" alt="after cuts.png" style="max-width: 100%;" /></p>
+<p><img realsrc="images/before-cuts.png" alt="before-cuts.png" style="max-width: 100%;" /></p>
+<p><img realsrc="images/after cuts.png" alt="after cuts.png" style="max-width: 100%;" /></p>
 <p>I also try to work with multiples/fractions of 12. Base 12 has the most factors (12, 6, 4, 3, 2, 1) and works well for keeping things scaled in pleasing proportions to each other (this is why lego is base 12, the imperial system works off of base 12, our clocks, western music scales, and many other things). So the height for the surrounding bases are 6mm high, and everything follows from there. </p>
 <p>So off to the printer it goes, and here is the final product:</p>
 <p>(image coming soon)</p>

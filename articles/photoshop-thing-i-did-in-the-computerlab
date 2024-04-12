@@ -33,7 +33,7 @@
     <div class="tags">@tags=<a href="tags/funny">funny</a></div>
     </div>
     <article>
-        <p><img src="images/Jeeves-2000ish 2.jpg" alt="Jeeves-2000ish 2.jpg" style="max-width: 100%;" /></p>
+        <p><img realsrc="images/Jeeves-2000ish 2.jpg" alt="Jeeves-2000ish 2.jpg" style="max-width: 100%;" /></p>
 
     </article>
     

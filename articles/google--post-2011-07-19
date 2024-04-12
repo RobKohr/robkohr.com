@@ -33,7 +33,7 @@
     <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
     </div>
     <article>
-        <p><img src="images/googlePlusPhotos/Photos%20from%20posts/2011-07-19/16s65q35h8cdu.png" alt="googlePlusPhotos/Photos%20from%20posts/2011-07-19/16s65q35h8cdu.png" style="max-width: 100%;" /></p>
+        <p><img realsrc="images/googlePlusPhotos/Photos%20from%20posts/2011-07-19/16s65q35h8cdu.png" alt="googlePlusPhotos/Photos%20from%20posts/2011-07-19/16s65q35h8cdu.png" style="max-width: 100%;" /></p>
 
     </article>
     

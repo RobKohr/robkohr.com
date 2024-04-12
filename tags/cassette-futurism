@@ -33,7 +33,7 @@
     <div class="tags">@tags=<a href="tags/cassette-futurism">cassette-futurism</a></div>
     </div>
     <article>
-        <p><img src="images/TheVindicationCover.jpg" alt="TheVindicationCover.jpg" style="max-width: 100%;" /></p>
+        <p><img realsrc="images/TheVindicationCover.jpg" alt="TheVindicationCover.jpg" style="max-width: 100%;" /></p>
 
     </article>
     

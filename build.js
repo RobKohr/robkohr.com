@@ -18,7 +18,7 @@ and replace it with this:
 */
 
 function replaceImageLinks(text) {
-  const out = text.replace(/!\[\[(.+)\]\]/g, '<img src="images/$1" alt="$1" style="max-width: 100%;" />');
+  const out = text.replace(/!\[\[(.+)\]\]/g, '<img realsrc="images/$1" alt="$1" style="max-width: 100%;" />');
   /* find all image paths, remove the syntax around them, and put the file names in an array */
   const matches = text.match(/!\[\[(.+)\]\]/g)?.map(function (match) {
     return match.replace(/!\[\[(.+)\]\]/, "$1");
@@ -126,7 +126,7 @@ var articles = articlesFull.map(function (articleOrig) {
   if (!hasReadMore) {
     article.summary = article.html;
   } else {
-    let matches = article.html.match(/<img src="(.+)" alt="(.+)" style="max-width: 100%;" \/>/);
+    let matches = article.html.match(/<img realsrc="(.+)" alt="(.+)" style="max-width: 100%;" \/>/);
     icon = matches?.length ? matches[0] : "";
     if (icon) {
       icon = `<a href="${articleUrl(article)}">${icon.replace("img", 'img class="icon"')}</a>`;
