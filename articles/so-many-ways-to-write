@@ -19,6 +19,7 @@
 <link rel="shortcut icon" type="image/ico" href="favicon.ico">
 <link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
 <script src="libs/highlight/highlight.min.js"></script>
+<script src="image-lazy-loader.js"></script>
 
                 <link rel="canonical" href="https://robkohr.com/articles/so-many-ways-to-write" />
                 <link rel="stylesheet" href="../neat.css">
@@ -33,7 +34,7 @@
     <div class="tags">@tags=<a href="tags/writing">writing</a></div>
     </div>
     <article>
-        <p><img realsrc="images/2020-06-12-08-36-32.png" alt="2020-06-12-08-36-32.png" style="max-width: 100%;" /></p>
+        <p><img data-src="images/2020-06-12-08-36-32.png" alt="2020-06-12-08-36-32.png" style="max-width: 100%;" /></p>
 <p>I have gotten so interested in different writing systems lately. I have more notebooks than I know what to do with. I use a daily notebook.md file which I use to track work tasks. I have this blog, which is generated from a blog.md file. I recently got index cards and am trying to figure out how to incorporate them in some way.</p>
 <p>Creating a pattern to writing is the tricky part. It takes repetition and a desire to do it... kinda like exercise.</p>
 

@@ -19,6 +19,7 @@
 <link rel="shortcut icon" type="image/ico" href="favicon.ico">
 <link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
 <script src="libs/highlight/highlight.min.js"></script>
+<script src="image-lazy-loader.js"></script>
 
                 <link rel="canonical" href="https://robkohr.com/articles/on-typescript" />
                 <link rel="stylesheet" href="../neat.css">
@@ -33,7 +34,7 @@
     <div class="tags">@tags=<a href="tags/typescript">typescript</a>, <a href="tags/webdev">webdev</a></div>
     </div>
     <article>
-        <p><img realsrc="images/2021-08-15-11-32-29.png" alt="2021-08-15-11-32-29.png" style="max-width: 100%;" /></p>
+        <p><img data-src="images/2021-08-15-11-32-29.png" alt="2021-08-15-11-32-29.png" style="max-width: 100%;" /></p>
 <p>After working with typescript a lot on work projects, I typically skip it on personal projects as it just seems tedious at times.</p>
 <p>Well, I just threw it into the neverall project while working on an alerting system, and by golly did it help clean up some things.</p>
 <p>The issues I find are related to the type &quot;any&quot;, which seems like sacrilege to use in projects, and for good reason. In a big team, it is easy for an individual contributor to fly under the radar tossing any in all sorts of places.</p>

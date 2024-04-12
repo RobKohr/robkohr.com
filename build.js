@@ -8,6 +8,7 @@ ${fs.readFileSync("analytics.html", "utf8")}
 <link rel="shortcut icon" type="image/ico" href="favicon.ico">
 <link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
 <script src="libs/highlight/highlight.min.js"></script>
+<script src="image-lazy-loader.js"></script>
 `;
 
 /* 
@@ -18,7 +19,7 @@ and replace it with this:
 */
 
 function replaceImageLinks(text) {
-  const out = text.replace(/!\[\[(.+)\]\]/g, '<img realsrc="images/$1" alt="$1" style="max-width: 100%;" />');
+  const out = text.replace(/!\[\[(.+)\]\]/g, '<img data-src="images/$1" alt="$1" style="max-width: 100%;" />');
   /* find all image paths, remove the syntax around them, and put the file names in an array */
   const matches = text.match(/!\[\[(.+)\]\]/g)?.map(function (match) {
     return match.replace(/!\[\[(.+)\]\]/, "$1");
@@ -126,7 +127,7 @@ var articles = articlesFull.map(function (articleOrig) {
   if (!hasReadMore) {
     article.summary = article.html;
   } else {
-    let matches = article.html.match(/<img realsrc="(.+)" alt="(.+)" style="max-width: 100%;" \/>/);
+    let matches = article.html.match(/<img data-src="(.+)" alt="(.+)" style="max-width: 100%;" \/>/);
     icon = matches?.length ? matches[0] : "";
     if (icon) {
       icon = `<a href="${articleUrl(article)}">${icon.replace("img", 'img class="icon"')}</a>`;

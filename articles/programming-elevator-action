@@ -19,6 +19,7 @@
 <link rel="shortcut icon" type="image/ico" href="favicon.ico">
 <link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
 <script src="libs/highlight/highlight.min.js"></script>
+<script src="image-lazy-loader.js"></script>
 
                 <link rel="canonical" href="https://robkohr.com/articles/programming-elevator-action" />
                 <link rel="stylesheet" href="../neat.css">
@@ -33,7 +34,7 @@
     <div class="tags">@tags=<a href="tags/other-peoples-projects">other-peoples-projects</a>, <a href="tags/games">games</a></div>
     </div>
     <article>
-        <p><img realsrc="images/2020-06-12-08-43-51.png" alt="2020-06-12-08-43-51.png" style="max-width: 100%;" /></p>
+        <p><img data-src="images/2020-06-12-08-43-51.png" alt="2020-06-12-08-43-51.png" style="max-width: 100%;" /></p>
 <p><a href="https://play.elevatorsaga.com/">Elevator Saga</a> is a javascript programming game where you have to write code to control elevators in the most efficient possible manner to be increasingly difficult levels. Warning: this is totally a nerd trap that will suck your attention if you are a programmer.</p>
 
     </article>

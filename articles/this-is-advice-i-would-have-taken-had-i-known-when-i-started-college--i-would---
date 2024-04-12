@@ -19,6 +19,7 @@
 <link rel="shortcut icon" type="image/ico" href="favicon.ico">
 <link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
 <script src="libs/highlight/highlight.min.js"></script>
+<script src="image-lazy-loader.js"></script>
 
                 <link rel="canonical" href="https://robkohr.com/articles/this-is-advice-i-would-have-taken-had-i-known-when-i-started-college--i-would---" />
                 <link rel="stylesheet" href="../neat.css">

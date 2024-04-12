@@ -19,6 +19,7 @@
 <link rel="shortcut icon" type="image/ico" href="favicon.ico">
 <link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
 <script src="libs/highlight/highlight.min.js"></script>
+<script src="image-lazy-loader.js"></script>
 
                 <link rel="canonical" href="https://robkohr.com/articles/doubled-strength-about-1-year-since-workout-charting" />
                 <link rel="stylesheet" href="../neat.css">
@@ -33,15 +34,15 @@
     <div class="tags">@tags=<a href="tags/exercise">exercise</a></div>
     </div>
     <article>
-        <p><img realsrc="images/strength spreadsheet 2022.png" alt="strength spreadsheet 2022.png" style="max-width: 100%;" />
-<img realsrc="images/strength 2023.png" alt="strength 2023.png" style="max-width: 100%;" /></p>
+        <p><img data-src="images/strength spreadsheet 2022.png" alt="strength spreadsheet 2022.png" style="max-width: 100%;" />
+<img data-src="images/strength 2023.png" alt="strength 2023.png" style="max-width: 100%;" /></p>
 <p>So this marks about a year since I started charting my weightlifting journey, and for most of the exercises I have doubled my strength. </p>
 <p>In my older age, I have found that more reps and less weight is the way to avoid pulling muscles - a thing that in the past has hampered progress, keeping my away from the weights for weeks at a time. </p>
 <p>My goal has been to do 20 rep max for each workout, eeking forward 5-10 pounds each week. </p>
 <p>This page:
 <a href="https://en.wikipedia.org/wiki/One-repetition_maximum">https://en.wikipedia.org/wiki/One-repetition_maximum</a></p>
 <p>has formulas that will convert any rep/weight combination to what you would lift as a 1 rep max, and the research shows the one by Wathen seems to be the best:</p>
-<p><img realsrc="images/Wathen formula.png" alt="Wathen formula.png" style="max-width: 100%;" /></p>
+<p><img data-src="images/Wathen formula.png" alt="Wathen formula.png" style="max-width: 100%;" /></p>
 <p>Experimenting myself one day with bench press, I can attest that it solidly was able to calculate my 1 rep max. I can also attest that such weights are really enough strain that it makes it more concerning pushing yourself so hard, when the same gains can be had on the other side of the spectrum. </p>
 <p>If you would like to use these formulas in your own google spreadsheet, you can go to Data-&gt;Named Functions and add them:</p>
 <h3>ONEREPMAX</h3>

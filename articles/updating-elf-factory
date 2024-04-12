@@ -19,6 +19,7 @@
 <link rel="shortcut icon" type="image/ico" href="favicon.ico">
 <link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
 <script src="libs/highlight/highlight.min.js"></script>
+<script src="image-lazy-loader.js"></script>
 
                 <link rel="canonical" href="https://robkohr.com/articles/updating-elf-factory" />
                 <link rel="stylesheet" href="../neat.css">
@@ -33,7 +34,7 @@
     <div class="tags">@tags=<a href="tags/elf-factory">elf-factory</a>, <a href="tags/playdate">playdate</a>, <a href="tags/gamedev">gamedev</a></div>
     </div>
     <article>
-        <p><img realsrc="images/Pasted image 20231208132932.png" alt="Pasted image 20231208132932.png" style="max-width: 100%;" /></p>
+        <p><img data-src="images/Pasted image 20231208132932.png" alt="Pasted image 20231208132932.png" style="max-width: 100%;" /></p>
 <p>So I built Elf Factory initially when I didn&#39;t have a playdate, and created some tiny fonts to make it so a decent amount of text could appear on the screen.</p>
 <p>That looked great on my computer monitor, but apparently not so much on the playdate.</p>
 <p>Now that I have one in hand, I was able to tweak all the fonts to make them readable, and to some editing to make it so all the needed text appears on the screen, and it looks pretty great. I also updated the menu card for the game to look a little better and more festive.</p>

@@ -19,6 +19,7 @@
 <link rel="shortcut icon" type="image/ico" href="favicon.ico">
 <link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
 <script src="libs/highlight/highlight.min.js"></script>
+<script src="image-lazy-loader.js"></script>
 
                 <link rel="canonical" href="https://robkohr.com/articles/remove-annoying-eu-cookie-banners" />
                 <link rel="stylesheet" href="../neat.css">
@@ -33,7 +34,7 @@
     <div class="tags">@tags=<a href="tags/css">css</a>, <a href="tags/govt">govt</a>, <a href="tags/automating-life">automating-life</a></div>
     </div>
     <article>
-        <p><img realsrc="images/2020-06-12-08-43-25.png" alt="2020-06-12-08-43-25.png" style="max-width: 100%;" /></p>
+        <p><img data-src="images/2020-06-12-08-43-25.png" alt="2020-06-12-08-43-25.png" style="max-width: 100%;" /></p>
 <p>Tired of having to annoyingly see those accept cookies messages that EU bureaucrats have foisted upon us all? Use the <a href="https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha">StyleBot</a> chrome extension and then open stylebot-&gt;options-&gt;Edit Global Style Sheet, and then copy paste <a href="https://raw.githubusercontent.com/Manoz/Cookies-F-cker/master/app/style.css">this css in</a></p>
 
     </article>

@@ -19,6 +19,7 @@
 <link rel="shortcut icon" type="image/ico" href="favicon.ico">
 <link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
 <script src="libs/highlight/highlight.min.js"></script>
+<script src="image-lazy-loader.js"></script>
 
                 <link rel="stylesheet" href="../neat.css">
                 <base href="../">
@@ -33,7 +34,7 @@
     <div class="tags">@tags=<a href="tags/concept-art">concept-art</a>, <a href="tags/playhouse">playhouse</a></div>
     </div>
     <article>
-        <p><img realsrc="images/2019-04-24 submarine playhouse.jpg" alt="2019-04-24 submarine playhouse.jpg" style="max-width: 100%;" /></p>
+        <p><img data-src="images/2019-04-24 submarine playhouse.jpg" alt="2019-04-24 submarine playhouse.jpg" style="max-width: 100%;" /></p>
 
     </article>
     

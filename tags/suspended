@@ -19,6 +19,7 @@
 <link rel="shortcut icon" type="image/ico" href="favicon.ico">
 <link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
 <script src="libs/highlight/highlight.min.js"></script>
+<script src="image-lazy-loader.js"></script>
 
                 <link rel="stylesheet" href="../neat.css">
                 <base href="../">
@@ -34,7 +35,7 @@
     </div>
     <article>
         <p><a href="https://constantsail.com">Constant Sail</a> is a pirate and sailing massive multiplayer game that is in development
-<br><img realsrc="images/constantsail.png" alt="constantsail.png" style="max-width: 100%;" /></p>
+<br><img data-src="images/constantsail.png" alt="constantsail.png" style="max-width: 100%;" /></p>
 
     </article>
     

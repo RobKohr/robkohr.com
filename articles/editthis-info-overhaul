@@ -19,6 +19,7 @@
 <link rel="shortcut icon" type="image/ico" href="favicon.ico">
 <link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
 <script src="libs/highlight/highlight.min.js"></script>
+<script src="image-lazy-loader.js"></script>
 
                 <link rel="canonical" href="https://robkohr.com/articles/editthis-info-overhaul" />
                 <link rel="stylesheet" href="../neat.css">
@@ -48,7 +49,7 @@
 <li><input disabled="" type="checkbox"> Point editthis.info to new server</li>
 </ul>
 <p>Along the way I expect a lot of hick-ups and course corrections, but EDI is a very active site despite it&#39;s poor network performance. I think it is reasonable to expect that with a bit of an overhaul I can achieve a 10x increase in usage, which would make it much more lively than it is now.</p>
-<p>Screenshot showing how much cloudflare is blocking (basically a count of failed or skipped annoying captchas): <img realsrc="images/2020-09-21-10-26-35.png" alt="2020-09-21-10-26-35.png" style="max-width: 100%;" /></p>
+<p>Screenshot showing how much cloudflare is blocking (basically a count of failed or skipped annoying captchas): <img data-src="images/2020-09-21-10-26-35.png" alt="2020-09-21-10-26-35.png" style="max-width: 100%;" /></p>
 
     </article>
     

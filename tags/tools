@@ -19,6 +19,7 @@
 <link rel="shortcut icon" type="image/ico" href="favicon.ico">
 <link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
 <script src="libs/highlight/highlight.min.js"></script>
+<script src="image-lazy-loader.js"></script>
 
                 <link rel="stylesheet" href="../neat.css">
                 <base href="../">
@@ -56,7 +57,7 @@
     <div class="tags">@tags=<a href="tags/tools">tools</a></div>
     </div>
     <article>
-        <p><img realsrc="images/2020-06-12-08-44-16.png" alt="2020-06-12-08-44-16.png" style="max-width: 100%;" /></p>
+        <p><img data-src="images/2020-06-12-08-44-16.png" alt="2020-06-12-08-44-16.png" style="max-width: 100%;" /></p>
 <p><a href="https://nodered.org/">Node red</a> this is a very similar thing to yahoo pipes back in the day. It is a self hosted tool to pipe things into each other and do operations on them (best to watch the video there).</p>
 
     </article>

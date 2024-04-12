@@ -19,6 +19,7 @@
 <link rel="shortcut icon" type="image/ico" href="favicon.ico">
 <link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
 <script src="libs/highlight/highlight.min.js"></script>
+<script src="image-lazy-loader.js"></script>
 
                 <link rel="stylesheet" href="../neat.css">
                 <base href="../">
@@ -33,7 +34,7 @@
     <div class="tags">@tags=<a href="tags/inspiration">inspiration</a>, <a href="tags/motivation">motivation</a></div>
     </div>
     <article>
-        <a href="articles/done-manifesto"><img class="icon" realsrc="images/2023-09-22 Done manifesto.png" alt="2023-09-22 Done manifesto.png" style="max-width: 100%;" /></a><blockquote>
+        <a href="articles/done-manifesto"><img class="icon" data-src="images/2023-09-22 Done manifesto.png" alt="2023-09-22 Done manifesto.png" style="max-width: 100%;" /></a><blockquote>
 <ol>
 <li>There are three states of being. Not knowing, action and completion.</li>
 <li>Accept that everything is a draft. It helps to get it done.</li>

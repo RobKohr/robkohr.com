@@ -19,6 +19,7 @@
 <link rel="shortcut icon" type="image/ico" href="favicon.ico">
 <link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
 <script src="libs/highlight/highlight.min.js"></script>
+<script src="image-lazy-loader.js"></script>
 
                 <link rel="canonical" href="https://robkohr.com/articles/i-made-a-thing-for-a-school-auction" />
                 <link rel="stylesheet" href="../neat.css">
@@ -33,7 +34,7 @@
     <div class="tags">@tags=<a href="tags/woodworking">woodworking</a></div>
     </div>
     <article>
-        <p><img realsrc="images/Letter Board.jpg" alt="Letter Board.jpg" style="max-width: 100%;" /></p>
+        <p><img data-src="images/Letter Board.jpg" alt="Letter Board.jpg" style="max-width: 100%;" /></p>
 
     </article>
     

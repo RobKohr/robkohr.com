@@ -19,6 +19,7 @@
 <link rel="shortcut icon" type="image/ico" href="favicon.ico">
 <link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
 <script src="libs/highlight/highlight.min.js"></script>
+<script src="image-lazy-loader.js"></script>
 
                 <link rel="canonical" href="https://robkohr.com/articles/45-going-on-46" />
                 <link rel="stylesheet" href="../neat.css">
@@ -33,7 +34,7 @@
     <div class="tags">@tags=<a href="tags/thoughts">thoughts</a></div>
     </div>
     <article>
-        <p><img realsrc="images/2023-08-21 dumbell.png" alt="2023-08-21 dumbell.png" style="max-width: 100%;" /></p>
+        <p><img data-src="images/2023-08-21 dumbell.png" alt="2023-08-21 dumbell.png" style="max-width: 100%;" /></p>
 <p>So I am 45, about to be 46. My father is 83. He is pretty far along with dementia, is in a VA home in Alabama, and nearly died, but that was due to being in a really bad state care facility prior that seemed to prefer to drug and leave their patients in a room to die rather than take care of the difficult ones. He recovered well, and is physically doing good, which ain&#39;t bad for having been on life support. He has been physically active his whole life, is strong, and I think that is part of the reason for his recovery.</p>
 <p>So rounding back time to maybe about 75 for dad, and matching him to me, I have 30 good years left to do things before that downward slope to mortality. I have been aiming to be more physically fit: lift weights 2-3 times a week, run 2 times a week, and walk 4000 steps a day, and it shows. And aside from being more fit now, these are the things that correlate with a bonus of about +5 years of life, and probably a much slower downhill fall into old age weakness. </p>
 <p>My father-in-law (well x-father-in-law) who had a serious sky diving crash and who didn&#39;t look like he was ever going to walk again, now is starting to walk with a walker, and I attribute that to the fact that he is fit and always lifting. </p>

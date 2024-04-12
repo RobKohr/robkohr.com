@@ -19,6 +19,7 @@
 <link rel="shortcut icon" type="image/ico" href="favicon.ico">
 <link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
 <script src="libs/highlight/highlight.min.js"></script>
+<script src="image-lazy-loader.js"></script>
 
                 <link rel="canonical" href="https://robkohr.com/articles/there-is-a-mongolian-place-we-go-to-where-one-of-the-bins-of-meat-is-labeled----" />
                 <link rel="stylesheet" href="../neat.css">
@@ -35,7 +36,7 @@
     <article>
         <p>There is a Mongolian place we go to where one of the bins of meat is labeled &quot;Turkey  Shrimp.&quot; The legendary Turkey Shrimp is a crowd favorite.</p>
 <p>This is a sketch of a live turkey shrimp drawn by <span class="proflinkWrapper"><span class="proflinkPrefix">+<a class="proflink bidi_isolate" href="https://plus.google.com/110978617464878488982" oid="110978617464878488982" >Drew Fisher</a></p>
-<p><img realsrc="images/googlePlusPhotos/Photos%20from%20posts/2012-02-09/17czchqxocgma.jpg" alt="googlePlusPhotos/Photos%20from%20posts/2012-02-09/17czchqxocgma.jpg" style="max-width: 100%;" /></p>
+<p><img data-src="images/googlePlusPhotos/Photos%20from%20posts/2012-02-09/17czchqxocgma.jpg" alt="googlePlusPhotos/Photos%20from%20posts/2012-02-09/17czchqxocgma.jpg" style="max-width: 100%;" /></p>
 
     </article>
     

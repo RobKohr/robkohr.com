@@ -19,6 +19,7 @@
 <link rel="shortcut icon" type="image/ico" href="favicon.ico">
 <link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
 <script src="libs/highlight/highlight.min.js"></script>
+<script src="image-lazy-loader.js"></script>
 
                 <link rel="stylesheet" href="../neat.css">
                 <base href="../">
@@ -33,7 +34,7 @@
     <div class="tags">@tags=<a href="tags/movie-reviews">movie-reviews</a></div>
     </div>
     <article>
-        <a href="articles/movie-review--the-stand-in"><img class="icon" realsrc="images/2023-08-21 the stand in.png" alt="2023-08-21 the stand in.png" style="max-width: 100%;" /></a><p>In this movie, Drew Barrymore plays as both a slapstick comedy movie actor (Candy) that is famous, as well as her stand in (Paula). </p>
+        <a href="articles/movie-review--the-stand-in"><img class="icon" data-src="images/2023-08-21 the stand in.png" alt="2023-08-21 the stand in.png" style="max-width: 100%;" /></a><p>In this movie, Drew Barrymore plays as both a slapstick comedy movie actor (Candy) that is famous, as well as her stand in (Paula). </p>
 <p>In it Candy hates her career as a character that basically is a mix of Johnny Knoxville and Adam Sandler. The Paula is the person who is there to stand in for he...</p>
  <p><a class="nowrap" href="articles/movie-review--the-stand-in">READ MORE (432 words, 3 minutes, 2 images)</a></p> 
     </article>

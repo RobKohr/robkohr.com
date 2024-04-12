@@ -19,6 +19,7 @@
 <link rel="shortcut icon" type="image/ico" href="favicon.ico">
 <link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
 <script src="libs/highlight/highlight.min.js"></script>
+<script src="image-lazy-loader.js"></script>
 
                 <link rel="canonical" href="https://robkohr.com/articles/planning-on-extending-the-playground-structure" />
                 <link rel="stylesheet" href="../neat.css">
@@ -33,7 +34,7 @@
     <div class="tags">@tags=<a href="tags/playground">playground</a></div>
     </div>
     <article>
-        <p><img realsrc="images/2024-02-13 play structure redesign.png" alt="2024-02-13 play structure redesign.png" style="max-width: 100%;" /></p>
+        <p><img data-src="images/2024-02-13 play structure redesign.png" alt="2024-02-13 play structure redesign.png" style="max-width: 100%;" /></p>
 <p>Also, looking at this for some insperation:
 <a href="https://www.facebook.com/reel/1019224596054886">https://www.facebook.com/reel/1019224596054886</a></p>
 

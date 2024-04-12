@@ -19,6 +19,7 @@
 <link rel="shortcut icon" type="image/ico" href="favicon.ico">
 <link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
 <script src="libs/highlight/highlight.min.js"></script>
+<script src="image-lazy-loader.js"></script>
 
                 <link rel="stylesheet" href="../neat.css">
                 <base href="../">
@@ -33,7 +34,7 @@
     <div class="tags">@tags=<a href="tags/dreams">dreams</a></div>
     </div>
     <article>
-        <a href="articles/x-ing"><img class="icon" realsrc="images/xing.jpg" alt="xing.jpg" style="max-width: 100%;" /></a><p>I wrote this a long while back about a dream I had about a race that happens every year. This isn&#39;t a normal race, but one where participants can bring all manner of things to race with (skateboards, bikes, etc) but most chose to go by foot.  </p>
+        <a href="articles/x-ing"><img class="icon" data-src="images/xing.jpg" alt="xing.jpg" style="max-width: 100%;" /></a><p>I wrote this a long while back about a dream I had about a race that happens every year. This isn&#39;t a normal race, but one where participants can bring all manner of things to race with (skateboards, bikes, etc) but most chose to go by foot.  </p>
 <p>The race starts in the dark of night, in a dense ci...</p>
  <p><a class="nowrap" href="articles/x-ing">READ MORE (383 words, 3 minutes, 1 images)</a></p> 
     </article>

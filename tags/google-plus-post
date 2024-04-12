@@ -19,6 +19,7 @@
 <link rel="shortcut icon" type="image/ico" href="favicon.ico">
 <link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
 <script src="libs/highlight/highlight.min.js"></script>
+<script src="image-lazy-loader.js"></script>
 
                 <link rel="stylesheet" href="../neat.css">
                 <base href="../">
@@ -205,7 +206,7 @@ Basically both parties hate it as i...</p>
     <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
     </div>
     <article>
-        <p><img realsrc="images/googlePlusPhotos/Photos%20from%20posts/9-28-12/180jaeu40rs2a.jpg" alt="googlePlusPhotos/Photos%20from%20posts/9-28-12/180jaeu40rs2a.jpg" style="max-width: 100%;" /></p>
+        <p><img data-src="images/googlePlusPhotos/Photos%20from%20posts/9-28-12/180jaeu40rs2a.jpg" alt="googlePlusPhotos/Photos%20from%20posts/9-28-12/180jaeu40rs2a.jpg" style="max-width: 100%;" /></p>
 
     </article>
     
@@ -357,7 +358,7 @@ This is well and good if you are doing something that has an even d...</p>
     </div>
     <article>
         <p>Burger time</p>
-<p><img realsrc="images/googlePlusPhotos/Photos%20from%20posts/5-28-12/17o2p76icx8xu.jpg" alt="googlePlusPhotos/Photos%20from%20posts/5-28-12/17o2p76icx8xu.jpg" style="max-width: 100%;" /></p>
+<p><img data-src="images/googlePlusPhotos/Photos%20from%20posts/5-28-12/17o2p76icx8xu.jpg" alt="googlePlusPhotos/Photos%20from%20posts/5-28-12/17o2p76icx8xu.jpg" style="max-width: 100%;" /></p>
 
     </article>
     
@@ -622,7 +623,7 @@ defaults read ~/.MacOSX/environment DYLD_INSERT_LIBRARIES </p>
     <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
     </div>
     <article>
-        <a href="articles/there-is-a-mongolian-place-we-go-to-where-one-of-the-bins-of-meat-is-labeled----"><img class="icon" realsrc="images/googlePlusPhotos/Photos%20from%20posts/2012-02-09/17czchqxocgma.jpg" alt="googlePlusPhotos/Photos%20from%20posts/2012-02-09/17czchqxocgma.jpg" style="max-width: 100%;" /></a><p>There is a Mongolian place we go to where one of the bins of meat is labeled &quot;Turkey  Shrimp.&quot; The legendary Turkey Shrimp is a crowd favorite.</p>
+        <a href="articles/there-is-a-mongolian-place-we-go-to-where-one-of-the-bins-of-meat-is-labeled----"><img class="icon" data-src="images/googlePlusPhotos/Photos%20from%20posts/2012-02-09/17czchqxocgma.jpg" alt="googlePlusPhotos/Photos%20from%20posts/2012-02-09/17czchqxocgma.jpg" style="max-width: 100%;" /></a><p>There is a Mongolian place we go to where one of the bins of meat is labeled &quot;Turkey  Shrimp.&quot; The legendary Turkey Shrimp is a crowd favorite.</p>
 <p>This is a sketch of a live turkey shrimp drawn by <span class="proflinkWrapper"><span class="proflinkPrefix">+&lt;a class=&quot;proflink bidi_isolate&quot; href=&quot;http...</p>
  <p><a class="nowrap" href="articles/there-is-a-mongolian-place-we-go-to-where-one-of-the-bins-of-meat-is-labeled----">READ MORE (47 words, 0 minutes, 1 images)</a></p> 
     </article>
@@ -676,7 +677,7 @@ defaults read ~/.MacOSX/environment DYLD_INSERT_LIBRARIES </p>
     <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
     </div>
     <article>
-        <a href="articles/digg-reddit-like-news-site--voting-is-based-on-bitcoins-"><img class="icon" realsrc="images/googlePlusPhotos/Photos%20from%20posts/2012-01-24/17bdnmnuwt2b6.png" alt="googlePlusPhotos/Photos%20from%20posts/2012-01-24/17bdnmnuwt2b6.png" style="max-width: 100%;" /></a><p><strong>Digg/Reddit like News site. Voting is based on Bitcoins!</strong></p>
+        <a href="articles/digg-reddit-like-news-site--voting-is-based-on-bitcoins-"><img class="icon" data-src="images/googlePlusPhotos/Photos%20from%20posts/2012-01-24/17bdnmnuwt2b6.png" alt="googlePlusPhotos/Photos%20from%20posts/2012-01-24/17bdnmnuwt2b6.png" style="max-width: 100%;" /></a><p><strong>Digg/Reddit like News site. Voting is based on Bitcoins!</strong></p>
 <p><a rel="nofollow" target="_blank" href="http://coinsmack.com" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://coinsmack.com</a></p>
 <p>I created a site where you can post links, videos, images, and blobs of text (h...</p>
  <p><a class="nowrap" href="articles/digg-reddit-like-news-site--voting-is-based-on-bitcoins-">READ MORE (135 words, 1 minutes, 1 images)</a></p> 
@@ -1012,7 +1013,7 @@ I added a description of how I handle ecommerce.</p>
     </div>
     <article>
         <p>Using my kids&#39; playroom as a photo studio can be amusing in retrospect.</p>
-<p><img realsrc="images/googlePlusPhotos/Photos%20from%20posts/2011-12-02/175cnoc8bb9he.jpg" alt="googlePlusPhotos/Photos%20from%20posts/2011-12-02/175cnoc8bb9he.jpg" style="max-width: 100%;" /></p>
+<p><img data-src="images/googlePlusPhotos/Photos%20from%20posts/2011-12-02/175cnoc8bb9he.jpg" alt="googlePlusPhotos/Photos%20from%20posts/2011-12-02/175cnoc8bb9he.jpg" style="max-width: 100%;" /></p>
 
     </article>
     
@@ -1900,7 +1901,7 @@ Address: Portland, OR 972...</p>
     <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
     </div>
     <article>
-        <p><img realsrc="images/googlePlusPhotos/Photos%20from%20posts/2011-07-19/16s65q35h8cdu.png" alt="googlePlusPhotos/Photos%20from%20posts/2011-07-19/16s65q35h8cdu.png" style="max-width: 100%;" /></p>
+        <p><img data-src="images/googlePlusPhotos/Photos%20from%20posts/2011-07-19/16s65q35h8cdu.png" alt="googlePlusPhotos/Photos%20from%20posts/2011-07-19/16s65q35h8cdu.png" style="max-width: 100%;" /></p>
 
     </article>
     

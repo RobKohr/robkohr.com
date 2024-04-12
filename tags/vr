@@ -19,6 +19,7 @@
 <link rel="shortcut icon" type="image/ico" href="favicon.ico">
 <link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
 <script src="libs/highlight/highlight.min.js"></script>
+<script src="image-lazy-loader.js"></script>
 
                 <link rel="stylesheet" href="../neat.css">
                 <base href="../">
@@ -33,7 +34,7 @@
     <div class="tags">@tags=<a href="tags/vr">vr</a></div>
     </div>
     <article>
-        <a href="articles/why-isn-t-vr-exploding-into-the-mainstream-"><img class="icon" realsrc="images/2023-08-28ValveDeckard.png" alt="2023-08-28ValveDeckard.png" style="max-width: 100%;" /></a><p>You have two real options:  </p>
+        <a href="articles/why-isn-t-vr-exploding-into-the-mainstream-"><img class="icon" data-src="images/2023-08-28ValveDeckard.png" alt="2023-08-28ValveDeckard.png" style="max-width: 100%;" /></a><p>You have two real options:  </p>
 <ol>
 <li>PC VR with a huge upfront expense, a required dedicated space, and a wire attached to your head  </li>
 <li>Quest - A tightly controlled platform with limited experimental titles. It is a pain in the ass to develop for, and if you don&#39;t make a smash hit, you won&#39;t be ac...</li>
@@ -47,7 +48,7 @@
     <div class="tags">@tags=<a href="tags/vr">vr</a>, <a href="tags/software-ideas">software-ideas</a></div>
     </div>
     <article>
-        <p><img realsrc="images/2020-04-02-11-03-44.png" alt="2020-04-02-11-03-44.png" style="max-width: 100%;" /></p>
+        <p><img data-src="images/2020-04-02-11-03-44.png" alt="2020-04-02-11-03-44.png" style="max-width: 100%;" /></p>
 
     </article>
     

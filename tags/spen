@@ -19,6 +19,7 @@
 <link rel="shortcut icon" type="image/ico" href="favicon.ico">
 <link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
 <script src="libs/highlight/highlight.min.js"></script>
+<script src="image-lazy-loader.js"></script>
 
                 <link rel="stylesheet" href="../neat.css">
                 <base href="../">
@@ -33,7 +34,7 @@
     <div class="tags">@tags=<a href="tags/art">art</a>, <a href="tags/spen">spen</a></div>
     </div>
     <article>
-        <p><img realsrc="images/Ice cream 2023-05-13.jpg" alt="Ice cream 2023-05-13.jpg" style="max-width: 100%;" /></p>
+        <p><img data-src="images/Ice cream 2023-05-13.jpg" alt="Ice cream 2023-05-13.jpg" style="max-width: 100%;" /></p>
 
     </article>
     
@@ -43,7 +44,7 @@
     <div class="tags">@tags=<a href="tags/art">art</a>, <a href="tags/spen">spen</a>, <a href="tags/food">food</a></div>
     </div>
     <article>
-        <p><img realsrc="images/McDonald&#39;s breakfast_2023-03-04.jpg" alt="McDonald&#39;s breakfast_2023-03-04.jpg" style="max-width: 100%;" /></p>
+        <p><img data-src="images/McDonald&#39;s breakfast_2023-03-04.jpg" alt="McDonald&#39;s breakfast_2023-03-04.jpg" style="max-width: 100%;" /></p>
 
     </article>
     
@@ -53,8 +54,8 @@
     <div class="tags">@tags=<a href="tags/art">art</a>, <a href="tags/spen">spen</a></div>
     </div>
     <article>
-        <p><img realsrc="images/Santa - 2022-12-20.png" alt="Santa - 2022-12-20.png" style="max-width: 100%;" /></p>
-<p><img realsrc="images/Elf 2022-12-20.png" alt="Elf 2022-12-20.png" style="max-width: 100%;" /></p>
+        <p><img data-src="images/Santa - 2022-12-20.png" alt="Santa - 2022-12-20.png" style="max-width: 100%;" /></p>
+<p><img data-src="images/Elf 2022-12-20.png" alt="Elf 2022-12-20.png" style="max-width: 100%;" /></p>
 
     </article>
     
@@ -64,7 +65,7 @@
     <div class="tags">@tags=<a href="tags/art">art</a>, <a href="tags/spen">spen</a></div>
     </div>
     <article>
-        <p><img realsrc="images/Desk 2022-08-18.jpg" alt="Desk 2022-08-18.jpg" style="max-width: 100%;" /></p>
+        <p><img data-src="images/Desk 2022-08-18.jpg" alt="Desk 2022-08-18.jpg" style="max-width: 100%;" /></p>
 
     </article>
     
@@ -74,7 +75,7 @@
     <div class="tags">@tags=<a href="tags/art">art</a>, <a href="tags/spen">spen</a></div>
     </div>
     <article>
-        <p><img realsrc="images/Mushroom Container - 2021-12-25.jpg" alt="Mushroom Container - 2021-12-25.jpg" style="max-width: 100%;" /></p>
+        <p><img data-src="images/Mushroom Container - 2021-12-25.jpg" alt="Mushroom Container - 2021-12-25.jpg" style="max-width: 100%;" /></p>
 
     </article>
     
@@ -85,7 +86,7 @@
     </div>
     <article>
         <p>Test if spen</p>
-<p><img realsrc="images/googlePlusPhotos/Photos%20from%20posts/3-13-14/19if80pbt4ouq.jpg" alt="googlePlusPhotos/Photos%20from%20posts/3-13-14/19if80pbt4ouq.jpg" style="max-width: 100%;" /></p>
+<p><img data-src="images/googlePlusPhotos/Photos%20from%20posts/3-13-14/19if80pbt4ouq.jpg" alt="googlePlusPhotos/Photos%20from%20posts/3-13-14/19if80pbt4ouq.jpg" style="max-width: 100%;" /></p>
 
     </article>
     
@@ -95,8 +96,8 @@
     <div class="tags">@tags=<a href="tags/spen">spen</a></div>
     </div>
     <article>
-        <p><img realsrc="images/googlePlusPhotos/Photos%20from%20posts/3-13-14/19if83l8kmiyq.jpg" alt="googlePlusPhotos/Photos%20from%20posts/3-13-14/19if83l8kmiyq.jpg" style="max-width: 100%;" /></p>
-<p><img realsrc="images/googlePlusPhotos/Photos%20from%20posts/3-13-14/19if83m2ofd0y.jpg" alt="googlePlusPhotos/Photos%20from%20posts/3-13-14/19if83m2ofd0y.jpg" style="max-width: 100%;" /></p>
+        <p><img data-src="images/googlePlusPhotos/Photos%20from%20posts/3-13-14/19if83l8kmiyq.jpg" alt="googlePlusPhotos/Photos%20from%20posts/3-13-14/19if83l8kmiyq.jpg" style="max-width: 100%;" /></p>
+<p><img data-src="images/googlePlusPhotos/Photos%20from%20posts/3-13-14/19if83m2ofd0y.jpg" alt="googlePlusPhotos/Photos%20from%20posts/3-13-14/19if83m2ofd0y.jpg" style="max-width: 100%;" /></p>
 
     </article>
     
