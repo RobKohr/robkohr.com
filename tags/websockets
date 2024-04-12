@@ -35,7 +35,7 @@
     <article>
         <a href="articles/setup-ssl-websockets-from-node-using-nginx-and-certbot"><img class="icon" src="images/2020-06-12-08-30-59.png" alt="2020-06-12-08-30-59.png" style="max-width: 100%;" /></a><p>Certbot is the tool from <a href="https://letsencrypt.org">letsencrypt.org</a> that lets you generate ssl certificates for your site without having to pay the likes of Verisign ever again. Basically I love the heck out of them for what they do.</p>
 <p>Nginx runs on your server to redirect examplesite.com to loc...</p>
- <p><a class="nowrap" href="articles/setup-ssl-websockets-from-node-using-nginx-and-certbot">READ MORE (510 words, 1 images)</a></p> 
+ <p><a class="nowrap" href="articles/setup-ssl-websockets-from-node-using-nginx-and-certbot">READ MORE (510 words, 4 minutes , 1 images)</a></p> 
     </article>
     
             </body>
