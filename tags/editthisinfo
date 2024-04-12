@@ -36,7 +36,7 @@
         <p>I created a google group here:</p>
 <p><a href="http://groups.google.com/group/editthisinfo">http://groups.google.com/group/editthisinfo</a></p>
 <p>from now on status messages and updates will be posted there. A blog is very much a one way form of communication, and I feel it goes against the collaborative nature of a wiki service. This group will be where problem...</p>
- <p><a class="nowrap" href="articles/no-more-blogging">READ MORE (68 words, 1 minutes )</a></p> 
+ <p><a class="nowrap" href="articles/no-more-blogging">READ MORE (68 words, 1 minutes)</a></p> 
     </article>
     
     <h2><a href="articles/editthis-info-upgrade">Editthis.info upgrade</a></h2>
@@ -47,7 +47,7 @@
     <article>
         <p>Editthis.info has gone through a major upgrade over the last week. It has been moved to a new database system (mysql-&gt;sqlite) and has been upgraded from mediawiki 1.5.5 to 1.15.1. This is basically a 3 year jump in versions.  </p>
 <p>Some of the reasons for the upgrade:<br>*Stability - The massive MyS...</p>
- <p><a class="nowrap" href="articles/editthis-info-upgrade">READ MORE (384 words, 3 minutes )</a></p> 
+ <p><a class="nowrap" href="articles/editthis-info-upgrade">READ MORE (384 words, 3 minutes)</a></p> 
     </article>
     
     <h2><a href="articles/character-encodings-for-different-languages">Character encodings for different languages</a></h2>
@@ -70,7 +70,7 @@
         <p>There have been a lot of server errors recently, and they are the result of system resources being overwhelmed (using up system memory and processor).</p>
 <p>I suspect that this is due to another app I have been working on - a real time web game called constantsail.com.</p>
 <p>I am now setting up a separate ...</p>
- <p><a class="nowrap" href="articles/server-errors">READ MORE (108 words, 1 minutes )</a></p> 
+ <p><a class="nowrap" href="articles/server-errors">READ MORE (108 words, 1 minutes)</a></p> 
     </article>
     
     <h2><a href="articles/edi-attacked">EDI attacked</a></h2>
@@ -81,7 +81,7 @@
     <article>
         <p>It seems that editthis.info was attacked by a distributor of malware. I have reverted the site code that was modified and removed the offending code they added (they add iframe tags that make it so when you visit editthis.info, you were also visiting their site in the background).  </p>
 <p>I have sinc...</p>
- <p><a class="nowrap" href="articles/edi-attacked">READ MORE (201 words, 2 minutes )</a></p> 
+ <p><a class="nowrap" href="articles/edi-attacked">READ MORE (201 words, 2 minutes)</a></p> 
     </article>
     
     <h2><a href="articles/image-upload-issues">Image upload issues</a></h2>
@@ -91,7 +91,7 @@
     </div>
     <article>
         <p>So <a href="https://www.dreamhost.com/">Dreamhost</a> recently locked out creation of new files on the account that hosts editthis.info. It turns out that that account had 250,000+ files, and huge file systems have been a problem for them regarding stability. Almost all of the files were in the image upload...</p>
- <p><a class="nowrap" href="articles/image-upload-issues">READ MORE (271 words, 2 minutes )</a></p> 
+ <p><a class="nowrap" href="articles/image-upload-issues">READ MORE (271 words, 2 minutes)</a></p> 
     </article>
     
     <h2><a href="articles/transfering-old-wikis">Transfering old wikis</a></h2>
@@ -102,7 +102,7 @@
     <article>
         <p>Some of the wikis still reside on the previous server. There is now a transfer system in place. Simply go to your wiki&#39;s url and it will ask you if you want to transfer. Click the link and it will add you to the transfer queue.</p>
 <p>If the transfer queue gets stuck (no wikis are disappearing off the ...</p>
- <p><a class="nowrap" href="articles/transfering-old-wikis">READ MORE (87 words, 1 minutes )</a></p> 
+ <p><a class="nowrap" href="articles/transfering-old-wikis">READ MORE (87 words, 1 minutes)</a></p> 
     </article>
     
     <h2><a href="articles/wiki-creation-back-up-and-running">Wiki Creation back up and running</a></h2>
@@ -124,7 +124,7 @@
     <article>
         <p>Editthis.info will be down from Friday May 23rd to roughly Friday May 30th. My family and I are moving from New Jersey to San Francisco, California, and it will take about a week before the server is set up out there. My goal is to have it set up in 5 days, but I think 7 is more realistic.</p>
 <p>I wil...</p>
- <p><a class="nowrap" href="articles/editthis-info-downtime">READ MORE (210 words, 2 minutes )</a></p> 
+ <p><a class="nowrap" href="articles/editthis-info-downtime">READ MORE (210 words, 2 minutes)</a></p> 
     </article>
     
     <h2><a href="articles/editthis-info------fast">EditThis.info .... fast</a></h2>
@@ -144,7 +144,7 @@
     </div>
     <article>
         <p>I am currently research new ISPs since recently it has had intermittent slowness/outages. I didn&#39;t really have a problem with them when they were out for a power outage, or a downed line, or a nearby transformer bursting into flame. That is just the way the network crumbles. Now it just seems to ...</p>
- <p><a class="nowrap" href="articles/editthis-info------sloooowww">READ MORE (351 words, 3 minutes )</a></p> 
+ <p><a class="nowrap" href="articles/editthis-info------sloooowww">READ MORE (351 words, 3 minutes)</a></p> 
     </article>
     
             </body>

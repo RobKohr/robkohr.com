@@ -120,7 +120,7 @@ var articles = articlesFull.map(function (articleOrig) {
   const hasReadMore = contentWithoutATags.length > summaryLength;
   article.summary = htmlUpdaters(
     marked.parse(contentWithoutATags.substring(0, 300) + "...") +
-      ` <p><a class="nowrap" href="${articleUrl(article)}">READ MORE (${wordCount} words, ${Math.round(wordCount / 130)} minutes ${imageCountLabel})</a></p> `
+      ` <p><a class="nowrap" href="${articleUrl(article)}">READ MORE (${wordCount} words, ${Math.round(wordCount / 130)} minutes${imageCountLabel})</a></p> `
   ).replace(/<img.+>/g, "");
   let icon = "";
   if (!hasReadMore) {

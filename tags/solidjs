@@ -43,7 +43,7 @@ export interface Form {
   touched: Accessor&lt;TouchedData&gt;;
   setFieldValue...
 </code></pre>
- <p><a class="nowrap" href="articles/solid---usecontext">READ MORE (114 words, 1 minutes )</a></p> 
+ <p><a class="nowrap" href="articles/solid---usecontext">READ MORE (114 words, 1 minutes)</a></p> 
     </article>
     
             </body>
