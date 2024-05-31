@@ -28,6 +28,18 @@
             <a href="./index.html">&larr; Home</a>
             <h2>Tag: music</h2>
     
+    <h2><a href="articles/music-has-become-a-zero-sum-game">Music has become a zero-sum game</a></h2>
+    <div class="variables">
+    <div class="date">@date=2024-05-31</div>
+    <div class="tags">@tags=<a href="tags/economics">economics</a>, <a href="tags/music">music</a></div>
+    </div>
+    <article>
+        <p>Musicians used to make money via album sales (records, tapes, cds, mp3s, etc). This is how they exploded financially by selling millions of copies.</p>
+<p>Today we have streaming, such as Spotify, as the main avenue to make money as a musician. This is a very different economic situation.</p>
+<p>In the initi...</p>
+ <p><a class="nowrap" href="articles/music-has-become-a-zero-sum-game">READ MORE (701 words, 5 minutes)</a></p> 
+    </article>
+    
     <h2><a href="articles/downloading-youtube-videos">Downloading youtube videos</a></h2>
     <div class="variables">
     <div class="date">@date=2023-11-21</div>

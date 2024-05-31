@@ -1,0 +1,55 @@
+
+        <html>
+            <head>
+                <title>Music has become a zero-sum game - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
+<script src="image-lazy-loader.js"></script>
+
+                <link rel="canonical" href="https://robkohr.com/articles/music-has-become-a-zero-sum-game" />
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            
+    <h2><a href="articles/music-has-become-a-zero-sum-game">Music has become a zero-sum game</a></h2>
+    <div class="variables">
+    <div class="date">@date=2024-05-31</div>
+    <div class="tags">@tags=<a href="tags/economics">economics</a>, <a href="tags/music">music</a></div>
+    </div>
+    <article>
+        <p>Musicians used to make money via album sales (records, tapes, cds, mp3s, etc). This is how they exploded financially by selling millions of copies.</p>
+<p>Today we have streaming, such as Spotify, as the main avenue to make money as a musician. This is a very different economic situation.</p>
+<p>In the initial situation, if a consumer bought 10 albums in a year, and they find some new album they want to listen to, they would buy that one. For simplicity lets say every album is $10, so that makes them go from $100 to $110 purchases in a year. Some consumers really like music, and they would buy a lot more than others, and some musicians are really great, and create something that people value enough to buy an additional album during a year.</p>
+<p>For streaming, let&#39;s say that a subscription is $100 per year. That money is parceled out to the musicians you listen to based upon how much you listen to them. But that money is capped, and everyone pays the same, so the market pushes that subscription price to something below what the average value is for everyone, so that the most of the market can be attracted to pay for the subscription. </p>
+<p>This all means that there is a maximum amount of value in the market for musicians. You can&#39;t get a person to purchase an additional album as they have a subscription, and will just listen to it there. When someone listens to your album, you get a bit of that pie, and that is a bit some other musician doesn&#39;t get. Even if you are the greatest musician of all time, the most you can get is the whole pie if the consumer only listens to your music. </p>
+<p>This creates a ceiling on what the sum total of all revenue all musicians can make is. Add more musicians, and they all just eat away at each other&#39;s income.</p>
+<p>I like digging deep into Spotify and finding things no one listens to. Stuff with less than 1000 listens a month... and surprisingly there is a lot of good things. If you figure they make about $0.004 cents per stream, they make about $4 a month (minus Spotify&#39;s cut and fees and such). </p>
+<p>Now the music industry has always been a brutal hockey stick shaped curve where the top 0.001% really earn most of the money, but that most of the money has a cap now.</p>
+<p>I guess the question is, would those people who pay for streaming now, be buying more music without the existence of streaming and how much does streaming help one set of musicians over another. </p>
+<p>Weird Al complains he makes no money on Spotify, and I figure that compares to what he used to make in record sales. It makes sense though, as he is someone I love, and owned music from, and even seen live, but I couldn&#39;t imagine listing to Amish Paradise in the background on repeat. </p>
+<p>This is a really stark example, but I can see that would be lots of other distortions that probably happen, some more positive. Spotify makes it easy to explore and listen to music you might not ever consider purchasing, and personally, I go exploring weird things that would never be found normally.</p>
+<p>So, maybe this should all be thought of another way. The big mainstream has been capped as far as how much money they can extract, but now the little guy making sea shanty songs that reach a thousand users a month and make $4. He&#39;ll barely be able to buy a coffee with that, but hell, now he is a professional musician, and we are all the better because that long tail of the hockey stick has stuff we would never be exposed to if it wasn&#39;t for streaming.</p>
+<p>Of course, musicians still make money from album sales and performances, and it seems the big names from my youth are still out there touring, riding that nostalgia train. They will occasionally get me or those from my generation to buy some pricy ticketmaster tickets, but the future is fighting for the limited pie that is the listener&#39;s ears, and I tend to throw my pie all over the place.</p>
+
+    </article>
+    
+            </body>
+          </html>
+          
