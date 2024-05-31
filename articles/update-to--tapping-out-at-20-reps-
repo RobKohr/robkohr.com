@@ -1,0 +1,44 @@
+
+        <html>
+            <head>
+                <title>Update to "Tapping out at 20 reps" - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
+<script src="image-lazy-loader.js"></script>
+
+                <link rel="canonical" href="https://robkohr.com/articles/update-to--tapping-out-at-20-reps-" />
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            
+    <h2><a href="articles/update-to--tapping-out-at-20-reps-">Update to "Tapping out at 20 reps"</a></h2>
+    <div class="variables">
+    <div class="date">@date=2024-05-31</div>
+    <div class="tags">@tags=<a href="tags/exercise">exercise</a></div>
+    </div>
+    <article>
+        <p>Well, I started hitting walls with 20 reps for arms. It just is hard to get to 20 at the limits of what my arms can do, but using rep/weight calculations of the higher amount for 15 reps, I am able to achieve and upgrade my weights, even when I have been stuck for weeks at the limits of what I can do at 20. </p>
+<p>This only seems to apply to arms though. Legs and back seem to adapt just fine to upping weight at 20 reps, and haven&#39;t had problems there. My theory is that large muscles have a higher ability for long term stress. The little biceps and triceps just can&#39;t keep going.</p>
+
+    </article>
+    
+            </body>
+          </html>
+          
