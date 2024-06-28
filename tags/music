@@ -28,6 +28,18 @@
             <a href="./index.html">&larr; Home</a>
             <h2>Tag: music</h2>
     
+    <h2><a href="articles/rolling-stone-500-greatest-albums-merged">Rolling Stone 500 greatest albums merged</a></h2>
+    <div class="variables">
+    <div class="date">@date=2024-06-28</div>
+    <div class="tags">@tags=<a href="tags/music">music</a></div>
+    </div>
+    <article>
+        <p>Someone posted up the various differences between different years that Rolling Stone released their top 500 albums of all time here:
+<a href="https://beckchris.com/2020/10/14/rolling-stones-500-greatest-albums-of-all-time-lists-an-analysis/">https://beckchris.com/2020/10/14/rolling-stones-500-greatest-albums-of-all-time-lists-an-analysis/</a></p>
+<p>I took that and created a spreadsheet so you can do some sorting...</p>
+ <p><a class="nowrap" href="articles/rolling-stone-500-greatest-albums-merged">READ MORE (48 words, 0 minutes)</a></p> 
+    </article>
+    
     <h2><a href="articles/music-has-become-a-zero-sum-game">Music has become a zero-sum game</a></h2>
     <div class="variables">
     <div class="date">@date=2024-05-31</div>

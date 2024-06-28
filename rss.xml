@@ -5,9 +5,17 @@
             <link>https://robkohr.com</link>
             <description>RobKohr's Blog</description>
             <language>en-us</language>
-            <lastBuildDate>Fri, 31 May 2024 07:00:00 GMT</lastBuildDate>
-            <pubDate>Fri, 31 May 2024 07:00:00 GMT</pubDate>
+            <lastBuildDate>Fri, 28 Jun 2024 07:00:00 GMT</lastBuildDate>
+            <pubDate>Fri, 28 Jun 2024 07:00:00 GMT</pubDate>
             <ttl>1800</ttl>
+            <item>
+                <guid>https://robkohr.com/articles/rolling-stone-500-greatest-albums-merged</guid>
+                <title>Rolling Stone 500 greatest albums merged</title>
+                <link>https://robkohr.com/articles/rolling-stone-500-greatest-albums-merged</link>
+                <description>Rolling Stone 500 greatest albums merged</description>
+                <pubDate>Tue, 28 May 2024 00:00:00 GMT</pubDate>
+            </item>
+    
             <item>
                 <guid>https://robkohr.com/articles/update-to--tapping-out-at-20-reps-</guid>
                 <title>Update to &quot;Tapping out at 20 reps&quot;</title>
@@ -398,14 +406,6 @@
                 <link>https://robkohr.com/articles/ai-generated-image-of-a-mushroom-house---midjourney</link>
                 <description>AI generated image of a mushroom house - Midjourney</description>
                 <pubDate>Fri, 26 May 2023 00:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/stackoverflow-instead-of-beating-your-head-against-the-wall</guid>
-                <title>Stackoverflow instead of beating your head against the wall</title>
-                <link>https://robkohr.com/articles/stackoverflow-instead-of-beating-your-head-against-the-wall</link>
-                <description>Stackoverflow instead of beating your head against the wall</description>
-                <pubDate>Mon, 22 May 2023 00:00:00 GMT</pubDate>
             </item>
     
         </channel>
