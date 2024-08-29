@@ -1,0 +1,52 @@
+
+        <html>
+            <head>
+                <title>Barbell Strategies - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
+<script src="image-lazy-loader.js"></script>
+
+                <link rel="canonical" href="https://robkohr.com/articles/barbell-strategies" />
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            
+    <h2><a href="articles/barbell-strategies">Barbell Strategies</a></h2>
+    <div class="variables">
+    <div class="date">@date=2024-08-28</div>
+    <div class="tags">@tags=<a href="tags/self-improvement">self-improvement</a></div>
+    </div>
+    <article>
+        <p>Barbell strategy means to do two absolute different things to extremes rather than two middling things.</p>
+<p>It comes from investing where you invest half in high risk/reward stocks, and half in risk free assets rather than just average stocks.</p>
+<p>Some real life, non-financial examples:</p>
+<ul>
+<li>Read a challenging hard book and a soft book.</li>
+<li>Exercise or diet hard one day, and do the opposite the following day.</li>
+<li>Spend a week doing an intensive educational course, and then spend the next month applying your knowledge.</li>
+</ul>
+<p>A more detailed description and more examples are at:
+<a href="https://web.archive.org/web/20220309155302/https://dwarkeshpatel.com/barbell-strategies/">https://web.archive.org/web/20220309155302/https://dwarkeshpatel.com/barbell-strategies/</a></p>
+
+    </article>
+    
+            </body>
+          </html>
+          

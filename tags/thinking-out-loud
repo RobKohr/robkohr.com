@@ -1,7 +1,7 @@
 
         <html>
             <head>
-                <title>neverall - RobKohr's Blog</title>
+                <title>thinking-out-loud - RobKohr's Blog</title>
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
@@ -26,7 +26,7 @@
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>
-            <h2>Tag: neverall</h2>
+            <h2>Tag: thinking-out-loud</h2>
     
     <h2><a href="articles/write-code-for-a-business">Write code for a business</a></h2>
     <div class="variables">
@@ -38,16 +38,6 @@
 <p>I have the server all setup in node.js. This is now able to handle registration and login.</p>
 <p>I have basically nothing as far as the fr...</p>
  <p><a class="nowrap" href="articles/write-code-for-a-business">READ MORE (229 words, 2 minutes)</a></p> 
-    </article>
-    
-    <h2><a href="articles/reddits-fall---maybe-turn-neverall-into-a-reddit-clone-">Reddits fall - maybe turn Neverall into a Reddit clone?</a></h2>
-    <div class="variables">
-    <div class="date">@date=2023-06-16</div>
-    <div class="tags">@tags=<a href="tags/reddit">reddit</a>, <a href="tags/neverall">neverall</a>, <a href="tags/social-media">social-media</a></div>
-    </div>
-    <article>
-        <p>Finish up the analytics part, and then create a reddit clone on Neverall. The url could be something like neverall.com/n and then the subreddit name. I could have neverall.com/g be for games, and neverall.com/s for sites, and neverall.com/p for projects, and neverall.com/b for blogs, and neverall...</p>
- <p><a class="nowrap" href="articles/reddits-fall---maybe-turn-neverall-into-a-reddit-clone-">READ MORE (55 words, 0 minutes)</a></p> 
     </article>
     
             </body>

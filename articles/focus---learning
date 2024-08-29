@@ -1,0 +1,43 @@
+
+        <html>
+            <head>
+                <title>Focus & Learning - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
+<script src="image-lazy-loader.js"></script>
+
+                <link rel="canonical" href="https://robkohr.com/articles/focus---learning" />
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            
+    <h2><a href="articles/focus---learning">Focus & Learning</a></h2>
+    <div class="variables">
+    <div class="date">@date=2024-08-14</div>
+    <div class="tags">@tags=<a href="tags/learning">learning</a>, <a href="tags/productivity">productivity</a></div>
+    </div>
+    <article>
+        <p>I wonder how many different subjects and skills you can learn at the same time - during a week, not simultaneously - and still progress in them. Like if you spend 30-60 minutes a day on one skill, take a rest, and then do the same thing with another skill, and so on, what would happen over the course of a year.</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

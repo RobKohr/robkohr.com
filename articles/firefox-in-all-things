@@ -1,0 +1,43 @@
+
+        <html>
+            <head>
+                <title>Firefox in all things - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
+<script src="image-lazy-loader.js"></script>
+
+                <link rel="canonical" href="https://robkohr.com/articles/firefox-in-all-things" />
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            
+    <h2><a href="articles/firefox-in-all-things">Firefox in all things</a></h2>
+    <div class="variables">
+    <div class="date">@date=2024-08-14</div>
+    <div class="tags">@tags=<a href="tags/tech">tech</a></div>
+    </div>
+    <article>
+        <p>Chrome and Edge really dominate the tech landscape. At work, I use Firefox as I like to support something different, and even though my company says only Chrome is supported for our customers, I like that when I am developing, and seeing compatibility bugs, I am fixing them for Firefox users so that we don&#39;t continue to enforce the monopoly of Google.</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

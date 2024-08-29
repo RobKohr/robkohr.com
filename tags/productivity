@@ -28,6 +28,27 @@
             <a href="./index.html">&larr; Home</a>
             <h2>Tag: productivity</h2>
     
+    <h2><a href="articles/organize-through-a-calendar">Organize Through a calendar</a></h2>
+    <div class="variables">
+    <div class="date">@date=2024-08-14</div>
+    <div class="tags">@tags=<a href="tags/productivity">productivity</a></div>
+    </div>
+    <article>
+        <p>I have tried a bunch of task list management methods, and I am going to try a new one. </p>
+<p>On my work calendar app, I created a new calendar where events get a light blue color. I have some repeating events on there that I want to do every day: working out, playing violin, working on individual pro...</p>
+ <p><a class="nowrap" href="articles/organize-through-a-calendar">READ MORE (142 words, 1 minutes)</a></p> 
+    </article>
+    
+    <h2><a href="articles/focus---learning">Focus & Learning</a></h2>
+    <div class="variables">
+    <div class="date">@date=2024-08-14</div>
+    <div class="tags">@tags=<a href="tags/learning">learning</a>, <a href="tags/productivity">productivity</a></div>
+    </div>
+    <article>
+        <p>I wonder how many different subjects and skills you can learn at the same time - during a week, not simultaneously - and still progress in them. Like if you spend 30-60 minutes a day on one skill, take a rest, and then do the same thing with another skill, and so on, what would happen over the co...</p>
+ <p><a class="nowrap" href="articles/focus---learning">READ MORE (62 words, 0 minutes)</a></p> 
+    </article>
+    
     <h2><a href="articles/great-life-advice">Great life advice</a></h2>
     <div class="variables">
     <div class="date">@date=2024-02-27</div>

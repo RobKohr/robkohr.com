@@ -1,0 +1,47 @@
+
+        <html>
+            <head>
+                <title>Organize Through a calendar - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
+<script src="image-lazy-loader.js"></script>
+
+                <link rel="canonical" href="https://robkohr.com/articles/organize-through-a-calendar" />
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            
+    <h2><a href="articles/organize-through-a-calendar">Organize Through a calendar</a></h2>
+    <div class="variables">
+    <div class="date">@date=2024-08-14</div>
+    <div class="tags">@tags=<a href="tags/productivity">productivity</a></div>
+    </div>
+    <article>
+        <p>I have tried a bunch of task list management methods, and I am going to try a new one. </p>
+<p>On my work calendar app, I created a new calendar where events get a light blue color. I have some repeating events on there that I want to do every day: working out, playing violin, working on individual projects, eating lunch (yep, even that basic). I then add whatever other things I need to do from my task list, and give them a time that I will work on them. </p>
+<p>At the end of the day, anything done gets deleted, and anything not done gets moved forward, and I try to move it forward to a time I feel I realistically can do it. </p>
+<p>When I look back on the week, I should see no light blue events. </p>
+<p>We&#39;ll see how it works</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

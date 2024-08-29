@@ -1,7 +1,7 @@
 
         <html>
             <head>
-                <title>neverall - RobKohr's Blog</title>
+                <title>Write code for a business - RobKohr's Blog</title>
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
@@ -21,13 +21,13 @@
 <script src="libs/highlight/highlight.min.js"></script>
 <script src="image-lazy-loader.js"></script>
 
+                <link rel="canonical" href="https://robkohr.com/articles/write-code-for-a-business" />
                 <link rel="stylesheet" href="../neat.css">
                 <base href="../">
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>
-            <h2>Tag: neverall</h2>
-    
+            
     <h2><a href="articles/write-code-for-a-business">Write code for a business</a></h2>
     <div class="variables">
     <div class="date">@date=2023-07-30</div>
@@ -36,20 +36,14 @@
     <article>
         <p>So, I am working on this forum software for neverall.com/f. I am working on making right now in solidjs because I feel that is a better platform for development.</p>
 <p>I have the server all setup in node.js. This is now able to handle registration and login.</p>
-<p>I have basically nothing as far as the fr...</p>
- <p><a class="nowrap" href="articles/write-code-for-a-business">READ MORE (229 words, 2 minutes)</a></p> 
-    </article>
-    
-    <h2><a href="articles/reddits-fall---maybe-turn-neverall-into-a-reddit-clone-">Reddits fall - maybe turn Neverall into a Reddit clone?</a></h2>
-    <div class="variables">
-    <div class="date">@date=2023-06-16</div>
-    <div class="tags">@tags=<a href="tags/reddit">reddit</a>, <a href="tags/neverall">neverall</a>, <a href="tags/social-media">social-media</a></div>
-    </div>
-    <article>
-        <p>Finish up the analytics part, and then create a reddit clone on Neverall. The url could be something like neverall.com/n and then the subreddit name. I could have neverall.com/g be for games, and neverall.com/s for sites, and neverall.com/p for projects, and neverall.com/b for blogs, and neverall...</p>
- <p><a class="nowrap" href="articles/reddits-fall---maybe-turn-neverall-into-a-reddit-clone-">READ MORE (55 words, 0 minutes)</a></p> 
+<p>I have basically nothing as far as the front end code right now. I am debating using react vs solidjs.</p>
+<p>The benifit of react, is I don&#39;t need to learn something new. I know react through and through. Also I can easily find and hire devs doing react coding.</p>
+<p>The downsides of react is it is slower, more bloated, and can become more convoluted then solidjs to develop in. </p>
+<p>So really, do I build in react so I can get more cheap readily available devs, or do it in solidjs, take a little more effort upfront learning something new (that no one is hiring for - probably because they hit the same delima I am now hitting), have a cleaner codebase, and have a smaller pool of talent to hire from.</p>
+<p>On the upside, there are people looking to work with solidjs, but can&#39;t find any jobs with it, and they also are likely highly skilled to be interested in it. Also, you can train javascript people to work with it, and it does create employment lock in as there isn&#39;t many places they can take their skills.</p>
+
     </article>
     
             </body>
-        </html>
-    
+          </html>
+          

@@ -1,0 +1,45 @@
+
+        <html>
+            <head>
+                <title>time-travel - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
+<script src="image-lazy-loader.js"></script>
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            <h2>Tag: time-travel</h2>
+    
+    <h2><a href="articles/cat-litter-parallel-universe-machine">Cat Litter Parallel Universe Machine</a></h2>
+    <div class="variables">
+    <div class="date">@date=2024-08-16</div>
+    <div class="tags">@tags=<a href="tags/dreams">dreams</a>, <a href="tags/scifi">scifi</a>, <a href="tags/time-travel">time-travel</a></div>
+    </div>
+    <article>
+        <p>This came from a dream, I have cats, just changed the litters before bed, and I love the movie Hot Tub Time Machine.</p>
+<p>In the dream, me and a bunch of friends discover that a cat litter box can send you to a parallel universe (it might have also possibly traveled through time a bit). </p>
+<p>This presen...</p>
+ <p><a class="nowrap" href="articles/cat-litter-parallel-universe-machine">READ MORE (581 words, 4 minutes)</a></p> 
+    </article>
+    
+            </body>
+        </html>
+    
