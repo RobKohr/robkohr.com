@@ -109,7 +109,7 @@ button, .button, input[type=submit] {
     text-align: center;
     padding: .5em;
     border-radius: .25em;
-#    text-decoration: none;
+    text-decoration: none;
     border: none;
     cursor: pointer;
 }
@@ -246,6 +246,6 @@ img.icon{
     white-space:nowrap;
 }
 a {
-    /* text-decoration: none;*/
+    text-decoration: none;*/
     color: darkblue;
 }
