@@ -177,6 +177,7 @@ articles.forEach(function (article) {
 
 let output = `
     <html>
+        <meta charset="UTF-8">
         <head>
             <title>RobKohr's Blog</title>
 ${headerExtras}
