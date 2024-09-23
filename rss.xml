@@ -5,9 +5,17 @@
             <link>https://robkohr.com</link>
             <description>RobKohr's Blog</description>
             <language>en-us</language>
-            <lastBuildDate>Wed, 28 Aug 2024 07:00:00 GMT</lastBuildDate>
-            <pubDate>Wed, 28 Aug 2024 07:00:00 GMT</pubDate>
+            <lastBuildDate>Mon, 23 Sep 2024 07:00:00 GMT</lastBuildDate>
+            <pubDate>Mon, 23 Sep 2024 07:00:00 GMT</pubDate>
             <ttl>1800</ttl>
+            <item>
+                <guid>https://robkohr.com/articles/working-on-pivotal-tracker-replacement</guid>
+                <title>Working on Pivotal Tracker replacement</title>
+                <link>https://robkohr.com/articles/working-on-pivotal-tracker-replacement</link>
+                <description>Working on Pivotal Tracker replacement</description>
+                <pubDate>Fri, 23 Aug 2024 00:00:00 GMT</pubDate>
+            </item>
+    
             <item>
                 <guid>https://robkohr.com/articles/barbell-strategies</guid>
                 <title>Barbell Strategies</title>
@@ -398,14 +406,6 @@
                 <link>https://robkohr.com/articles/you-have-to-check-yourself</link>
                 <description>You have to check yourself</description>
                 <pubDate>Wed, 31 May 2023 00:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/brought-in-my-google-plus-backup</guid>
-                <title>Brought in my google plus backup</title>
-                <link>https://robkohr.com/articles/brought-in-my-google-plus-backup</link>
-                <description>Brought in my google plus backup</description>
-                <pubDate>Mon, 29 May 2023 00:00:00 GMT</pubDate>
             </item>
     
         </channel>
