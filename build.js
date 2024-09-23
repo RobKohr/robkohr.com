@@ -4,11 +4,11 @@ import { marked } from "marked";
 /* Get html content from analytics.html */
 var headerExtras = `
 ${fs.readFileSync("analytics.html", "utf8")}
-<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
-<link rel="shortcut icon" type="image/ico" href="favicon.ico">
-<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
-<script src="libs/highlight/highlight.min.js"></script>
-<script src="image-lazy-loader.js"></script>
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="/libs/highlight/highlight.min.js"></script>
+<script src="/image-lazy-loader.js"></script>
 `;
 
 /* 
