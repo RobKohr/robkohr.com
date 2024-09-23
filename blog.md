@@ -1,12 +1,12 @@
 
 ## Navigation
 
-- <a href="https://mailchi.mp/73f113e474f1/robert-kohrs-blog">Signup to the Monthly Email List</a>
-- <a href="articles/about">About</a>
-- <a href="tags/index.html">Tags</a>
-- <a href="articles/projects">Projects</a>
-- <a href="rss.xml">RSS feed</a>
-- <a href="articles/my-stuff">My stuff out on the web</a>
+- <a href="https://mailchi.mp/73f113e474f1/robert-kohrs-blog">📧 Signup to the Monthly Email List</a>
+- <a href="articles/about">📧 About</a>
+- <a href="tags/index.html">🏷️ Tags</a>
+- <a href="articles/projects">🚧 Projects</a>
+- <a href="rss.xml">📰 RSS feed</a>
+- <a href="articles/my-stuff">🔭 My stuff out on the web</a>
 
 ## Working on Pivotal Tracker replacement
 @date=2024-09-23
