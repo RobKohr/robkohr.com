@@ -2,7 +2,7 @@
 ## Navigation
 
 - <a href="https://mailchi.mp/73f113e474f1/robert-kohrs-blog">📧 Signup to the Monthly Email List</a>
-- <a href="articles/about">📧 About</a>
+- <a href="articles/about">ℹ️ About</a>
 - <a href="tags/index.html">🏷️ Tags</a>
 - <a href="articles/projects">🚧 Projects</a>
 - <a href="rss.xml">📰 RSS feed</a>
