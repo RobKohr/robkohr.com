@@ -8,13 +8,47 @@
 - <a href="rss.xml">📰 RSS feed</a>
 - <a href="articles/my-stuff">🔭 My stuff out on the web</a>
 
+## Learning Violin Using SoundSlice
+@date=2024-11-05
+@tags=music,music-playing
+
+I have been learning violin for about 2 years now, on and off, and I can reasonably play some basic stuff from sheet music.
+
+Sometimes though, for more complex pieces, it is tricky to get a feel for how the notes match up to the actual expected way the song can should sound.
+
+I have been using <a href="https://www.soundslice.com">SoundSlice.com</a> 
+![[Pasted image 20241105070959.png]]
+
+It which allows you to import music from a pdf or use their excellent sheet music editing system to hand write out the sheet music if the importer isn't able to take in the music automatically.
+
+The editor is the best I have seen anywhere, and would be cool if DAW's would have the ability to use something like it, especially the way it handles using the keyboard to quickly enter and adjust notes.
+
+But, where this really shines and provides great help to the musician is that you can play the sheet music, sync it to a youtube video, and adjust the playback speed to even the slowest speed for when you are just learning the piece. 
+
+Also, as with how I started this whole thing, when you play the piece, and hear it as you expected it, and see that synced up with the highlighting of the notes on the sheet music, you get a more solid feel for what you are really trying to play.
+
+Really, it is just a joy to use, and big props to Adrian Holovaty and his team for creating this awesome product.
+
+
+## Price Gouging 
+@date=2024-09-26
+@tags=economics
+
+Price gouging is a natural thing when demand outstrips supply. You fight against it and you just maintain scarcity and no one gets anything (and you create a black market) You allow it to happen and competitors see \$\$\$ and production skyrockets, outpaces demand and prices fall. Usually too far, it wobbles a bit and you hit equilibrium.
+
+Everytime someone tries to do price fixing it blows up in their face, and then the govt has to become the producer.
+
+The only time the market does not resolve itself is when there is monopoly/cartel/reverse price fixing. This is the threat to capitalism, and it is exasperated by crony capitalism when companies control politics to create regulations that seem good but just push out small businesses.
+
+No one does anything until it gets really bad and then the govt gets pushed by the people to act tough. They might do something that is a blend of good and bad that may fix the problem, make it worse, or temporarily fix it while paving the way to creating more problems. 
+
 ## Working on Pivotal Tracker replacement
 @date=2024-09-23
 @tags=tracker, software, projects
 
 Pivotal tracker is one of my favorite apps, and it looks like it is getting shut down. As such, I am looking to build a similar tracker software to fill this niche. 
 
-
+If you are interested and wanna be alerted to when it is released as well as other things I am building/doing, <a href="https://mailchi.mp/73f113e474f1/robert-kohrs-blog">📧 Signup to the Monthly Email List</a>
 
 ## Barbell Strategies
 @date=2024-08-28

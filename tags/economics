@@ -28,6 +28,16 @@
             <a href="./index.html">&larr; Home</a>
             <h2>Tag: economics</h2>
     
+    <h2><a href="articles/price-gouging">Price Gouging</a></h2>
+    <div class="variables">
+    <div class="date">@date=2024-09-26</div>
+    <div class="tags">@tags=<a href="tags/economics">economics</a></div>
+    </div>
+    <article>
+        <p>Price gouging is a natural thing when demand outstrips supply. You fight against it and you just maintain scarcity and no one gets anything (and you create a black market) You allow it to happen and competitors see $$$ and production skyrockets, outpaces demand and prices fall. Usually too far...</p>
+ <p><a class="nowrap" href="articles/price-gouging">READ MORE (175 words, 1 minutes)</a></p> 
+    </article>
+    
     <h2><a href="articles/music-has-become-a-zero-sum-game">Music has become a zero-sum game</a></h2>
     <div class="variables">
     <div class="date">@date=2024-05-31</div>
