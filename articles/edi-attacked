@@ -25,21 +25,7 @@
                 <link rel="canonical" href="https://robkohr.com/articles/edi-attacked" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="
-
-It seems that editthis.info was attacked by a distributor of malware. I have reverted the site code that was modified and removed the offending code they added (they add iframe tags that make it so when you visit editthis.info, you were also visiting their site in the background).  
-  
-I have since changed the passwords on the servers, made a further backup of all data, and am switching the site to a separate account in case there is a compromise that still exists in the current account.  
-  
-In the last 24 hours since the attack, google has labeled editthis.info as a malware site, and I have requested a rescan of the site since it has been cleaned up.  
-  
-I am uncertain as to the vector of the attack, so I am taking a number of simultaneous paths to close down possible holes.  
-  
-If you would like to help, a great help would be to do a view source on any editthis wiki you use for the next couple days. If you see a hidden iframe on the page, just report it here:  
-http://spreadsheets.google.com/viewform?key=pwTWRDXAdLN84h6Bk0oA4Pg  
-  
-Thanks,  
-Rob" />
+                <meta property="og:description" content="It seems that editthis.info was attacked by a distributor of malware. I have reverted the site code that was modified and removed the offending code they added (they add iframe tags that make it so wh" />
                 asdf
             </head>
             <body>

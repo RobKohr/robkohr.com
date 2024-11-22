@@ -25,12 +25,7 @@
                 <link rel="canonical" href="https://robkohr.com/articles/6-degrees-of-separation-on-wikipedia" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="
-
-
-This is pretty fascinating stuff: https://www.sixdegreesofwikipedia.com/blog/search-results-analysis
-
-With just 3 clicks on average, you can get from any wikipedia article to any other wikipedia article." />
+                <meta property="og:description" content="This is pretty fascinating stuff: https://www.sixdegreesofwikipedia.com/blog/search-results-analysisWith just 3 clicks on average, you can get from any wikipedia article to any other wikipedia article" />
                 asdf
             </head>
             <body>

@@ -25,25 +25,7 @@
                 <link rel="canonical" href="https://robkohr.com/articles/editthis-info-overhaul" />
                 <link rel="stylesheet" href="../neat.css">
 <meta property="og:image" content="https://robkohr.com/images/2020-09-21-10-26-35.png" />
-                <meta property="og:description" content="
-
-
-[EditThis.info](http://Editthis.info) has long been overdue for an upgrade. I've been postponing it for a while, and now that I have just finished a big move, a wedding, and a honeymoon in Disney (covid be damned), I am circling back on it.
-
-Task list (this article will be updated as things are completed):
-
-- [x] Clone current server instance
-- [ ] Remove cloudfront - it constantly causes problems, and I think it is blocking a lot of users worldwide that it considers "malicious"
-- [ ] Set dev.editthis.info to new server instance
-- [ ] Add nginx with caching (this will hopefully fulfill the role of cloudflare better as I can customize it as needed)
-- [ ] upgrade php
-- [ ] upgrade mediawiki
-  - [ ] Convert an absurd of dbs to the new mediawiki db structure
-- [ ] Point editthis.info to new server
-
-Along the way I expect a lot of hick-ups and course corrections, but EDI is a very active site despite it's poor network performance. I think it is reasonable to expect that with a bit of an overhaul I can achieve a 10x increase in usage, which would make it much more lively than it is now.
-
-Screenshot showing how much cloudflare is blocking (basically a count of failed or skipped annoying captchas): ![[2020-09-21-10-26-35.png]]" />
+                <meta property="og:description" content="[EditThis.info](http://Editthis.info) has long been overdue for an upgrade. I've been postponing it for a while, and now that I have just finished a big move, a wedding, and a honeymoon in Disney (cov" />
                 asdf
             </head>
             <body>

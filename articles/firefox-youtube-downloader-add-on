@@ -25,16 +25,7 @@
                 <link rel="canonical" href="https://robkohr.com/articles/firefox-youtube-downloader-add-on" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="
-
-
-It seems that any addon related to youtube downloading gets zapped form the Firefox and Chrome app stores. :( 
-
-Here is one I have used on Firefox that disappeared:
-
-<a href="shared/Youtube Video Downloader - {a7847979-429e-4a40-8651-1a50fd8382ce}.xpi">Youtube Video Downloader - {a7847979-429e-4a40-8651-1a50fd8382ce}.xpi</a>
-
-If you want to audit it before installing it, change the extension to zip, and unzip it (xpi is just a zip file). It looks like it was created by someone french, but the code is pretty simple." />
+                <meta property="og:description" content="It seems that any addon related to youtube downloading gets zapped form the Firefox and Chrome app stores. :( Here is one I have used on Firefox that disappeared:Youtube Video Downloader - {a7847979-4" />
                 asdf
             </head>
             <body>

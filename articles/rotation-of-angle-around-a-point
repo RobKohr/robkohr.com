@@ -25,58 +25,7 @@
                 <link rel="canonical" href="https://robkohr.com/articles/rotation-of-angle-around-a-point" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="
-
-
-<pre>
- Sin(a)   Sin(b)   Sin(g)
------- = ------ = ------
-  A        B        C
-
-
-Where A, B, and C are the lengths of the sides of a triangle, and a, b, and g are the angles directly opposite those sides...
-
-
-       /|
-      /b|
-   C /  |
-    /   |A
-   /    |
-  /     |
- /a    g|
- --------
-    B
-
-
-sin(90) = 1
-
-Sin(a+b) = Sin(a)*Cos(b) + Cos(a)*Sin(b)
-
-http://www.gamedev.net/reference/articles/article796.asp
-
-To rotate x an y cords:
-
-NewX = (OldX*Cos(Theta)) - (OldY*Sin(Theta))
-NewY = (OldY*Cos(Theta)) + (OldX*Sin(Theta))
-
-
-Rotate x y and z
-
-NewY = (OldY*Cos(ThetaX)) - (OldZ*Sin(ThetaX))  ** X axis rotation **
-NewZ = (OldZ*Cos(ThetaX)) + (OldY*Sin(ThetaX))
-
-(Copy NewY and NewZ into OldY and OldZ)
-
-NewZ = (OldZ*Cos(ThetaY)) - (OldX*Sin(ThetaY))  ** Y axis rotation **
-NewX = (OldX*Cos(ThetaY)) + (OldZ*Sin(ThetaY))
-
-(Copy NewZ and NewX into OldZ and OldX)
-
-NewX = (OldX*Cos(ThetaZ)) - (OldY*Sin(ThetaZ))  ** Z axis rotation **
-NewY = (OldY*Cos(ThetaZ)) + (OldX*Sin(ThetaZ))
-
-Keep in mind that angles are in radians!
-</pre>" />
+                <meta property="og:description" content=" Sin(a)   Sin(b)   Sin(g)------ = ------ = ------  A        B        CWhere A, B, and C are the lengths of the sides of a triangle, and a, b, and g are the angles directly opposite those sides...     " />
                 asdf
             </head>
             <body>

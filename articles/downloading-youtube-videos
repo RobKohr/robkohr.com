@@ -25,13 +25,7 @@
                 <link rel="canonical" href="https://robkohr.com/articles/downloading-youtube-videos" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="
-
-
-If you ever have a need to download some video from youtube, this is the best tool I found:
-https://github.com/yt-dlp/yt-dlp
-
-It gives you lots of options for output sizes and types and can download channels and playlists." />
+                <meta property="og:description" content="If you ever have a need to download some video from youtube, this is the best tool I found:https://github.com/yt-dlp/yt-dlpIt gives you lots of options for output sizes and types and can download chan" />
                 asdf
             </head>
             <body>

@@ -25,15 +25,7 @@
                 <link rel="canonical" href="https://robkohr.com/articles/not-shown-on-the-menu-bar-in-hacker-news--their-is-a-page-called" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="
-
-Not shown on the menu bar in Hacker News, their is a page called "best," which has less updates per day, and is nice if you don't want to get too sucked in to what is "hot".
-<a rel="nofollow" target="_blank" href="http://news.ycombinator.com/best" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://news.ycombinator.com/best</a>
-
-### Hacker News | Top Links
-http://news.ycombinator.com/best
-
-http://news.ycombinator.com/best" />
+                <meta property="og:description" content="Not shown on the menu bar in Hacker News, their is a page called "best," which has less updates per day, and is nice if you don't want to get too sucked in to what is "hot".http://news.ycombinator.com" />
                 asdf
             </head>
             <body>

@@ -25,22 +25,7 @@
                 <link rel="canonical" href="https://robkohr.com/articles/have-a-mac--here-is-how-to-check-if-your-infected" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="
-
-Have a mac, here is how to check if your infected. 
-*Open terminal
-run this
-
-defaults read /Applications/Safari.app/Contents/Info LSEnvironment 
-and this
-defaults read ~/.MacOSX/environment DYLD_INSERT_LIBRARIES 
-
-If both those commands come back with something that ends with "does not exist" you are clean. Otherwise go here:
-<a rel="nofollow" target="_blank" href="http://www.f-secure.com/v-descs/trojan-downloader_osx_flashback_i.shtml" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://www.f-secure.com/v-descs/trojan-downloader_osx_flashback_i.shtml</a>
-
-If you are clean, be sure to run software update, and update java (if not already updated). Java is where the vulnerability is.
-
-http://www.f-secure.com/v-descs/trojan-downloader_osx_flashback_i.shtml" />
+                <meta property="og:description" content="Have a mac, here is how to check if your infected. *Open terminalrun thisdefaults read /Applications/Safari.app/Contents/Info LSEnvironment and thisdefaults read ~/.MacOSX/environment DYLD_INSERT_LIBR" />
                 asdf
             </head>
             <body>

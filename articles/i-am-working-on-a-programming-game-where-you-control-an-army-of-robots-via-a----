@@ -25,35 +25,7 @@
                 <link rel="canonical" href="https://robkohr.com/articles/i-am-working-on-a-programming-game-where-you-control-an-army-of-robots-via-a----" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="
-
-I am working on a programming game where you control an army of robots via a web api. 
-
-You can send orders to robots, or you can install javascript code in robots, and when they are out of communications range from your command center, they can use that code to work autonomously. 
-
-The robots will be the typical variety of units that you would expect in an rts game (submarines, tanks, infantry, etc). They will run on fuel which will need to be transported to the front line by workers (which will have their own scripts to handle logistics). 
-
-Communications will be key and setting up relay towers to send new messages and code to distant soldiers will be important (otherwise they will be in the dark, and you won't know what they are up to). Sending and receiving messages will cost fuel. 
-
-The game will have no graphical user interface. A companion project is also set up which will allow people to create the interface and modify it to their liking using html5/javascript/etc etc.
-
-The initial api stuff can be seen here:
-<a rel="nofollow" target="_blank" href="http://rts-api.com:2000/help/api_options" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://rts-api.com:2000/help/api_options</a>
-
-If you are interested in getting involved in the development of this game, let me know. (This is not a job, there will likely be no profit here)
-
-Technology involved: Node.js + express + mongodb
-
-If you just want to do the client end stuff, you will need to know jQuery and be able to work with JSON.
-
-### var p = { &quot;api_options&quot;: { &quot;0&quot;: { &quot;path&quot;: &quot;/test&quot;, &quot;route ...
-http://rts-api.com:2000/help/api_options
-
-http://rts-api.com:2000/help/api_options
-
-http://rts-api.com:2000/help
-
-https://github.com/RobKohr/rts-api" />
+                <meta property="og:description" content="I am working on a programming game where you control an army of robots via a web api. You can send orders to robots, or you can install javascript code in robots, and when they are out of communicatio" />
                 asdf
             </head>
             <body>

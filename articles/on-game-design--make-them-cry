@@ -25,39 +25,7 @@
                 <link rel="canonical" href="https://robkohr.com/articles/on-game-design--make-them-cry" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="
-
-
-![nes-cry](nes-cry.jpg)
-
-I was talking with [@octagon_game_st](http://twitter.com/octagon_game_st) about his game [Octomaze](https://play.google.com/store/apps/details?id=com.octagon.octomaze_demo)
-
-I didn't finish the demo, and well, I figured I should paste it in as I think it is a good breakdown of game design for a mechanics based puzzle:
-
----
-
-I didn't finish the demo, and it didn't entice me enough to go back in and do so, and I have been thinking about why exactly that is.
-
-I always liked the game mechanics of the early nes games. They introduced a simple mechanic, and then for a stretch introduced no other mechanics, but just kept on increasing the difficulty in that one mechanic before it got really hard, and then once it got hard, the dropped the difficulty and threw another mechanic at you and repeated the cycle.
-
-It seems you put a lot of the mechanics in the first levels (I only went up till the buttons with the wall turns), so you were giving a lot of the goods first without the users earning/trying at all, where the new mechanics should be considered the reward. Otherwise it is like they already know everything that the game is going to provide, and now it is just going to keep getting harder. The reward shouldn't be the puzzles, but the novelty of a new way to work through puzzles.
-
-And ramp that difficulty up faster.
-
-Example level plan:
-
-- Mechanic level (just simple navigating a maze- then 2 levels of difficulty to very hard
-- another mechanic level - a level that mixes that with the first mechanic, then a really hard level with the two
-
-Then continue.
-
-Keep in mind your target audience:
-
-- Mobile, so they want something engaging fast
-- Smart, or at least they think so, since they are choosing a puzzle game. Don't coddle them. Make them hate you and want to throw their phone within the first minute. If they wanted to just plod along, they would have chosen candy crush.
-- Distracted, so once they pick their phone back up and check it for cracks, and beat that 3rd level that shouldn't have been so damn hard, you give them a new mechanic to chew on.
-
-Give them 3 mechanics (maze moving, buttons, then a challenging monster... not a simple one) and 3 levels on each making the last one of each pain inducing, and then hit them with a paywall to go get the full version chumps where the octopus will make you cry for momma, if you think you can handle it. Be a little rude, have some fun with the players. When you play test you should see them fluxuate between happiness and suffering." />
+                <meta property="og:description" content="![nes-cry](nes-cry.jpg)I was talking with [@octagon_game_st](http://twitter.com/octagon_game_st) about his game [Octomaze](https://play.google.com/store/apps/details?id=com.octagon.octomaze_demo)I did" />
                 asdf
             </head>
             <body>

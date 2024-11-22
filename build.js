@@ -241,6 +241,10 @@ articles.forEach(function (article) {
     output = addArticleToOutput(article, output);
   }
   const filename = `${toKebab(article.title)}`;
+
+  //description content for meta tag needs to be less than 200 characters and no html and new lines should be removed
+  const description = article.content.replace(/<[^>]+>/g, "").replace(/\n/g, "").substring(0, 200);
+
   const articleStartHtml = `
         <html>                
             <base href="../">
@@ -250,7 +254,7 @@ ${headerExtras}
                 <link rel="canonical" href="https://robkohr.com/articles/${filename}" />
                 <link rel="stylesheet" href="../neat.css">
 ${article.icon ? '<meta property="og:image" content="https://robkohr.com/'+article.iconUrl+'" />' : ""}
-                <meta property="og:description" content="${article.content}" />
+                <meta property="og:description" content="${description}" />
                 asdf
             </head>
             <body>

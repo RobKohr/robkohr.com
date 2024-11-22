@@ -25,11 +25,7 @@
                 <link rel="canonical" href="https://robkohr.com/articles/so-i-now-have-two-separate-projects-on-github-where-people-are-forking-and-me---" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="
-
-So I now have two separate projects on github where people are forking and merging in code. 
-
-I now see the delight in the git experience. :)" />
+                <meta property="og:description" content="So I now have two separate projects on github where people are forking and merging in code. I now see the delight in the git experience. :)" />
                 asdf
             </head>
             <body>

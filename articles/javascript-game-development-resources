@@ -25,22 +25,7 @@
                 <link rel="canonical" href="https://robkohr.com/articles/javascript-game-development-resources" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="
-
-
-https://github.com/luser/gamepadtest
-
-https://github.com/ungoldman/gamepad-tester
-
-https://www.reddit.com/r/electronjs/comments/ncfiwc/electron_allowed_us_to_make_a_big_steam_game/
-
-https://github.com/greenheartgames/greenworks
-
-https://duckduckgo.com/?t=ffab&q=electron+steam&ia=web
-
-https://github.com/JamesMoulang/electron-steam-notes
-
-https://stackoverflow.com/questions/71415088/is-it-possible-to-deploy-an-app-you-built-with-electron-to-android" />
+                <meta property="og:description" content="https://github.com/luser/gamepadtesthttps://github.com/ungoldman/gamepad-testerhttps://www.reddit.com/r/electronjs/comments/ncfiwc/electron_allowed_us_to_make_a_big_steam_game/https://github.com/green" />
                 asdf
             </head>
             <body>

@@ -25,20 +25,7 @@
                 <link rel="canonical" href="https://robkohr.com/articles/xkcd-has-a-great-comic-about-how-to-create-a-strong-yet-easy-to-remember-pass---" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="
-
-XKCD has a great comic about how to create a strong yet easy to remember password:
-<a rel="nofollow" target="_blank" href="http://xkcd.com/936/" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://xkcd.com/936/</a>
-
-And this site created a generator for it:
-<a rel="nofollow" target="_blank" href="http://passphra.se/" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://passphra.se/</a>
-
-### xkcd: Password Strength
-http://xkcd.com/936/
-
-http://passphra.se/
-
-http://xkcd.com/936/" />
+                <meta property="og:description" content="XKCD has a great comic about how to create a strong yet easy to remember password:http://xkcd.com/936/And this site created a generator for it:http://passphra.se/### xkcd: Password Strengthhttp://xkcd" />
                 asdf
             </head>
             <body>

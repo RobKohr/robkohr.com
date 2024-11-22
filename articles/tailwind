@@ -25,19 +25,7 @@
                 <link rel="canonical" href="https://robkohr.com/articles/tailwind" />
                 <link rel="stylesheet" href="../neat.css">
 <meta property="og:image" content="https://robkohr.com/images/Pasted image 20230807125724.png" />
-                <meta property="og:description" content="
-
-
-Tailwind is a css framework that with some html code that looks like this:
-![[Pasted image 20230807125724.png]]
-
-You can style your site without css. 
-
-Instead, you throw classes on dom elements and then tailwind will ladle some css on your element to get it to look the way you like. 
-
-As someone who has done scss for a long time, I rather like giving things a class name, fitting them in the structure of the site, and writing the css for them. You can set some padding, width, rounded borders, etc, fairly easy in css, and not learn and integrate another thing.
-
-And projects with less frameworks are great." />
+                <meta property="og:description" content="Tailwind is a css framework that with some html code that looks like this:![[Pasted image 20230807125724.png]]You can style your site without css. Instead, you throw classes on dom elements and then t" />
                 asdf
             </head>
             <body>

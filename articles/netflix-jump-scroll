@@ -25,11 +25,7 @@
                 <link rel="canonical" href="https://robkohr.com/articles/netflix-jump-scroll" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="
-
-I created a new google chrome extension that changes the functionality of the netflix left/right scroll buttons. Instead of doing the annoying slow scroll, this makes it jump to show the next set of movies in the carousel. 
-
-[Netflix Jump Scroll](https://chrome.google.com/webstore/detail/netflix-jump-scroll/gfocbgegaacpbclkmljbkkjidbemmieo?hl=en-US&gl=US)" />
+                <meta property="og:description" content="I created a new google chrome extension that changes the functionality of the netflix left/right scroll buttons. Instead of doing the annoying slow scroll, this makes it jump to show the next set of m" />
                 asdf
             </head>
             <body>

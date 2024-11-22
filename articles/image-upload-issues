@@ -25,24 +25,7 @@
                 <link rel="canonical" href="https://robkohr.com/articles/image-upload-issues" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="
-
-
-So [Dreamhost](https://www.dreamhost.com/) recently locked out creation of new files on the account that hosts editthis.info. It turns out that that account had 250,000+ files, and huge file systems have been a problem for them regarding stability. Almost all of the files were in the image upload directory.  
-  
-The problem is mediawiki creates a large number of directories, thumbnails, and archive files for every image uploaded. Many of the directories it creates are actually empty, and every directory in linux is really just a file.  
-  
-I went into the image storage location and ran the command:  
-
-  
- nohup  find -depth -type d -empty -exec rmdir {} \;&  
-
-  
-Which deleted all empty directories, which brought me back under quota, but it won't be long before file count gets to a point where real files will have to be deleted... so I am blocking image uploads for right now.  
-  
-The solution I am looking at is possibly making image uploads a premium service only, and just charging a small cost for this. So many users create wikis on EDI, upload a few images, and then stop using the site. This will make it so those users don't have an impact on the usage, and the more heavier users most likely won't mind paying a few bucks to host their images.  
-  
-As always, if you ever want you can host images elsewhere, and then include them in your pages. You simply put the url to the image in your page, and it automatically shows up there." />
+                <meta property="og:description" content="So [Dreamhost](https://www.dreamhost.com/) recently locked out creation of new files on the account that hosts editthis.info. It turns out that that account had 250,000+ files, and huge file systems h" />
                 asdf
             </head>
             <body>

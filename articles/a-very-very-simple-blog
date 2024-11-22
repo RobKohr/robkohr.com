@@ -25,11 +25,7 @@
                 <link rel="canonical" href="https://robkohr.com/articles/a-very-very-simple-blog" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="
-
-This blog was created with a simple markdown file and a directory of images. Trying to come up with a good way to host it will be interesting
-
-I should come up with a new username on twitter and domain name to match it." />
+                <meta property="og:description" content="This blog was created with a simple markdown file and a directory of images. Trying to come up with a good way to host it will be interestingI should come up with a new username on twitter and domain " />
                 asdf
             </head>
             <body>

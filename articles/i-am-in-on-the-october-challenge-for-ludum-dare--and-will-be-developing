@@ -25,18 +25,7 @@
                 <link rel="canonical" href="https://robkohr.com/articles/i-am-in-on-the-october-challenge-for-ludum-dare--and-will-be-developing" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="
-
-I am in on the October Challenge for Ludum Dare, and will be developing <a rel="nofollow" target="_blank" href="http://islandwarfare.com" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://islandwarfare.com</a>
-
-You can sign up for email/rss/twitter updates on the website.
-
-Also, if you are interested in working with php/mysql/codeigniter on a MMO  open source project, let me know.
-
-### Ludum Dare » Blog Archive » October Challenge – Island Warfare!
-http://islandwarfare.com
-
-http://www.ludumdare.com/compo/2012/09/28/october-challenge-island-warfare/" />
+                <meta property="og:description" content="I am in on the October Challenge for Ludum Dare, and will be developing http://islandwarfare.comYou can sign up for email/rss/twitter updates on the website.Also, if you are interested in working with" />
                 asdf
             </head>
             <body>

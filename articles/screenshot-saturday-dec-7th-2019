@@ -25,30 +25,7 @@
                 <link rel="canonical" href="https://robkohr.com/articles/screenshot-saturday-dec-7th-2019" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="
-
-
-![screenshot gif 2019-12-07](screenshot-saturday-2019-12-07.gif)
-
-[On youtube](https://youtu.be/JEbzAdhQo3k)
-
-Progress update on https://godotassetstore.org
-
-What works
-
-- Browse assets
-- Individual Asset Page
-- Downloading an Asset
-
-In progress
-
-- Registration Submission
-
-Next Up
-
-- Finish registration and login
-- Make it so you can add github account
-- Fetch asset data from github public and private repos" />
+                <meta property="og:description" content="![screenshot gif 2019-12-07](screenshot-saturday-2019-12-07.gif)[On youtube](https://youtu.be/JEbzAdhQo3k)Progress update on https://godotassetstore.orgWhat works- Browse assets- Individual Asset Page" />
                 asdf
             </head>
             <body>

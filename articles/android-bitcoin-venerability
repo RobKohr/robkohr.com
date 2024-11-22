@@ -25,17 +25,7 @@
                 <link rel="canonical" href="https://robkohr.com/articles/android-bitcoin-venerability" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="
-
-If you or anyone you know is using bitcoin on android, there is a issue with how android was creating random numbers which made transactions generated on android wallets vulnerable where the private keys could be reverse engineered. 
-
-I use BitcoinSpinner, and I upgraded BitcoinSpinner, and then installed a new app from the same developer called Mycellium which seems to be a little better. I then sent all of my money to the new wallet in the Mycellium app, so it is now safe from that vulnerability. 
-
-This only effects all of the android apps, and they all need new wallets and addresses as the previous private keys are vulnerable.
-
-For a little background on how this could happen:
-
-Every address has a private key which is used to control the funds in that address. Using a little crypto magic, the private key combined with a random number will create a signature for the transaction that can be verified that it comes from the owner of the public address. If you somehow knew that the random number was 123456, you can reverse the process and get the private key. The problem is with the Android random library, it has a tendency to repeatedly generate some "random numbers". Ironically the library is called SecureRandom. I think it was on the shelf next to UnsinkableShip." />
+                <meta property="og:description" content="If you or anyone you know is using bitcoin on android, there is a issue with how android was creating random numbers which made transactions generated on android wallets vulnerable where the private k" />
                 asdf
             </head>
             <body>

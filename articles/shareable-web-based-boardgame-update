@@ -25,37 +25,7 @@
                 <link rel="canonical" href="https://robkohr.com/articles/shareable-web-based-boardgame-update" />
                 <link rel="stylesheet" href="../neat.css">
 <meta property="og:image" content="https://robkohr.com/images/2020-06-04-15-12-03.png" />
-                <meta property="og:description" content="
-
-
-[Last month](http://tentoncreations.com/a/Started-on-a-shareable-web-based-boardgame-system/) I made a doodle post of an idea for an instant online board game system.
-
-Well, progress is coming along fast:
-
-![[2020-06-04-15-12-03.png]]
-
-So far I have:
-
-- a react site which directs [/game/test](https://instaboardgame.com/game/test) to a test boardgame
-- Websocket connection where you can move around game piece elements
-- A component hierarchy where every piece type passes props down to possibly other piece types, to then load in the Piece component. This should allow for a rapid development of lots of types of pieces, as the details of each are just specifying what makes it different from a different piece. Examples:
-  - Chess pieces would remove other pieces from the board if you put one on top of another
-  - Clicking cards will flip them over
-  - clicking decks will pull a card from an array of cards and put it on top of the deck
-  - clicking on a dice box will roll the dice, and there will be an area to manipulate what dice are in the box
-- A json structure for a game where piece components are specified, and the props that go down to them
-- A reducer coding system which will minimize the size of updates coming from connected clients
-
-Current tasks:
-
-- [ ] Authentication
-- [ ] Membership - allow access to premium games and ability to have more than 2 tables
-- [ ] Create game table
-- [ ] Auto save games to mongo
-- [ ] Load and unload games from memory
-- [ ] Set your player #, icon, color, and name (allow spectators?)
-- [ ] Show hidden hand for player
-- [ ] Drag/drop pieces onto table" />
+                <meta property="og:description" content="[Last month](http://tentoncreations.com/a/Started-on-a-shareable-web-based-boardgame-system/) I made a doodle post of an idea for an instant online board game system.Well, progress is coming along fas" />
                 asdf
             </head>
             <body>

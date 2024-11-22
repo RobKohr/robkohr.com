@@ -25,12 +25,7 @@
                 <link rel="canonical" href="https://robkohr.com/articles/navigation" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="- <a href="https://mailchi.mp/73f113e474f1/robert-kohrs-blog">📧 Signup to the Monthly Email List</a>
-- <a href="articles/about">ℹ️ About</a>
-- <a href="tags/index.html">🏷️ Tags</a>
-- <a href="articles/projects">🚧 Projects</a>
-- <a href="rss.xml">📰 RSS feed</a>
-- <a href="articles/my-stuff">🔭 My stuff out on the web</a>" />
+                <meta property="og:description" content="- 📧 Signup to the Monthly Email List- ℹ️ About- 🏷️ Tags- 🚧 Projects- 📰 RSS feed- 🔭 My stuff out on the web" />
                 asdf
             </head>
             <body>

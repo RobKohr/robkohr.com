@@ -25,23 +25,7 @@
                 <link rel="canonical" href="https://robkohr.com/articles/write-code-for-a-business" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="
-
-
-
-So, I am working on this forum software for neverall.com/f. I am working on making right now in solidjs because I feel that is a better platform for development.
-
-I have the server all setup in node.js. This is now able to handle registration and login.
-
-I have basically nothing as far as the front end code right now. I am debating using react vs solidjs.
-
-The benifit of react, is I don't need to learn something new. I know react through and through. Also I can easily find and hire devs doing react coding.
-
-The downsides of react is it is slower, more bloated, and can become more convoluted then solidjs to develop in. 
-
-So really, do I build in react so I can get more cheap readily available devs, or do it in solidjs, take a little more effort upfront learning something new (that no one is hiring for - probably because they hit the same delima I am now hitting), have a cleaner codebase, and have a smaller pool of talent to hire from.
-
-On the upside, there are people looking to work with solidjs, but can't find any jobs with it, and they also are likely highly skilled to be interested in it. Also, you can train javascript people to work with it, and it does create employment lock in as there isn't many places they can take their skills." />
+                <meta property="og:description" content="So, I am working on this forum software for neverall.com/f. I am working on making right now in solidjs because I feel that is a better platform for development.I have the server all setup in node.js." />
                 asdf
             </head>
             <body>

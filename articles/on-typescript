@@ -25,20 +25,7 @@
                 <link rel="canonical" href="https://robkohr.com/articles/on-typescript" />
                 <link rel="stylesheet" href="../neat.css">
 <meta property="og:image" content="https://robkohr.com/images/2021-08-15-11-32-29.png" />
-                <meta property="og:description" content="
-
-
-![[2021-08-15-11-32-29.png]]
-
-After working with typescript a lot on work projects, I typically skip it on personal projects as it just seems tedious at times.
-
-Well, I just threw it into the neverall project while working on an alerting system, and by golly did it help clean up some things.
-
-The issues I find are related to the type "any", which seems like sacrilege to use in projects, and for good reason. In a big team, it is easy for an individual contributor to fly under the radar tossing any in all sorts of places.
-
-The flip side of it is that the ROI on sorting out some type stuff is just not worth the effort. Yep, it might come bite you in the ass, but sometimes mitigating the risk just takes too long, and for personal projects, the in between of sometimes using any when you don't really care is nice.
-
-Throw in other devs though, and banning "any" starts to look real attractive." />
+                <meta property="og:description" content="![[2021-08-15-11-32-29.png]]After working with typescript a lot on work projects, I typically skip it on personal projects as it just seems tedious at times.Well, I just threw it into the neverall pro" />
                 asdf
             </head>
             <body>

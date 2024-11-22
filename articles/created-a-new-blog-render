@@ -25,19 +25,7 @@
                 <link rel="canonical" href="https://robkohr.com/articles/created-a-new-blog-render" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="
-
-
-I wiped out RobKohr.com as I haven't touched it in over 5 years, and replaced it with this blog. 
-
-It was built just using one long markdown file called blog.md that I edit in obsidian and each article is separated by ## Blog titles, and under that I use @date and @tags to specify those two values. Keeping with a brutalist design aesthetic, I render out those tags as well as the ## at the beginning of the headers. 
-
-The way it works is a build.js file that reads that file, splits it into separate articles, renders the md->html, applies some extra rendering and css, and spits them all out into a large collection of individual files. This makes for a very simple light weight site builder that is just serving static files. 
-
-Source code is here for those who want to do something similar:
-https://github.com/RobKohr/robkohr.com
-
-If you need any help getting it set up, let me know." />
+                <meta property="og:description" content="I wiped out RobKohr.com as I haven't touched it in over 5 years, and replaced it with this blog. It was built just using one long markdown file called blog.md that I edit in obsidian and each article " />
                 asdf
             </head>
             <body>

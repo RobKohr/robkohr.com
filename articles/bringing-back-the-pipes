@@ -25,12 +25,7 @@
                 <link rel="canonical" href="https://robkohr.com/articles/bringing-back-the-pipes" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="
-
-
-![[2020-06-12-08-44-16.png]]
-
-[Node red](https://nodered.org/) this is a very similar thing to yahoo pipes back in the day. It is a self hosted tool to pipe things into each other and do operations on them (best to watch the video there)." />
+                <meta property="og:description" content="![[2020-06-12-08-44-16.png]][Node red](https://nodered.org/) this is a very similar thing to yahoo pipes back in the day. It is a self hosted tool to pipe things into each other and do operations on t" />
                 asdf
             </head>
             <body>

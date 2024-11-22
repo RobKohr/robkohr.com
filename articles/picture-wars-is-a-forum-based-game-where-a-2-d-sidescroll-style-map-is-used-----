@@ -25,16 +25,7 @@
                 <link rel="canonical" href="https://robkohr.com/articles/picture-wars-is-a-forum-based-game-where-a-2-d-sidescroll-style-map-is-used-----" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="
-
-Picture wars is a forum based game where a 2-d sidescroll style map is used. 2 or more players each use their own sprite pack armies in a turned based war game. 
-
-Each turn, players move their units and attack things by updating the image. Whatever makes sense is considered acceptable. Along with the update of the image, text is also included in the forum post explaining what happened in the turn.
-
-### Picture Wars - Index
-http://picturewars.net/smf/index.php
-
-http://picturewars.net/smf/index.php?topic=106.0" />
+                <meta property="og:description" content="Picture wars is a forum based game where a 2-d sidescroll style map is used. 2 or more players each use their own sprite pack armies in a turned based war game. Each turn, players move their units and" />
                 asdf
             </head>
             <body>

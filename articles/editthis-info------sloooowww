@@ -25,22 +25,7 @@
                 <link rel="canonical" href="https://robkohr.com/articles/editthis-info------sloooowww" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="
-
-
-I am currently research new ISPs since recently it has had intermittent slowness/outages. I didn't really have a problem with them when they were out for a power outage, or a downed line, or a nearby transformer bursting into flame. That is just the way the network crumbles. Now it just seems to be random and frequent. Obviously their success in signing up new customers has led to me losing customers as their network gets saturated.  
-  
-Current options I am looking into:  
-*Signing up with a new ISP. Most seem to be more expensive for what I want to do and/or provide slower outbound bandwidth  
-*Moving back to a web hosting company, except dedicated  
-**This would be more expensive, but may be worth it in the long time as I am looking to host more products and they will be more relyable  
-**I will have to do a rewrite of editthis.info so my tweaks play nicer on another companies server... this may be good since ETI is in desperate need of an upgrade.  
-  
-In the end it comes to a cost/time issue.  
-C)EDI makes just enough in ad revenue to support its current setup, and dedicated hosting would put it in the red. There is a lot of free wiki hosts out there, and I don't know if charging a premium would really increase revenue enough to make up the difference  
-T)The system would have to be revamped to both upgrade it and to move it to most servers.  
-  
-In the end, I think rewriting it will be the best plan. I am not satisfied with its current lack of portability and a number of structural issues. I also admit I am a better programmer than a sysadmin, and it is better to hand this off to be hosted by professionals. I expect to have cueflash out the door by the end of the month (another project I felt needed a rebuild) and after that I am going to try my second crack at rebuilding EDI." />
+                <meta property="og:description" content="I am currently research new ISPs since recently it has had intermittent slowness/outages. I didn't really have a problem with them when they were out for a power outage, or a downed line, or a nearby " />
                 asdf
             </head>
             <body>

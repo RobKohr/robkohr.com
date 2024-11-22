@@ -25,12 +25,7 @@
                 <link rel="canonical" href="https://robkohr.com/articles/easy-instant-github-branch-deployment" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="
-
-
-Want to have your server update itself whenever you deploy to a github branch? Piece of cake:
-
-https://github.com/RobKohr/github-hook-handler" />
+                <meta property="og:description" content="Want to have your server update itself whenever you deploy to a github branch? Piece of cake:https://github.com/RobKohr/github-hook-handler" />
                 asdf
             </head>
             <body>

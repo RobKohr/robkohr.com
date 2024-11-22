@@ -25,16 +25,7 @@
                 <link rel="canonical" href="https://robkohr.com/articles/-scoretag-allows-you-to-tag-your-posts-the-same-way-you-could-using-twitter-----" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="
-
-_scoreTag allows you to tag your posts the same way you could using twitter #hashTags
-
-It is has a _chromeExtension which turns a _scoreTag into a link. This allows users to quickly find other posts regarding a particular topic. 
-
-Why not just use #hashTag? Well, google ignores the # symbol when it indexes pages for searching, so it doesn't do much good if you actually want to find posts using it.
-
-### Google+ _scoreTag - Chrome Web Store
-https://chrome.google.com/webstore/detail/cjllnhndndjlchndmfoalkodbpdlmedb" />
+                <meta property="og:description" content="_scoreTag allows you to tag your posts the same way you could using twitter #hashTagsIt is has a _chromeExtension which turns a _scoreTag into a link. This allows users to quickly find other posts reg" />
                 asdf
             </head>
             <body>

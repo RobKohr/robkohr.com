@@ -25,14 +25,7 @@
                 <link rel="canonical" href="https://robkohr.com/articles/lorem-ipsum" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="
-
-<a rel="nofollow" target="_blank" href="http://slipsum.com/" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://slipsum.com/</a>
-
-### Lorem Ipsum Generator - Samuel L Ipsum
-http://slipsum.com/
-
-http://slipsum.com/" />
+                <meta property="og:description" content="http://slipsum.com/### Lorem Ipsum Generator - Samuel L Ipsumhttp://slipsum.com/http://slipsum.com/" />
                 asdf
             </head>
             <body>

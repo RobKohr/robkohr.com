@@ -25,9 +25,7 @@
                 <link rel="canonical" href="https://robkohr.com/articles/hacker-newsletter" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="
-
-I use rss feeds, reddit, twitter, news sites, etc, etc, but the most distilled grouping of great new things to read on the web regarding programming, science, design, and many other things is [Hacker Newsletter](https://www.hackernewsletter.com/). It is a weekly email newsletter that is a curated list of the best stuff that appears on [Hacker News](https://news.ycombinator.com/). The trouble with hacker news is there is too much content and the top list of articles are by popularity rather than quality, so it provides lots of distraction, but without the focus on substance. Hacker newsletter fixes that with some excellent curation." />
+                <meta property="og:description" content="I use rss feeds, reddit, twitter, news sites, etc, etc, but the most distilled grouping of great new things to read on the web regarding programming, science, design, and many other things is [Hacker " />
                 asdf
             </head>
             <body>

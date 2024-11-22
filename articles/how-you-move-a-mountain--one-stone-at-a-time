@@ -25,16 +25,7 @@
                 <link rel="canonical" href="https://robkohr.com/articles/how-you-move-a-mountain--one-stone-at-a-time" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="
-
-
-I have been working out using a google spreadsheet to track workouts. I aim to do a 20 rep max each week for each exercise that is slightly above the previous week. So far, it has lead to a nice continuous improvement... assuming I don't ever skip weeks. Each time I skip more than 2 weeks it pushes me back a little bit. More when I skip a month.
-
-Using Wathen's formula from https://en.wikipedia.org/wiki/One-repetition_maximum for 1RM, I can calculate my 1RM from my 20RM, and I also use it to calculate my 10 rep max. After experimenting with it, I found it to be a really accurate formula as I tested it going down to 3 reps. 
-
-What this means for me is I can keep doing 20 reps as my target, and it will always keep my 1RM and 10RM improving. This is great as being someone in their mid-40s the strain on my body when doing lower rep maxes is not worth it as I frequently end up hurting myself with lower reps. 
-
-Based on the equation, an increase of just 1 pound in weight is equal to 1.64 pounds in 1RM. This means that I am increasing my 1 rep max faster by doing 20 reps than I would be if I was aiming on doing 1 rep." />
+                <meta property="og:description" content="I have been working out using a google spreadsheet to track workouts. I aim to do a 20 rep max each week for each exercise that is slightly above the previous week. So far, it has lead to a nice conti" />
                 asdf
             </head>
             <body>

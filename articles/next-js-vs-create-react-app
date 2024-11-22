@@ -25,21 +25,7 @@
                 <link rel="canonical" href="https://robkohr.com/articles/next-js-vs-create-react-app" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="
-
-
-When doing react, I have on worked with CRA up until now. I just took over a next.js app, and when built and deployed, it is speedy, but didn't like some of the details of development:
-
-- myApp/pages/page-name/index.js is how you create a route for /page-name. While quick and friendly, I prefer the following:
-  - Defining my own route rules in details with reach-router. I am just to particular about routing to accept the trade off of simplicity against customizability. Also, defining routes is simple, and it is good for rearranging things without renaming components.
-  - I really don't like dozens of index.js files in my codebase. I prefer to call pages pages/page-name/page-name.js so it is clear by the file name what things are for.
-- making changes when development are a little fluky when it comes to live updates, css doesn't seem to live update nicely, and there are just too many times that I have to kill the server and restart it to see my changes. This is even worse because it all seems unpredictable as to if/when changes would appear and a little frustrating
-
-These are little nitpicks, and if CRA didn't exist, I would go with next, but I love the way CRA is more customizable regarding routing, and is just snappy for responsiveness. I also feel there is just too much gray area as to if something is being rendered on the server or the client, and as an ex-apache/php guy, I really am not a fan of worrying about server side rendering anymore.
-
-The case where I would likely use next would be if I were building a static content based site where SEO and first page load times were everything. I also know gatsby is supposed to be good for this too, so I would do some side by side comparisons. Also SEO with react is pretty good as is.
-
-In the end though, that isn't really something I do much of, so I'll be on CRA for the forseeable future." />
+                <meta property="og:description" content="When doing react, I have on worked with CRA up until now. I just took over a next.js app, and when built and deployed, it is speedy, but didn't like some of the details of development:- myApp/pages/pa" />
                 asdf
             </head>
             <body>

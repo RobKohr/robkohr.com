@@ -25,24 +25,7 @@
                 <link rel="canonical" href="https://robkohr.com/articles/pivotal-tracker-for-personal-use" />
                 <link rel="stylesheet" href="../neat.css">
 <meta property="og:image" content="https://robkohr.com/images/2021-08-15-11-30-33.png" />
-                <meta property="og:description" content="
-
-
-![[2021-08-15-11-30-33.png]]
-
-Having a family, side projects, main work, hobbies, etc can just be too much to keep track of, and also to allot time to. How often do you say "I'll do X around the house" and you just never get around to it.
-
-Recently I have fallen in love with Pivotal Tracker for work purposes in managing tasks, and have replaced my text based task tracking system with PT for my personal life. What is nice about PT is you don't decide what you can accomplish in a sprint, it tells you based upon the average of your velocity in previous sprints. You can resort the backlog to prioritize things, but the sprint end marker will still just envelope a certain number of points.
-
-Put too many things in your sprint, and you might not get to the things you wanna do, but you can easily see that happen before the week starts.
-
-To make things better from a planning point of view, I add 7 epochs labeled Monday, Tuesday, ...Sunday. I put them in the sprint so I can figure out what I am going to do that day, and mark the day as done when all the tasks are done that day.
-
-Lots of labels are used for what kind of things that need to be done, and all this helps me balance work, fun, chores, etc.
-
-The mobile app for PT is pretty snappy, and allows for the creation of stories without any details really quickly, and puts them at the top of the backlog, making it a handy todo list app.
-
-You can also use PT workspaces to see a combined view of different projects and your personal tasks, but I found it more clunky, and just create clone of work tasks in my personal tasks project." />
+                <meta property="og:description" content="![[2021-08-15-11-30-33.png]]Having a family, side projects, main work, hobbies, etc can just be too much to keep track of, and also to allot time to. How often do you say "I'll do X around the house" " />
                 asdf
             </head>
             <body>

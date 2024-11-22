@@ -25,29 +25,7 @@
                 <link rel="canonical" href="https://robkohr.com/articles/code-at-the-end-of-the-post" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="
-
-What happens when you round 3.6 ---> you get 4. 
-
-What about in a game? Should every time a player kills 3.6 of an enemy, should it be really 4? 
-
-Probably not, but the math might have that happen all of the time. It should be that it rounds up 60% of the time. Over time, the average player would then kill 3.6 enemies, without having to deal without the sticky philosophical questions of an enemy that is 40% alive.
-
-Here is a little function that will prevent that. (in JS, but easy to convert)
-
-```
- //adjusts a value up or down to nearest int with a random factor 
- //based upon the decimal value. i.e. 3.2 has a 80% chance of being 3, 20% of 4 var randRound = function(num){
- var num = Number(num);
- var floor = Math.floor(num);
- var dec = num - floor;
- if(Math.random()>dec){
- return floor;
- }
- return Math.ceil(num);
- }
-
-```" />
+                <meta property="og:description" content="What happens when you round 3.6 ---> you get 4. What about in a game? Should every time a player kills 3.6 of an enemy, should it be really 4? Probably not, but the math might have that happen all of " />
                 asdf
             </head>
             <body>

@@ -25,15 +25,7 @@
                 <link rel="canonical" href="https://robkohr.com/articles/head-and-tail---super-large-outputs-and-inputs" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="
-
-
-If ever you are dealing with a really large file in head (1GB+) and you need to grab a large segment of it (such as half the file), don't use -n option to get lines. Instead, do ls -l to find the the size of the file in bytes, figure out how many bytes you need (perhaps a portion of the of the total bytes), and then call head -c THE_AMOUNT.  
-  
-The reason is, I discovered that if you try and do it by line count, head needs to read through the file and find ever new line marker before outputing. This locked up a pretty powerful machine for over a day, and still didn't output. Using byte count was done in a a minute.  
-  
-UPDATE:  
-So one of the problems I am having is that head really doesn't start outputing until it is finished, so I create a php program do output the top portion of a file:" />
+                <meta property="og:description" content="If ever you are dealing with a really large file in head (1GB+) and you need to grab a large segment of it (such as half the file), don't use -n option to get lines. Instead, do ls -l to find the the " />
                 asdf
             </head>
             <body>

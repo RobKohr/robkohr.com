@@ -25,14 +25,7 @@
                 <link rel="canonical" href="https://robkohr.com/articles/a-blog-generator" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="
-
-
-And just like that, now we have a dead simple blog generator tool:
-
-[Github / dead-simple-markdown-to-static-blog-creator](https://github.com/RobKohr/dead-simple-markdown-to-static-blog-creator)
-
-This was used to create the site you are currently on!" />
+                <meta property="og:description" content="And just like that, now we have a dead simple blog generator tool:[Github / dead-simple-markdown-to-static-blog-creator](https://github.com/RobKohr/dead-simple-markdown-to-static-blog-creator)This was" />
                 asdf
             </head>
             <body>

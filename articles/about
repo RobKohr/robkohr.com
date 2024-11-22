@@ -25,30 +25,7 @@
                 <link rel="canonical" href="https://robkohr.com/articles/about" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="
-
-### Programming
-
-#### Skill Tests
-
-[http://robkohr.com/r/javascript.pdf](http://robkohr.com/r/javascript.pdf) - 96th percentile in JavaScript  
-[http://robkohr.com/r/react_proficency_test.png](http://robkohr.com/r/react_proficency_test.png) - 92nd percentile in ReactJS
-
-#### Community
-
-Presenter at the [nodepdx](http://nodepdx.org/) conference  
-[github](http://github.com/robkohr)  
-[Stack Exchange profile](http://stackexchange.com/users/35865/robkohr) - the top 13% of all contributors
-
-#### Expert in
-
-JavaScript, Node.js, ReactJS, AngularJS, jQuery, MongoDB/NoSQL, Websockets, HTML5, CSS3 (along with LESS/SCSS/SASS), AWS services (mainly EC2 and S3), Responsive Design, OpenCV, Backbone.js, PhoneGap/Cordova, Scrum, web sockets, git, PHP / MySQL / Apache, Server administration (Debian, Red Hat, Ubuntu), NPM, Bower, Photoshop/Gimp, Wireframing, eCommerce analytics, Bitcoin Blockchain
-
-#### Education
-
-B.S., Computer Science, 2001, Rutgers University, New Brunswick, NJ  
-Masters of Business Administration, 2006, Rutgers School of Business, Newark, NJ  
-Certified Scrum Master, 2009" />
+                <meta property="og:description" content="### Programming#### Skill Tests[http://robkohr.com/r/javascript.pdf](http://robkohr.com/r/javascript.pdf) - 96th percentile in JavaScript  [http://robkohr.com/r/react_proficency_test.png](http://robko" />
                 asdf
             </head>
             <body>

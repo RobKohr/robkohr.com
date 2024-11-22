@@ -25,12 +25,7 @@
                 <link rel="canonical" href="https://robkohr.com/articles/git-tower" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="
-
-
-After years of using git from the command line, I pretty much only handle git from this app now. I started using it 4 months ago for work, and now also use it to manage my personal github stuff. It makes managing and visualizing git a breeze. 
-
-[Tower - The most powerful Git client for Mac](http://www.git-tower.com)" />
+                <meta property="og:description" content="After years of using git from the command line, I pretty much only handle git from this app now. I started using it 4 months ago for work, and now also use it to manage my personal github stuff. It ma" />
                 asdf
             </head>
             <body>

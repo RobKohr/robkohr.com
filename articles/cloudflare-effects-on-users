@@ -25,22 +25,7 @@
                 <link rel="canonical" href="https://robkohr.com/articles/cloudflare-effects-on-users" />
                 <link rel="stylesheet" href="../neat.css">
 <meta property="og:image" content="https://robkohr.com/images/2020-09-22-15-12-53.png" />
-                <meta property="og:description" content="
-
-
-For the last few years I have been using cloudflare in front of editthis.info. On the 21st I dropped it, and saw an immediate decrease in average load times (from google analytics):
-
-![[2020-09-22-15-12-53.png]]
-
-This was without any changes to the system at all, and with about 800-900 active users per day.
-
-Also, as mentioned in my previous blog post, in cloudflare's dashboard, it reports a massive number of malicious attacks that they have thwarted.
-
-![[2020-09-21-10-26-35.png]]
-
-These are either inflated numbers, or more worrying actual users who couldn't get past their overly vigorous captcha screening process.
-
-I look forward to seeing how this effects user counts overall - some could be from the speed boast and some from lack of captchas. In either case, I won't be using cloudfront again. I am going to set up a simple nginx proxy in front of the website, and implement some caching there to help increase the speed even further." />
+                <meta property="og:description" content="For the last few years I have been using cloudflare in front of editthis.info. On the 21st I dropped it, and saw an immediate decrease in average load times (from google analytics):![[2020-09-22-15-12" />
                 asdf
             </head>
             <body>

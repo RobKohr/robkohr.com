@@ -25,17 +25,7 @@
                 <link rel="canonical" href="https://robkohr.com/articles/no-more-blogging" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="
-
-  
-I created a google group here:
-
-http://groups.google.com/group/editthisinfo
-
-from now on status messages and updates will be posted there. A blog is very much a one way form of communication, and I feel it goes against the collaborative nature of a wiki service. This group will be where problems and enhancements will be discussed.
-
-If you are simply requesting a feature be added to editthis.info, please use the uservoice page:
-http://editthis.uservoice.com/pages/35672-feature-requests" />
+                <meta property="og:description" content="  I created a google group here:http://groups.google.com/group/editthisinfofrom now on status messages and updates will be posted there. A blog is very much a one way form of communication, and I feel" />
                 asdf
             </head>
             <body>

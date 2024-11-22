@@ -25,24 +25,7 @@
                 <link rel="canonical" href="https://robkohr.com/articles/oculus-quest" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="
-
-
-My vive has died in all the ways:
-
-- One lighthouse got so bad that if you faced it, it would totally lose tracking
-- The audiostrap headset snapped
-- The display often messed up and showed two images on one eye
-- One of the controller trackpads would not click anymore
-- And finally: The screen just goes black after about a minute of use. I tried a different hdmi cable and that didn't fix it.
-
-I was reading a review that the new Vive that uses inside out tracking was performing very poorly regarding tracking, so won't be buying that as a replacement, and the Valve index is way too pricey.
-
-So, it looks like the Quest is the machine I will be going with. This is nice, as I was never a fan of the cables attached to your head, and with [Vridge](https://riftcat.com/vridge) those PC games supposedly can be streamed to the quest. This is great because I have bought a ton of VR games on steam, and have plenty more in my wishlist.
-
-Perhaps getting back into VR development again would be fun too. Maybe git back to making a VR swordfighting game.
-
-![VR sword fighting game](vr-sword.jpg)" />
+                <meta property="og:description" content="My vive has died in all the ways:- One lighthouse got so bad that if you faced it, it would totally lose tracking- The audiostrap headset snapped- The display often messed up and showed two images on " />
                 asdf
             </head>
             <body>

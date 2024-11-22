@@ -25,14 +25,7 @@
                 <link rel="canonical" href="https://robkohr.com/articles/pick-some-great-colors-for-your-website-or-game" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="
-
-
-[Cohesive colors](https://javier.xyz/cohesive-colors/) is a color palette randomizer that does a great job picking a set of 5 colors that work really well together, and also allows you to throw a hue adjustment on them all.
-
-This would be good for a quick way to colorize game levels or websites to make them look distinctive without too much effort.
-
-For websites, I like to come up with a set of base colors, assign them to variables, and then lighten them to various degrees to use in different contexts." />
+                <meta property="og:description" content="[Cohesive colors](https://javier.xyz/cohesive-colors/) is a color palette randomizer that does a great job picking a set of 5 colors that work really well together, and also allows you to throw a hue " />
                 asdf
             </head>
             <body>

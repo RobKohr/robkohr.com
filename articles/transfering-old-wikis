@@ -25,12 +25,7 @@
                 <link rel="canonical" href="https://robkohr.com/articles/transfering-old-wikis" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="
-
-
-Some of the wikis still reside on the previous server. There is now a transfer system in place. Simply go to your wiki's url and it will ask you if you want to transfer. Click the link and it will add you to the transfer queue.
-
-If the transfer queue gets stuck (no wikis are disappearing off the queue after an hour) feel free to send me an email (account robkohr and I use gmail). It was hacked together the other night, and sometimes needs a little push." />
+                <meta property="og:description" content="Some of the wikis still reside on the previous server. There is now a transfer system in place. Simply go to your wiki's url and it will ask you if you want to transfer. Click the link and it will add" />
                 asdf
             </head>
             <body>

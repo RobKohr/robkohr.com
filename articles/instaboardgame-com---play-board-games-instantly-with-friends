@@ -25,19 +25,7 @@
                 <link rel="canonical" href="https://robkohr.com/articles/instaboardgame-com---play-board-games-instantly-with-friends" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="
-
-
-[Instaboardgame](http://instaboardgame.com) will be a place for people to instantly play and create boardgames with their friends wherever they may be.
-
-Think of it like a big box of board game pieces that you can pull out and start playing with.
-
-To start with, you create a table, then you can either import in a prebuilt game, or you can
-pull out pieces and drop them in, and you and others who have joined can start playing with them.
-
-Only the table creator needs to have an account, and users can just join with the private share link that the creator provides.
-
-Table creators can have up to one free table per account, and that table will maintain it's state for up to 1 week. If you have a subscription, you can have up to 5 tables and they will maintain their state for as long as you like. If you have a pro account, you can have up to 100 tables that you can manage, and you can set users to be admins of the tables. This is ideal for tournaments." />
+                <meta property="og:description" content="[Instaboardgame](http://instaboardgame.com) will be a place for people to instantly play and create boardgames with their friends wherever they may be.Think of it like a big box of board game pieces t" />
                 asdf
             </head>
             <body>

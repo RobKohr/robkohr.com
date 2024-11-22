@@ -25,20 +25,7 @@
                 <link rel="canonical" href="https://robkohr.com/articles/cueflash-version-2-is-here-" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="
-
-
-The new version of cueflash is now out. It has been rewritten from the ground up with the following goals:  
-*Easier to add features to - my previous version was pretty poorly coded  
-*Decks are no longer copied when imported by new users - this created a bloated db  
-*People can edit each other's decks, making the system more wiki like  
-  
-There are lots of other features I have planned, so stay tuned. This is just the first iteration.  
-  
-All of the data from the prior system has been imported into the newest version. You can still access the old version at http://old.cueflash.com , but keep in mind that it isn't being maintained and nothing you add to it will be imported into the new version of [cueFlash](https://www.blogger.com/#).  
-  
-Thanks!  
-Rob" />
+                <meta property="og:description" content="The new version of cueflash is now out. It has been rewritten from the ground up with the following goals:  *Easier to add features to - my previous version was pretty poorly coded  *Decks are no long" />
                 asdf
             </head>
             <body>

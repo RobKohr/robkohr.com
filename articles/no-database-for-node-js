@@ -25,17 +25,7 @@
                 <link rel="canonical" href="https://robkohr.com/articles/no-database-for-node-js" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="
-
-So I have been using node.js and mongo for some time, and yeah, it works fine and all, but I am starting to wonder, why bother with a db at all?
-
-When you are using PHP each load of a page restarts the PHP app, and the only way you can have any state stored for anything is to use some database system.
-
-This is not the case with node.js. With that, connections just keep coming into your app, and you can maintain a set of variables for all of the information: user data, friendships, messages, etc, and you could keep it in memory. Yes you have to think carefully about this as you could go too far with data retention and your app would have to start swapping, but you would remove a whole layer of complexity to your app. 
-
-What about when the app shuts down? Well all will be lost, but lets say you keep an object around called datastore, and that held all of your important data. It could periodically write its content to a json file which would be loaded on startup. Or you could just have a file for your users, messages, etc, so that each are treated separately. This might make them a little more manageable. You could throw in versioning, and you could also write to a temp file which would then me moved to replace the old one in case your app crashes during the write phase. 
-
-Now you only have one process, the app, and it doesn’t need to connect or depend on anything. You can do your own quering/indexing of in memory data, and your data is just stored in human readable and easily backed up text files." />
+                <meta property="og:description" content="So I have been using node.js and mongo for some time, and yeah, it works fine and all, but I am starting to wonder, why bother with a db at all?When you are using PHP each load of a page restarts the " />
                 asdf
             </head>
             <body>

@@ -25,16 +25,7 @@
                 <link rel="canonical" href="https://robkohr.com/articles/game-performance-by-tag-and-modding" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="
-
-
-This is a [great article about what games perform well on steam based upon their tags (categories)](https://www.gamasutra.com/blogs/DannyWeinbaum/20191115/353349/Genre_Viability_on_Steam_and_Other_Trends__An_Analysis_Using_Review_Count.php).
-
-Some games like strategy war games, which I have a great love for, make great money, and there are also very few of them. Other games like puzzlers are plentiful and don't make much. He also goes into the normal lifespan of a game and its revenue stream which tapers off after 5 years.
-
-There were so many good tidbits in there, and even a multipage spreadsheet of useful sales data, which is like gold now that steamspy can no longer function.
-
-One thing that seems to really make great money is the tag "moddable." Definitely not easy to do in something like godot (or anything else for that matter) but it seems to make a big impact on profitability." />
+                <meta property="og:description" content="This is a [great article about what games perform well on steam based upon their tags (categories)](https://www.gamasutra.com/blogs/DannyWeinbaum/20191115/353349/Genre_Viability_on_Steam_and_Other_Tre" />
                 asdf
             </head>
             <body>
