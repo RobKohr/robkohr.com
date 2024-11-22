@@ -1,5 +1,6 @@
 
-        <html>
+        <html>                
+            <base href="../">
             <head>
                 <title>Google+ post 2011-07-19 - RobKohr's Blog</title>
 
@@ -18,13 +19,12 @@
 <link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
 <link rel="shortcut icon" type="image/ico" href="/favicon.ico">
 <link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
-<script src="/libs/highlight/highlight.min.js"></script>
-<script src="/image-lazy-loader.js"></script>
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
 
                 <link rel="canonical" href="https://robkohr.com/articles/google--post-2011-07-19" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <base href="../">
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>

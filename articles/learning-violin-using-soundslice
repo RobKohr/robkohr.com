@@ -1,5 +1,6 @@
 
-        <html>
+        <html>                
+            <base href="../">
             <head>
                 <title>Learning Violin Using SoundSlice - RobKohr's Blog</title>
 
@@ -18,13 +19,12 @@
 <link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
 <link rel="shortcut icon" type="image/ico" href="/favicon.ico">
 <link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
-<script src="/libs/highlight/highlight.min.js"></script>
-<script src="/image-lazy-loader.js"></script>
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
 
                 <link rel="canonical" href="https://robkohr.com/articles/learning-violin-using-soundslice" />
                 <link rel="stylesheet" href="../neat.css">
 <meta property="og:image" content="<a href="articles/learning-violin-using-soundslice"><img class="icon" data-src="images/Pasted image 20241105070959.png" alt="Pasted image 20241105070959.png" style="max-width: 100%;" /></a>">
-                <base href="../">
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>

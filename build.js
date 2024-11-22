@@ -7,8 +7,8 @@ ${fs.readFileSync("analytics.html", "utf8")}
 <link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
 <link rel="shortcut icon" type="image/ico" href="/favicon.ico">
 <link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
-<script src="/libs/highlight/highlight.min.js"></script>
-<script src="/image-lazy-loader.js"></script>
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
 `;
 
 /* 
@@ -180,6 +180,7 @@ let output = `
         <meta charset="UTF-8">
         <head>
             <title>RobKohr's Blog</title>
+            <base href="./">
 ${headerExtras}
             <link rel="stylesheet" href="neat.css">
         </head>
@@ -240,14 +241,14 @@ articles.forEach(function (article) {
   }
   const filename = `${toKebab(article.title)}`;
   const articleStartHtml = `
-        <html>
+        <html>                
+            <base href="../">
             <head>
                 <title>${article.title} - RobKohr's Blog</title>
 ${headerExtras}
                 <link rel="canonical" href="https://robkohr.com/articles/${filename}" />
                 <link rel="stylesheet" href="../neat.css">
 ${article.icon ? '<meta property="og:image" content="'+article.icon+'">' : ""}
-                <base href="../">
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>

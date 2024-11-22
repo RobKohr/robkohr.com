@@ -1,5 +1,6 @@
 document.addEventListener("DOMContentLoaded", function () {
   let images = document.querySelectorAll("img[data-src]");
+  console.log(images);
   function loadImagesLazily(e) {
     for (let i = 0; i < images.length; i++) {
       let rect = images[i].getBoundingClientRect();
