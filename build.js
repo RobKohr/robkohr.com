@@ -243,7 +243,7 @@ articles.forEach(function (article) {
   const filename = `${toKebab(article.title)}`;
 
   //description content for meta tag needs to be less than 200 characters and no html and now double quotes and new lines should be removed
-  const description = article.content.replace(/<[^>]+>/g, "").replace(/\n/g, "").substring(0, 200).replace
+  const description = article.content.replace(/<[^>]+>/g, "").replace(/\n/g, "").substring(0, 200).replace(/"/g, "");
 
   const articleStartHtml = `
         <html>                

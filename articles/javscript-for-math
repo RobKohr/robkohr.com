@@ -25,7 +25,7 @@
                 <link rel="canonical" href="https://robkohr.com/articles/javscript-for-math" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="function replace() { [native code] }" />
+                <meta property="og:description" content="I use the javascript console as a calculator, and it is funny when binary  decimal rounding/conversion errors pop up unexpectedly.    This is a good reason to be careful when doing if(x==someNumber) c" />
                 asdf
             </head>
             <body>

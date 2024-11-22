@@ -25,7 +25,7 @@
                 <link rel="canonical" href="https://robkohr.com/articles/setup-ssl-websockets-from-node-using-nginx-and-certbot" />
                 <link rel="stylesheet" href="../neat.css">
 <meta property="og:image" content="https://robkohr.com/images/2020-06-12-08-30-59.png" />
-                <meta property="og:description" content="function replace() { [native code] }" />
+                <meta property="og:description" content="![[2020-06-12-08-30-59.png]]Certbot is the tool from [letsencrypt.org](https://letsencrypt.org) that lets you generate ssl certificates for your site without having to pay the likes of Verisign ever a" />
                 asdf
             </head>
             <body>

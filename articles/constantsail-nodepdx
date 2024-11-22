@@ -25,7 +25,7 @@
                 <link rel="canonical" href="https://robkohr.com/articles/constantsail-nodepdx" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="function replace() { [native code] }" />
+                <meta property="og:description" content=" Demo of http://ConstantSail.com for nodepdx ( http://nodepdx.org/ )This was done completely with node.js using mongodb as the data store, and using jQuery Mobile as the front end framework. Also used" />
                 asdf
             </head>
             <body>

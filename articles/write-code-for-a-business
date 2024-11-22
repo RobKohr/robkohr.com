@@ -25,7 +25,7 @@
                 <link rel="canonical" href="https://robkohr.com/articles/write-code-for-a-business" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="function replace() { [native code] }" />
+                <meta property="og:description" content="So, I am working on this forum software for neverall.com/f. I am working on making right now in solidjs because I feel that is a better platform for development.I have the server all setup in node.js." />
                 asdf
             </head>
             <body>

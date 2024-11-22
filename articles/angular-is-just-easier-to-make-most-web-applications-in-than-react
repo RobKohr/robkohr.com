@@ -25,7 +25,7 @@
                 <link rel="canonical" href="https://robkohr.com/articles/angular-is-just-easier-to-make-most-web-applications-in-than-react" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="function replace() { [native code] }" />
+                <meta property="og:description" content="UPDATE: My feelings about this have changed quite a bit, a follow up article is to come. The summary is that React has gotten so much easier with React hooks that my recommendations here have changed." />
                 asdf
             </head>
             <body>

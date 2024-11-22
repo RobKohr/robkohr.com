@@ -25,7 +25,7 @@
                 <link rel="canonical" href="https://robkohr.com/articles/transfering-old-wikis" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="function replace() { [native code] }" />
+                <meta property="og:description" content="Some of the wikis still reside on the previous server. There is now a transfer system in place. Simply go to your wiki's url and it will ask you if you want to transfer. Click the link and it will add" />
                 asdf
             </head>
             <body>

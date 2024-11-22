@@ -25,7 +25,7 @@
                 <link rel="canonical" href="https://robkohr.com/articles/head-and-tail---super-large-outputs-and-inputs" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="function replace() { [native code] }" />
+                <meta property="og:description" content="If ever you are dealing with a really large file in head (1GB+) and you need to grab a large segment of it (such as half the file), don't use -n option to get lines. Instead, do ls -l to find the the " />
                 asdf
             </head>
             <body>

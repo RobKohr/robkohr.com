@@ -25,7 +25,7 @@
                 <link rel="canonical" href="https://robkohr.com/articles/need-a-decent-rating-system-for-a-matched-based-game-system-" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="function replace() { [native code] }" />
+                <meta property="og:description" content="Need a decent rating system for a matched based game system? I just implemented the glicko-2 rating system (similar to ELO, except much better) in javascript:https://github.com/RobKohr/glickoIf you de" />
                 asdf
             </head>
             <body>

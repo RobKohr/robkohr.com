@@ -25,7 +25,7 @@
                 <link rel="canonical" href="https://robkohr.com/articles/a-quick-and-easy-way-to-make-chrome-web-browser-more-secure" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="function replace() { [native code] }" />
+                <meta property="og:description" content="A quick and easy way to make Chrome web browser more secure:Go to this url:chrome://plugins/and start disabling plugins. The number 1 on your hit list is Java, which accounts for 50% of the security i" />
                 asdf
             </head>
             <body>

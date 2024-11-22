@@ -25,7 +25,7 @@
                 <link rel="canonical" href="https://robkohr.com/articles/thoughts-on-using-grommet-for-web-app-design" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="function replace() { [native code] }" />
+                <meta property="og:description" content="I used [Grommet](https://icons.grommet.io/) for a react project, and here are some of my thoughts on it.Things I like- Works out of the box for most use cases- Nice for form elements- Gives a standard" />
                 asdf
             </head>
             <body>
