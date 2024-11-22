@@ -248,7 +248,7 @@ articles.forEach(function (article) {
 ${headerExtras}
                 <link rel="canonical" href="https://robkohr.com/articles/${filename}" />
                 <link rel="stylesheet" href="../neat.css">
-${article.icon ? '<meta property="og:image" content="'+article.icon+'">' : ""}
+${article.icon ? '<meta property="og:image" content="'+article.icon+'"></meta>' : ""}
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>
