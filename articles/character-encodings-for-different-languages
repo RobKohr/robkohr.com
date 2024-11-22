@@ -28,6 +28,7 @@
                 <meta property="og:description" content="<p>Editthis.info now handles foreign characters properly (just tested cyrillic and french).  </p>
 <p>For those that are a little geeky, it seems that the php function htmlentities doesn&#39;t have a multibyte string version.</p>
 " />
+                asdf
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>

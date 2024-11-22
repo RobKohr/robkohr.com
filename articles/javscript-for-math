@@ -28,6 +28,7 @@
                 <meta property="og:description" content="<p>I use the javascript console as a calculator, and it is funny when binary &lt;- -&gt; decimal rounding/conversion errors pop up unexpectedly.  </p>
 <p>This is a good reason to be careful when doing if(x==someNumber) conditionals in your code.</p>
 " />
+                asdf
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>

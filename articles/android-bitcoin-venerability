@@ -28,6 +28,7 @@
                 <meta property="og:description" content="<p>If you or anyone you know is using bitcoin on android, there is a issue with how android was creating random numbers which made transactions generated on android wallets vulnerable where the private keys could be reverse engineered. </p>
 <p>I use BitcoinSpinner, and I upgraded BitcoinSpinner, and then i...</p>
  <p><a class="nowrap" href="articles/android-bitcoin-venerability">READ MORE (219 words, 2 minutes)</a></p> " />
+                asdf
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>
