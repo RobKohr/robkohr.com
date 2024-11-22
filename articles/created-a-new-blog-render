@@ -25,6 +25,9 @@
                 <link rel="canonical" href="https://robkohr.com/articles/created-a-new-blog-render" />
                 <link rel="stylesheet" href="../neat.css">
 
+                <meta property="og:description" content="<p>I wiped out RobKohr.com as I haven&#39;t touched it in over 5 years, and replaced it with this blog. </p>
+<p>It was built just using one long markdown file called blog.md that I edit in obsidian and each article is separated by ## Blog titles, and under that I use @date and @tags to specify those two value...</p>
+ <p><a class="nowrap" href="articles/created-a-new-blog-render">READ MORE (156 words, 1 minutes)</a></p> " />
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>

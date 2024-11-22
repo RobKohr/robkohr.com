@@ -25,6 +25,18 @@
                 <link rel="canonical" href="https://robkohr.com/articles/thoughts-on-using-grommet-for-web-app-design" />
                 <link rel="stylesheet" href="../neat.css">
 
+                <meta property="og:description" content="<p>I used <a href="https://icons.grommet.io/">Grommet</a> for a react project, and here are some of my thoughts on it.</p>
+<p>Things I like</p>
+<ul>
+<li>Works out of the box for most use cases</li>
+<li>Nice for form elements</li>
+<li>Gives a standard look and feel for the site without any need to work out details</li>
+</ul>
+<p>Things I don&#39;t like</p>
+<ul>
+<li>A ...</li>
+</ul>
+ <p><a class="nowrap" href="articles/thoughts-on-using-grommet-for-web-app-design">READ MORE (266 words, 2 minutes)</a></p> " />
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>

@@ -25,6 +25,11 @@
                 <link rel="canonical" href="https://robkohr.com/articles/bringing-things-under-one-roof" />
                 <link rel="stylesheet" href="../neat.css">
 
+                <meta property="og:description" content="<p>This is a great article about using subdomains vs subfolders for seo:</p>
+<p><a href="https://www.seoquake.com/blog/subdomains-vs-subfolders/">subdomains vs subfolders</a></p>
+<p>I looks pretty clear that subfolders are the way to go.</p>
+<p>With a single server with nginx on it, you can reverse proxy to multiple servers usi...</p>
+ <p><a class="nowrap" href="articles/bringing-things-under-one-roof">READ MORE (248 words, 2 minutes)</a></p> " />
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>

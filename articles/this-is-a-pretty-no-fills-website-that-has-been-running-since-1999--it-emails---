@@ -25,6 +25,10 @@
                 <link rel="canonical" href="https://robkohr.com/articles/this-is-a-pretty-no-fills-website-that-has-been-running-since-1999--it-emails---" />
                 <link rel="stylesheet" href="../neat.css">
 
+                <meta property="og:description" content="<p>This is a pretty no-fills website that has been running since 1999. It emails you whenever a web page changes. I use it whenever a site doesn&#39;t provide rss or a newsletter, but I want to keep track of when there are updates.</p>
+<h3>ChangeDetection - Know when any web page changes</h3>
+<p><a href="https://www.changed">https://www.changed</a>...</p>
+ <p><a class="nowrap" href="articles/this-is-a-pretty-no-fills-website-that-has-been-running-since-1999--it-emails---">READ MORE (51 words, 0 minutes)</a></p> " />
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>

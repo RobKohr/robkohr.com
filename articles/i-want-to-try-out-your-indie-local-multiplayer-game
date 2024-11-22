@@ -25,6 +25,8 @@
                 <link rel="canonical" href="https://robkohr.com/articles/i-want-to-try-out-your-indie-local-multiplayer-game" />
                 <link rel="stylesheet" href="../neat.css">
 
+                <meta property="og:description" content="<p>I have a PC hooked up to a TV with a bunch of controllers, and I love local multiplayer games with my kids. If you have a game you would like us to beta test, and write a review of, just send me a message on twitter.</p>
+" />
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>

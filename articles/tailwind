@@ -24,7 +24,12 @@
 
                 <link rel="canonical" href="https://robkohr.com/articles/tailwind" />
                 <link rel="stylesheet" href="../neat.css">
-<meta property="og:image" content="https://robkohr.com/images/Pasted image 20230807125724.png"></meta>
+<meta property="og:image" content="https://robkohr.com/images/Pasted image 20230807125724.png" />
+                <meta property="og:description" content="<p>Tailwind is a css framework that with some html code that looks like this:</p>
+<p>You can style your site without css. </p>
+<p>Instead, you throw classes on dom elements and then tailwind will ladle some css on your element to get it to look the way you like. </p>
+<p>As someone who has done scss for a long time, ...</p>
+ <p><a class="nowrap" href="articles/tailwind">READ MORE (106 words, 1 minutes, 1 images)</a></p> " />
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>

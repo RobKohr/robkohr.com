@@ -24,7 +24,11 @@
 
                 <link rel="canonical" href="https://robkohr.com/articles/cloudflare-effects-on-users" />
                 <link rel="stylesheet" href="../neat.css">
-<meta property="og:image" content="https://robkohr.com/images/2020-09-22-15-12-53.png"></meta>
+<meta property="og:image" content="https://robkohr.com/images/2020-09-22-15-12-53.png" />
+                <meta property="og:description" content="<p>For the last few years I have been using cloudflare in front of editthis.info. On the 21st I dropped it, and saw an immediate decrease in average load times (from google analytics):</p>
+<p>This was without any changes to the system at all, and with about 800-900 active users per day.</p>
+<p>Also, as mentio...</p>
+ <p><a class="nowrap" href="articles/cloudflare-effects-on-users">READ MORE (150 words, 1 minutes, 2 images)</a></p> " />
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>

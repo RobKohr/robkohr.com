@@ -25,6 +25,9 @@
                 <link rel="canonical" href="https://robkohr.com/articles/cueflash-version-two-" />
                 <link rel="stylesheet" href="../neat.css">
 
+                <meta property="og:description" content="<p>A new version of cueflash is in development and will be released shortly. It will feature deck ratings, ajax card loads (just loads the content of the cards to speed up card viewing), comments, and a cleaned up interface.  </p>
+<p>The current design (not really functional) is at:<br>[<a href="http://robkohr.co">http://robkohr.co</a>...</p>
+ <p><a class="nowrap" href="articles/cueflash-version-two-">READ MORE (82 words, 1 minutes)</a></p> " />
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>

@@ -25,6 +25,26 @@
                 <link rel="canonical" href="https://robkohr.com/articles/rotation-of-angle-around-a-point" />
                 <link rel="stylesheet" href="../neat.css">
 
+                <meta property="og:description" content="<pre>
+ Sin(a)   Sin(b)   Sin(g)
+------ = ------ = ------
+  A        B        C
+
+
+Where A, B, and C are the lengths of the sides of a triangle, and a, b, and g are the angles directly opposite those sides...
+
+
+       /|
+      /b|
+   C /  |
+    /   |A
+   /    |
+  /     |
+ /a    g|
+ --------
+    B
+
+... <p><a class="nowrap" href="articles/rotation-of-angle-around-a-point">READ MORE (191 words, 1 minutes)</a></p> " />
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>

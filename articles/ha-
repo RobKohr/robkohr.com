@@ -25,6 +25,10 @@
                 <link rel="canonical" href="https://robkohr.com/articles/ha-" />
                 <link rel="stylesheet" href="../neat.css">
 
+                <meta property="og:description" content="<p>Ha!</p>
+<h3>Cell Division</h3>
+<p><a href="http://shirt.woot.com/">http://shirt.woot.com/</a></p>
+" />
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>

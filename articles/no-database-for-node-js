@@ -25,6 +25,9 @@
                 <link rel="canonical" href="https://robkohr.com/articles/no-database-for-node-js" />
                 <link rel="stylesheet" href="../neat.css">
 
+                <meta property="og:description" content="<p>So I have been using node.js and mongo for some time, and yeah, it works fine and all, but I am starting to wonder, why bother with a db at all?</p>
+<p>When you are using PHP each load of a page restarts the PHP app, and the only way you can have any state stored for anything is to use some database sys...</p>
+ <p><a class="nowrap" href="articles/no-database-for-node-js">READ MORE (285 words, 2 minutes)</a></p> " />
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>

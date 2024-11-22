@@ -25,6 +25,8 @@
                 <link rel="canonical" href="https://robkohr.com/articles/answers-are-just-the-embryos-of-new-questions-" />
                 <link rel="stylesheet" href="../neat.css">
 
+                <meta property="og:description" content="<p>Answers are just the embryos of new questions.</p>
+" />
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>

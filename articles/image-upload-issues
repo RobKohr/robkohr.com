@@ -25,6 +25,8 @@
                 <link rel="canonical" href="https://robkohr.com/articles/image-upload-issues" />
                 <link rel="stylesheet" href="../neat.css">
 
+                <meta property="og:description" content="<p>So <a href="https://www.dreamhost.com/">Dreamhost</a> recently locked out creation of new files on the account that hosts editthis.info. It turns out that that account had 250,000+ files, and huge file systems have been a problem for them regarding stability. Almost all of the files were in the image upload...</p>
+ <p><a class="nowrap" href="articles/image-upload-issues">READ MORE (271 words, 2 minutes)</a></p> " />
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>

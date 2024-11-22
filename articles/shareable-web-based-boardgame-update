@@ -24,7 +24,14 @@
 
                 <link rel="canonical" href="https://robkohr.com/articles/shareable-web-based-boardgame-update" />
                 <link rel="stylesheet" href="../neat.css">
-<meta property="og:image" content="https://robkohr.com/images/2020-06-04-15-12-03.png"></meta>
+<meta property="og:image" content="https://robkohr.com/images/2020-06-04-15-12-03.png" />
+                <meta property="og:description" content="<p><a href="http://tentoncreations.com/a/Started-on-a-shareable-web-based-boardgame-system/">Last month</a> I made a doodle post of an idea for an instant online board game system.</p>
+<p>Well, progress is coming along fast:</p>
+<p>So far I have:</p>
+<ul>
+<li>a react site which directs [/game/test](<a href="https://instaboardgame.com/game">https://instaboardgame.com/game</a>...</li>
+</ul>
+ <p><a class="nowrap" href="articles/shareable-web-based-boardgame-update">READ MORE (270 words, 2 minutes, 1 images)</a></p> " />
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>

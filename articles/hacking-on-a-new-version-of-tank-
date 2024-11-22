@@ -25,6 +25,10 @@
                 <link rel="canonical" href="https://robkohr.com/articles/hacking-on-a-new-version-of-tank-" />
                 <link rel="stylesheet" href="../neat.css">
 
+                <meta property="og:description" content="<p>Hacking on a new version of Tank!</p>
+<p><img data-src="images/googlePlusPhotos/Photos%20from%20posts/3-14-14/19ihyd5ah7waq.jpg" alt="googlePlusPhotos/Photos%20from%20posts/3-14-14/19ihyd5ah7waq.jpg" style="max-width: 100%;" /></p>
+<p><a href="https://github.com/RobKohr/tank">https://github.com/RobKohr/tank</a></p>
+" />
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>

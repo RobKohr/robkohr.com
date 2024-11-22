@@ -25,6 +25,11 @@
                 <link rel="canonical" href="https://robkohr.com/articles/this-is-my-first-phone-app-i-have-m---" />
                 <link rel="stylesheet" href="../neat.css">
 
+                <meta property="og:description" content="<p>Now available in the iTunes store!</p>
+<p>This is my first phone app I have made in over a year. It is a simple RPG dice roller. More apps to come :)</p>
+<h3>Quick RPG Dice</h3>
+<p><a href="https://itunes.apple.com/us/app/id603097725?mt=8&amp;ign-mpt=uo%3D4">https://itunes.apple.com/us/app/id603097725?mt=8&amp;ign-mpt=uo%3D4</a></p>
+" />
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>

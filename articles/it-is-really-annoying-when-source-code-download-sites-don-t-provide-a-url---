@@ -25,6 +25,10 @@
                 <link rel="canonical" href="https://robkohr.com/articles/it-is-really-annoying-when-source-code-download-sites-don-t-provide-a-url---" />
                 <link rel="stylesheet" href="../neat.css">
 
+                <meta property="og:description" content="<p>It is really annoying when source code download sites don&#39;t provide a url that you can use with curl (usually it is some html redirect page that does tracking for them). </p>
+<p>I want to download the code onto the server. I don&#39;t want to download it locally and then scp it to the server. </p>
+<p>What I love ...</p>
+ <p><a class="nowrap" href="articles/it-is-really-annoying-when-source-code-download-sites-don-t-provide-a-url---">READ MORE (95 words, 1 minutes)</a></p> " />
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>

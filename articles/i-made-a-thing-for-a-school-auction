@@ -25,6 +25,8 @@
                 <link rel="canonical" href="https://robkohr.com/articles/i-made-a-thing-for-a-school-auction" />
                 <link rel="stylesheet" href="../neat.css">
 
+                <meta property="og:description" content="<p><img data-src="images/Letter Board.jpg" alt="Letter Board.jpg" style="max-width: 100%;" /></p>
+" />
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>

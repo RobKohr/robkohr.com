@@ -25,6 +25,10 @@
                 <link rel="canonical" href="https://robkohr.com/articles/particle-physics-have-come-a-long-way-" />
                 <link rel="stylesheet" href="../neat.css">
 
+                <meta property="og:description" content="<p>Particle physics have come a long way.</p>
+<p> This is a new Multiphysics simulator by Lagoa Technologies Inc.</p>
+<p><a href="http://www.vimeo.com/13457383">http://www.vimeo.com/13457383</a></p>
+" />
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>

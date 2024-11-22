@@ -25,6 +25,11 @@
                 <link rel="canonical" href="https://robkohr.com/articles/next-js-vs-create-react-app" />
                 <link rel="stylesheet" href="../neat.css">
 
+                <meta property="og:description" content="<p>When doing react, I have on worked with CRA up until now. I just took over a next.js app, and when built and deployed, it is speedy, but didn&#39;t like some of the details of development:</p>
+<ul>
+<li>myApp/pages/page-name/index.js is how you create a route for /page-name. While quick and friendly, I prefer t...</li>
+</ul>
+ <p><a class="nowrap" href="articles/next-js-vs-create-react-app">READ MORE (335 words, 3 minutes)</a></p> " />
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>

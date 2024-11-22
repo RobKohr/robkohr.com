@@ -25,6 +25,8 @@
                 <link rel="canonical" href="https://robkohr.com/articles/i-am-sharing-the-share-of-my-own-post-----and-deleting-original-----" />
                 <link rel="stylesheet" href="../neat.css">
 
+                <meta property="og:description" content="<p>I am sharing the share of my own post ... and deleting original. ...</p>
+" />
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>

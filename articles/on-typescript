@@ -24,7 +24,11 @@
 
                 <link rel="canonical" href="https://robkohr.com/articles/on-typescript" />
                 <link rel="stylesheet" href="../neat.css">
-<meta property="og:image" content="https://robkohr.com/images/2021-08-15-11-32-29.png"></meta>
+<meta property="og:image" content="https://robkohr.com/images/2021-08-15-11-32-29.png" />
+                <meta property="og:description" content="<p>After working with typescript a lot on work projects, I typically skip it on personal projects as it just seems tedious at times.</p>
+<p>Well, I just threw it into the neverall project while working on an alerting system, and by golly did it help clean up some things.</p>
+<p>The issues I find are related t...</p>
+ <p><a class="nowrap" href="articles/on-typescript">READ MORE (159 words, 1 minutes, 1 images)</a></p> " />
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>

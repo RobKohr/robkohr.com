@@ -25,6 +25,9 @@
                 <link rel="canonical" href="https://robkohr.com/articles/wiki-creation-back-up-and-running" />
                 <link rel="stylesheet" href="../neat.css">
 
+                <meta property="og:description" content="<p>.....<br>UPDATE: Ok, not quite working yet. Debugging...  </p>
+<p>.....<br>Updated update: didn&#39;t really do anything, but it seems to be working now.</p>
+" />
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>

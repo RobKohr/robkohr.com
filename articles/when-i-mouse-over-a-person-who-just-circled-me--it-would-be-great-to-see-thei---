@@ -25,6 +25,8 @@
                 <link rel="canonical" href="https://robkohr.com/articles/when-i-mouse-over-a-person-who-just-circled-me--it-would-be-great-to-see-thei---" />
                 <link rel="stylesheet" href="../neat.css">
 
+                <meta property="og:description" content="<p>When I mouse over a person who just circled me, it would be great to see their most recent post(s) without having to click them.</p>
+" />
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>

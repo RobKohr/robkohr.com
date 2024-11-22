@@ -25,6 +25,9 @@
                 <link rel="canonical" href="https://robkohr.com/articles/7-days-away-from-the-time-wasting-websites" />
                 <link rel="stylesheet" href="../neat.css">
 
+                <meta property="og:description" content="<p>I have a problem with time wasting websites such as youtube, facebook, twitter, etc. I start going down rabbit holes that suck away my work day.</p>
+<p>As such, I am putting all social media sites on a 7 day time out. I have added them all to my /etc/hosts file so that visiting them just goes to an err...</p>
+ <p><a class="nowrap" href="articles/7-days-away-from-the-time-wasting-websites">READ MORE (174 words, 1 minutes)</a></p> " />
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>

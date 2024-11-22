@@ -25,6 +25,9 @@
                 <link rel="canonical" href="https://robkohr.com/articles/edi-attacked" />
                 <link rel="stylesheet" href="../neat.css">
 
+                <meta property="og:description" content="<p>It seems that editthis.info was attacked by a distributor of malware. I have reverted the site code that was modified and removed the offending code they added (they add iframe tags that make it so when you visit editthis.info, you were also visiting their site in the background).  </p>
+<p>I have sinc...</p>
+ <p><a class="nowrap" href="articles/edi-attacked">READ MORE (201 words, 2 minutes)</a></p> " />
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>

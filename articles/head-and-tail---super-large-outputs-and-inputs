@@ -25,6 +25,8 @@
                 <link rel="canonical" href="https://robkohr.com/articles/head-and-tail---super-large-outputs-and-inputs" />
                 <link rel="stylesheet" href="../neat.css">
 
+                <meta property="og:description" content="<p>If ever you are dealing with a really large file in head (1GB+) and you need to grab a large segment of it (such as half the file), don&#39;t use -n option to get lines. Instead, do ls -l to find the the size of the file in bytes, figure out how many bytes you need (perhaps a portion of the of the to...</p>
+ <p><a class="nowrap" href="articles/head-and-tail---super-large-outputs-and-inputs">READ MORE (166 words, 1 minutes)</a></p> " />
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>

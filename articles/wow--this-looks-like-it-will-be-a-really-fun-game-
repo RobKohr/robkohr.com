@@ -25,6 +25,10 @@
                 <link rel="canonical" href="https://robkohr.com/articles/wow--this-looks-like-it-will-be-a-really-fun-game-" />
                 <link rel="stylesheet" href="../neat.css">
 
+                <meta property="og:description" content="<p>Wow, this looks like it will be a really fun game.</p>
+<h3>Artizens</h3>
+<p><a href="http://www.kickstarter.com/projects/artizens/artizens-0">http://www.kickstarter.com/projects/artizens/artizens-0</a></p>
+" />
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>

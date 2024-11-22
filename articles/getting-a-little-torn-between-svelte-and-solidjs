@@ -25,6 +25,9 @@
                 <link rel="canonical" href="https://robkohr.com/articles/getting-a-little-torn-between-svelte-and-solidjs" />
                 <link rel="stylesheet" href="../neat.css">
 
+                <meta property="og:description" content="<p>I have been playing with svelte, and liking it, but things just seem to mysterious. With SolidJS, I know what to expect.</p>
+<p>I got to creating some input components with svelte and started to do a registration form. Going to try again with SolidJS to build the same thing. Let&#39;s see if it goes a litt...</p>
+ <p><a class="nowrap" href="articles/getting-a-little-torn-between-svelte-and-solidjs">READ MORE (56 words, 0 minutes)</a></p> " />
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>
