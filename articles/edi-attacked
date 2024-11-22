@@ -26,7 +26,6 @@
                 <link rel="stylesheet" href="../neat.css">
 
                 <meta property="og:description" content="It seems that editthis.info was attacked by a distributor of malware. I have reverted the site code that was modified and removed the offending code they added (they add iframe tags that make it so wh" />
-                asdf
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>

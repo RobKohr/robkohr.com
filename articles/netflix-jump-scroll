@@ -26,7 +26,6 @@
                 <link rel="stylesheet" href="../neat.css">
 
                 <meta property="og:description" content="I created a new google chrome extension that changes the functionality of the netflix left/right scroll buttons. Instead of doing the annoying slow scroll, this makes it jump to show the next set of m" />
-                asdf
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>

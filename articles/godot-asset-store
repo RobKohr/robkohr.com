@@ -26,7 +26,6 @@
                 <link rel="stylesheet" href="../neat.css">
 
                 <meta property="og:description" content="I started developing the [Godot Asset Store](https://godotassetstore.org) a few weeks ago. It is built with Angular and node.js as the backend api with nginx as the frontend.I am getting to the tricky" />
-                asdf
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>

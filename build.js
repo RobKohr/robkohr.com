@@ -255,7 +255,6 @@ ${headerExtras}
                 <link rel="stylesheet" href="../neat.css">
 ${article.icon ? '<meta property="og:image" content="https://robkohr.com/'+article.iconUrl+'" />' : ""}
                 <meta property="og:description" content="${description}" />
-                asdf
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>

@@ -26,7 +26,6 @@
                 <link rel="stylesheet" href="../neat.css">
 
                 <meta property="og:description" content="**A new way to round - rand_round**So in grade school you are taught the basics of rounding. If the decimal portion of the number is &lt; .5 round down to the integer so 5.3 becomes 5. If it is >= .5 " />
-                asdf
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>

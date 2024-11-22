@@ -26,7 +26,6 @@
                 <link rel="stylesheet" href="../neat.css">
 
                 <meta property="og:description" content="Really, set up any command to run on startup as a service (and have start/stop myprocess commands available to you).Much easier than init.d### Run Node.js as a Service on Ubuntuhttp://kevin.vanzonne" />
-                asdf
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>

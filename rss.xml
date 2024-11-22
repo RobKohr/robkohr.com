@@ -9,6 +9,14 @@
             <pubDate>Fri, 22 Nov 2024 08:00:00 GMT</pubDate>
             <ttl>1800</ttl>
             <item>
+                <guid>https://robkohr.com/articles/alternative-origin-of-batman---dream</guid>
+                <title>Alternative origin of Batman - dream</title>
+                <link>https://robkohr.com/articles/alternative-origin-of-batman---dream</link>
+                <description>Alternative origin of Batman - dream</description>
+                <pubDate>Mon, 21 Oct 2024 23:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
                 <guid>https://robkohr.com/articles/convert-react-javascript-project-to-typescript---one-file-at-a-time</guid>
                 <title>Convert React Javascript project to Typescript - one file at a time</title>
                 <link>https://robkohr.com/articles/convert-react-javascript-project-to-typescript---one-file-at-a-time</link>
@@ -398,14 +406,6 @@
                 <link>https://robkohr.com/articles/cardboard-boat-regatta</link>
                 <description>Cardboard Boat Regatta</description>
                 <pubDate>Mon, 12 Jun 2023 00:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/password-validation-done-better</guid>
-                <title>Password validation done better</title>
-                <link>https://robkohr.com/articles/password-validation-done-better</link>
-                <description>Password validation done better</description>
-                <pubDate>Sun, 11 Jun 2023 00:00:00 GMT</pubDate>
             </item>
     
         </channel>

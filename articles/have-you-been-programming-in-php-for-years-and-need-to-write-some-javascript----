@@ -26,7 +26,6 @@
                 <link rel="stylesheet" href="../neat.css">
 
                 <meta property="og:description" content="Have you been programming in php for years and need to write some javascript, only to find you really could use a php function to solve a js problem.Well stop before you rewrite it. http://phpjs.org/H" />
-                asdf
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>

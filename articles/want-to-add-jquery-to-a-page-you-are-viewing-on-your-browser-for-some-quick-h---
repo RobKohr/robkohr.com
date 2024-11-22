@@ -26,7 +26,6 @@
                 <link rel="stylesheet" href="../neat.css">
 
                 <meta property="og:description" content="Want to add jquery to a page you are viewing on your browser for some quick hackery?Create a bookmark with this as the location:```javascript:void((function(){j=document.createElement(SCRIPT);j.src=" />
-                asdf
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>

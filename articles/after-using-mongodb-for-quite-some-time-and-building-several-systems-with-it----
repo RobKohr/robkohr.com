@@ -26,7 +26,6 @@
                 <link rel="stylesheet" href="../neat.css">
 
                 <meta property="og:description" content="After using mongodb for quite some time and building several systems with it, I am starting to drift back into preferring structured data in a mysql db. * It is reliably fast* Building the structure o" />
-                asdf
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>

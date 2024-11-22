@@ -26,7 +26,6 @@
                 <link rel="stylesheet" href="../neat.css">
 
                 <meta property="og:description" content="I used [Grommet](https://icons.grommet.io/) for a react project, and here are some of my thoughts on it.Things I like- Works out of the box for most use cases- Nice for form elements- Gives a standard" />
-                asdf
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>

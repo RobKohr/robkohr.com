@@ -26,7 +26,6 @@
                 <link rel="stylesheet" href="../neat.css">
 
                 <meta property="og:description" content="There have been a lot of server errors recently, and they are the result of system resources being overwhelmed (using up system memory and processor).I suspect that this is due to another app I have b" />
-                asdf
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>

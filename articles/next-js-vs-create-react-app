@@ -26,7 +26,6 @@
                 <link rel="stylesheet" href="../neat.css">
 
                 <meta property="og:description" content="When doing react, I have on worked with CRA up until now. I just took over a next.js app, and when built and deployed, it is speedy, but didn't like some of the details of development:- myApp/pages/pa" />
-                asdf
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>

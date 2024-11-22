@@ -26,7 +26,6 @@
                 <link rel="stylesheet" href="../neat.css">
 
                 <meta property="og:description" content="Editthis.info now handles foreign characters properly (just tested cyrillic and french).    For those that are a little geeky, it seems that the php function htmlentities doesn't have a multibyte stri" />
-                asdf
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>

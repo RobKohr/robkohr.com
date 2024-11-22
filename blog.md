@@ -8,6 +8,12 @@
 - <a href="rss.xml">📰 RSS feed</a>
 - <a href="articles/my-stuff">🔭 My stuff out on the web</a>
 
+## Alternative origin of Batman - dream
+@date=2024-11-22
+@tags=dreams
+
+Scrouge McDuck starts poor and is recruited by joker to become batman. I think it was just to entertain the Joker, but then Scrouge through the conflict also grows more as an individual to who the wealthiest man of Duckburg
+
 ## Convert React Javascript project to Typescript - one file at a time
 @date=2024-11-12
 @tags=react, javascript, programming, youtube

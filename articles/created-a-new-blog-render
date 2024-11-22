@@ -26,7 +26,6 @@
                 <link rel="stylesheet" href="../neat.css">
 
                 <meta property="og:description" content="I wiped out RobKohr.com as I haven't touched it in over 5 years, and replaced it with this blog. It was built just using one long markdown file called blog.md that I edit in obsidian and each article " />
-                asdf
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>

@@ -26,7 +26,6 @@
                 <link rel="stylesheet" href="../neat.css">
 
                 <meta property="og:description" content="Editthis.info has gone through a major upgrade over the last week. It has been moved to a new database system (mysql->sqlite) and has been upgraded from mediawiki 1.5.5 to 1.15.1. This is basically a " />
-                asdf
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>

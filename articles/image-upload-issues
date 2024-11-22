@@ -26,7 +26,6 @@
                 <link rel="stylesheet" href="../neat.css">
 
                 <meta property="og:description" content="So [Dreamhost](https://www.dreamhost.com/) recently locked out creation of new files on the account that hosts editthis.info. It turns out that that account had 250,000+ files, and huge file systems h" />
-                asdf
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>

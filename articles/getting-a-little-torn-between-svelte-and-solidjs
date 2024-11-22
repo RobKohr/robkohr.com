@@ -26,7 +26,6 @@
                 <link rel="stylesheet" href="../neat.css">
 
                 <meta property="og:description" content="I have been playing with svelte, and liking it, but things just seem to mysterious. With SolidJS, I know what to expect.I got to creating some input components with svelte and started to do a registra" />
-                asdf
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>

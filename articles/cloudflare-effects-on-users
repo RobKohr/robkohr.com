@@ -26,7 +26,6 @@
                 <link rel="stylesheet" href="../neat.css">
 <meta property="og:image" content="https://robkohr.com/images/2020-09-22-15-12-53.png" />
                 <meta property="og:description" content="For the last few years I have been using cloudflare in front of editthis.info. On the 21st I dropped it, and saw an immediate decrease in average load times (from google analytics):![[2020-09-22-15-12" />
-                asdf
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>
