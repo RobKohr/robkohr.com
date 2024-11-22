@@ -23,6 +23,7 @@
 
                 <link rel="canonical" href="https://robkohr.com/articles/getting-a-little-torn-between-svelte-and-solidjs" />
                 <link rel="stylesheet" href="../neat.css">
+
                 <base href="../">
             </head>
             <body>

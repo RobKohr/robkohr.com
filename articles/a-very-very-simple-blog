@@ -23,6 +23,7 @@
 
                 <link rel="canonical" href="https://robkohr.com/articles/a-very-very-simple-blog" />
                 <link rel="stylesheet" href="../neat.css">
+
                 <base href="../">
             </head>
             <body>

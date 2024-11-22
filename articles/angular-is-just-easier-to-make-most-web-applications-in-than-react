@@ -23,6 +23,7 @@
 
                 <link rel="canonical" href="https://robkohr.com/articles/angular-is-just-easier-to-make-most-web-applications-in-than-react" />
                 <link rel="stylesheet" href="../neat.css">
+
                 <base href="../">
             </head>
             <body>

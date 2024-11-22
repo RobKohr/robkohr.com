@@ -23,6 +23,7 @@
 
                 <link rel="canonical" href="https://robkohr.com/articles/calling-a-php-file-from-html--39-s-script-tag" />
                 <link rel="stylesheet" href="../neat.css">
+
                 <base href="../">
             </head>
             <body>

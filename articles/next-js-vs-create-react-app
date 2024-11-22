@@ -23,6 +23,7 @@
 
                 <link rel="canonical" href="https://robkohr.com/articles/next-js-vs-create-react-app" />
                 <link rel="stylesheet" href="../neat.css">
+
                 <base href="../">
             </head>
             <body>

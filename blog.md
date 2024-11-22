@@ -8,6 +8,13 @@
 - <a href="rss.xml">📰 RSS feed</a>
 - <a href="articles/my-stuff">🔭 My stuff out on the web</a>
 
+## Convert React Javascript project to Typescript - one file at a time
+@date=2024-11-12
+@tags=react, javascript, programming, youtube
+
+Have a React project written in JS that you want to convert to Typescript, but not all at once? This step by step guide will help you with that:
+https://youtu.be/XqC1m2zJc4Y
+
 ## Learning Violin Using SoundSlice
 @date=2024-11-05
 @tags=music,music-playing
@@ -27,7 +34,7 @@ But, where this really shines and provides great help to the musician is that yo
 
 Also, as with how I started this whole thing, when you play the piece, and hear it as you expected it, and see that synced up with the highlighting of the notes on the sheet music, you get a more solid feel for what you are really trying to play.
 
-Really, it is just a joy to use, and big props to Adrian Holovaty and his team for creating this awesome product.
+Really, it is just a joy to use, and big props to Adrian Holovaty, who also apparently cocreated django, and his team for creating this awesome product.
 
 
 ## Price Gouging 

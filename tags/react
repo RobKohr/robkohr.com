@@ -28,6 +28,17 @@
             <a href="./index.html">&larr; Home</a>
             <h2>Tag: react</h2>
     
+    <h2><a href="articles/convert-react-javascript-project-to-typescript---one-file-at-a-time">Convert React Javascript project to Typescript - one file at a time</a></h2>
+    <div class="variables">
+    <div class="date">@date=2024-11-12</div>
+    <div class="tags">@tags=<a href="tags/react">react</a>, <a href="tags/javascript">javascript</a>, <a href="tags/programming">programming</a>, <a href="tags/youtube">youtube</a></div>
+    </div>
+    <article>
+        <p>Have a React project written in JS that you want to convert to Typescript, but not all at once? This step by step guide will help you with that:
+<a href="https://youtu.be/XqC1m2zJc4Y">https://youtu.be/XqC1m2zJc4Y</a></p>
+
+    </article>
+    
     <h2><a href="articles/one-codebase-to-rule-them-all">One codebase to rule them all</a></h2>
     <div class="variables">
     <div class="date">@date=2021-05-25</div>
