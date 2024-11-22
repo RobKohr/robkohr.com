@@ -25,7 +25,7 @@
                 <link rel="canonical" href="https://robkohr.com/articles/code-at-the-end-of-the-post" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="What happens when you round 3.6 ---> you get 4. What about in a game? Should every time a player kills 3.6 of an enemy, should it be really 4? Probably not, but the math might have that happen all of " />
+                <meta property="og:description" content="function replace() { [native code] }" />
                 asdf
             </head>
             <body>

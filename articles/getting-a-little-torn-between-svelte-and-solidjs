@@ -25,7 +25,7 @@
                 <link rel="canonical" href="https://robkohr.com/articles/getting-a-little-torn-between-svelte-and-solidjs" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="I have been playing with svelte, and liking it, but things just seem to mysterious. With SolidJS, I know what to expect.I got to creating some input components with svelte and started to do a registra" />
+                <meta property="og:description" content="function replace() { [native code] }" />
                 asdf
             </head>
             <body>

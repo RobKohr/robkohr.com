@@ -25,7 +25,7 @@
                 <link rel="canonical" href="https://robkohr.com/articles/created-a-new-blog-render" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="I wiped out RobKohr.com as I haven't touched it in over 5 years, and replaced it with this blog. It was built just using one long markdown file called blog.md that I edit in obsidian and each article " />
+                <meta property="og:description" content="function replace() { [native code] }" />
                 asdf
             </head>
             <body>

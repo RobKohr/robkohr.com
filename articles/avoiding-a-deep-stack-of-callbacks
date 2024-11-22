@@ -25,7 +25,7 @@
                 <link rel="canonical" href="https://robkohr.com/articles/avoiding-a-deep-stack-of-callbacks" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="When working with mongodb especially, but also in other cases, you can create a deep stack of calls that can get pretty ugly in javascript. To avoid this I created a function that will recursively go " />
+                <meta property="og:description" content="function replace() { [native code] }" />
                 asdf
             </head>
             <body>

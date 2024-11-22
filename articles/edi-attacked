@@ -25,7 +25,7 @@
                 <link rel="canonical" href="https://robkohr.com/articles/edi-attacked" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="It seems that editthis.info was attacked by a distributor of malware. I have reverted the site code that was modified and removed the offending code they added (they add iframe tags that make it so wh" />
+                <meta property="og:description" content="function replace() { [native code] }" />
                 asdf
             </head>
             <body>

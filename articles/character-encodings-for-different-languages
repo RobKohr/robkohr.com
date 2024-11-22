@@ -25,7 +25,7 @@
                 <link rel="canonical" href="https://robkohr.com/articles/character-encodings-for-different-languages" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="Editthis.info now handles foreign characters properly (just tested cyrillic and french).    For those that are a little geeky, it seems that the php function htmlentities doesn't have a multibyte stri" />
+                <meta property="og:description" content="function replace() { [native code] }" />
                 asdf
             </head>
             <body>
