@@ -131,6 +131,7 @@ var articles = articlesFull.map(function (articleOrig) {
     icon = matches?.length ? matches[0] : "";
     if (icon) {
       icon = `<a href="${articleUrl(article)}">${icon.replace("img", 'img class="icon"')}</a>`;
+      article.iconUrl = matches[1];
     }
   }
   article.icon = icon;
@@ -248,7 +249,7 @@ articles.forEach(function (article) {
 ${headerExtras}
                 <link rel="canonical" href="https://robkohr.com/articles/${filename}" />
                 <link rel="stylesheet" href="../neat.css">
-${article.icon ? '<meta property="og:image" content="'+article.icon+'"></meta>' : ""}
+${article.icon ? '<meta property="og:image" content="'+article.iconUrl+'"></meta>' : ""}
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>
