@@ -287,7 +287,7 @@ The Brits chose the rather commonplace name of tank to keep it a secret about wh
 
 I sometimes wish the name Landship stuck.
 
-Looking at the bohemiths of WWI, they kinda would look like a ship flowing over the mud with port and starboard guns aiming out the sides. Here is a picture of one show using a banana for scale:
+Looking at the bohemiths of WWI, they kinda would look like a ship flowing over the mud with port and starboard guns aiming out the sides. Here is a picture of one show using a banana (when it was not so ripe) for scale:
 ![[20240304 Me with WWII tank.png]]
 
 
