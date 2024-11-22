@@ -25,10 +25,12 @@
                 <link rel="canonical" href="https://robkohr.com/articles/if-you-need-to-generate-a-sound-for-events--clicking-on-things--explosions--e---" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="<p>If you need to generate a sound for events (clicking on things, explosions, etc) this works great. Works on OS X, windows, and linux.</p>
-<h3>DrPetter&#39;s homepage - sfxr</h3>
-<p><a href="http://www.drpetter.se/project_sfxr.html">http://www.drpetter.se/project_sfxr.html</a></p>
-" />
+                <meta property="og:description" content="
+
+If you need to generate a sound for events (clicking on things, explosions, etc) this works great. Works on OS X, windows, and linux.
+
+### DrPetter&#39;s homepage - sfxr
+http://www.drpetter.se/project_sfxr.html" />
                 asdf
             </head>
             <body>

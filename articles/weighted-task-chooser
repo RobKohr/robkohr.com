@@ -25,17 +25,25 @@
                 <link rel="canonical" href="https://robkohr.com/articles/weighted-task-chooser" />
                 <link rel="stylesheet" href="../neat.css">
 <meta property="og:image" content="https://robkohr.com/images/2020-06-12-08-34-20.png" />
-                <meta property="og:description" content="<p><a href="https://github.com/RobKohr/weighted-task-chooser">Weighted task chooser</a> is a command line node script that will select a randomly weighted task to do out of a tasklist markdown file.</p>
-<p>So you have a list of tasks to do in a markdown file:</p>
-<ul>
-<li><input disabled="" type="checkbox"> Task 1</li>
-<li><input disabled="" type="checkbox"> Task 2</li>
-<li>[4] Task 3<ul>
-<li><input disabled="" type="checkbox"> Subtask...</li>
-</ul>
-</li>
-</ul>
- <p><a class="nowrap" href="articles/weighted-task-chooser">READ MORE (110 words, 1 minutes, 1 images)</a></p> " />
+                <meta property="og:description" content="
+
+
+![[2020-06-12-08-34-20.png]]
+
+[Weighted task chooser](https://github.com/RobKohr/weighted-task-chooser) is a command line node script that will select a randomly weighted task to do out of a tasklist markdown file.
+
+So you have a list of tasks to do in a markdown file:
+
+- [ ] Task 1
+- [ ] Task 2
+- [4] Task 3
+  - [ ] Subtask of 3
+- [ ] Task 4
+      Some notes on task 4
+- [x] Task 5 - done, don't every pick this
+- [ ] Task 6
+
+This will randomly choose one of the parent tasks from that file. It also does weighting, where each task has a default weight based on the value in the brackets." />
                 asdf
             </head>
             <body>

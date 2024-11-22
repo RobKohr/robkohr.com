@@ -25,11 +25,32 @@
                 <link rel="canonical" href="https://robkohr.com/articles/bringing-things-under-one-roof" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="<p>This is a great article about using subdomains vs subfolders for seo:</p>
-<p><a href="https://www.seoquake.com/blog/subdomains-vs-subfolders/">subdomains vs subfolders</a></p>
-<p>I looks pretty clear that subfolders are the way to go.</p>
-<p>With a single server with nginx on it, you can reverse proxy to multiple servers usi...</p>
- <p><a class="nowrap" href="articles/bringing-things-under-one-roof">READ MORE (248 words, 2 minutes)</a></p> " />
+                <meta property="og:description" content="
+
+
+This is a great article about using subdomains vs subfolders for seo:
+
+[subdomains vs subfolders](https://www.seoquake.com/blog/subdomains-vs-subfolders/)
+
+I looks pretty clear that subfolders are the way to go.
+
+With a single server with nginx on it, you can reverse proxy to multiple servers using the location /somedirectory tag.
+
+I am pondering the idea of making a bunch of mini apps, and then having them all under one domain (maybe this one) and then using subdirectories rather than creating separate names domains for everything. As of right now, this site is just me talking to myself as viewership is basically nil.
+
+As I am coming back to working on instaboardgame, maybe it should be under tentoncreations.com/fun/boardgame. Cueflash.com could go under tentoncreations.com/flashcards. Constantsail.com could go under tentoncreations/fun/constantsail.
+
+Editthis.info/create_your_own_adventure -> tentoncreations.com/wiki/create_your_own_adventure
+
+and so on.
+
+I might not want to do that with editthis.info as the content on there can be adult in nature, and would make it so google adsense wouldn't be allowed on the other sites.
+
+This blog could end up going under /blog, or just stay at the root.
+
+I was also messing around with [wordoid](https://wordoid.com/) trying to come up with something shorter than TenTonCreations.com. It is a tough call as that is a pretty long domain name, but it is easy to spell, and I think sounds pretty cool. It also makes more sense then undrix.com or lagon.com (two examples of available domain names). The choices between short and meaningful is a tough one with domain names.
+
+Some sites I am thinking would be good to build: a site for feedback." />
                 asdf
             </head>
             <body>

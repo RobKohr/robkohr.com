@@ -25,10 +25,16 @@
                 <link rel="canonical" href="https://robkohr.com/articles/rolling-stone-500-greatest-albums-merged" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="<p>Someone posted up the various differences between different years that Rolling Stone released their top 500 albums of all time here:
-<a href="https://beckchris.com/2020/10/14/rolling-stones-500-greatest-albums-of-all-time-lists-an-analysis/">https://beckchris.com/2020/10/14/rolling-stones-500-greatest-albums-of-all-time-lists-an-analysis/</a></p>
-<p>I took that and created a spreadsheet so you can do some sorting...</p>
- <p><a class="nowrap" href="articles/rolling-stone-500-greatest-albums-merged">READ MORE (74 words, 1 minutes)</a></p> " />
+                <meta property="og:description" content="
+
+
+Someone posted up the various differences between different years that Rolling Stone released their top 500 albums of all time here:
+https://beckchris.com/2020/10/14/rolling-stones-500-greatest-albums-of-all-time-lists-an-analysis/
+
+I took that and created a spreadsheet so you can do some sorting, merging, etc with it:
+
+<a href="shared/Rolling stone albums combined - Rolling stone albums combined - Sheet1.csv">Sheet.csv</a>
+Note: right click the link, and chose save, otherwise your browser will try to render it because I didn't set up the server to handle CSVs right." />
                 asdf
             </head>
             <body>

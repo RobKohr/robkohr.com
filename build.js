@@ -250,7 +250,7 @@ ${headerExtras}
                 <link rel="canonical" href="https://robkohr.com/articles/${filename}" />
                 <link rel="stylesheet" href="../neat.css">
 ${article.icon ? '<meta property="og:image" content="https://robkohr.com/'+article.iconUrl+'" />' : ""}
-                <meta property="og:description" content="${article.summary}" />
+                <meta property="og:description" content="${article.content}" />
                 asdf
             </head>
             <body>

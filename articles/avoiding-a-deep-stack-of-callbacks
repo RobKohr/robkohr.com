@@ -25,10 +25,18 @@
                 <link rel="canonical" href="https://robkohr.com/articles/avoiding-a-deep-stack-of-callbacks" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="<p>When working with mongodb especially, but also in other cases, you can create a deep stack of calls that can get pretty ugly in javascript. </p>
-<p>To avoid this I created a function that will recursively go through an array of things you want to process in a callback stack. </p>
-<p>Follow link to read more...</p>
- <p><a class="nowrap" href="articles/avoiding-a-deep-stack-of-callbacks">READ MORE (62 words, 0 minutes)</a></p> " />
+                <meta property="og:description" content="
+
+
+When working with mongodb especially, but also in other cases, you can create a deep stack of calls that can get pretty ugly in javascript. 
+
+To avoid this I created a function that will recursively go through an array of things you want to process in a callback stack. 
+
+
+Follow link to read more.
+
+### Discrete Thought, Avoiding a deep stack of callbacks
+http://robkohr.tumblr.com/post/11698069831/avoiding-a-deep-stack-of-callbacks" />
                 asdf
             </head>
             <body>

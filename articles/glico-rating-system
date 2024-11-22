@@ -25,9 +25,12 @@
                 <link rel="canonical" href="https://robkohr.com/articles/glico-rating-system" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="<p><a href="https://github.com/RobKohr/glicko">Javascript implementation of glicko-2 rating system along with a ffa-team based setup.</a></p>
-<p><img data-src="images/Elo_rating_graph.svg.png" alt="Elo_rating_graph.svg.png" style="max-width: 100%;" /></p>
-" />
+                <meta property="og:description" content="
+
+
+[Javascript implementation of glicko-2 rating system along with a ffa-team based setup.](https://github.com/RobKohr/glicko)
+
+![[Elo_rating_graph.svg.png]]" />
                 asdf
             </head>
             <body>

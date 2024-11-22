@@ -25,10 +25,34 @@
                 <link rel="canonical" href="https://robkohr.com/articles/have-you-been-programming-in-php-for-years-and-need-to-write-some-javascript----" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="<p>Have you been programming in php for years and need to write some javascript, only to find you really could use a php function to solve a js problem.</p>
-<p>Well stop before you rewrite it. </p>
-<p>&lt;a rel=&quot;nofollow&quot; target=&quot;_blank&quot; href=&quot;<a href="http://phpjs.org/">http://phpjs.org/</a>&quot; class=&quot;ot-anchor bidi_isolate&quot; jslog=&quot;10929; track:c...</p>
- <p><a class="nowrap" href="articles/have-you-been-programming-in-php-for-years-and-need-to-write-some-javascript----">READ MORE (151 words, 1 minutes)</a></p> " />
+                <meta property="og:description" content="
+
+Have you been programming in php for years and need to write some javascript, only to find you really could use a php function to solve a js problem.
+
+Well stop before you rewrite it. 
+
+
+<a rel="nofollow" target="_blank" href="http://phpjs.org/" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://phpjs.org/</a>
+Has been a great fill in for all those times I just wished I had access to the 1M+ functions php seems to have.
+
+I like to wrap it all in an object so I can access something like:
+php.explode(',', someString);
+
+and so it makes sense when the functions in javascript break the convention of camelCase names for php_functions. 
+---
+
+For want of a nail the shoe was lost.
+For want of a shoe the horse was lost.
+For want of a horse the rider was lost.
+For want of a rider the battle was lost.
+For want of a battle the kingdom was lost.
+And all for the want of a horseshoe nail.
+---
+
+### Functions overview - php.js
+http://phpjs.org/
+
+http://phpjs.org/" />
                 asdf
             </head>
             <body>

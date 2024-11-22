@@ -25,12 +25,53 @@
                 <link rel="canonical" href="https://robkohr.com/articles/projects" />
                 <link rel="stylesheet" href="../neat.css">
 <meta property="og:image" content="https://robkohr.com/images/cueflash.png" />
-                <meta property="og:description" content="<p>These are personal, non-work-related projects. Contact my g-mail account at RobKohr for my resume to see what I built for others.</p>
-<p>Other little projects are at my <a href="https://github.com/robkohr">github page</a></p>
-<h3>Cueflash.com</h3>
-<p><a href="https://cueflash.com">https://cueflash.com</a></p>
-<p>A flashcard based collaborative learning site whi...</p>
- <p><a class="nowrap" href="articles/projects">READ MORE (97 words, 1 minutes, 5 images)</a></p> " />
+                <meta property="og:description" content="
+
+These are personal, non-work-related projects. Contact my g-mail account at RobKohr for my resume to see what I built for others.
+
+Other little projects are at my [github page](https://github.com/robkohr)
+
+
+
+### Cueflash.com
+![[cueflash.png]]
+
+https://cueflash.com
+
+A flashcard based collaborative learning site which focuses on cards you don't know using an adaptive algorithm.
+
+
+
+### EditThis.info
+![[editthis.png]]
+
+https://editthis.info
+
+Shake-n-bake instant MediaWikis for groups, topics, or whatever
+
+
+
+### Mix-Match Domains
+![[mixmatch.png]]
+https://mixmatchdomains.com
+
+Generate domains using related words to terms you provide. Terms can be individual words or comma seperated lists of words to randomly select from.
+
+
+
+### ConstantSail.com
+![[constantsail.png]]
+https://constantsail.com
+
+In-progress pirate, sailing, and trading game
+
+
+### Glicko
+![project icon](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Elo_rating_graph.svg/600px-Elo_rating_graph.svg.png)
+
+https://github.com/RobKohr/glicko
+
+Javascript implementation of glicko-2 rating system along with a ffa-team based setup." />
                 asdf
             </head>
             <body>

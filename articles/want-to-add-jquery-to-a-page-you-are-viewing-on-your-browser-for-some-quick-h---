@@ -25,11 +25,17 @@
                 <link rel="canonical" href="https://robkohr.com/articles/want-to-add-jquery-to-a-page-you-are-viewing-on-your-browser-for-some-quick-h---" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="<p>Want to add jquery to a page you are viewing on your browser for some quick hackery?</p>
-<p>Create a bookmark with this as the location:</p>
-<pre><code>javascript:void((function(){j=document.createElement(&quot;SCRIPT&quot;);j.src=&quot;&lt;a rel=&quot;nofollow&quot; target=&quot;_blank&quot; href=&quot;http://code.jquery.com/jquery-latest.pack.js&quot; class=&quot;...
-</code></pre>
- <p><a class="nowrap" href="articles/want-to-add-jquery-to-a-page-you-are-viewing-on-your-browser-for-some-quick-h---">READ MORE (54 words, 0 minutes)</a></p> " />
+                <meta property="og:description" content="
+
+Want to add jquery to a page you are viewing on your browser for some quick hackery?
+
+Create a bookmark with this as the location:
+```
+javascript:void((function(){j=document.createElement("SCRIPT");j.src="<a rel="nofollow" target="_blank" href="http://code.jquery.com/jquery-latest.pack.js" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://code.jquery.com/jquery-latest.pack.js</a>";document.getElementsByTagName("HEAD")[0].appendChild(j);})())
+```
+Whenever you use the bookmark it will add jquery to the current page, then just open up your javascript console and hack away.
+
+http://code.jquery.com/jquery-latest.pack.js" />
                 asdf
             </head>
             <body>

@@ -25,8 +25,12 @@
                 <link rel="canonical" href="https://robkohr.com/articles/constantsail-doing-surprisingly-well" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="<p><a href="http://constantsail.com">Constant Sail Pirates and Traders</a> analytics seems to do consistently well despite being a page with no content on it other than an old video. I should make it a priority to make this game again with newer tech to support more users than before as there is just a continu...</p>
- <p><a class="nowrap" href="articles/constantsail-doing-surprisingly-well">READ MORE (60 words, 0 minutes, 1 images)</a></p> " />
+                <meta property="og:description" content="
+
+
+[Constant Sail Pirates and Traders](http://constantsail.com) analytics seems to do consistently well despite being a page with no content on it other than an old video. I should make it a priority to make this game again with newer tech to support more users than before as there is just a continuous latent interest in this game that doesn't even exist.
+
+![ConstantSail](constantsail-analytics.png)" />
                 asdf
             </head>
             <body>

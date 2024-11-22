@@ -25,8 +25,22 @@
                 <link rel="canonical" href="https://robkohr.com/articles/cueflash-sopa" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="<p><a rel="nofollow" target="_blank" href="http://editthis.info" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">editthis.info</a> and <a rel="nofollow" target="_blank" href="http://cueflash.com" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">cueflash.com</a> ...</p>
- <p><a class="nowrap" href="articles/cueflash-sopa">READ MORE (86 words, 1 minutes)</a></p> " />
+                <meta property="og:description" content="
+
+<a rel="nofollow" target="_blank" href="http://editthis.info" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">editthis.info</a> and <a rel="nofollow" target="_blank" href="http://cueflash.com" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">cueflash.com</a> have a SOPA and PIPA message on them along with a zip code lookup tool for congressmen (I am working off of wikipedia's system). If you would like to do something similar on your site, you can include this simple lookup form:
+
+
+<p>Please call your congressman today and voice your opinion:</p>
+<form method="GET" action="<a rel="nofollow" target="_blank" href="http://en.wikipedia.org/wiki/Special:CongressLookup" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://en.wikipedia.org/wiki/Special:CongressLookup</a>">
+<p>Your zip code: <input name="zip"></p>
+<p><input type="submit" value="Lookup Congressmen"></p>
+</form>
+
+http://editthis.info
+
+http://cueflash.com
+
+http://en.wikipedia.org/wiki/Special:CongressLookup" />
                 asdf
             </head>
             <body>

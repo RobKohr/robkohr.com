@@ -25,9 +25,14 @@
                 <link rel="canonical" href="https://robkohr.com/articles/result-set-pagers-are-really-annoying" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="<p>If you have a search results page on your website, try to minimize the amount that users have to use the pager on those results.</p>
-<p>Google gets away with showing only 10 results, because they are awesome at delivering what you are looking for in that first page. Your results probably aren&#39;t that su...</p>
- <p><a class="nowrap" href="articles/result-set-pagers-are-really-annoying">READ MORE (92 words, 1 minutes)</a></p> " />
+                <meta property="og:description" content="
+
+
+If you have a search results page on your website, try to minimize the amount that users have to use the pager on those results.
+
+Google gets away with showing only 10 results, because they are awesome at delivering what you are looking for in that first page. Your results probably aren't that successful. 
+
+Here is a simple measure: If more than 5% of the visitors to your results page click the next button, double the number of results you show on the page. Keep doing that until the number gets below 5%." />
                 asdf
             </head>
             <body>

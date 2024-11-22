@@ -25,10 +25,12 @@
                 <link rel="canonical" href="https://robkohr.com/articles/if-you-have-had-enough-of-high-res-flashy-backgrounds--and-you-would-like-som---" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="<p>If you have had enough of high res flashy backgrounds, and you would like something a little simpler.</p>
-<h3>Simple Desktops</h3>
-<p><a href="http://simpledesktops.com">http://simpledesktops.com</a></p>
-" />
+                <meta property="og:description" content="
+
+If you have had enough of high res flashy backgrounds, and you would like something a little simpler.
+
+### Simple Desktops
+http://simpledesktops.com" />
                 asdf
             </head>
             <body>

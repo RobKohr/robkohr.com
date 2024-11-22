@@ -25,9 +25,18 @@
                 <link rel="canonical" href="https://robkohr.com/articles/google-extension-idea--check-out-elsewhere-for-amazon-" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="<p><strong>Google Extension Idea: Check out elsewhere for amazon.</strong>
-I use a chrome extension called &quot;the invisible hand&quot; which shows you what other online stores are charging in comparison to amazon. It would be great if there was an extension called &quot;check out elsewhere&quot; where your whole cart could be dro...</p>
- <p><a class="nowrap" href="articles/google-extension-idea--check-out-elsewhere-for-amazon-">READ MORE (213 words, 2 minutes)</a></p> " />
+                <meta property="og:description" content="
+
+**Google Extension Idea: Check out elsewhere for amazon.**
+I use a chrome extension called "the invisible hand" which shows you what other online stores are charging in comparison to amazon. It would be great if there was an extension called "check out elsewhere" where your whole cart could be dropped onto one or more storefronts on the web for checkout elsewhere. 
+
+Why? 
+
+Well, amazon just like google has become the default for people to do one activity - shopping. There is a switching cost, and that is time; if I spend a lot more time shopping somewhere else I might figure out that that site is about equivalent to amazon, but it might not, so rather than investing the time, I stick with amazon. This would reduce the switching cost and prevent amazon from forming a solid monopoly on web commerce. 
+
+I am unlikely to build this myself, but I have made some chrome extensions in the past, so if you are a hacker who would like to take the lead on developing this, I could make a significant contribution (50% of development) to making this a reality. 
+
+If you have the urge, contact me, and we can make it happen, or just totally take the idea, and run with it yourself. That is cool by me :)" />
                 asdf
             </head>
             <body>

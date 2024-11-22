@@ -25,14 +25,25 @@
                 <link rel="canonical" href="https://robkohr.com/articles/after-using-mongodb-for-quite-some-time-and-building-several-systems-with-it----" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="<p>After using mongodb for quite some time and building several systems with it, I am starting to drift back into preferring structured data in a mysql db. </p>
-<ul>
-<li>It is reliably fast</li>
-<li>Building the structure of the mysql seems to help in the designing of a system</li>
-<li>It seems more stable</li>
-</ul>
-<p>I think the seco...</p>
- <p><a class="nowrap" href="articles/after-using-mongodb-for-quite-some-time-and-building-several-systems-with-it----">READ MORE (305 words, 2 minutes)</a></p> " />
+                <meta property="og:description" content="
+
+After using mongodb for quite some time and building several systems with it, I am starting to drift back into preferring structured data in a mysql db. 
+
+* It is reliably fast
+* Building the structure of the mysql seems to help in the designing of a system
+* It seems more stable
+
+I think the second one is the biggest reason. It is a rather fuzzy thing, but I like to look at the db and see what fields are there. 
+
+My convictions are weak here, and I will probably drift back at some later date, but I just feel that the relational db model matches well with how a web based system is designed.
+
+Along with that, I am drifting back to PHP for web systems rather than node.js. There just is less layers of things that you need to cobble together to put up a php web site, and less points of failure. 
+
+Perhaps I am losing my hipness. I just like my web systems to be stable, fast, and easy to develop. Counting up the number of hours of work setting up and keeping stable mongodb/node.js sites, and excluding time spent just making things that actually spit out a novel piece of html for a browser, makes me reconsider these new shiny technologies. 
+
+Now, with that all said, there are some cases where they really shine. Node really lets you get nitty-gritty with the type of server stuff you can do (such as real-time comet connections, or just plain old tcp sockets). Mongo allows you to really dump models right into your db - goodby ORMs (and good riddance)!
+
+But, if you want to make a website where users make requests to the server for html, and you need to store some data about the users and the results of their actions, well PHP/MySQL is still the shortest path between A & B." />
                 asdf
             </head>
             <body>

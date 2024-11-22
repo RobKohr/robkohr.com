@@ -25,11 +25,14 @@
                 <link rel="canonical" href="https://robkohr.com/articles/really--set-up-any-command-to-run-on-startup-as-a-service" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="<p>Really, set up any command to run on startup as a service (and have &quot;start/stop myprocess&quot; commands available to you).</p>
-<p>Much easier than init.d</p>
-<h3>Run Node.js as a Service on Ubuntu</h3>
-<p><a href="http://kevin.vanzonneveld.net/techblog/article/run_nodejs_as_a_service_on_ubuntu_karmic/">http://kevin.vanzonneveld.net/techblog/article/run_nodejs_as_a_service_on_ubuntu_karmic/</a></p>
-" />
+                <meta property="og:description" content="
+
+Really, set up any command to run on startup as a service (and have "start/stop myprocess" commands available to you).
+
+Much easier than init.d
+
+### Run Node.js as a Service on Ubuntu
+http://kevin.vanzonneveld.net/techblog/article/run_nodejs_as_a_service_on_ubuntu_karmic/" />
                 asdf
             </head>
             <body>

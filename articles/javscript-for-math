@@ -25,9 +25,11 @@
                 <link rel="canonical" href="https://robkohr.com/articles/javscript-for-math" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="<p>I use the javascript console as a calculator, and it is funny when binary &lt;- -&gt; decimal rounding/conversion errors pop up unexpectedly.  </p>
-<p>This is a good reason to be careful when doing if(x==someNumber) conditionals in your code.</p>
-" />
+                <meta property="og:description" content="
+
+I use the javascript console as a calculator, and it is funny when binary <- -> decimal rounding/conversion errors pop up unexpectedly.  
+  
+This is a good reason to be careful when doing if(x==someNumber) conditionals in your code." />
                 asdf
             </head>
             <body>

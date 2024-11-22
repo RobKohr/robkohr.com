@@ -25,9 +25,12 @@
                 <link rel="canonical" href="https://robkohr.com/articles/mix-match-domains" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="<p><a href="https://mixmatchdomains.com">Generate domain names from keywords</a> using <a href="https://mixmatchdomains.com">mixmatchdomains.com</a></p>
-<p><img data-src="images/mixmatch.png" alt="mixmatch.png" style="max-width: 100%;" /></p>
-" />
+                <meta property="og:description" content="
+
+
+[Generate domain names from keywords](https://mixmatchdomains.com) using [mixmatchdomains.com](https://mixmatchdomains.com)
+
+![[mixmatch.png]]" />
                 asdf
             </head>
             <body>

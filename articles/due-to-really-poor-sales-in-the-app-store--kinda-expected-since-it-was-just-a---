@@ -25,9 +25,14 @@
                 <link rel="canonical" href="https://robkohr.com/articles/due-to-really-poor-sales-in-the-app-store--kinda-expected-since-it-was-just-a---" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="<p>Due to really poor sales in the app store (kinda expected since it was just an astroids clone) space rocks is now free. When I get around to it, I will post up the source code on github. It was written with JS using the canvas element for drawing. It was bundled into an iOS app using phonegap.</p>
-<p>If...</p>
- <p><a class="nowrap" href="articles/due-to-really-poor-sales-in-the-app-store--kinda-expected-since-it-was-just-a---">READ MORE (101 words, 1 minutes)</a></p> " />
+                <meta property="og:description" content="
+
+Due to really poor sales in the app store (kinda expected since it was just an astroids clone) space rocks is now free. When I get around to it, I will post up the source code on github. It was written with JS using the canvas element for drawing. It was bundled into an iOS app using phonegap.
+
+If you have an urge to hack on it, just post a comment here, and I will post up the source earlier (right now it is a low priority).
+
+### Space Rocks Battle Edition for iPhone, iPod touch, and iPad on the iTunes App Store
+http://itunes.apple.com/us/app/space-rocks-battle-edition/id440217537?ls=1&amp;mt=8" />
                 asdf
             </head>
             <body>

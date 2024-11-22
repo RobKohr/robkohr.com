@@ -25,10 +25,18 @@
                 <link rel="canonical" href="https://robkohr.com/articles/need-a-decent-rating-system-for-a-matched-based-game-system-" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="<p>Need a decent rating system for a matched based game system? </p>
-<p>I just implemented the glicko-2 rating system (similar to ELO, except much better) in javascript:
-&lt;a rel=&quot;nofollow&quot; target=&quot;_blank&quot; href=&quot;<a href="https://github.com/RobKohr/glicko">https://github.com/RobKohr/glicko</a>&quot; class=&quot;ot-anchor bidi_isolate&quot; jslog=&quot;10929; track:click&quot; dir=...</p>
- <p><a class="nowrap" href="articles/need-a-decent-rating-system-for-a-matched-based-game-system-">READ MORE (53 words, 0 minutes)</a></p> " />
+                <meta property="og:description" content="
+
+Need a decent rating system for a matched based game system? 
+
+I just implemented the glicko-2 rating system (similar to ELO, except much better) in javascript:
+<a rel="nofollow" target="_blank" href="https://github.com/RobKohr/glicko" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">https://github.com/RobKohr/glicko</a>
+If you decide to translate this into another language, let me know, and I will link to your version.
+
+### glicko
+https://github.com/RobKohr/glicko
+
+https://github.com/RobKohr/glicko" />
                 asdf
             </head>
             <body>

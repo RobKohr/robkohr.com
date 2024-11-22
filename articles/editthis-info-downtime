@@ -25,9 +25,25 @@
                 <link rel="canonical" href="https://robkohr.com/articles/editthis-info-downtime" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="<p>Editthis.info will be down from Friday May 23rd to roughly Friday May 30th. My family and I are moving from New Jersey to San Francisco, California, and it will take about a week before the server is set up out there. My goal is to have it set up in 5 days, but I think 7 is more realistic.</p>
-<p>I wil...</p>
- <p><a class="nowrap" href="articles/editthis-info-downtime">READ MORE (210 words, 2 minutes)</a></p> " />
+                <meta property="og:description" content="
+
+
+Editthis.info will be down from Friday May 23rd to roughly Friday May 30th. My family and I are moving from New Jersey to San Francisco, California, and it will take about a week before the server is set up out there. My goal is to have it set up in 5 days, but I think 7 is more realistic.
+
+I will rush and push to get this set up immediately, and I am sorry for any inconvenience this causes.
+
+Thanks,
+Rob
+
+
+
+UPDATES:
+This will be a partial downtime. I am transferring some of the wikis with the highest traffic to a dreamhost private server, and moving the domain temporarily to point to that server. Unfortunately all of the wikis cannot be transfered and will be down for the week. These are the wikis that are currently being transfered in the order that they will be transferred:
+'choose_your_own_adventure', 'scp_wiki', 'code_wiki', 'londonbirders', 'timesplitterswiki', 'psy3241', 'psy3242', 'bs01_game_team_', 'bloggerhacks', 'elimine', 'rickyrab', 'superdickery', 'vandalpedia', 'glitches', 'runewiki', 'sonar', 'kaiserreich', 'charas_project', 'ben10versepedia', 'usgs', 'jtv_wiki', 'sotf_wiki', 'dxx', 'cecilia', 'undertherainbow',
+'top_trumps', 'inselkampf', 'flab', 'egs_mayhem', '20803', 'sandboxwiki', 'expanding_your_horizons', 'bidoof', 'kokorodatabase',
+'deathmenwalking', 'pornopedia', 'wormpedia', 'wolfapedia', 'fat', 'wikiventure', 'hanfburgwiki', 'cod', 'roach_busters', 'super_formula', 'ms_paint_brawl', 'banarte', 'dexnet',
+
+This is based upon google analytics for count of unique vistors. The rest of the wikis will be back up by the end of next week." />
                 asdf
             </head>
             <body>

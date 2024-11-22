@@ -25,9 +25,18 @@
                 <link rel="canonical" href="https://robkohr.com/articles/--follow-everyone-that-someone-else-is-following-on-twitter--" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="<p><strong>Follow everyone that someone else is following on twitter</strong></p>
-<p>I opened up a second twitter account, and I wanted to follow everyone my first twitter account was following. I went to the &quot;following&quot; page for the first account and started clicking away, till bordom ensued. Then I did an inspect ele...</p>
- <p><a class="nowrap" href="articles/--follow-everyone-that-someone-else-is-following-on-twitter--">READ MORE (75 words, 1 minutes)</a></p> " />
+                <meta property="og:description" content="
+
+**Follow everyone that someone else is following on twitter**
+
+I opened up a second twitter account, and I wanted to follow everyone my first twitter account was following. I went to the "following" page for the first account and started clicking away, till bordom ensued. Then I did an inspect element on the follow button, and with a little jquery magic, did a quick follow of everyone. I just opened up the javascript console, and entered.
+$('.js-action-follow').click();
+
+Done!
+
+https://twitter.com/WilliamShatner/following
+
+http://stackoverflow.com/questions/5841118/follow-all-users-on-a-twitter-page" />
                 asdf
             </head>
             <body>

@@ -25,10 +25,41 @@
                 <link rel="canonical" href="https://robkohr.com/articles/google-has-been-manipulating-their-algorithm--with-the-goal-of-making-it-more---" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="<p>Google has been manipulating their algorithm, with the goal of making it more friendly to users.</p>
-<p>This means it will find results that do not match all of your criteria, but are more &quot;meaningful&quot; ~= higher page rank.</p>
-<p>They have also ditched the + operator (+keyword) which forces only results that ...</p>
- <p><a class="nowrap" href="articles/google-has-been-manipulating-their-algorithm--with-the-goal-of-making-it-more---">READ MORE (251 words, 2 minutes)</a></p> " />
+                <meta property="og:description" content="
+
+Google has been manipulating their algorithm, with the goal of making it more friendly to users.
+
+This means it will find results that do not match all of your criteria, but are more "meaningful" ~= higher page rank.
+
+They have also ditched the + operator (+keyword) which forces only results that contain matches for that keyword. They have added a verbatim option hidden in the left rail (you have to fold out to reveal it) which should make it so all terms must match. Also wrapping a term in quotes should also force things. 
+
+In the end results get more fuzzy, and when you know exactly what you want, it just pisses you off.
+
+For example, I am trying to find javascript code for calculating TrueSkill (it is an algorithm that XBox uses that is used for their ranking). 
+
+So I type in
+ +"TrueSkill" +"Javascript"
+and do a verbatim search, just to be through (because every other variation still didn't get me what I want.
+
+What do I get, some results with Javascript in it, some with TrueSkill in it, and a one with both. 
+
+<a rel="nofollow" target="_blank" href="https://www.google.com/search?q=%22trueskill%22+%22javascript%22&hl=en&safe=off&tbo=1&output=search&source=lnt&tbs=li:1&sa=X&ei=MKvzTqmGEqmviQLo4dXQDg&ved=0CBUQpwUoCg&biw=1200&bih=1505" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">https://www.google.com/search?q=%22trueskill%22+%22javascript%22&hl=en&safe=off&tbo=1&output=search&source=lnt&tbs=li:1&sa=X&ei=MKvzTqmGEqmviQLo4dXQDg&ved=0CBUQpwUoCg&biw=1200&bih=1505</a>
+
+I go over to duckduckgo:
+<a rel="nofollow" target="_blank" href="http://duckduckgo.com/?q=%2Btrueskill+%2Bjavascript" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://duckduckgo.com/?q=%2Btrueskill+%2Bjavascript</a>
+
+And what do we get... success. Only the results that I want. Each only contain both results.
+
+ddg is now my bitch when it comes to finding some specific chunk of code in a sea of unrelated crap.
+
+Bonus points for having a search url which is not ridiculous.
+
+### +trueskill +javascript at DuckDuckGo
+https://www.google.com/search?q=%22trueskill%22+%22javascript%22&amp;hl=en&amp;safe=off&amp;tbo=1&amp;output=search&amp;source=lnt&amp;tbs=li:1&amp;sa=X&amp;ei=MKvzTqmGEqmviQLo4dXQDg&amp;ved=0CBUQpwUoCg&amp;biw=1200&amp;bih=1505
+
+http://duckduckgo.com/?q=%2Btrueskill+%2Bjavascript
+
+http://duckduckgo.com/?q=%2Btrueskill+%2Bjavascript" />
                 asdf
             </head>
             <body>

@@ -25,10 +25,46 @@
                 <link rel="canonical" href="https://robkohr.com/articles/angular-is-just-easier-to-make-most-web-applications-in-than-react" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="<p>UPDATE: My feelings about this have changed quite a bit, a follow up article is to come. The summary is that React has gotten so much easier with React hooks that my recommendations here have changed.</p>
-<h3>A little background</h3>
-<p>I did about 5 years of AngularJS (not newer Angular) development, 1.5 ...</p>
- <p><a class="nowrap" href="articles/angular-is-just-easier-to-make-most-web-applications-in-than-react">READ MORE (493 words, 4 minutes, 2 images)</a></p> " />
+                <meta property="og:description" content="
+
+
+UPDATE: My feelings about this have changed quite a bit, a follow up article is to come. The summary is that React has gotten so much easier with React hooks that my recommendations here have changed.
+
+### A little background
+
+I did about 5 years of AngularJS (not newer Angular) development, 1.5 years of React, and now about 1 month of Angular, so I know my around a little bit of the the first two, and now with I have touch a bit on the third (I consider Angular and AngularJS to be fairly distant cousins).
+
+### What sets them apart
+
+My impression is that React is a tidy powerful, elegant, and well engineered project that can suit practically any need, but especially that of a very unique web application that needs to be tackled creatively and with very modular code. It really delivers on the promise of functional programming, and is a joy to code with.
+
+That said, you have to do a fair amount of thinking and planning with React.
+
+### Where Angular thrives
+
+Angular (and AngularJS), you don't have to think so much as just do. There really is not a huge variety in how you would slice up and build a web application with Angular, and that is nice when you are building 95% of the web applications out there on the internet. Do you need something with a load of interlinked web pages, where you can view data loaded from an API and occasionally submit some data back to said APIs. Well, then you have a friend in Angular.
+
+The lack of thought needed in such an opinionated framework is that makes it ideal, and it satisfies so many application needs, because frankly, as someone who has spent most of his life building web applications used by millions of people, all the apps start looking pretty damn much the same when you break them down to their basic functional parts.
+
+![time to make the donuts](donuts.jpg)
+
+### Exceptions: where React thrives
+
+![genie](genie.jpg)
+
+Exceptions to this are more application type apps: web games, gmail, facebook, slack, google docs, twitter, photo editing, experimental stuff, etc.
+
+Basically things where the concepts of pages are meaningless, and interactions are fluid and different than the standard [CRUD](https://en.wikipedia.org/wiki/Create%2C_read%2C_update_and_delete) based web web apps.
+
+I feel Angular and React can fullfil both basic CRUD apps and more interactive application type apps, but each are much better suited to their the specific app type with React being more flexible
+
+### Top down vs bottom up
+
+Another little bit with the differences is with Angular, it seems to make more sense to build full pages from the top level, and then split them into components with services and you move through each of the pieces, where react you seem to build up more a lot of components to put things together.
+
+### Conclusion
+
+I like React better, but when I just need to get the job done and do it fast, and the job is pretty straight forward, Angular is the tool I would reach for first." />
                 asdf
             </head>
             <body>

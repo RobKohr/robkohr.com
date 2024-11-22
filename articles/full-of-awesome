@@ -25,11 +25,14 @@
                 <link rel="canonical" href="https://robkohr.com/articles/full-of-awesome" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="<p>Full of awesome</p>
-<h3>Banish JavaScript in Web Forms with HTML5</h3>
-<p><a href="http://www.elated.com/articles/banish-javascript-in-web-forms-with-html5/">http://www.elated.com/articles/banish-javascript-in-web-forms-with-html5/</a></p>
-<p><a href="http://www.findmebyip.com/litmus/">http://www.findmebyip.com/litmus/</a></p>
-" />
+                <meta property="og:description" content="
+
+Full of awesome
+
+### Banish JavaScript in Web Forms with HTML5
+http://www.elated.com/articles/banish-javascript-in-web-forms-with-html5/
+
+http://www.findmebyip.com/litmus/" />
                 asdf
             </head>
             <body>

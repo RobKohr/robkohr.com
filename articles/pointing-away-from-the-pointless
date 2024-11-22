@@ -25,10 +25,26 @@
                 <link rel="canonical" href="https://robkohr.com/articles/pointing-away-from-the-pointless" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="<p>This is a response to this article
-<a href="https://medium.com/@kobalazs/five-fallacies-of-estimations-in-software-development-897c5bc0630f">https://medium.com/@kobalazs/five-fallacies-of-estimations-in-software-development-897c5bc0630f</a></p>
-<p>I disagree with the whole team doing pointing thing. It always devolves into a much taller normal curve centered at 3 or 5 points. And it takes forever to come up w...</p>
- <p><a class="nowrap" href="articles/pointing-away-from-the-pointless">READ MORE (324 words, 2 minutes)</a></p> " />
+                <meta property="og:description" content="
+
+
+
+This is a response to this article
+https://medium.com/@kobalazs/five-fallacies-of-estimations-in-software-development-897c5bc0630f
+
+I disagree with the whole team doing pointing thing. It always devolves into a much taller normal curve centered at 3 or 5 points. And it takes forever to come up with those useless scores.
+
+My team has the senior frontend dev (me) and the senior backend dev doing all the grooming with POs. We ask the hard questions, flesh out the functional details of the story and assign the points. Our points end up being a reasonable spread between 1 and 8 points (13+ ends up with splitting - though our organization like many seem to be alergic to big numbers. I think 13s should be more common for a good spread, and 21 should be a splitter). 
+
+This also helps with not having a bunch of engineers staring at a half baked jira story on zoom that then needs to be elaborated and pointed, wasting a huge number of man hours. At the scrum kickoff we review the already worked over stories, and engineers ask further refining questions before taking them on.
+
+Team pointing is the biggest navel gazing waste of time. Find the most knowledgeable and pessimistic people on your team and pick two of them to do all the stories with the POs and call it a day.
+
+A good measure of the quality of your teams pointing is to measure the standard deviation. A small SD would imply that your team sucks at pointing or somehow your POs are giving all semi equal sized tasks. In either case pointing is pointless for you.
+
+A fun way to do planning poker is to give players a limited number of each type of card they could use so that there is a set number of 1s 2s 3s 5s... and then they have to ration out the numbers they can use.
+
+Or maybe show the teams running SD and have a goal for a higher SD for each grooming session." />
                 asdf
             </head>
             <body>

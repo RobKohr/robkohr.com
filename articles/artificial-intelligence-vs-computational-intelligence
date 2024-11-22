@@ -25,10 +25,30 @@
                 <link rel="canonical" href="https://robkohr.com/articles/artificial-intelligence-vs-computational-intelligence" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="<p>Youtube video for this: <a href="https://youtu.be/wb9hVUk3SS8">https://youtu.be/wb9hVUk3SS8</a></p>
-<p>These two terms are sometimes used interchangeably, and there are many conflicting definitions that sometimes switch the roles of these terms. </p>
-<p>To me, artificial intelligence is the effort to simulate the real intelligence of humans. For this...</p>
- <p><a class="nowrap" href="articles/artificial-intelligence-vs-computational-intelligence">READ MORE (382 words, 3 minutes)</a></p> " />
+                <meta property="og:description" content="
+
+
+Youtube video for this: https://youtu.be/wb9hVUk3SS8
+
+These two terms are sometimes used interchangeably, and there are many conflicting definitions that sometimes switch the roles of these terms. 
+
+To me, artificial intelligence is the effort to simulate the real intelligence of humans. For this Artificial Neural Networks (ANN) and other simulations of how human thought works would match. Modern LLMs would tend to fall in this bucket, even if their model isn't complete - it is at least inspired from and derived from how neurons work, with some shortcomings.
+
+Computational intelligence would be along the lines Deep Blue, the first chess system to beat the the human chess world champion. It was programmed with an advanced database of openings, and a deep search algorithm that used heuristics to prune the search tree to find optimal solutions. This was a mechanical process that was written in concrete terms by man, and was special purposed. 
+
+And Deep Blue, was basically one of the most CI systems of the time, but the time was dominated by these systems.
+
+Now with AIs and their ANNs, we are having systems that build themselves from training data in databases of weighted neurons. These are not debuggable, and it is difficult to glean information about their inner workings, but the same could be said for their biological counterparts.
+
+We are still lightyears from an AI that could be considered to have true general intelligence, similar to humans. I think we will have an another [AI Winter](https://en.wikipedia.org/wiki/AI_winter) to go through before we reach that point. 
+
+AI is often oversold in some ways (I am a mixed AI cynic and optimist), but where it excels is what I would refer to as "pattern finding". That is really what is happening in LLMs - it finds the pattern in human writing to predict the next word, or for coming up with image patterns to add in image generation. 
+
+It has been shown at being very good at identify cancers in MRIs, possibly better than people, thanks to having a huge body of training data.
+
+Pattern matching has always been a power that computational intelligence has progressed on, but the new LLMs are ideal at the pattern finding aspect of things.
+
+Just like identifying cancers with proper training in images, identifying records of interest with training from past data could be powerful." />
                 asdf
             </head>
             <body>

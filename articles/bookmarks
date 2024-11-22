@@ -25,23 +25,38 @@
                 <link rel="canonical" href="https://robkohr.com/articles/bookmarks" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="<h3>Blogs</h3>
-<ul>
-<li><a href="https://sambleckley.com/blog/">https://sambleckley.com/blog/</a><ul>
-<li>Great articles on writing, coding, and philosophy.</li>
-</ul>
-</li>
-<li><a href="https://substack.com/@abundantia">https://substack.com/@abundantia</a><ul>
-<li>Ancient historical stuff related to freedom</li>
-</ul>
-</li>
-<li><a href="https://ploum.net/index_en.html">https://ploum.net/index_en.html</a><ul>
-<li>Some esoteric self reflection on the state of living</li>
-</ul>
-</li>
-<li><a href="https://www.redblobgames.co">https://www.redblobgames.co</a>...</li>
-</ul>
- <p><a class="nowrap" href="articles/bookmarks">READ MORE (149 words, 1 minutes)</a></p> " />
+                <meta property="og:description" content="
+
+### Blogs
+- https://sambleckley.com/blog/
+	- Great articles on writing, coding, and philosophy.
+- https://substack.com/@abundantia
+	- Ancient historical stuff related to freedom
+- https://ploum.net/index_en.html
+	- Some esoteric self reflection on the state of living 
+- https://www.redblobgames.com/
+	- Analysis of interesting logic problems in games
+- https://longform.asmartbear.com/
+	- Articles about the art of creating a successful startup
+- https://mtlynch.io
+	- Articles from ex-googler who is working on mini-online businesses
+### Tech I like
+- https://www.solidjs.com/
+	- A fast light alternative to react that makes me feel like the early days of JS web dev - but in a good way
+- https://bevyengine.org/
+	- Game engine built in Rust that I am getting interested in.
+### Podcasts
+- https://fallofcivilizationspodcast.com/
+	- Fall of Civilizations - 2-3 hour podcasts that go deep into ancient civilizations with excellent content. 
+- https://thehistoryofrome.typepad.com/
+	- Follow the rise and fall of Rome year to year in detail
+### Other
+- https://flashbak.com/
+	- Amazing photographs from other time periods
+- https://poestories.com/
+	- short stories by Edgar Allan Poe 
+- https://mythcreants.com/
+	- Thoughts about speculative fiction" />
                 asdf
             </head>
             <body>

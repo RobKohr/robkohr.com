@@ -25,17 +25,40 @@
                 <link rel="canonical" href="https://robkohr.com/articles/solid---usecontext" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="<p>I created a context system in SolidJS for forms</p>
-<pre><code class="language-javascript">export const FormContext = createContext&lt;Form&gt;();
+                <meta property="og:description" content="
+
+
+I created a context system in SolidJS for forms
+
+```javascript
+export const FormContext = createContext<Form>();
 
 export interface Form {
   data: any;
-  set: (data: any) =&gt; void;
-  validationResult: Accessor&lt;Joi.ValidationResult&lt;any&gt; | undefined&gt;;
-  touched: Accessor&lt;TouchedData&gt;;
-  setFieldValue...
-</code></pre>
- <p><a class="nowrap" href="articles/solid---usecontext">READ MORE (114 words, 1 minutes)</a></p> " />
+  set: (data: any) => void;
+  validationResult: Accessor<Joi.ValidationResult<any> | undefined>;
+  touched: Accessor<TouchedData>;
+  setFieldValue: (field: string, value: string) => void;
+  inputChangeHandler: (name: string) => (e: Event) => void;
+}
+/* snip */
+export default function FormContextProvider(props: FormContextProviderProps) {
+	/* set all of the form variable to apply to the context */
+
+	return (
+	    <FormContext.Provider value={form}>
+	      <form use:formDecorator>{children}</form>
+	    </FormContext.Provider>
+    )
+```
+
+And in an input under that, I do:
+```javascript
+const form = useContext(FormContext);
+```
+and the form value seems to be stuck at undefined. :( 
+
+More details here: https://stackoverflow.com/questions/76947570/solidjs-context-not-passing-down-to-children" />
                 asdf
             </head>
             <body>

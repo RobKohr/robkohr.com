@@ -25,10 +25,14 @@
                 <link rel="canonical" href="https://robkohr.com/articles/fontello---icon-fonts-generator" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="<p>This is so cool! You can take and mesh together icons from different font sets along with svg images and define the names of the icons however you like.</p>
-<p>This is the most awesome way to make an icon set for your website!</p>
-<p>With this you can scale things as you like, and make icons any color you lik...</p>
- <p><a class="nowrap" href="articles/fontello---icon-fonts-generator">READ MORE (61 words, 0 minutes)</a></p> " />
+                <meta property="og:description" content="
+
+This is so cool! You can take and mesh together icons from different font sets along with svg images and define the names of the icons however you like.
+
+This is the most awesome way to make an icon set for your website!
+
+With this you can scale things as you like, and make icons any color you like!
+[Fontello - icon fonts generator](http://fontello.com)" />
                 asdf
             </head>
             <body>

@@ -25,9 +25,28 @@
                 <link rel="canonical" href="https://robkohr.com/articles/making-a-laptop-holder" />
                 <link rel="stylesheet" href="../neat.css">
 <meta property="og:image" content="https://robkohr.com/images/before-cuts.png" />
-                <meta property="og:description" content="<p>I like to use my 3d printer a lot, but sometimes when there is a problem, I drop out of use for a while. Recently, a big ball of melted plastic formed around the hot end, and I didn&#39;t have an urge to fix it for a while.</p>
-<p>Since we were doing the Nightmare Before Christmas as the theme for our card...</p>
- <p><a class="nowrap" href="articles/making-a-laptop-holder">READ MORE (316 words, 2 minutes, 2 images)</a></p> " />
+                <meta property="og:description" content="
+
+
+I like to use my 3d printer a lot, but sometimes when there is a problem, I drop out of use for a while. Recently, a big ball of melted plastic formed around the hot end, and I didn't have an urge to fix it for a while.
+
+Since we were doing the Nightmare Before Christmas as the theme for our cardboard boat for the Longview Cardboard Boat Regatta, Tara was making a Zero out of paper mache, and he needed a nice orange pumpkin nose, so the printer needed to be fixed up.
+
+I heated it up to ABS temperature, and then took a sodering iron to cut off chunks of it, then pried off whatever was left. All worked great, and no that the pumpkin was done, it was time to do something else.
+
+I hook up a laptop to my screen via usb-c and need a way to hold it vertically. I figured I should throw in some cable management, pen slots, and maybe some spaces to put magnets to put things like paperclips on. 
+
+First I started in Tinkercad with a large rectiliniar cube as a hole to represent the laptop, and then put it 4 mm above the ground. Then I stacked the other parts around it and added cuts. This is the primary mode I do for design. Add chunks and then do subtracts. 
+
+![[before-cuts.png]]
+
+![[after cuts.png]]
+
+I also try to work with multiples/fractions of 12. Base 12 has the most factors (12, 6, 4, 3, 2, 1) and works well for keeping things scaled in pleasing proportions to each other (this is why lego is base 12, the imperial system works off of base 12, our clocks, western music scales, and many other things). So the height for the surrounding bases are 6mm high, and everything follows from there. 
+
+So off to the printer it goes, and here is the final product:
+
+(image coming soon)" />
                 asdf
             </head>
             <body>

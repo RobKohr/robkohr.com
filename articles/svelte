@@ -25,8 +25,11 @@
                 <link rel="canonical" href="https://robkohr.com/articles/svelte" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="<p>The best tutorial on it<br><a href="https://www.youtube.com/watch?v=AXwgpUvLiwk">https://www.youtube.com/watch?v=AXwgpUvLiwk</a></p>
-" />
+                <meta property="og:description" content="
+
+
+The best tutorial on it  
+https://www.youtube.com/watch?v=AXwgpUvLiwk" />
                 asdf
             </head>
             <body>

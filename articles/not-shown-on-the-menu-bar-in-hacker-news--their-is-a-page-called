@@ -25,9 +25,15 @@
                 <link rel="canonical" href="https://robkohr.com/articles/not-shown-on-the-menu-bar-in-hacker-news--their-is-a-page-called" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="<p>Not shown on the menu bar in Hacker News, their is a page called &quot;best,&quot; which has less updates per day, and is nice if you don&#39;t want to get too sucked in to what is &quot;hot&quot;.
-&lt;a rel=&quot;nofollow&quot; target=&quot;_blank&quot; href=&quot;<a href="http://news.ycombinator.com/best">http://news.ycombinator.com/best</a>&quot; class=&quot;ot-anchor bidi_isolate&quot; jslog=&quot;10929; track...</p>
- <p><a class="nowrap" href="articles/not-shown-on-the-menu-bar-in-hacker-news--their-is-a-page-called">READ MORE (50 words, 0 minutes)</a></p> " />
+                <meta property="og:description" content="
+
+Not shown on the menu bar in Hacker News, their is a page called "best," which has less updates per day, and is nice if you don't want to get too sucked in to what is "hot".
+<a rel="nofollow" target="_blank" href="http://news.ycombinator.com/best" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://news.ycombinator.com/best</a>
+
+### Hacker News | Top Links
+http://news.ycombinator.com/best
+
+http://news.ycombinator.com/best" />
                 asdf
             </head>
             <body>

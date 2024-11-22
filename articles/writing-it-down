@@ -25,11 +25,21 @@
                 <link rel="canonical" href="https://robkohr.com/articles/writing-it-down" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="<p>Writing things down is a way of thinking. Not a way of recording what you wrote. One way to do this is to create a TIL - today I learned. </p>
-<p>Another way is to apply the...</p>
-<h3>The Feynman Technique</h3>
-<p>The Feynman Technique is a method named after the physicist Richard Feynman, designed to help indiv...</p>
- <p><a class="nowrap" href="articles/writing-it-down">READ MORE (186 words, 1 minutes)</a></p> " />
+                <meta property="og:description" content="
+
+
+Writing things down is a way of thinking. Not a way of recording what you wrote. One way to do this is to create a TIL - today I learned. 
+
+Another way is to apply the...
+### The Feynman Technique
+
+The Feynman Technique is a method named after the physicist Richard Feynman, designed to help individuals learn and understand subjects deeply. It aligns well with the practice of writing about what you learn, and its principles can be summarized in the following steps:
+
+1. **Choose a Concept**: Select a concept or topic you want to understand.
+2. **Teach It to a Child**: Try to explain the concept as if you were teaching it to a child. Use simple language and avoid jargon.
+3. **Identify Gaps and Go Back to the Source Material**: If you find areas where your explanation falters, go back to the source material to fill in the gaps.
+4. **Simplify and Use Analogies**: Create analogies and use simple language to make the concept more relatable and easier to grasp.
+5. **Review and Refine**: Continuously review and refine your explanation until you can articulate the concept in the simplest terms possible." />
                 asdf
             </head>
             <body>

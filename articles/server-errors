@@ -25,10 +25,21 @@
                 <link rel="canonical" href="https://robkohr.com/articles/server-errors" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="<p>There have been a lot of server errors recently, and they are the result of system resources being overwhelmed (using up system memory and processor).</p>
-<p>I suspect that this is due to another app I have been working on - a real time web game called constantsail.com.</p>
-<p>I am now setting up a separate ...</p>
- <p><a class="nowrap" href="articles/server-errors">READ MORE (108 words, 1 minutes)</a></p> " />
+                <meta property="og:description" content="
+
+
+There have been a lot of server errors recently, and they are the result of system resources being overwhelmed (using up system memory and processor).
+
+I suspect that this is due to another app I have been working on - a real time web game called constantsail.com.
+
+I am now setting up a separate server for the that game so that it's performance does not effect editthis.info. I expect it will be set up within the next 48 hours, and hopefully this resolves the issues.
+
+Thanks,
+Rob
+
+Update
+
+This problem has been resolved and you should not see any more server errors relating to this problem. The app has been moved to another server." />
                 asdf
             </head>
             <body>

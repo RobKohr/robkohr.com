@@ -25,9 +25,11 @@
                 <link rel="canonical" href="https://robkohr.com/articles/convert-react-javascript-project-to-typescript---one-file-at-a-time" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="<p>Have a React project written in JS that you want to convert to Typescript, but not all at once? This step by step guide will help you with that:
-<a href="https://youtu.be/XqC1m2zJc4Y">https://youtu.be/XqC1m2zJc4Y</a></p>
-" />
+                <meta property="og:description" content="
+
+
+Have a React project written in JS that you want to convert to Typescript, but not all at once? This step by step guide will help you with that:
+https://youtu.be/XqC1m2zJc4Y" />
                 asdf
             </head>
             <body>

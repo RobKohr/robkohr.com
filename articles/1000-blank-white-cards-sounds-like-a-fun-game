@@ -25,12 +25,34 @@
                 <link rel="canonical" href="https://robkohr.com/articles/1000-blank-white-cards-sounds-like-a-fun-game" />
                 <link rel="stylesheet" href="../neat.css">
 <meta property="og:image" content="https://robkohr.com/images/From dvorakgame.co.uk.png" />
-                <meta property="og:description" content="<p>
-I was reading this BGG page:</p>
-<p><a href="https://boardgamegeek.com/boardgame/4550/1000-blank-white-cards">https://boardgamegeek.com/boardgame/4550/1000-blank-white-cards</a></p>
-<p>And it looks like a fun game to play, especially with some jumbo index cards.</p>
-<p>Some ideas for a go...</p>
- <p><a class="nowrap" href="articles/1000-blank-white-cards-sounds-like-a-fun-game">READ MORE (280 words, 2 minutes, 3 images)</a></p> " />
+                <meta property="og:description" content="
+
+
+![](https://cf.geekdo-images.com/itemrep/img/4qsEyUFfqBt4GtsJGGq0WD7YeCs=/fit-in/246x300/pic606721.jpg)
+I was reading this BGG page:
+
+https://boardgamegeek.com/boardgame/4550/1000-blank-white-cards
+
+And it looks like a fun game to play, especially with some jumbo index cards.
+
+Some ideas for a good ruleset based on what I read in the forums:
+
+- At the beginning of the first game, each player makes 6 cards and leave 4 blank cards. All cards get shuffled in. On subsequent games each player makes 4 cards, chooses 4 cards from archive, and also inserts 4 blank cards.
+- Each player draws 5 cards from the deck
+- The starting ruleset for the game is draw a card, play a card
+- If you have a blank card in your hand, you can turn it into a new card. New cards should have a name, a drawing, a type, and a description.
+  ![[From dvorakgame.co.uk.png]]
+  ![](<https://cf.geekdo-images.com/imagepage/img/tv6SDSCIJyhBmUT8IV3jlKggmSE=/fit-in/900x600/filters:no_upscale()/pic377521.jpg>)
+- The game ends when there is no cards left to draw
+- Each card is one of the following types:
+  - **action** - do what it says and then discard it
+  - **thing** - modifies a player state (add/subtract from score score or giving a special ability). Place in front of you (keeper) or another player (giver)
+  - **modifier** can be played on things to change them - such as give them armor, make them bald, fast, green. Could change values of the card it is modifying
+  - **new rule** - change how the game is played
+- Point values for things can range from -100 to +100
+- Actions are usually discarded after play
+- Cards can have suits (I am thinking colored stampers) and colors which makes it so they can be targeted by other cards.
+- No skip turn cards - seems to be the least fun cards" />
                 asdf
             </head>
             <body>

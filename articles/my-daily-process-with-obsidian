@@ -25,14 +25,17 @@
                 <link rel="canonical" href="https://robkohr.com/articles/my-daily-process-with-obsidian" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="<p>I have grown to love Obsidian, the notetaking app. </p>
-<ul>
-<li>I use it as a place to throw ideas that I don&#39;t have time to devote to. </li>
-<li>I use it as a place to keep a daily task list that I keep up with about half the time</li>
-<li>I use it to write this blog here.</li>
-</ul>
-<p>I think about making a blogging app, but I l...</p>
- <p><a class="nowrap" href="articles/my-daily-process-with-obsidian">READ MORE (99 words, 1 minutes)</a></p> " />
+                <meta property="og:description" content="
+
+
+I have grown to love Obsidian, the notetaking app. 
+- I use it as a place to throw ideas that I don't have time to devote to. 
+- I use it as a place to keep a daily task list that I keep up with about half the time
+- I use it to write this blog here. 
+
+I think about making a blogging app, but I like what I do. I have one long markdown file with articles separated by headers and with some date and tags added to it. 
+
+I need to create something for my blogging better." />
                 asdf
             </head>
             <body>

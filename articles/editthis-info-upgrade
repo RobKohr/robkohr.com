@@ -25,9 +25,29 @@
                 <link rel="canonical" href="https://robkohr.com/articles/editthis-info-upgrade" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="<p>Editthis.info has gone through a major upgrade over the last week. It has been moved to a new database system (mysql-&gt;sqlite) and has been upgraded from mediawiki 1.5.5 to 1.15.1. This is basically a 3 year jump in versions.  </p>
-<p>Some of the reasons for the upgrade:<br>*Stability - The massive MyS...</p>
- <p><a class="nowrap" href="articles/editthis-info-upgrade">READ MORE (384 words, 3 minutes)</a></p> " />
+                <meta property="og:description" content="
+
+
+Editthis.info has gone through a major upgrade over the last week. It has been moved to a new database system (mysql->sqlite) and has been upgraded from mediawiki 1.5.5 to 1.15.1. This is basically a 3 year jump in versions.  
+  
+Some of the reasons for the upgrade:  
+*Stability - The massive MySQL db has reached its scaling limit  
+*Security - More up to date usually is more secure  
+*Extensibility - Many extensions that I would like to add were not available in the older mediawiki  
+*Portability - With the ability to use sqlite with the new mediawiki codebase, I can easily move wikis and their databases (sqlite databases are single files) from one server to another. I may be adding a feature where you can download your wiki and host it elsewhere or on a flash drive.  
+*Features - There has been many subtle changes over the years that I wanted to catch up on.  
+  
+I probably have about 5 other bullet points. The hesitation has been partly due to the complexity in making the transition. The other reason was that until recently the sqlite support has been very much in beta.  
+  
+The change upgrade has not been smooth. I have had web server config issues, database overloading issues (trying to export too much at once), and database syntax issues (the database systems use slightly different syntax which has caused many problems).  
+  
+Most of the wikis are now imported correctly, but there are plenty that have errors or no content. I am revisiting them and seeing why they didn't transfer correctly. I am suspecting it is just syntax issues. If your wiki is not working ... DON'T PANIC. The original that I am working off has been untouched, and it is just a matter of finessing it so that it translates correctly. If your wiki has problems, please post the url to the wiki here:  
+[http://editthis.info/wiki/?title=Wikis_that_are_broken&action=edit](https://www.blogger.com/#)  
+  
+Other things that are missing but will be added in the next week:  
+*Control panel to manage logo, wiki title, and permissions  
+*Cookie error when you log in (it shows the error, but really the login worked)  
+*Create wiki and create wiki page not available" />
                 asdf
             </head>
             <body>

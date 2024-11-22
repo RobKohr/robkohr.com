@@ -25,8 +25,23 @@
                 <link rel="canonical" href="https://robkohr.com/articles/i-run-a-ugc-site-on-a-dreamhost-virtual-private-server-called" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="<p>I run a UGC site on a dreamhost virtual private server called <a rel="nofollow" target="_blank" href="http://cueflash.com" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">cueflash.com</a>. A user posted up content that was copyrighted, and dreamhost recieved a DMCA takedown not...</p>
- <p><a class="nowrap" href="articles/i-run-a-ugc-site-on-a-dreamhost-virtual-private-server-called">READ MORE (173 words, 1 minutes)</a></p> " />
+                <meta property="og:description" content="
+
+I run a UGC site on a dreamhost virtual private server called <a rel="nofollow" target="_blank" href="http://cueflash.com" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">cueflash.com</a>. A user posted up content that was copyrighted, and dreamhost recieved a DMCA takedown notice. They shut my site down, without first giving me any notice (though, in their defense, it was easy to turn it back on).
+
+I also run a UGC site on linode (<a rel="nofollow" target="_blank" href="http://editthis.info" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">editthis.info</a>), and had the same situtation there (except the person who made the complaint was wrong and I protected the users' contributions). Linode actually allowed me to address the issue rather than just pulling the plug.
+
+If you are going to run a site where a user might post something that violates copyright (a forum, a blog with comments, or practically anything), and you would prefer not to have a provider that shoots first, and asks questions later, go with Linode.
+<a rel="nofollow" target="_blank" href="http://tinyurl.com/25x4bk5" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://tinyurl.com/25x4bk5</a> (my referral code is in there)
+
+### Linode - Xen VPS Hosting
+http://cueflash.com
+
+http://editthis.info
+
+http://tinyurl.com/25x4bk5
+
+http://tinyurl.com/25x4bk5" />
                 asdf
             </head>
             <body>

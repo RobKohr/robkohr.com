@@ -25,10 +25,13 @@
                 <link rel="canonical" href="https://robkohr.com/articles/islandwarfare" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="<p>I am working on a game at <a href="http://islandwarfare.com">islandwarfare.com</a>  </p>
-<p>Sign up now to receive an email when it is launched!  </p>
-<p>It will be a game where you build up the resources and units on an island and use them to capture other neighboring islands.</p>
-" />
+                <meta property="og:description" content="
+
+I am working on a game at [islandwarfare.com](http://islandwarfare.com)  
+  
+Sign up now to receive an email when it is launched!  
+  
+It will be a game where you build up the resources and units on an island and use them to capture other neighboring islands." />
                 asdf
             </head>
             <body>

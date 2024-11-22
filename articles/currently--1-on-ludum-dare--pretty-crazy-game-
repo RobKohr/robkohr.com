@@ -25,11 +25,14 @@
                 <link rel="canonical" href="https://robkohr.com/articles/currently--1-on-ludum-dare--pretty-crazy-game-" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="<p>Currently #1 on Ludum Dare. Pretty crazy game.</p>
-<h3><a href="http://chevyray.com/art/ld21/5/FleeBuster_512.swf">http://chevyray.com/art/ld21/5/FleeBuster_512.swf</a></h3>
-<p><a href="http://chevyray.com/art/ld21/5/FleeBuster_512.swf">http://chevyray.com/art/ld21/5/FleeBuster_512.swf</a></p>
-<p><a href="http://www.ludumdare.com/compo/ludum-dare-21/">http://www.ludumdare.com/compo/ludum-dare-21/</a></p>
-" />
+                <meta property="og:description" content="
+
+Currently #1 on Ludum Dare. Pretty crazy game.
+
+### http://chevyray.com/art/ld21/5/FleeBuster_512.swf
+http://chevyray.com/art/ld21/5/FleeBuster_512.swf
+
+http://www.ludumdare.com/compo/ludum-dare-21/" />
                 asdf
             </head>
             <body>

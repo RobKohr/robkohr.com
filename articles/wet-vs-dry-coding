@@ -25,9 +25,19 @@
                 <link rel="canonical" href="https://robkohr.com/articles/wet-vs-dry-coding" />
                 <link rel="stylesheet" href="../neat.css">
 <meta property="og:image" content="https://robkohr.com/images/2020-06-12-08-35-31.png" />
-                <meta property="og:description" content="<p>This is roughly a reply to/inspired by <a href="https://dev.to/wuz/stop-trying-to-be-so-dry-instead-write-everything-twice-wet-5g33">Write everything twice, just not a third time.</a></p>
-<p>This is really a heavy &quot;it depends&quot;. The goals of making it so you have one source of things to be debugged and modified ...</p>
- <p><a class="nowrap" href="articles/wet-vs-dry-coding">READ MORE (315 words, 2 minutes, 1 images)</a></p> " />
+                <meta property="og:description" content="
+
+
+![[2020-06-12-08-35-31.png]]
+
+This is roughly a reply to/inspired by [Write everything twice, just not a third time.](https://dev.to/wuz/stop-trying-to-be-so-dry-instead-write-everything-twice-wet-5g33)
+
+This is really a heavy "it depends". The goals of making it so you have one source of things to be debugged and modified are great when we are talking about a decent number lines of code (or more importantly conceptual pieces). The other side of things is that DRY pushes to creating modules/components/functions that are nameable sections of code that increases readability of the code. An example of this is to take 20 lines of code that does one "Thing", and replace it with a function call to Thing() that contains those 20 lines. Yeah, you don't save anything as far as line count of code, but you make it so when reading things, you don't have to parse apart the functionality of that 20 lines, and you can test it and know you never need to think about it again besides calling it's name.
+The DRY to WET side of things start to slip over to the wet side (pun intended) when the cost of making it DRY and the ongoing costs of the DRY structure is more then just leaving it wet. This typically comes from when over-engineering leads to a tower of babel like structure of things wrapping things wrapping things to the point where it becomes challenging to make a change:
+Having to digest the stack to understand the inner parts to find out where a change needs to happen
+Dealing with the unintended consequences of the change on other parts of the system (regression)
+Being straight-jacketed by a structure meant to be general purpose using parameters, but doesn't quite match what you need and leading to further changes to the abstraction to meet the new need.
+This last one is the one that leads to the most challenges and much of what the time is spent on large developed systems." />
                 asdf
             </head>
             <body>

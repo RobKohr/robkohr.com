@@ -25,9 +25,26 @@
                 <link rel="canonical" href="https://robkohr.com/articles/coding-productivity" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="<p>One thing that I find that helps is to open up a text file and start typing what your thoughts are and be unfiltered (I sometimes look away from my screen so I don&#39;t proofread). Try and get everything out, and let yourself brainstorm.</p>
-<p>Keeping it all in a conversation in your head creates too man...</p>
- <p><a class="nowrap" href="articles/coding-productivity">READ MORE (160 words, 1 minutes)</a></p> " />
+                <meta property="og:description" content="
+
+
+One thing that I find that helps is to open up a text file and start typing what your thoughts are and be unfiltered (I sometimes look away from my screen so I don't proofread). Try and get everything out, and let yourself brainstorm.
+
+Keeping it all in a conversation in your head creates too many threads to keep track of and you end up looping around worrying about this or that.
+Then after that, I take the blob of text and try to organize it into categories such as "issues to resolve", "action items", … etc
+
+Writing also slows down your thoughts a bit and keeps you from bouncing too much.
+
+I also have a thing on my desk that I do rubber duck debugging with:
+https://en.wikipedia.org/wiki/Rubber_duck_debugging
+
+I also turn this app on when I am trying to force myself to be productive:
+https://apps.apple.com/us/app/loud-typer/id1493508558?mt=12
+
+and this for music:
+https://coderadio.freecodecamp.org/
+
+The sound of the typing makes me feel more productive, which reinforces it, and the music gives me a rhythm." />
                 asdf
             </head>
             <body>

@@ -25,9 +25,29 @@
                 <link rel="canonical" href="https://robkohr.com/articles/a-new-way-to-round---rand-round-2008-11-28" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="<p>So in grade school you are taught the basics of rounding. If the decimal portion of the number is &lt; .5 round down to the integer so 5.3 becomes 5. If it is &gt;= .5 round up, so 5.8 becomes 6.</p>
-<p>This is well and good if you are doing something that has an even distribution after the decimal point. Bu...</p>
- <p><a class="nowrap" href="articles/a-new-way-to-round---rand-round">READ MORE (303 words, 2 minutes)</a></p> " />
+                <meta property="og:description" content="
+
+
+So in grade school you are taught the basics of rounding. If the decimal portion of the number is < .5 round down to the integer so 5.3 becomes 5. If it is >= .5 round up, so 5.8 becomes 6.
+
+This is well and good if you are doing something that has an even distribution after the decimal point. But lets say that you are doing continuous small adjustments on a value and it is unlikely to be an evenly distributed set since the calculation for the adjustment will typically be the same.
+
+An example senerio that got me thinking about this is related to a game I am working on at constantsail.com. Every minute 1 food is consumed for each crew member on a ship, but I want to do a smaller time slice of every 6 seconds which is 1/10 of a food per crew for that interval. Food is an integer in the db, so it must be rounded off in one way or another. If we just used the round function in mysql, and we had two crew members, I would be subtracting round(.2) ever time which comes out to zero. What I really want is it to return zero 80% of the time, and one 20% of the time, so in the long run, it still ends up being 2 food consumed for the two crew for every minute.
+
+To do this I take the result of rand() which returns a value from 0 to 1 and if it is less than D (which is the decimal portion of the value we are rounding) we add 1 to the floored value of our original number, else we just floor the value.
+
+The equation is:
+
+```
+function rand_round(x){
+ D = x - floor(x);
+ if(rand()&lt;D){
+   return floor(x)+1;
+ }else{
+   return floor(x);
+ }
+}
+```" />
                 asdf
             </head>
             <body>
