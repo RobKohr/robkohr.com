@@ -1,0 +1,49 @@
+
+        <html>                
+            <base href="../">
+            <head>
+                <title>Wisps - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
+
+                <link rel="canonical" href="https://robkohr.com/articles/wisps" />
+                <link rel="stylesheet" href="../neat.css">
+
+                <meta property="og:description" content="The world is the most transitory land that floated in the sea of foam. I wish I could see it's creation and drink its original brew.---Puny thought set with glue to the back of the brain. Fingers lock" />
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            
+    <h2><a href="articles/wisps">Wisps</a></h2>
+    <div class="variables">
+    <div class="date">@date=2024-12-23</div>
+    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    </div>
+    <article>
+        <p>The world is the most transitory land that floated in the sea of foam. I wish I could see it&#39;s creation and drink its original brew.</p>
+<hr>
+<p>Puny thought set with glue to the back of the brain. Fingers lock as I sit.</p>
+<hr>
+<p>Could an ant leave a leaf that has rebounded deviously to his outstretched appendages.</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

@@ -1,0 +1,90 @@
+
+        <html>                
+            <base href="../">
+            <head>
+                <title>Tailwind... quick thought - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
+
+                <link rel="canonical" href="https://robkohr.com/articles/tailwind----quick-thought" />
+                <link rel="stylesheet" href="../neat.css">
+<meta property="og:image" content="https://robkohr.com/images/Pasted image 20241215105219.png" />
+                <meta property="og:description" content="Look at a bunch of tailwind videos, and thought about how I code to see if the two would be compatiable.Typically I make React components, and I give a class name to the top level of the react compone" />
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            
+    <h2><a href="articles/tailwind----quick-thought">Tailwind... quick thought</a></h2>
+    <div class="variables">
+    <div class="date">@date=2024-12-15</div>
+    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    </div>
+    <article>
+        <p>Look at a bunch of tailwind videos, and thought about how I code to see if the two would be compatiable.</p>
+<p>Typically I make React components, and I give a class name to the top level of the react component. So, UserProfileCard would have the class .user-profile-card-component.</p>
+<p>Then, I create a .scss file where that is the parent class and everything else is a child. I set all the styling for the component in there.</p>
+<p>Anything that is a common thing, such as .card, I would put in main.scss, or site.scss or something like that.</p>
+<p>Anything that defined colors, shadowing, sizing, etc, would go in the variables.scss file. </p>
+<p>With all that, I like what I have. Generic chunks that get reused between components (like .card), some specifications, and a bit of component specific tailored styling. </p>
+<p>Now looking at the little animated image demoing use of it on the tailwindcss.com website, I just can&#39;t see why I would want to use that for styling a component. </p>
+<p><img data-src="images/Pasted image 20241215105219.png" alt="Pasted image 20241215105219.png" style="max-width: 100%;" /></p>
+<p>I would probably set something like:</p>
+<pre><code class="language-css">.quote-card-component{
+    .card{
+        display:flex;
+        .side-image.left{
+           
+        }
+        .text-content{
+            blockquote{
+            }
+            .person-label{
+                .name{
+                    &amp;a{
+                        
+                    }
+                }
+                .title{
+                }
+            }
+        }
+    }
+}
+</code></pre>
+<p>with all the relevant styling thrown in. </p>
+<p>When I want to tweak this later, it is easy to find and change things. Also, plenty of this stuff could be generalized out of the quote-card-component, but it can also live in there until it needs to be reused elsewhere and then brought up to the global scope for a reused style.</p>
+<p>For example, I would totally have card be put on the actual parent component element, and I wouldn&#39;t need to style the name&#39;s a tag here. </p>
+<p>This isn&#39;t to rain too much on other&#39;s parade&#39;s. I think using tailwind is just as valid as putting inline css in style attributes on html elements. I do it once in a while as a one off, and having a library that makes that inline stuff more compressed is nice.</p>
+<p>My main issues:</p>
+<ul>
+<li>With separated css though, you can think about what you are using where, and be able to grab and reuse and rename and tweak them easier. </li>
+<li>I can read style sheets much better than <code>max-w-7xl mx-auto px-4 sm:px-6 md:px-8 mt-20 sm:mt-24 lg:mt-32 lg:grid lg:gap-8 lg:grid-cols-12 lg:items-center</code> (actually copied from the html on tailwind&#39;s website)</li>
+<li>Whatever marginal gains there are, I don&#39;t see the worth in implementing and learning tailwind to achieve it. </li>
+<li>I like nameing things. Yep, it is hard, but when I see a deep structure of html with no class names or ids on the elements, it is hard to think of the thought process that went into this structure. With names, I get the semantic meaning of what things are rather than just a tree of nested unnamed divs. <ul>
+<li>This is part of my issue with react libraries that generate random class names. When I am inspecting it in the browser, I want to know what I am selecting.</li>
+<li>People seem to worry a lot about css name collisions. This is why everything that is particular for a component, I put under that component&#39;s class name. As such, I never have any conflicts. The only thing that might conflict is in main.css, but I don&#39;t add anything that isn&#39;t heavily being reused there, and it is all kept pretty basic.</li>
+</ul>
+</li>
+</ul>
+
+    </article>
+    
+            </body>
+          </html>
+          

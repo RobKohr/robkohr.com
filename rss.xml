@@ -5,9 +5,25 @@
             <link>https://robkohr.com</link>
             <description>RobKohr's Blog</description>
             <language>en-us</language>
-            <lastBuildDate>Fri, 22 Nov 2024 08:00:00 GMT</lastBuildDate>
-            <pubDate>Fri, 22 Nov 2024 08:00:00 GMT</pubDate>
+            <lastBuildDate>Mon, 23 Dec 2024 08:00:00 GMT</lastBuildDate>
+            <pubDate>Mon, 23 Dec 2024 08:00:00 GMT</pubDate>
             <ttl>1800</ttl>
+            <item>
+                <guid>https://robkohr.com/articles/wisps</guid>
+                <title>Wisps</title>
+                <link>https://robkohr.com/articles/wisps</link>
+                <description>Wisps</description>
+                <pubDate>Sat, 23 Nov 2024 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/tailwind----quick-thought</guid>
+                <title>Tailwind... quick thought</title>
+                <link>https://robkohr.com/articles/tailwind----quick-thought</link>
+                <description>Tailwind... quick thought</description>
+                <pubDate>Fri, 15 Nov 2024 00:00:00 GMT</pubDate>
+            </item>
+    
             <item>
                 <guid>https://robkohr.com/articles/alternative-origin-of-batman---dream</guid>
                 <title>Alternative origin of Batman - dream</title>
@@ -390,22 +406,6 @@
                 <link>https://robkohr.com/articles/write-code-for-a-business</link>
                 <description>Write code for a business</description>
                 <pubDate>Fri, 30 Jun 2023 00:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/chatbot</guid>
-                <title>Chatbot</title>
-                <link>https://robkohr.com/articles/chatbot</link>
-                <description>Chatbot</description>
-                <pubDate>Wed, 21 Jun 2023 00:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/cardboard-boat-regatta</guid>
-                <title>Cardboard Boat Regatta</title>
-                <link>https://robkohr.com/articles/cardboard-boat-regatta</link>
-                <description>Cardboard Boat Regatta</description>
-                <pubDate>Mon, 12 Jun 2023 00:00:00 GMT</pubDate>
             </item>
     
         </channel>

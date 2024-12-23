@@ -8,11 +8,99 @@
 - <a href="rss.xml">📰 RSS feed</a>
 - <a href="articles/my-stuff">🔭 My stuff out on the web</a>
 
+## Wisps
+@date=2024-12-23
+@tag=poetry
+
+The world is the most transitory land that floated in the sea of foam. I wish I could see it's creation and drink its original brew.
+
+---
+
+Puny thought set with glue to the back of the brain. Fingers lock as I sit.
+
+--- 
+
+Could an ant leave a leaf that has rebounded deviously to his outstretched appendages.
+
+## Tailwind... quick thought
+@date=2024-12-15
+@tag=programming, webdev
+
+Look at a bunch of tailwind videos, and thought about how I code to see if the two would be compatiable.
+
+Typically I make React components, and I give a class name to the top level of the react component. So, UserProfileCard would have the class .user-profile-card-component.
+
+Then, I create a .scss file where that is the parent class and everything else is a child. I set all the styling for the component in there.
+
+Anything that is a common thing, such as .card, I would put in main.scss, or site.scss or something like that.
+
+Anything that defined colors, shadowing, sizing, etc, would go in the variables.scss file. 
+
+With all that, I like what I have. Generic chunks that get reused between components (like .card), some specifications, and a bit of component specific tailored styling. 
+
+Now looking at the little animated image demoing use of it on the tailwindcss.com website, I just can't see why I would want to use that for styling a component. 
+
+![[Pasted image 20241215105219.png]]
+
+I would probably set something like:
+```css
+.quote-card-component{
+	.card{
+		display:flex;
+		.side-image.left{
+		   
+		}
+		.text-content{
+			blockquote{
+			}
+			.person-label{
+				.name{
+					&a{
+						
+					}
+				}
+				.title{
+				}
+			}
+		}
+	}
+}
+```
+
+with all the relevant styling thrown in. 
+
+When I want to tweak this later, it is easy to find and change things. Also, plenty of this stuff could be generalized out of the quote-card-component, but it can also live in there until it needs to be reused elsewhere and then brought up to the global scope for a reused style.
+
+For example, I would totally have card be put on the actual parent component element, and I wouldn't need to style the name's a tag here. 
+
+This isn't to rain too much on other's parade's. I think using tailwind is just as valid as putting inline css in style attributes on html elements. I do it once in a while as a one off, and having a library that makes that inline stuff more compressed is nice.
+
+My main issues:
+- With separated css though, you can think about what you are using where, and be able to grab and reuse and rename and tweak them easier. 
+- I can read style sheets much better than `max-w-7xl mx-auto px-4 sm:px-6 md:px-8 mt-20 sm:mt-24 lg:mt-32 lg:grid lg:gap-8 lg:grid-cols-12 lg:items-center` (actually copied from the html on tailwind's website)
+- Whatever marginal gains there are, I don't see the worth in implementing and learning tailwind to achieve it. 
+- I like nameing things. Yep, it is hard, but when I see a deep structure of html with no class names or ids on the elements, it is hard to think of the thought process that went into this structure. With names, I get the semantic meaning of what things are rather than just a tree of nested unnamed divs. 
+	- This is part of my issue with react libraries that generate random class names. When I am inspecting it in the browser, I want to know what I am selecting.
+	- People seem to worry a lot about css name collisions. This is why everything that is particular for a component, I put under that component's class name. As such, I never have any conflicts. The only thing that might conflict is in main.css, but I don't add anything that isn't heavily being reused there, and it is all kept pretty basic. 
+
+
+
 ## Alternative origin of Batman - dream
 @date=2024-11-22
 @tags=dreams
 
-Scrouge McDuck starts poor and is recruited by joker to become batman. I think it was just to entertain the Joker, but then Scrouge through the conflict also grows more as an individual to who the wealthiest man of Duckburg
+Scrouge McDuck starts poor and is recruited by joker to become batman. I think it was just to entertain the Joker, but then Scrouge through the conflict also grows more as an individual to become the wealthiest man of Duckburg.
+
+![[Pasted image 20241122131133.png]]
+
+I had some struggles with chatGPT making this.
+
+![[Pasted image 20241122131206.png]]
+
+![[Pasted image 20241122131230.png]]
+
+I kinda love that the money bin is just a trash can of gold coins.
+
 
 ## Convert React Javascript project to Typescript - one file at a time
 @date=2024-11-12

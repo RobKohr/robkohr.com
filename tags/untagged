@@ -28,6 +28,32 @@
             <a href="./index.html">&larr; Home</a>
             <h2>Tag: untagged</h2>
     
+    <h2><a href="articles/wisps">Wisps</a></h2>
+    <div class="variables">
+    <div class="date">@date=2024-12-23</div>
+    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    </div>
+    <article>
+        <p>The world is the most transitory land that floated in the sea of foam. I wish I could see it&#39;s creation and drink its original brew.</p>
+<hr>
+<p>Puny thought set with glue to the back of the brain. Fingers lock as I sit.</p>
+<hr>
+<p>Could an ant leave a leaf that has rebounded deviously to his outstretched ...</p>
+ <p><a class="nowrap" href="articles/wisps">READ MORE (55 words, 0 minutes)</a></p> 
+    </article>
+    
+    <h2><a href="articles/tailwind----quick-thought">Tailwind... quick thought</a></h2>
+    <div class="variables">
+    <div class="date">@date=2024-12-15</div>
+    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    </div>
+    <article>
+        <a href="articles/tailwind----quick-thought"><img class="icon" data-src="images/Pasted image 20241215105219.png" alt="Pasted image 20241215105219.png" style="max-width: 100%;" /></a><p>Look at a bunch of tailwind videos, and thought about how I code to see if the two would be compatiable.</p>
+<p>Typically I make React components, and I give a class name to the top level of the react component. So, UserProfileCard would have the class .user-profile-card-component.</p>
+<p>Then, I create a .s...</p>
+ <p><a class="nowrap" href="articles/tailwind----quick-thought">READ MORE (535 words, 4 minutes, 1 images)</a></p> 
+    </article>
+    
     <h2><a href="articles/sometimes">Sometimes</a></h2>
     <div class="variables">
     <div class="date">@date=2024-05-20</div>
