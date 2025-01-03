@@ -33,7 +33,7 @@
     <h2><a href="articles/sometimes">Sometimes</a></h2>
     <div class="variables">
     <div class="date">@date=2024-05-20</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=<a href="tags/gardening">gardening</a>, <a href="tags/productivity">productivity</a></div>
     </div>
     <article>
         <p>Sometimes I have so many things to do in a day, that it is hard to move forward on some things I want to do. Needs trumping wants.</p>

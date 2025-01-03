@@ -1,5 +1,6 @@
 
-        <html>
+        <html>                
+            <base href="../">
             <head>
                 <title>Back to solidjs - RobKohr's Blog</title>
 
@@ -15,14 +16,19 @@
   gtag("config", "UA-600316-3");
 </script>
 
-<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
-<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
 
+                <link rel="canonical" href="https://robkohr.com/articles/back-to-solidjs" />
                 <link rel="stylesheet" href="../neat.css">
-                <base href="../">
+
+                <meta property="og:description" content="I delved into svelte pretty deep to get a grasp of it. I decided to try to make a set of components similar to material UI, just focusing on form elements. When it came to passing values, references, " />
             </head>
             <body>
-            <a href="./index.html">Home</a>
+            <a href="./index.html">&larr; Home</a>
             
     <h2><a href="articles/back-to-solidjs">Back to solidjs</a></h2>
     <div class="variables">

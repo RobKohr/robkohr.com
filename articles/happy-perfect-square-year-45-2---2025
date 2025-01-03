@@ -1,0 +1,46 @@
+
+        <html>                
+            <base href="../">
+            <head>
+                <title>Happy perfect square year 45^2 = 2025 - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
+
+                <link rel="canonical" href="https://robkohr.com/articles/happy-perfect-square-year-45-2---2025" />
+                <link rel="stylesheet" href="../neat.css">
+
+                <meta property="og:description" content="Been thinking about how things are difficult to get completed, but one thing that never stops is the march of time. Hope to see you all in 2116, the time of the next perfect square year." />
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            
+    <h2><a href="articles/happy-perfect-square-year-45-2---2025">Happy perfect square year 45^2 = 2025</a></h2>
+    <div class="variables">
+    <div class="date">@date=2025-01-03</div>
+    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    </div>
+    <article>
+        <p>Been thinking about how things are difficult to get completed, but one thing that never stops is the march of time. </p>
+<p>Hope to see you all in 2116, the time of the next perfect square year.</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

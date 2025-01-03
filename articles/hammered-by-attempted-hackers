@@ -1,0 +1,71 @@
+
+        <html>                
+            <base href="../">
+            <head>
+                <title>Hammered by attempted hackers - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
+
+                <link rel="canonical" href="https://robkohr.com/articles/hammered-by-attempted-hackers" />
+                <link rel="stylesheet" href="../neat.css">
+
+                <meta property="og:description" content="I did a fix on editthis.info yesterday. It was running super slow, and I found that some ip addresses were banging the hell out of it. One was trying to connect to login.live.com or something like tha" />
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            
+    <h2><a href="articles/hammered-by-attempted-hackers">Hammered by attempted hackers</a></h2>
+    <div class="variables">
+    <div class="date">@date=2025-01-03</div>
+    <div class="tags">@tags=<a href="tags/editthisinfo">editthisinfo</a>, <a href="tags/nginx">nginx</a></div>
+    </div>
+    <article>
+        <p>I did a fix on editthis.info yesterday. It was running super slow, and I found that some ip addresses were banging the hell out of it. One was trying to connect to login.live.com or something like that from microsoft. Another one kept requesting a weird string of escape characters. Both had no useragent strings. I am guessing they were trying to exploit some services by doing buffer overruns, but clearly the services don&#39;t exist on editthis.info.</p>
+<p>I added some 403 errors for the offensive IP&#39;s as well as any request that doesn&#39;t have a useragent string. Seems to have resolved the problem. </p>
+<p>I think I need to do the same to cueflash and my other sites as things have been running slower lately. Probably the same issue. Fortunately nginx makes it pretty easy:</p>
+<pre><code>server {
+    server_name *.editthis.info editthis.info;
+    if ($http_user_agent = &quot;&quot;) { return 403; }
+    if ($http_user_agent = &quot;-&quot;) { return 403; }
+    location / {
+        include /etc/nginx/blocked_ips.conf;
+        allow all;
+        ...
+</code></pre>
+<p>and blocked ips looks like:</p>
+<pre><code>deny 173.231.10.132;
+deny 172.191.112.240;
+deny 167.99.118.187;
+deny 207.154.240.50;
+deny 213.169.42.184;
+deny 67.205.133.49;
+</code></pre>
+<p>Be sure to restart nginx after making the changes as they are not dynamically checked. </p>
+<p>To find these bad IPs I used:</p>
+<pre><code>apt-get install
+goaccess -f /var/log/nginx/access.log
+</code></pre>
+<p>This is a command line access log tool. It is nice because you don&#39;t have to set it up to run on a webserver, and it is pretty snappy. It definitely is bare bones, but it was all I really needed, and was real time, so I could see the constant flow of attempted attacks coming in.</p>
+<p>The one thing I wish it had was some detailed filtering.</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

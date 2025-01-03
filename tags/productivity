@@ -49,6 +49,17 @@
  <p><a class="nowrap" href="articles/focus---learning">READ MORE (62 words, 0 minutes)</a></p> 
     </article>
     
+    <h2><a href="articles/sometimes">Sometimes</a></h2>
+    <div class="variables">
+    <div class="date">@date=2024-05-20</div>
+    <div class="tags">@tags=<a href="tags/gardening">gardening</a>, <a href="tags/productivity">productivity</a></div>
+    </div>
+    <article>
+        <p>Sometimes I have so many things to do in a day, that it is hard to move forward on some things I want to do. Needs trumping wants.</p>
+<p>Today I got finished with the garden. I planted some starts I did in little trays the weekend before last, but they were all looking rather sickly, so I went throug...</p>
+ <p><a class="nowrap" href="articles/sometimes">READ MORE (70 words, 1 minutes)</a></p> 
+    </article>
+    
     <h2><a href="articles/great-life-advice">Great life advice</a></h2>
     <div class="variables">
     <div class="date">@date=2024-02-27</div>

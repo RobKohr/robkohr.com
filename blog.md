@@ -8,9 +8,62 @@
 - <a href="rss.xml">📰 RSS feed</a>
 - <a href="articles/my-stuff">🔭 My stuff out on the web</a>
 
+## Happy perfect square year 45^2 = 2025
+@date=2025-01-03
+
+
+Been thinking about how things are difficult to get completed, but one thing that never stops is the march of time. 
+
+Hope to see you all in 2116, the time of the next perfect square year.
+
+
+## Hammered by attempted hackers
+@date=2025-01-03
+@tags=editthisinfo, nginx
+
+I did a fix on editthis.info yesterday. It was running super slow, and I found that some ip addresses were banging the hell out of it. One was trying to connect to login.live.com or something like that from microsoft. Another one kept requesting a weird string of escape characters. Both had no useragent strings. I am guessing they were trying to exploit some services by doing buffer overruns, but clearly the services don't exist on editthis.info.
+
+I added some 403 errors for the offensive IP's as well as any request that doesn't have a useragent string. Seems to have resolved the problem. 
+
+I think I need to do the same to cueflash and my other sites as things have been running slower lately. Probably the same issue. Fortunately nginx makes it pretty easy:
+
+```
+server {
+    server_name *.editthis.info editthis.info;
+    if ($http_user_agent = "") { return 403; }
+    if ($http_user_agent = "-") { return 403; }
+    location / {
+        include /etc/nginx/blocked_ips.conf;
+        allow all;
+        ...
+
+```
+and blocked ips looks like:
+```
+deny 173.231.10.132;
+deny 172.191.112.240;
+deny 167.99.118.187;
+deny 207.154.240.50;
+deny 213.169.42.184;
+deny 67.205.133.49;
+```
+
+Be sure to restart nginx after making the changes as they are not dynamically checked. 
+
+To find these bad IPs I used:
+```
+apt-get install
+goaccess -f /var/log/nginx/access.log
+```
+
+This is a command line access log tool. It is nice because you don't have to set it up to run on a webserver, and it is pretty snappy. It definitely is bare bones, but it was all I really needed, and was real time, so I could see the constant flow of attempted attacks coming in.
+
+The one thing I wish it had was some detailed filtering.
+
+
 ## Wisps
 @date=2024-12-23
-@tag=poetry
+@tags=poetry
 
 The world is the most transitory land that floated in the sea of foam. I wish I could see it's creation and drink its original brew.
 
@@ -22,9 +75,13 @@ Puny thought set with glue to the back of the brain. Fingers lock as I sit.
 
 Could an ant leave a leaf that has rebounded deviously to his outstretched appendages.
 
+---
+
+Used this https://shifthappens.site/typewriter/ which helped me get in more of a poetry mindset
+
 ## Tailwind... quick thought
 @date=2024-12-15
-@tag=programming, webdev
+@tags=programming, webdev
 
 Look at a bunch of tailwind videos, and thought about how I code to see if the two would be compatiable.
 
@@ -287,6 +344,7 @@ Of course, musicians still make money from album sales and performances, and it 
 
 ## Sometimes
 @date=2024-05-20
+@tags=gardening, productivity
 
 
 Sometimes I have so many things to do in a day, that it is hard to move forward on some things I want to do. Needs trumping wants.
@@ -301,7 +359,7 @@ Today I got finished with the garden. I planted some starts I did in little tray
 This was inspired by this article:
 https://crookedtimber.org/2024/03/25/capitalism-is-dead-long-live-capital/
 
-Through the weaving of all forms of capitalism through large entities that perform rent seeking behavior, we have turned ourselves into pesants working the land of our lord. Nearly companies now use amazon cloud as their data system backend. We funnel all of our communication and connections through social media. All of our shopping is done via platforms that stand between the buyer and seller and take a large cut of the revenue. Our music, apps, and media all give a 30% cut to a handful of big tech companies. It is all controlled by a few: Facebook, Apple, Amazon, Netflix and Google - aptly called FAANG. They know all that you do, they control what you see, and they are the middle man in all transactions, even in the background when you don't see them there. They control your authenticated access to the sites you visit. They are your way of paying for things.
+Through the weaving of all forms of capitalism through large entities that perform rent seeking behavior, we have turned ourselves into peasants working the land of our lord. Nearly companies now use amazon cloud as their data system backend. We funnel all of our communication and connections through social media. All of our shopping is done via platforms that stand between the buyer and seller and take a large cut of the revenue. Our music, apps, and media all give a 30% cut to a handful of big tech companies. It is all controlled by a few: Facebook, Apple, Amazon, Netflix and Google - aptly called FAANG. They know all that you do, they control what you see, and they are the middle man in all transactions, even in the background when you don't see them there. They control your authenticated access to the sites you visit. They are your way of paying for things.
 
 Netflix is probably the most beign of them all, and I include it just because it it typically rapped up in the FAANG acronym, but they seem to be souly focused on just being a streaming video provider, and even they are feudal slaves to the rest of FAANG as they are primarily powered by AWS on the backend. 
 
@@ -6780,6 +6838,12 @@ If you wanna get on the email list, send me an email at:
 robkohr+boardgames@gmail.com
 
 ### Updates:
+
+#### Jan 2nd, 2024 New meetup group
+
+My subscription lapsed on the previous meetup group, so they deleted it. Now it looks like they have a free tier, so I recreated the group here:
+
+https://www.meetup.com/longview-kelso-boardgames-meetup-group
 
 #### June 1st 2024 We've moved
 After having boardgames at Union Square for the last couple years, we decided to change locations. Though the location was great, their reduced Saturday hours, leading to the closing up at 9pm last month, means that it just doesn't work for us anymore. 

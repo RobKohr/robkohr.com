@@ -5,9 +5,25 @@
             <link>https://robkohr.com</link>
             <description>RobKohr's Blog</description>
             <language>en-us</language>
-            <lastBuildDate>Mon, 23 Dec 2024 08:00:00 GMT</lastBuildDate>
-            <pubDate>Mon, 23 Dec 2024 08:00:00 GMT</pubDate>
+            <lastBuildDate>Fri, 03 Jan 2025 08:00:00 GMT</lastBuildDate>
+            <pubDate>Fri, 03 Jan 2025 08:00:00 GMT</pubDate>
             <ttl>1800</ttl>
+            <item>
+                <guid>https://robkohr.com/articles/happy-perfect-square-year-45-2---2025</guid>
+                <title>Happy perfect square year 45^2 = 2025</title>
+                <link>https://robkohr.com/articles/happy-perfect-square-year-45-2---2025</link>
+                <description>Happy perfect square year 45^2 = 2025</description>
+                <pubDate>Tue, 03 Dec 2024 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/hammered-by-attempted-hackers</guid>
+                <title>Hammered by attempted hackers</title>
+                <link>https://robkohr.com/articles/hammered-by-attempted-hackers</link>
+                <description>Hammered by attempted hackers</description>
+                <pubDate>Tue, 03 Dec 2024 00:00:00 GMT</pubDate>
+            </item>
+    
             <item>
                 <guid>https://robkohr.com/articles/wisps</guid>
                 <title>Wisps</title>
@@ -390,22 +406,6 @@
                 <link>https://robkohr.com/articles/joel-spolsky-makes-you-a-wizard-at-excel</link>
                 <description>Joel Spolsky makes you a wizard at excel</description>
                 <pubDate>Mon, 03 Jul 2023 00:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/custom-tags-to-get-over-divitius</guid>
-                <title>Custom tags to get over divitius</title>
-                <link>https://robkohr.com/articles/custom-tags-to-get-over-divitius</link>
-                <description>Custom tags to get over divitius</description>
-                <pubDate>Mon, 03 Jul 2023 00:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/write-code-for-a-business</guid>
-                <title>Write code for a business</title>
-                <link>https://robkohr.com/articles/write-code-for-a-business</link>
-                <description>Write code for a business</description>
-                <pubDate>Fri, 30 Jun 2023 00:00:00 GMT</pubDate>
             </item>
     
         </channel>
