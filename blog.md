@@ -8,6 +8,58 @@
 - <a href="rss.xml">📰 RSS feed</a>
 - <a href="articles/my-stuff">🔭 My stuff out on the web</a>
 
+## Modern art = Indie gaming
+@date=2025-01-05
+@tags=art, gaming, thoughts
+
+As GPUs got better, and as computer graphics in games just kept advancing, we eventually reached a point where some games were photorealistic. Not even just the cars and scenery, but even the people themselves. Somehow the gaming industry broke out of the [uncanny valley](https://en.wikipedia.org/wiki/Uncanny_valley) and with little fanfare, despite the struggle to get there has been going on for about 50 years.
+
+AAA game studios, to keep up with the growing capabilities, now have to hire hundreds of graphic artists to be able to produce their top end games, some spending hundreds of millions of dollars and taking years to produce. 
+
+But the market for games is shifting, with consumers yawning at such impressive productions, and going off and buying up games like stardew valley, which looks like it could have been produced in the 90s and maybe ported to the N64 or even the SNES. 
+
+![[Pasted image 20250105091835.png]]
+_Hollow Knight_
+
+![[Pasted image 20250105092050.png]]
+_Undertale_
+
+![[Pasted image 20250105092122.png]]
+_Celeste_
+
+The indie game scene has been growing for years, but now teams of 1-10 developers are producing major its again, similar to how games on Atari and NES and MSDOS had teams making multi-million dollar games, and those teams could have fit in a fairly large Airbnb. 
+
+With these small teams, instead of focusing their attention on visual perfection they focus on storytelling, creativity in game mechanics, nostalgia, and in the end a community connection to those players of the games. 
+
+Looking at the art world, the time scale is much more expansive, spreading thousands of years from basic cave paintings till the renaissance when [Leonardo da Vinci](https://www.worldhistory.org/Leonardo_da_Vinci/), [Michelangelo](https://www.worldhistory.org/Michelangelo/), [Raphael](https://www.worldhistory.org/Raphael/), and [Donatello](https://www.worldhistory.org/Donatello/) were not just fighting as ninja turtles, but were pouring their souls into creating some of the finest paintings and sculptures ever created. Art that not only perfectly portrayed the physical form of man, but conveyed power and meaning beyond those images. These were creations that took years to make, and a lifetime to develop the skills to create.
+
+Where do you go from there though? There were still movements that kept reaching deeper, but at a certain point, what more can the consumer of art expect, other than near photorealism, but with an artistic bend to it to add meaning.
+
+![[Pasted image 20250105090021.png]]
+
+And then impressionism hit in the late 1800s, and the art world was never the same. Art pushed harder into no longer a perfect representation of the world around it, but in evoking feeling and meaning in the viewer (which was always the goal, but the methods and the perfectionism was changed). Impressionism didn't fill in the details, the mind and heart did. 
+
+But that kept going. Cubism, Surrealism, and to the furtherest extent, Abstract Expressionism stretched what art could be to the point where what is being represented could not even be accurately described in words.
+
+![[Pasted image 20250105085913.png]]
+![[Pasted image 20250105090109.png]]
+![[Pasted image 20250105090232.png]]
+
+Yes, some of these pieces were challenging to the artist to produce, but many were produced in significantly less time than that of the classic masters of art, and the output of the art world dramatically grew, and the consumers of art had so many more experiences that they could take part in and enjoy ([even as silly as buying and eating a multi-million dollar banana duck taped to a wall](https://www.nbcnews.com/news/us-news/man-spent-62-million-banana-duct-taped-wall-says-going-eat-rcna181172)).
+
+Much like the indie scene, much of this art has little to no value, but some hit people so hard that the become sensations that sell for eye watering sums of money. And the art isn't just something that sits there on the wall. It, and the author, engage with the community and the world around it. 
+
+And I guess this brings us full circle to modern art and indie gaming. 
+
+With orders of magnitude less investment, creations are attracting an eager market that want experiences and not perfection. They want to feel something and be provoked to thought. 
+
+You can start to see dribbles of this in other places as well. People are moving away from carefully crafted algorithmic streams on social media to blogs and articles of interest. Billion dollar box office movies of pure CGI perfection are barely breaking even, and the Netflix and Peacock and other streaming platforms are creating new genres of film and movies that are more captivating than ever, and being produced by tiny no name studios. 
+
+We have hit the pinnacle of well financed projects with huge teams, and we are retreating back to small teams of creators that are looking to move our humanity rather than wow us with a perfectionism with no heart.
+
+Maybe we are in a new renaissance.
+
+
 ## Happy perfect square year 45^2 = 2025
 @date=2025-01-03
 

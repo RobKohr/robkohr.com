@@ -5,9 +5,17 @@
             <link>https://robkohr.com</link>
             <description>RobKohr's Blog</description>
             <language>en-us</language>
-            <lastBuildDate>Fri, 03 Jan 2025 08:00:00 GMT</lastBuildDate>
-            <pubDate>Fri, 03 Jan 2025 08:00:00 GMT</pubDate>
+            <lastBuildDate>Sun, 05 Jan 2025 08:00:00 GMT</lastBuildDate>
+            <pubDate>Sun, 05 Jan 2025 08:00:00 GMT</pubDate>
             <ttl>1800</ttl>
+            <item>
+                <guid>https://robkohr.com/articles/modern-art---indie-gaming</guid>
+                <title>Modern art = Indie gaming</title>
+                <link>https://robkohr.com/articles/modern-art---indie-gaming</link>
+                <description>Modern art = Indie gaming</description>
+                <pubDate>Thu, 05 Dec 2024 00:00:00 GMT</pubDate>
+            </item>
+    
             <item>
                 <guid>https://robkohr.com/articles/happy-perfect-square-year-45-2---2025</guid>
                 <title>Happy perfect square year 45^2 = 2025</title>
@@ -398,14 +406,6 @@
                 <link>https://robkohr.com/articles/tailwind</link>
                 <description>Tailwind</description>
                 <pubDate>Fri, 07 Jul 2023 00:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/joel-spolsky-makes-you-a-wizard-at-excel</guid>
-                <title>Joel Spolsky makes you a wizard at excel</title>
-                <link>https://robkohr.com/articles/joel-spolsky-makes-you-a-wizard-at-excel</link>
-                <description>Joel Spolsky makes you a wizard at excel</description>
-                <pubDate>Mon, 03 Jul 2023 00:00:00 GMT</pubDate>
             </item>
     
         </channel>
