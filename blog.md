@@ -14,7 +14,11 @@
 
 As GPUs got better, and as computer graphics in games just kept advancing, we eventually reached a point where some games were photorealistic. Not even just the cars and scenery, but even the people themselves. Somehow the gaming industry broke out of the [uncanny valley](https://en.wikipedia.org/wiki/Uncanny_valley) and with little fanfare, despite the struggle to get there has been going on for about 50 years.
 
+![[Pasted image 20250105093107.png]]
+
 AAA game studios, to keep up with the growing capabilities, now have to hire hundreds of graphic artists to be able to produce their top end games, some spending hundreds of millions of dollars and taking years to produce. 
+
+![[Pasted image 20250105093055.png]]
 
 But the market for games is shifting, with consumers yawning at such impressive productions, and going off and buying up games like stardew valley, which looks like it could have been produced in the 90s and maybe ported to the N64 or even the SNES. 
 
@@ -33,6 +37,10 @@ With these small teams, instead of focusing their attention on visual perfection
 
 Looking at the art world, the time scale is much more expansive, spreading thousands of years from basic cave paintings till the renaissance when [Leonardo da Vinci](https://www.worldhistory.org/Leonardo_da_Vinci/), [Michelangelo](https://www.worldhistory.org/Michelangelo/), [Raphael](https://www.worldhistory.org/Raphael/), and [Donatello](https://www.worldhistory.org/Donatello/) were not just fighting as ninja turtles, but were pouring their souls into creating some of the finest paintings and sculptures ever created. Art that not only perfectly portrayed the physical form of man, but conveyed power and meaning beyond those images. These were creations that took years to make, and a lifetime to develop the skills to create.
 
+![[Pasted image 20250105092802.png]]
+![[Pasted image 20250105092827.png]]
+![[Pasted image 20250105092855.png]]
+
 Where do you go from there though? There were still movements that kept reaching deeper, but at a certain point, what more can the consumer of art expect, other than near photorealism, but with an artistic bend to it to add meaning.
 
 ![[Pasted image 20250105090021.png]]
@@ -46,6 +54,8 @@ But that kept going. Cubism, Surrealism, and to the furtherest extent, Abstract 
 ![[Pasted image 20250105090232.png]]
 
 Yes, some of these pieces were challenging to the artist to produce, but many were produced in significantly less time than that of the classic masters of art, and the output of the art world dramatically grew, and the consumers of art had so many more experiences that they could take part in and enjoy ([even as silly as buying and eating a multi-million dollar banana duck taped to a wall](https://www.nbcnews.com/news/us-news/man-spent-62-million-banana-duct-taped-wall-says-going-eat-rcna181172)).
+
+![[Pasted image 20250105093200.png]]
 
 Much like the indie scene, much of this art has little to no value, but some hit people so hard that the become sensations that sell for eye watering sums of money. And the art isn't just something that sits there on the wall. It, and the author, engage with the community and the world around it. 
 
