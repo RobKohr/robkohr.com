@@ -1,7 +1,7 @@
 
         <html>
             <head>
-                <title>reading - RobKohr's Blog</title>
+                <title>blogs - RobKohr's Blog</title>
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
@@ -26,7 +26,7 @@
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>
-            <h2>Tag: reading</h2>
+            <h2>Tag: blogs</h2>
     
     <h2><a href="articles/small-web">Small Web</a></h2>
     <div class="variables">
@@ -38,16 +38,6 @@
 <a href="https://kagi.com/smallweb/">https://kagi.com/smallweb/</a></p>
 <p>It will present you with a new blog article from various different blogs when every you press the &quot;Next Post&quot; button. So much more enjoyable than browsing facebook or any social media site.</p>
 
-    </article>
-    
-    <h2><a href="articles/hacker-newsletter">Hacker Newsletter</a></h2>
-    <div class="variables">
-    <div class="date">@date=2020-08-28</div>
-    <div class="tags">@tags=<a href="tags/reading">reading</a>, <a href="tags/tech">tech</a></div>
-    </div>
-    <article>
-        <p>I use rss feeds, reddit, twitter, news sites, etc, etc, but the most distilled grouping of great new things to read on the web regarding programming, science, design, and many other things is <a href="https://www.hackernewsletter.com/">Hacker Newsletter</a>. It is a weekly email newsletter that is a curated ...</p>
- <p><a class="nowrap" href="articles/hacker-newsletter">READ MORE (98 words, 1 minutes)</a></p> 
     </article>
     
             </body>

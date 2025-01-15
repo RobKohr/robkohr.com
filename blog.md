@@ -8,6 +8,60 @@
 - <a href="rss.xml">📰 RSS feed</a>
 - <a href="articles/my-stuff">🔭 My stuff out on the web</a>
 
+## Why Multiple Competing Platforms Are Better Than One
+
+@date=2025-01-15  
+@tags=govt
+
+In a few days, TikTok will be banned in the USA.
+
+I won’t mourn the loss of the platform. Personally, watching short-form videos on TikTok, YouTube, or Facebook feels like mental junk food—leaving me with a sense of unease. These platforms don’t seem beneficial for anyone, but eliminating TikTok likely won’t set back the concept. A U.S.-based replacement will probably emerge, much like weeds sprouting in a freshly tilled field.
+
+The main arguments for banning TikTok boil down to two concerns:
+
+### 1. Data Privacy and the Chinese Communist Party (CCP)
+
+Critics argue that TikTok siphons user data and hands it over to the CCP. But does anyone really care anymore?
+
+In the digital age, we’ve become desensitized to privacy violations. Corporations routinely harvest and sell our data to the highest bidder. Even when companies claim to protect our information, they often fail to secure it adequately, leaving it vulnerable to hackers.
+
+Realistically, every piece of information you’ve shared online is likely accessible to adversaries, including China. People know this, and it’s difficult to stir outrage over something that feels inevitable.
+
+### 2. Manipulation via Algorithms
+
+Another major concern is TikTok’s potential to manipulate public opinion in adversarial nations like the U.S. But let’s not forget: the U.S. has been doing this for decades.
+
+From dropping propaganda leaflets to broadcasting via radio and TV, and now leveraging VPNs and Tor to reach blocked platforms, the U.S. has long sought to influence public opinion in authoritarian states. The goal is to disseminate “truth” (or our version of it) to undermine authoritarian regimes.
+
+China’s internet censorship—blocking platforms like Facebook and Google—stems from the same principle: controlling information makes controlling people easier.
+
+### Competing Manipulation Creates Balance
+
+Ironically, foreign platforms like TikTok play a role in keeping U.S. government censorship in check. Platforms under American control, such as Facebook and Twitter, have faced significant pressure to censor content. Mark Zuckerberg has openly discussed government influence over Facebook, and Twitter under its previous leadership was heavily involved in moderation and censorship.
+
+If foreign platforms remain popular, they disrupt this dynamic. The U.S. government cannot as easily suppress dissenting voices if alternative platforms exist outside its sphere of influence.
+
+Yes, adversaries like China or Russia could use these platforms to manipulate Americans. But competing sources of manipulation often cancel each other out, forcing individuals to think critically. This is the power of free speech—it fosters a marketplace of ideas where people can make up their own minds.
+
+### Lessons from History
+
+Freedom of speech is essential, even for enemies. The Vietnam War offers a valuable lesson: American journalists brought back uncensored news and information, sparking widespread protests. If soldiers and civilians had access to mobile phones and the internet at the time, the public might have learned the unvarnished truth even sooner, potentially ending the war earlier and saving lives.
+
+### The Role of Competition
+
+Competition among platforms also curbs censorship on U.S.-run sites. If censorship becomes too heavy-handed, alternative platforms like TikTok emerge to fill the gap, forcing even domestic platforms to tread carefully.
+
+In the end, a world with multiple competing platforms—even those controlled by adversaries—is healthier than one dominated by a single voice. It ensures a balance of power and protects the marketplace of ideas, allowing individuals to think and decide for themselves.
+
+## Small Web
+@date=2025-01-08
+@tags=reading, blogs
+
+I just found this:
+https://kagi.com/smallweb/
+
+It will present you with a new blog article from various different blogs when every you press the "Next Post" button. So much more enjoyable than browsing facebook or any social media site. 
+
 ## Modern art = Indie gaming
 @date=2025-01-05
 @tags=art, gaming, thoughts

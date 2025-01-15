@@ -5,9 +5,25 @@
             <link>https://robkohr.com</link>
             <description>RobKohr's Blog</description>
             <language>en-us</language>
-            <lastBuildDate>Sun, 05 Jan 2025 08:00:00 GMT</lastBuildDate>
-            <pubDate>Sun, 05 Jan 2025 08:00:00 GMT</pubDate>
+            <lastBuildDate>Wed, 15 Jan 2025 08:00:00 GMT</lastBuildDate>
+            <pubDate>Wed, 15 Jan 2025 08:00:00 GMT</pubDate>
             <ttl>1800</ttl>
+            <item>
+                <guid>https://robkohr.com/articles/why-multiple-competing-platforms-are-better-than-one</guid>
+                <title>Why Multiple Competing Platforms Are Better Than One</title>
+                <link>https://robkohr.com/articles/why-multiple-competing-platforms-are-better-than-one</link>
+                <description>Why Multiple Competing Platforms Are Better Than One</description>
+                <pubDate>Sun, 15 Dec 2024 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/small-web</guid>
+                <title>Small Web</title>
+                <link>https://robkohr.com/articles/small-web</link>
+                <description>Small Web</description>
+                <pubDate>Sun, 08 Dec 2024 00:00:00 GMT</pubDate>
+            </item>
+    
             <item>
                 <guid>https://robkohr.com/articles/modern-art---indie-gaming</guid>
                 <title>Modern art = Indie gaming</title>
@@ -390,22 +406,6 @@
                 <link>https://robkohr.com/articles/writing-it-down</link>
                 <description>Writing it down</description>
                 <pubDate>Fri, 21 Jul 2023 00:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/solid---usecontext</guid>
-                <title>Solid - useContext</title>
-                <link>https://robkohr.com/articles/solid---usecontext</link>
-                <description>Solid - useContext</description>
-                <pubDate>Fri, 21 Jul 2023 00:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/tailwind</guid>
-                <title>Tailwind</title>
-                <link>https://robkohr.com/articles/tailwind</link>
-                <description>Tailwind</description>
-                <pubDate>Fri, 07 Jul 2023 00:00:00 GMT</pubDate>
             </item>
     
         </channel>
