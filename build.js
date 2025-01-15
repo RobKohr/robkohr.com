@@ -177,9 +177,11 @@ articles.forEach(function (article) {
 });
 
 let output = `
-    <html>
-        <meta charset="UTF-8">
-        <head>
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        
             <title>RobKohr's Blog</title>
             <base href="./">
 ${headerExtras}
