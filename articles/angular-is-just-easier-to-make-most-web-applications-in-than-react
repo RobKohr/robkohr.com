@@ -1,7 +1,9 @@
 
-        <html>                
-            <base href="../">
-            <head>
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
                 <title>Angular is just easier to make most web applications in than React - RobKohr's Blog</title>
 
 <!-- Google tag (gtag.js) -->

@@ -1,7 +1,9 @@
 
-        <html>                
-            <base href="../">
-            <head>
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
                 <title>So nice. I was fiddling with Gimp to edit an image, but aviary is so much eas... - RobKohr's Blog</title>
 
 <!-- Google tag (gtag.js) -->

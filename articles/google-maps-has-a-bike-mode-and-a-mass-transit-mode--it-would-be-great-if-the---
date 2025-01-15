@@ -1,7 +1,9 @@
 
-        <html>                
-            <base href="../">
-            <head>
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
                 <title>Google maps has a bike mode and a mass transit mode. It would be great if the... - RobKohr's Blog</title>
 
 <!-- Google tag (gtag.js) -->

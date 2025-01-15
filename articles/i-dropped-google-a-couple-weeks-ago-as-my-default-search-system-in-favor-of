@@ -1,7 +1,9 @@
 
-        <html>                
-            <base href="../">
-            <head>
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
                 <title>I dropped google a couple weeks ago as my default search system in favor of - RobKohr's Blog</title>
 
 <!-- Google tag (gtag.js) -->

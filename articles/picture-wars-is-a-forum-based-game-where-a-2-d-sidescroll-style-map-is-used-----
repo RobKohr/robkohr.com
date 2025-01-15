@@ -1,7 +1,9 @@
 
-        <html>                
-            <base href="../">
-            <head>
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
                 <title>Picture wars is a forum based game where a 2-d sidescroll style map is used. ... - RobKohr's Blog</title>
 
 <!-- Google tag (gtag.js) -->

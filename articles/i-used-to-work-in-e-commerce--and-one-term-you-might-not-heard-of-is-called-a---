@@ -1,7 +1,9 @@
 
-        <html>                
-            <base href="../">
-            <head>
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
                 <title>I used to work in e-commerce, and one term you might not heard of is called a... - RobKohr's Blog</title>
 
 <!-- Google tag (gtag.js) -->

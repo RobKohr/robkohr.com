@@ -1,7 +1,9 @@
 
-        <html>                
-            <base href="../">
-            <head>
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
                 <title>Attempted to play Dwarf Fortress last night. It is a tough game to get into. - RobKohr's Blog</title>
 
 <!-- Google tag (gtag.js) -->

@@ -1,7 +1,9 @@
 
-        <html>                
-            <base href="../">
-            <head>
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
                 <title>So my 3 year old is totally into video games (in particular a game on the wii... - RobKohr's Blog</title>
 
 <!-- Google tag (gtag.js) -->

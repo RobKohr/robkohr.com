@@ -1,7 +1,9 @@
 
-        <html>                
-            <base href="../">
-            <head>
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
                 <title>**Follow everyone that someone else is following on twitter** - RobKohr's Blog</title>
 
 <!-- Google tag (gtag.js) -->

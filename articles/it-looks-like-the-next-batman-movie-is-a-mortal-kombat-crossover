@@ -1,7 +1,9 @@
 
-        <html>                
-            <base href="../">
-            <head>
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
                 <title>It looks like the next batman movie is a mortal kombat crossover - RobKohr's Blog</title>
 
 <!-- Google tag (gtag.js) -->

@@ -1,7 +1,9 @@
 
-        <html>                
-            <base href="../">
-            <head>
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
                 <title>On FB and G+ games, they don't allow you to modify the permissions for th... - RobKohr's Blog</title>
 
 <!-- Google tag (gtag.js) -->

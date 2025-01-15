@@ -1,7 +1,9 @@
 
-        <html>                
-            <base href="../">
-            <head>
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
                 <title>After using mongodb for quite some time and building several systems with it,... - RobKohr's Blog</title>
 
 <!-- Google tag (gtag.js) -->

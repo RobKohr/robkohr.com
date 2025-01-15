@@ -1,7 +1,9 @@
 
-        <html>                
-            <base href="../">
-            <head>
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
                 <title>Here&#39;s something for the punk rock fans. The Misfits are releasing their ... - RobKohr's Blog</title>
 
 <!-- Google tag (gtag.js) -->

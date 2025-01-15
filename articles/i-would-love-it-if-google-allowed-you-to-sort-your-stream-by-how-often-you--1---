@@ -1,7 +1,9 @@
 
-        <html>                
-            <base href="../">
-            <head>
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
                 <title>I would love it if google allowed you to sort your stream by how often you +1... - RobKohr's Blog</title>
 
 <!-- Google tag (gtag.js) -->

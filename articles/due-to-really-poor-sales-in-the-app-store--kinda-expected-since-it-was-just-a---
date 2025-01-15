@@ -1,7 +1,9 @@
 
-        <html>                
-            <base href="../">
-            <head>
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
                 <title>Due to really poor sales in the app store (kinda expected since it was just a... - RobKohr's Blog</title>
 
 <!-- Google tag (gtag.js) -->

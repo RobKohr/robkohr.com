@@ -248,9 +248,11 @@ articles.forEach(function (article) {
   const description = article.content.replace(/<[^>]+>/g, "").replace(/\n/g, "").substring(0, 200).replace(/"/g, "");
 
   const articleStartHtml = `
-        <html>                
-            <base href="../">
-            <head>
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
                 <title>${article.title} - RobKohr's Blog</title>
 ${headerExtras}
                 <link rel="canonical" href="https://robkohr.com/articles/${filename}" />

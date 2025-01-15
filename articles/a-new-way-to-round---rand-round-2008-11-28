@@ -1,7 +1,9 @@
 
-        <html>                
-            <base href="../">
-            <head>
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
                 <title>A new way to round - rand_round 2008-11-28 - RobKohr's Blog</title>
 
 <!-- Google tag (gtag.js) -->

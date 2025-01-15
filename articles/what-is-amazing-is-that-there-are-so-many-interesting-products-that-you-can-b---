@@ -1,7 +1,9 @@
 
-        <html>                
-            <base href="../">
-            <head>
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
                 <title>What is amazing is that there are so many interesting products that you can b... - RobKohr's Blog</title>
 
 <!-- Google tag (gtag.js) -->

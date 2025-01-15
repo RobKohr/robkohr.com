@@ -1,7 +1,9 @@
 
-        <html>                
-            <base href="../">
-            <head>
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
                 <title>Google has been manipulating their algorithm, with the goal of making it more... - RobKohr's Blog</title>
 
 <!-- Google tag (gtag.js) -->

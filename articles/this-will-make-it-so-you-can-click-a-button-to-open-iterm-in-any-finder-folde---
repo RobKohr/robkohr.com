@@ -1,7 +1,9 @@
 
-        <html>                
-            <base href="../">
-            <head>
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
                 <title>This will make it so you can click a button to open iTerm in any finder folde... - RobKohr's Blog</title>
 
 <!-- Google tag (gtag.js) -->

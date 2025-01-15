@@ -1,7 +1,9 @@
 
-        <html>                
-            <base href="../">
-            <head>
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
                 <title>There is a Mongolian place we go to where one of the bins of meat is labeled ... - RobKohr's Blog</title>
 
 <!-- Google tag (gtag.js) -->

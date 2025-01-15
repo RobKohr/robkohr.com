@@ -1,7 +1,9 @@
 
-        <html>                
-            <base href="../">
-            <head>
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
                 <title>I wish there was 2x, 4x, 8x speed modes for youtube and other video sites. So... - RobKohr's Blog</title>
 
 <!-- Google tag (gtag.js) -->
