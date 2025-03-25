@@ -396,6 +396,6 @@ fs.writeFileSync(`rss.xml`, output);
 if (!fs.existsSync("now")) {
   fs.mkdirSync("now");
 }
-fs.copyFileSync("articles/now.html", "now/index.html");
+fs.copyFileSync("articles/now", "now/index.html");
 
 console.log("done");
