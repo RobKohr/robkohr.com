@@ -15,10 +15,11 @@
   gtag("config", "UA-600316-3");
 </script>
 
-<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
-<link rel="shortcut icon" type="image/ico" href="favicon.ico">
-<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
-<script src="libs/highlight/highlight.min.js"></script>
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
 
                 <link rel="stylesheet" href="../neat.css">
                 <base href="../">
@@ -35,7 +36,7 @@
     <article>
         <p>This is a game invented by Jane Street to help people learn about trading and working with limited information.</p>
 <p>To set up for this, have one player go off to a side table so other players don&#39;t see, and sort the cards into 4 piles, one for each suit. Take the two black suits piles face down, and...</p>
- <p><a class="nowrap" href="articles/how-to-play-figgie">READ MORE (572 words)</a></p> 
+ <p><a class="nowrap" href="articles/how-to-play-figgie">READ MORE (572 words, 4 minutes)</a></p> 
     </article>
     
     <h2><a href="articles/standardizing-portable-board-games">Standardizing portable board games</a></h2>
@@ -47,7 +48,7 @@
         <p>I have a bit of a thought that 3d printing boardgames would be great, particularly portable ones with
 nice cases.</p>
 <p>For sizing, I am thinking of basing it off of the <a href="https://en.wikipedia.org/wiki/ISO_216">iso 216 paper sizing formats</a>. Most people will think of this relating to the A4 printer pap...</p>
- <p><a class="nowrap" href="articles/standardizing-portable-board-games">READ MORE (387 words, 2 images)</a></p> 
+ <p><a class="nowrap" href="articles/standardizing-portable-board-games">READ MORE (387 words, 3 minutes, 2 images)</a></p> 
     </article>
     
     <h2><a href="articles/1000-blank-white-cards-sounds-like-a-fun-game">1000 Blank White cards sounds like a fun game</a></h2>
@@ -56,12 +57,12 @@ nice cases.</p>
     <div class="tags">@tags=<a href="tags/boardgames">boardgames</a></div>
     </div>
     <article>
-        <a href="articles/1000-blank-white-cards-sounds-like-a-fun-game"><img class="icon" src="images/From dvorakgame.co.uk.png" alt="From dvorakgame.co.uk.png" style="max-width: 100%;" /></a><p>
+        <a href="articles/1000-blank-white-cards-sounds-like-a-fun-game"><img class="icon" data-src="images/From dvorakgame.co.uk.png" alt="From dvorakgame.co.uk.png" style="max-width: 100%;" /></a><p>
 I was reading this BGG page:</p>
 <p><a href="https://boardgamegeek.com/boardgame/4550/1000-blank-white-cards">https://boardgamegeek.com/boardgame/4550/1000-blank-white-cards</a></p>
 <p>And it looks like a fun game to play, especially with some jumbo index cards.</p>
 <p>Some ideas for a go...</p>
- <p><a class="nowrap" href="articles/1000-blank-white-cards-sounds-like-a-fun-game">READ MORE (280 words, 3 images)</a></p> 
+ <p><a class="nowrap" href="articles/1000-blank-white-cards-sounds-like-a-fun-game">READ MORE (280 words, 2 minutes, 3 images)</a></p> 
     </article>
     
     <h2><a href="articles/started-on-a-shareable-web-based-boardgame-system">Started on a shareable web based boardgame system</a></h2>
@@ -70,9 +71,9 @@ I was reading this BGG page:</p>
     <div class="tags">@tags=<a href="tags/shareable-board-game">shareable-board-game</a>, <a href="tags/software-ideas">software-ideas</a>, <a href="tags/instaboardgame">instaboardgame</a>, <a href="tags/boardgames">boardgames</a></div>
     </div>
     <article>
-        <p><img src="images/2020-05-07-11-13-10.png" alt="2020-05-07-11-13-10.png" style="max-width: 100%;" /></p>
-<p><img src="images/2020-05-07-11-13-49.png" alt="2020-05-07-11-13-49.png" style="max-width: 100%;" /></p>
-<p><img src="images/2020-05-07-11-14-09.png" alt="2020-05-07-11-14-09.png" style="max-width: 100%;" /></p>
+        <p><img data-src="images/2020-05-07-11-13-10.png" alt="2020-05-07-11-13-10.png" style="max-width: 100%;" /></p>
+<p><img data-src="images/2020-05-07-11-13-49.png" alt="2020-05-07-11-13-49.png" style="max-width: 100%;" /></p>
+<p><img data-src="images/2020-05-07-11-14-09.png" alt="2020-05-07-11-14-09.png" style="max-width: 100%;" /></p>
 
     </article>
     

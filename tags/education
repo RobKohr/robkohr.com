@@ -15,10 +15,11 @@
   gtag("config", "UA-600316-3");
 </script>
 
-<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
-<link rel="shortcut icon" type="image/ico" href="favicon.ico">
-<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
-<script src="libs/highlight/highlight.min.js"></script>
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
 
                 <link rel="stylesheet" href="../neat.css">
                 <base href="../">
@@ -35,7 +36,7 @@
     <article>
         <p>It would be interesting if kindergarten teachers went with you all the way up to senior year of high school. They wouldn&#39;t just be a teacher for a grade level, but for the lifetime of a kid till they go off to college.   </p>
 <p>Yep, I can see plenty of problems with this and plenty of work arounds t...</p>
- <p><a class="nowrap" href="articles/teacher-for-all-of-childhood">READ MORE (122 words)</a></p> 
+ <p><a class="nowrap" href="articles/teacher-for-all-of-childhood">READ MORE (122 words, 1 minutes)</a></p> 
     </article>
     
             </body>

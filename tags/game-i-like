@@ -15,10 +15,11 @@
   gtag("config", "UA-600316-3");
 </script>
 
-<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
-<link rel="shortcut icon" type="image/ico" href="favicon.ico">
-<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
-<script src="libs/highlight/highlight.min.js"></script>
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
 
                 <link rel="stylesheet" href="../neat.css">
                 <base href="../">
@@ -35,7 +36,7 @@
     <article>
         <p>I was reading an article in Gamasutra about novel game design and he told a little story about how this game helped snap him out of depression (and also helped him realize that games can provide more than just casual fun).</p>
 <p>If you know anyone that might be dealing with depression, send them the li...</p>
- <p><a class="nowrap" href="articles/depression-quest--an-interactive--non-fiction-about-living-with-depression">READ MORE (72 words)</a></p> 
+ <p><a class="nowrap" href="articles/depression-quest--an-interactive--non-fiction-about-living-with-depression">READ MORE (72 words, 1 minutes)</a></p> 
     </article>
     
             </body>

@@ -15,10 +15,11 @@
   gtag("config", "UA-600316-3");
 </script>
 
-<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
-<link rel="shortcut icon" type="image/ico" href="favicon.ico">
-<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
-<script src="libs/highlight/highlight.min.js"></script>
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
 
                 <link rel="stylesheet" href="../neat.css">
                 <base href="../">
@@ -36,7 +37,7 @@
         <p><a rel="nofollow" target="_blank" href="http://blog.xkcd.com/2013/05/15/dictionary-of-numbers/" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">http://blog.xkcd.com/2013/05/15/dictionary-of-numbers/</a></p>
 <h3>Dictionary of Numbers | xkcd</h3>
 <p><a href="http://blog.xkcd.com/2013/05/15/dictionar">http://blog.xkcd.com/2013/05/15/dictionar</a>...</p>
- <p><a class="nowrap" href="articles/dictionary-of-numbers">READ MORE (14 words)</a></p> 
+ <p><a class="nowrap" href="articles/dictionary-of-numbers">READ MORE (14 words, 0 minutes)</a></p> 
     </article>
     
             </body>

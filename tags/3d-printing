@@ -15,10 +15,11 @@
   gtag("config", "UA-600316-3");
 </script>
 
-<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
-<link rel="shortcut icon" type="image/ico" href="favicon.ico">
-<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
-<script src="libs/highlight/highlight.min.js"></script>
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
 
                 <link rel="stylesheet" href="../neat.css">
                 <base href="../">
@@ -33,9 +34,9 @@
     <div class="tags">@tags=<a href="tags/3d-printing">3d-printing</a></div>
     </div>
     <article>
-        <a href="articles/making-a-laptop-holder"><img class="icon" src="images/before-cuts.png" alt="before-cuts.png" style="max-width: 100%;" /></a><p>I like to use my 3d printer a lot, but sometimes when there is a problem, I drop out of use for a while. Recently, a big ball of melted plastic formed around the hot end, and I didn&#39;t have an urge to fix it for a while.</p>
+        <a href="articles/making-a-laptop-holder"><img class="icon" data-src="images/before-cuts.png" alt="before-cuts.png" style="max-width: 100%;" /></a><p>I like to use my 3d printer a lot, but sometimes when there is a problem, I drop out of use for a while. Recently, a big ball of melted plastic formed around the hot end, and I didn&#39;t have an urge to fix it for a while.</p>
 <p>Since we were doing the Nightmare Before Christmas as the theme for our card...</p>
- <p><a class="nowrap" href="articles/making-a-laptop-holder">READ MORE (316 words, 2 images)</a></p> 
+ <p><a class="nowrap" href="articles/making-a-laptop-holder">READ MORE (316 words, 2 minutes, 2 images)</a></p> 
     </article>
     
     <h2><a href="articles/standardizing-portable-board-games">Standardizing portable board games</a></h2>
@@ -47,7 +48,7 @@
         <p>I have a bit of a thought that 3d printing boardgames would be great, particularly portable ones with
 nice cases.</p>
 <p>For sizing, I am thinking of basing it off of the <a href="https://en.wikipedia.org/wiki/ISO_216">iso 216 paper sizing formats</a>. Most people will think of this relating to the A4 printer pap...</p>
- <p><a class="nowrap" href="articles/standardizing-portable-board-games">READ MORE (387 words, 2 images)</a></p> 
+ <p><a class="nowrap" href="articles/standardizing-portable-board-games">READ MORE (387 words, 3 minutes, 2 images)</a></p> 
     </article>
     
             </body>

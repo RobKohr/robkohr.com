@@ -15,10 +15,11 @@
   gtag("config", "UA-600316-3");
 </script>
 
-<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
-<link rel="shortcut icon" type="image/ico" href="favicon.ico">
-<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
-<script src="libs/highlight/highlight.min.js"></script>
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
 
                 <link rel="stylesheet" href="../neat.css">
                 <base href="../">
@@ -39,7 +40,7 @@
 <ul>
 <li>Read a chall...</li>
 </ul>
- <p><a class="nowrap" href="articles/barbell-strategies">READ MORE (89 words)</a></p> 
+ <p><a class="nowrap" href="articles/barbell-strategies">READ MORE (89 words, 1 minutes)</a></p> 
     </article>
     
     <h2><a href="articles/mind-racing--can-t-nap">Mind racing, can't nap</a></h2>
@@ -64,7 +65,7 @@
 <p>Creativity is derived from play.</p>
 <p>We exist in one of two states: Open and Closed</p>
 <p>Closed is for when creativity is decided on and should be the follow up to being open. ...</p>
- <p><a class="nowrap" href="articles/john-cleese-on-creativity-summary">READ MORE (448 words)</a></p> 
+ <p><a class="nowrap" href="articles/john-cleese-on-creativity-summary">READ MORE (448 words, 3 minutes)</a></p> 
     </article>
     
             </body>

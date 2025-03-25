@@ -15,10 +15,11 @@
   gtag("config", "UA-600316-3");
 </script>
 
-<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
-<link rel="shortcut icon" type="image/ico" href="favicon.ico">
-<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
-<script src="libs/highlight/highlight.min.js"></script>
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
 
                 <link rel="stylesheet" href="../neat.css">
                 <base href="../">
@@ -40,7 +41,7 @@
 <li><a href="http://constantsail.com">ConstantSail pirate and trading game</a></li>
 <li>And atari combat and ast...</li>
 </ul>
- <p><a class="nowrap" href="articles/one-codebase-to-rule-them-all">READ MORE (729 words)</a></p> 
+ <p><a class="nowrap" href="articles/one-codebase-to-rule-them-all">READ MORE (729 words, 6 minutes)</a></p> 
     </article>
     
     <h2><a href="articles/easy-instant-github-branch-deployment">Easy instant github branch deployment</a></h2>
@@ -71,7 +72,7 @@
 <ul>
 <li>A ...</li>
 </ul>
- <p><a class="nowrap" href="articles/thoughts-on-using-grommet-for-web-app-design">READ MORE (266 words)</a></p> 
+ <p><a class="nowrap" href="articles/thoughts-on-using-grommet-for-web-app-design">READ MORE (266 words, 2 minutes)</a></p> 
     </article>
     
     <h2><a href="articles/next-js-vs-create-react-app">Next.js vs Create-React-App</a></h2>
@@ -84,7 +85,7 @@
 <ul>
 <li>myApp/pages/page-name/index.js is how you create a route for /page-name. While quick and friendly, I prefer t...</li>
 </ul>
- <p><a class="nowrap" href="articles/next-js-vs-create-react-app">READ MORE (335 words)</a></p> 
+ <p><a class="nowrap" href="articles/next-js-vs-create-react-app">READ MORE (335 words, 3 minutes)</a></p> 
     </article>
     
             </body>

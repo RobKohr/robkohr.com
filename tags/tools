@@ -15,10 +15,11 @@
   gtag("config", "UA-600316-3");
 </script>
 
-<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
-<link rel="shortcut icon" type="image/ico" href="favicon.ico">
-<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
-<script src="libs/highlight/highlight.min.js"></script>
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
 
                 <link rel="stylesheet" href="../neat.css">
                 <base href="../">
@@ -37,7 +38,7 @@
 <a href="https://www4.lunapic.com/editor/">https://www4.lunapic.com/editor/</a></p>
 <p>You can create animated gifs, do art style filters, do some basic drawing and modifications, etc.</p>
 <p>Many of the thinks ...</p>
- <p><a class="nowrap" href="articles/online-tool-for-quick-photo-edits">READ MORE (59 words)</a></p> 
+ <p><a class="nowrap" href="articles/online-tool-for-quick-photo-edits">READ MORE (59 words, 0 minutes)</a></p> 
     </article>
     
     <h2><a href="articles/alternative-to-zoom--google-meet--and-teams">Alternative to zoom, google meet, and teams</a></h2>
@@ -56,7 +57,7 @@
     <div class="tags">@tags=<a href="tags/tools">tools</a></div>
     </div>
     <article>
-        <p><img src="images/2020-06-12-08-44-16.png" alt="2020-06-12-08-44-16.png" style="max-width: 100%;" /></p>
+        <p><img data-src="images/2020-06-12-08-44-16.png" alt="2020-06-12-08-44-16.png" style="max-width: 100%;" /></p>
 <p><a href="https://nodered.org/">Node red</a> this is a very similar thing to yahoo pipes back in the day. It is a self hosted tool to pipe things into each other and do operations on them (best to watch the video there).</p>
 
     </article>

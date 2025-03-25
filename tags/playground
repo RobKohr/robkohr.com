@@ -15,10 +15,11 @@
   gtag("config", "UA-600316-3");
 </script>
 
-<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
-<link rel="shortcut icon" type="image/ico" href="favicon.ico">
-<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
-<script src="libs/highlight/highlight.min.js"></script>
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
 
                 <link rel="stylesheet" href="../neat.css">
                 <base href="../">
@@ -33,7 +34,7 @@
     <div class="tags">@tags=<a href="tags/playground">playground</a></div>
     </div>
     <article>
-        <p><img src="images/2024-02-13 play structure redesign.png" alt="2024-02-13 play structure redesign.png" style="max-width: 100%;" /></p>
+        <p><img data-src="images/2024-02-13 play structure redesign.png" alt="2024-02-13 play structure redesign.png" style="max-width: 100%;" /></p>
 <p>Also, looking at this for some insperation:
 <a href="https://www.facebook.com/reel/1019224596054886">https://www.facebook.com/reel/1019224596054886</a></p>
 
@@ -45,7 +46,7 @@
     <div class="tags">@tags=<a href="tags/ar">ar</a>, <a href="tags/drawing">drawing</a>, <a href="tags/playground">playground</a>, <a href="tags/design">design</a>, <a href="tags/woodworking">woodworking</a></div>
     </div>
     <article>
-        <p><img src="images/Designing playground structure using AR - 2022-08-15.png" alt="Designing playground structure using AR - 2022-08-15.png" style="max-width: 100%;" /></p>
+        <p><img data-src="images/Designing playground structure using AR - 2022-08-15.png" alt="Designing playground structure using AR - 2022-08-15.png" style="max-width: 100%;" /></p>
 
     </article>
     

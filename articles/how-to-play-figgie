@@ -1,6 +1,9 @@
 
-        <html>
-            <head>
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
                 <title>How to play figgie - RobKohr's Blog</title>
 
 <!-- Google tag (gtag.js) -->
@@ -15,14 +18,16 @@
   gtag("config", "UA-600316-3");
 </script>
 
-<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
-<link rel="shortcut icon" type="image/ico" href="favicon.ico">
-<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
-<script src="libs/highlight/highlight.min.js"></script>
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
 
                 <link rel="canonical" href="https://robkohr.com/articles/how-to-play-figgie" />
                 <link rel="stylesheet" href="../neat.css">
-                <base href="../">
+
+                <meta property="og:description" content="This is a game invented by Jane Street to help people learn about trading and working with limited information.To set up for this, have one player go off to a side table so other players don't see, an" />
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>

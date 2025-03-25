@@ -15,10 +15,11 @@
   gtag("config", "UA-600316-3");
 </script>
 
-<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
-<link rel="shortcut icon" type="image/ico" href="favicon.ico">
-<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
-<script src="libs/highlight/highlight.min.js"></script>
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
 
                 <link rel="stylesheet" href="../neat.css">
                 <base href="../">
@@ -35,7 +36,7 @@
     <article>
         <p>I have tried a bunch of task list management methods, and I am going to try a new one. </p>
 <p>On my work calendar app, I created a new calendar where events get a light blue color. I have some repeating events on there that I want to do every day: working out, playing violin, working on individual pro...</p>
- <p><a class="nowrap" href="articles/organize-through-a-calendar">READ MORE (142 words)</a></p> 
+ <p><a class="nowrap" href="articles/organize-through-a-calendar">READ MORE (142 words, 1 minutes)</a></p> 
     </article>
     
     <h2><a href="articles/focus---learning">Focus & Learning</a></h2>
@@ -45,7 +46,7 @@
     </div>
     <article>
         <p>I wonder how many different subjects and skills you can learn at the same time - during a week, not simultaneously - and still progress in them. Like if you spend 30-60 minutes a day on one skill, take a rest, and then do the same thing with another skill, and so on, what would happen over the co...</p>
- <p><a class="nowrap" href="articles/focus---learning">READ MORE (62 words)</a></p> 
+ <p><a class="nowrap" href="articles/focus---learning">READ MORE (62 words, 0 minutes)</a></p> 
     </article>
     
     <h2><a href="articles/sometimes">Sometimes</a></h2>
@@ -56,7 +57,7 @@
     <article>
         <p>Sometimes I have so many things to do in a day, that it is hard to move forward on some things I want to do. Needs trumping wants.</p>
 <p>Today I got finished with the garden. I planted some starts I did in little trays the weekend before last, but they were all looking rather sickly, so I went throug...</p>
- <p><a class="nowrap" href="articles/sometimes">READ MORE (70 words)</a></p> 
+ <p><a class="nowrap" href="articles/sometimes">READ MORE (70 words, 1 minutes)</a></p> 
     </article>
     
     <h2><a href="articles/great-life-advice">Great life advice</a></h2>
@@ -89,7 +90,7 @@
     <article>
         <p>I have a problem with time wasting websites such as youtube, facebook, twitter, etc. I start going down rabbit holes that suck away my work day.</p>
 <p>As such, I am putting all social media sites on a 7 day time out. I have added them all to my /etc/hosts file so that visiting them just goes to an err...</p>
- <p><a class="nowrap" href="articles/7-days-away-from-the-time-wasting-websites">READ MORE (174 words)</a></p> 
+ <p><a class="nowrap" href="articles/7-days-away-from-the-time-wasting-websites">READ MORE (174 words, 1 minutes)</a></p> 
     </article>
     
             </body>

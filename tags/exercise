@@ -15,10 +15,11 @@
   gtag("config", "UA-600316-3");
 </script>
 
-<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
-<link rel="shortcut icon" type="image/ico" href="favicon.ico">
-<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
-<script src="libs/highlight/highlight.min.js"></script>
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
 
                 <link rel="stylesheet" href="../neat.css">
                 <base href="../">
@@ -34,7 +35,7 @@
     </div>
     <article>
         <p>Well, I started hitting walls with 20 reps for arms. It just is hard to get to 20 at the limits of what my arms can do, but using rep/weight calculations of the higher amount for 15 reps, I am able to achieve and upgrade my weights, even when I have been stuck for weeks at the limits of what I ca...</p>
- <p><a class="nowrap" href="articles/update-to--tapping-out-at-20-reps-">READ MORE (115 words)</a></p> 
+ <p><a class="nowrap" href="articles/update-to--tapping-out-at-20-reps-">READ MORE (115 words, 1 minutes)</a></p> 
     </article>
     
     <h2><a href="articles/3-exercises-a-day">3 exercises a day</a></h2>
@@ -45,7 +46,7 @@
     <article>
         <p>So I have been doing two workout days for a while, and each one takes nearly an hour, and it becomes hard to get myself to be motivated to do it, it isn&#39;t a daily routine, and trying to fit in that big of a time block can be challenging during the day.</p>
 <p>I thought about it a bunch, as this is the ...</p>
- <p><a class="nowrap" href="articles/3-exercises-a-day">READ MORE (539 words)</a></p> 
+ <p><a class="nowrap" href="articles/3-exercises-a-day">READ MORE (539 words, 4 minutes)</a></p> 
     </article>
     
     <h2><a href="articles/tapping-out-a-muscle-group-with-20-reps">Tapping out a muscle group with 20 reps</a></h2>
@@ -57,7 +58,7 @@
         <p>I started doing a slight tweak to my workout routine. </p>
 <p>I do 1 set per exercise, and push to do 20 reps of that set. If I don&#39;t make it, I rest for 30 seconds and try to squeeze out some more, and repeat until I hit 20 with minimal rest.  </p>
 <p>I write down the weight and the number of reps of my f...</p>
- <p><a class="nowrap" href="articles/tapping-out-a-muscle-group-with-20-reps">READ MORE (375 words)</a></p> 
+ <p><a class="nowrap" href="articles/tapping-out-a-muscle-group-with-20-reps">READ MORE (375 words, 3 minutes)</a></p> 
     </article>
     
     <h2><a href="articles/doubled-strength-about-1-year-since-workout-charting">Doubled strength about 1 year since workout charting</a></h2>
@@ -66,9 +67,9 @@
     <div class="tags">@tags=<a href="tags/exercise">exercise</a></div>
     </div>
     <article>
-        <a href="articles/doubled-strength-about-1-year-since-workout-charting"><img class="icon" src="images/strength spreadsheet 2022.png" alt="strength spreadsheet 2022.png" style="max-width: 100%;" /></a><p>So this marks about a year since I started charting my weightlifting journey, and for most of the exercises I have doubled my strength. </p>
+        <a href="articles/doubled-strength-about-1-year-since-workout-charting"><img class="icon" data-src="images/strength spreadsheet 2022.png" alt="strength spreadsheet 2022.png" style="max-width: 100%;" /></a><p>So this marks about a year since I started charting my weightlifting journey, and for most of the exercises I have doubled my strength. </p>
 <p>In my older age, I have found that more reps and less weight is the way to avoid pulling muscles - a thing that in the past has hampered progress, keeping m...</p>
- <p><a class="nowrap" href="articles/doubled-strength-about-1-year-since-workout-charting">READ MORE (388 words, 3 images)</a></p> 
+ <p><a class="nowrap" href="articles/doubled-strength-about-1-year-since-workout-charting">READ MORE (388 words, 3 minutes, 3 images)</a></p> 
     </article>
     
     <h2><a href="articles/how-you-move-a-mountain--one-stone-at-a-time">How you move a mountain, one stone at a time</a></h2>
@@ -78,7 +79,7 @@
     </div>
     <article>
         <p>I have been working out using a google spreadsheet to track workouts. I aim to do a 20 rep max each week for each exercise that is slightly above the previous week. So far, it has lead to a nice continuous improvement... assuming I don&#39;t ever skip weeks. Each time I skip more than 2 weeks it push...</p>
- <p><a class="nowrap" href="articles/how-you-move-a-mountain--one-stone-at-a-time">READ MORE (220 words)</a></p> 
+ <p><a class="nowrap" href="articles/how-you-move-a-mountain--one-stone-at-a-time">READ MORE (220 words, 2 minutes)</a></p> 
     </article>
     
             </body>

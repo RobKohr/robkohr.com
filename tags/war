@@ -15,10 +15,11 @@
   gtag("config", "UA-600316-3");
 </script>
 
-<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
-<link rel="shortcut icon" type="image/ico" href="favicon.ico">
-<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
-<script src="libs/highlight/highlight.min.js"></script>
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
 
                 <link rel="stylesheet" href="../neat.css">
                 <base href="../">
@@ -33,22 +34,9 @@
     <div class="tags">@tags=<a href="tags/war">war</a></div>
     </div>
     <article>
-        <a href="articles/landships"><img class="icon" src="images/20240304 Me with WWII tank.png" alt="20240304 Me with WWII tank.png" style="max-width: 100%;" /></a><p>In WWI when tanks were being developed, they were first thought of landships. Kinda like a battleship that rolled on the land.</p>
+        <a href="articles/landships"><img class="icon" data-src="images/20240304 Me with WWII tank.png" alt="20240304 Me with WWII tank.png" style="max-width: 100%;" /></a><p>In WWI when tanks were being developed, they were first thought of landships. Kinda like a battleship that rolled on the land.</p>
 <p>The Brits chose the rather commonplace name of tank to keep it a secret about what they were developing. &quot;Oh, this here we are making... oh it&#39;s just a tank. Nothing int...</p>
- <p><a class="nowrap" href="articles/landships">READ MORE (120 words, 1 images)</a></p> 
-    </article>
-    
-    <h2><a href="articles/the-uneasy-peace-of-nuclear-weapons-">The uneasy peace of nuclear weapons.</a></h2>
-    <div class="variables">
-    <div class="date">@date=2020-10-13</div>
-    <div class="tags">@tags=<a href="tags/war">war</a>, <a href="tags/politics">politics</a></div>
-    </div>
-    <article>
-        <p>Just some thoughts I had after watching this video:</p>
-<p>Simulation of a Nuclear Blast in a Major City</p>
-<p><a href="https://www.youtube.com/watch?v=Z3RzNEzJyzo&ab_channel=NeilHalloran">https://www.youtube.com/watch?v=Z3RzNEzJyzo&amp;ab_channel=NeilHalloran</a></p>
-<p>Nuclear weapons are the reason we haven&#39;t had multiple world wars since WWII. The game mechanics of warfare changed when any maj...</p>
- <p><a class="nowrap" href="articles/the-uneasy-peace-of-nuclear-weapons-">READ MORE (161 words)</a></p> 
+ <p><a class="nowrap" href="articles/landships">READ MORE (120 words, 1 minutes, 1 images)</a></p> 
     </article>
     
             </body>

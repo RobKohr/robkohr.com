@@ -15,10 +15,11 @@
   gtag("config", "UA-600316-3");
 </script>
 
-<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
-<link rel="shortcut icon" type="image/ico" href="favicon.ico">
-<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
-<script src="libs/highlight/highlight.min.js"></script>
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
 
                 <link rel="stylesheet" href="../neat.css">
                 <base href="../">
@@ -33,10 +34,10 @@
     <div class="tags">@tags=<a href="tags/elf-factory">elf-factory</a>, <a href="tags/playdate">playdate</a>, <a href="tags/gamedev">gamedev</a></div>
     </div>
     <article>
-        <a href="articles/updating-elf-factory"><img class="icon" src="images/Pasted image 20231208132932.png" alt="Pasted image 20231208132932.png" style="max-width: 100%;" /></a><p>So I built Elf Factory initially when I didn&#39;t have a playdate, and created some tiny fonts to make it so a decent amount of text could appear on the screen.</p>
+        <a href="articles/updating-elf-factory"><img class="icon" data-src="images/Pasted image 20231208132932.png" alt="Pasted image 20231208132932.png" style="max-width: 100%;" /></a><p>So I built Elf Factory initially when I didn&#39;t have a playdate, and created some tiny fonts to make it so a decent amount of text could appear on the screen.</p>
 <p>That looked great on my computer monitor, but apparently not so much on the playdate.</p>
 <p>Now that I have one in hand, I was able to tweak a...</p>
- <p><a class="nowrap" href="articles/updating-elf-factory">READ MORE (131 words, 1 images)</a></p> 
+ <p><a class="nowrap" href="articles/updating-elf-factory">READ MORE (131 words, 1 minutes, 1 images)</a></p> 
     </article>
     
     <h2><a href="articles/on-game-development">On game development</a></h2>
@@ -46,7 +47,7 @@
     </div>
     <article>
         <p>My mind gets such a buzz from taking an idea and spinning it into the concept for a game and then making it so (the last part being so ardurious that it rarely comes into being). This fun open ended thought process that then needs to be rangled by the realities of time and effort to actually make...</p>
- <p><a class="nowrap" href="articles/on-game-development">READ MORE (150 words)</a></p> 
+ <p><a class="nowrap" href="articles/on-game-development">READ MORE (150 words, 1 minutes)</a></p> 
     </article>
     
     <h2><a href="articles/game-performance-by-tag-and-modding">Game performance by tag and modding</a></h2>
@@ -57,7 +58,7 @@
     <article>
         <p>This is a <a href="https://www.gamasutra.com/blogs/DannyWeinbaum/20191115/353349/Genre_Viability_on_Steam_and_Other_Trends__An_Analysis_Using_Review_Count.php">great article about what games perform well on steam based upon their tags (categories)</a>.</p>
 <p>Some games like strategy war games, which I have a gre...</p>
- <p><a class="nowrap" href="articles/game-performance-by-tag-and-modding">READ MORE (134 words)</a></p> 
+ <p><a class="nowrap" href="articles/game-performance-by-tag-and-modding">READ MORE (134 words, 1 minutes)</a></p> 
     </article>
     
             </body>
