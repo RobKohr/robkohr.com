@@ -27,6 +27,23 @@
             <a href="./index.html">&larr; Home</a>
             <h2>Tag: untagged</h2>
     
+    <h2><a href="articles/now">Now</a></h2>
+    <div class="variables">
+    <div class="date">@date=2025-03-25</div>
+    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    </div>
+    <article>
+        <ul>
+<li>Living in Longview, WA</li>
+<li>Working on <a href="https://neverall.com/tracker">https://neverall.com/tracker</a> - a replacement for Pivotal Tracker</li>
+<li>Improving lifting methods and records</li>
+<li>Wanting to get more into oil painting</li>
+<li>Playing VR games: thrill of the fight 2, polysketch, gorn</li>
+<li>Listening to a bunch of random stuff at <a href="https://open">https://open</a>...</li>
+</ul>
+ <p><a class="nowrap" href="articles/now">READ MORE (45 words)</a></p> 
+    </article>
+    
     <h2><a href="articles/happy-perfect-square-year-45-2---2025">Happy perfect square year 45^2 = 2025</a></h2>
     <div class="variables">
     <div class="date">@date=2025-01-03</div>

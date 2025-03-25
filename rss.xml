@@ -9,6 +9,14 @@
             <pubDate>Tue, 25 Mar 2025 07:00:00 GMT</pubDate>
             <ttl>1800</ttl>
             <item>
+                <guid>https://robkohr.com/articles/now</guid>
+                <title>Now</title>
+                <link>https://robkohr.com/articles/now</link>
+                <description>Now</description>
+                <pubDate>Tue, 25 Feb 2025 01:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
                 <guid>https://robkohr.com/articles/all-the-content-is-way-more-valuable</guid>
                 <title>All the content is way more valuable</title>
                 <link>https://robkohr.com/articles/all-the-content-is-way-more-valuable</link>
@@ -398,14 +406,6 @@
                 <link>https://robkohr.com/articles/done-manifesto</link>
                 <description>Done manifesto</description>
                 <pubDate>Tue, 22 Aug 2023 00:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/being-yourself-after-you-forget-yourself</guid>
-                <title>Being yourself after you forget yourself</title>
-                <link>https://robkohr.com/articles/being-yourself-after-you-forget-yourself</link>
-                <description>Being yourself after you forget yourself</description>
-                <pubDate>Fri, 18 Aug 2023 00:00:00 GMT</pubDate>
             </item>
     
         </channel>

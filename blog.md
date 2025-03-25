@@ -1,12 +1,25 @@
 
 ## Navigation
 
-- <a href="https://mailchi.mp/73f113e474f1/robert-kohrs-blog">📧 Signup to the Monthly Email List</a>
+- <a href="articles/now">⏰ Now</a>
+<!--- <a href="https://mailchi.mp/73f113e474f1/robert-kohrs-blog">📧 Signup to the Monthly Email List</a>-->
 - <a href="articles/about">ℹ️ About</a>
 - <a href="tags/index.html">🏷️ Tags</a>
 - <a href="articles/projects">🚧 Projects</a>
 - <a href="rss.xml">📰 RSS feed</a>
 - <a href="articles/my-stuff">🔭 My stuff out on the web</a>
+
+## Now
+@date=2025-03-25
+@page=true
+
+- Living in Longview, WA
+- Working on https://neverall.com/tracker - a replacement for Pivotal Tracker
+- Improving lifting methods and records
+- Wanting to get more into oil painting
+- Playing VR games: thrill of the fight 2, polysketch, gorn
+- Listening to a bunch of random stuff at https://open.spotify.com/user/1258723561
+
 
 ## All the content is way more valuable 
 @tags=ads,web
