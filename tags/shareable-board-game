@@ -15,11 +15,10 @@
   gtag("config", "UA-600316-3");
 </script>
 
-<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
-<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
-<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
-<script src="./libs/highlight/highlight.min.js"></script>
-<script src="./image-lazy-loader.js"></script>
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
 
                 <link rel="stylesheet" href="../neat.css">
                 <base href="../">
@@ -34,9 +33,9 @@
     <div class="tags">@tags=<a href="tags/shareable-board-game">shareable-board-game</a>, <a href="tags/software-ideas">software-ideas</a>, <a href="tags/instaboardgame">instaboardgame</a>, <a href="tags/boardgames">boardgames</a></div>
     </div>
     <article>
-        <p><img data-src="images/2020-05-07-11-13-10.png" alt="2020-05-07-11-13-10.png" style="max-width: 100%;" /></p>
-<p><img data-src="images/2020-05-07-11-13-49.png" alt="2020-05-07-11-13-49.png" style="max-width: 100%;" /></p>
-<p><img data-src="images/2020-05-07-11-14-09.png" alt="2020-05-07-11-14-09.png" style="max-width: 100%;" /></p>
+        <p><img src="images/2020-05-07-11-13-10.png" alt="2020-05-07-11-13-10.png" style="max-width: 100%;" /></p>
+<p><img src="images/2020-05-07-11-13-49.png" alt="2020-05-07-11-13-49.png" style="max-width: 100%;" /></p>
+<p><img src="images/2020-05-07-11-14-09.png" alt="2020-05-07-11-14-09.png" style="max-width: 100%;" /></p>
 
     </article>
     

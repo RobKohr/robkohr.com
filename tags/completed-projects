@@ -15,11 +15,10 @@
   gtag("config", "UA-600316-3");
 </script>
 
-<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
-<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
-<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
-<script src="./libs/highlight/highlight.min.js"></script>
-<script src="./image-lazy-loader.js"></script>
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
 
                 <link rel="stylesheet" href="../neat.css">
                 <base href="../">
@@ -34,9 +33,9 @@
     <div class="tags">@tags=<a href="tags/editthis.info">editthis.info</a>, <a href="tags/completed-projects">completed-projects</a></div>
     </div>
     <article>
-        <a href="articles/editthis-info-overhaul"><img class="icon" data-src="images/2020-09-21-10-26-35.png" alt="2020-09-21-10-26-35.png" style="max-width: 100%;" /></a><p><a href="http://Editthis.info">EditThis.info</a> has long been overdue for an upgrade. I&#39;ve been postponing it for a while, and now that I have just finished a big move, a wedding, and a honeymoon in Disney (covid be damned), I am circling back on it.</p>
+        <a href="articles/editthis-info-overhaul"><img class="icon" src="images/2020-09-21-10-26-35.png" alt="2020-09-21-10-26-35.png" style="max-width: 100%;" /></a><p><a href="http://Editthis.info">EditThis.info</a> has long been overdue for an upgrade. I&#39;ve been postponing it for a while, and now that I have just finished a big move, a wedding, and a honeymoon in Disney (covid be damned), I am circling back on it.</p>
 <p>Task list (this article will be updated as things are c...</p>
- <p><a class="nowrap" href="articles/editthis-info-overhaul">READ MORE (212 words, 2 minutes, 1 images)</a></p> 
+ <p><a class="nowrap" href="articles/editthis-info-overhaul">READ MORE (212 words, 1 images)</a></p> 
     </article>
     
             </body>

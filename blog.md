@@ -8,6 +8,119 @@
 - <a href="rss.xml">📰 RSS feed</a>
 - <a href="articles/my-stuff">🔭 My stuff out on the web</a>
 
+## All the content is way more valuable 
+@tags=ads,web
+@date=2025-03-24
+
+Whenever you write a blog, post to social media, comment on something, or create something that is shared on the web, the thing you share is then enshrined in ads.
+
+Those ad based companies bring in so much money that they become worth 100s of billions of dollars. Every piece of content we share online carries more value than we realize. Value that the creators of the content will not see, other than beyond the enjoyment of interacting with others. 
+
+Writers in Hollywood can go on strike. It is entertaining to think of what a internet content creators strike would look like. Every troll, every instagram minor celebrity, every doting grandma posting pictures of her grandkids on FB, every Youtuber, all went silent. Not even a single like would be clicked. They would line up in front of corporate headquarters and demand a slice of the pie for every add that appears next to their google review of a local Chinese restaurant. 
+
+It is all a silly idea, but if in this imaginary world, we got paid for half of all the ad revenue served around what we wrote, shared and uploaded, how much would each of us have jingling around in our pockets.
+
+More than that, how much would that change our behaviors. Would we be more sharing if we had incentive beyond just communicating with our fellow humans? Would we recoil at the idea that grandma is just posting up our kid pictures for attention so that she can get her nails done. Would it sully everything if our computer ejected shiny nickels at us every time we messaged an old friend. 
+
+Would we embrace a system where every interaction has a price tag? Or would we miss the internet as a space for pure, unpaid connection? Then again, someone is getting paid—maybe we prefer it that way. Maybe it's better for a faceless corporation to profit from our words than for us to profit from each other.
+## How to play figgie
+@tags=games,boardgames
+@date=2025-03-20
+
+This is a game invented by Jane Street to help people learn about trading and working with limited information.
+
+To set up for this, have one player go off to a side table so other players don't see, and sort the cards into 4 piles, one for each suit. Take the two black suits piles face down, and put them on one side randomly, and the two red suits and put them on the other side. So you should have 4 piles of cards, each with 12 cards in each pile, and each pile should be a single suit. So lets say in this case we have piles of Spades(S), Clubs(C), Hearts(H), Diamonds(D).
+
+Leave those piles as is and have another player come over and secretly pull 4 cards off of one of the colored piles (Let's say black spades), and then for the other color, pull off 2 of each of the piles (so 2 off the hearts and 2 off the diamonds). Importantly, that person needs to not know what colors they pulled off. The cards pulled off can then be put into a discarded pile or back in the box. Stack all 4 together, and shuffle them, and then bring them back to the main table and have another person shuffle for good measure.
+
+Now your deck is ready to go. In this imaginary case, we have 8 Spades, 12 clubs, 10 hearts, and 10 diamonds. The 8 spades is the target suit, and will be the only one that will pay out in the end, and you will note that if you identify the suit with 12 cards in it (the common suit), you will be able to figure out which one has the 8 cards in it.  Of course, at this point, no one should be able to know which is the goal suit (the one that pays out). All other cards are worthless.
+
+Each card in the goal suit is worth 10 chips in the end. Also the person with the most goal cards gets the remainder of then ante in the middle.
+
+To start out with, everyone gets 350 chips, and the ante is put in to equal 200 chips, so with:
+- 4 players that is 50 chips each
+- 5 players that 40 chips each
+- With 6 or 7 players 30 chips each
+- 8 players 25 chips
+- 9 players, 22 chips
+- 10 players, 20 chips
+The rules really only cover 4-5 players, but I extended it here to make it so you can play with bigger groups. I think with less than 4 you would end up with dead locks too easily.
+
+Set a timer on a phone for 4 minutes. 
+
+At this point players can start trading chips and cards with each other.
+
+You can say "I will pay 4 for diamonds", "selling clubs for 3", "anyone have any spade for sale"
+
+and so on, and then people accepting or communicating with each other for the sales.
+
+There are no turns, and everyone can talk and trade the same time until the time is up.
+
+Then everyone reveals their cards and you identify the goal suit. Players with the goal suit get 10 chips from the pot for each one, and then the person with the most of the goal suit gets the pot. 
+
+Play as many hands as you like and then compare your winnings. You might want to play until someone is out of chips, or just a specific number of rounds. 
+
+
+
+## Why are AI companies hiring software engineers if AI can code better than humans.
+@tags=ai
+@date=2025-03-18
+
+This post is based on a response I gave to a reddit post with the same title.
+
+Ok, I have been a software engineer for over 25 years, and I love myself some AI for coding, but it can't do the thinking for you at all because it can't think. It can just complete patterns. 
+
+If I were to give you the pattern of 12233344445... You'd probably be able to guess the rest of the pattern, and so would AI, and that is what it is good at, but to the Nth degree because it has every single publically available bit of human code and text available to pair with whatever pattern you provide to it. 
+
+This makes it really good at:
+1) Autocompleting some code where you give a really strong hint of where you are going with something. In fact, this has made my code more commentful as it lets the AI basically use my comments as basically natural language coding. Also, throw in some really strong typing information and data validation, and kinda like a half solved suduko puzzle, it becomes easy for the AI to fill in the rest. What's nice is you can guide the AI to do all the code for the typing and validation and comments, and then things just flow from there. You are just helping fill in the weirdly shaped suduku puzzle that you are needing to solve.
+
+2) Calling out your screwups. Somewhere in your hairbrained react/useEffect/redux bs you call code, you done screwed the pooch (or your former coworers did, but we don't want to point fingers), and it will take the next 3 hours and a pot of coffee to untangle your mess. Well, your primative monkey brain just can't handle that many factors of complexity easily, but you write up a very detailed debug log of what is wrong and what is right, and paste in all the relevent code and have it properly labeled, and about 50% of the time the AI will point out in bright neon lights exactly what is wrong, and will even be nice enough not to berate you about the rest of the mess of code around it unless you ask it to. Half the time though, it might take you several iterations to get the AI to see things right, but it will take less time than just having to dissect it all yourself. After you figure it out, have it help you add some tests, and then have it clean up the mess some and validate it with those tests.
+
+3) Diving in the deep end with shit you don't know anything about. Need to write some code in Objective C, and you don't know a damn bit about it? Well not only will it help you write the code, but also probably do it in such a way that will resolve some of the common pitfalls about it. This also helps accelelorate your learning in something where you don't need to read the documentation (much of which wouldn't directly apply to what you need to do), and instantly see examples of what best (or at least most common) practices are for solving a problem.
+
+With all of this, I think AI is replacing programmers, but not in the way people think. It can take a person with a good programming mindset, and make them able to tackle easy problems easily, and also to venture into areas that they might not specialize in, thus eliminating the need for engineers who need very detailed direction. But, also like the beginning of the industrial age, it opens up a new horizon of possibilities to many. I know I am now successfully taking on personal projects that were eternally shelved because I can venture into areas that I was not an expert in, and I can more easily plow through some of the drudgery. No longer do I have to hand sew things, I have mechanization that can help me take my ideas and do the meanial work. 
+
+In the past 20 years, I have seen the rise of coder academies produce programmers in the field that would not have typically made it through the great filter that is the computer science degree. I think these academies will struggle and the programmers they produce will struggle unless they start pushing more critical thinking and less rote memorization. I suspect this is also a common trend along a large number of other professions as well. The bar is being raised for critical thought, now that base knowledge is being made irrelevant. 
+
+## I came upon an image sharply criticized for being AI generated
+@tags=ai
+@date=2025-02-03
+
+It is created my the patterns captured from a million artists like lightning bugs in a jar and shaken in just the right way to get them to excrete a munged together brilliance of an individual operator.
+
+We want to burn the beautiful creation by our mechanized wonder, but all it is is a million tiny mirrors reflecting our own humanity at us.
+
+## Coding with AI feels like Tony Stark Scene
+@date=2025-02-03
+@tags=coding, ai
+
+I remember the little helping hands robots in the iron man movies with joy. 
+
+They aren't too smart or helpful, the are a little bit smart assy, but they clearly help Tony move faster without having to deal with having human assistants around.
+
+ChatGPT and Github Copilot really fill those roles for me. 
+
+I am working on slapping together a new version of Pivotal Tracker as it is about to sunset. This is to replace a project with nearly a decade's worth of development, and do it in a couple months.
+
+I have a decent amount of experience with building UI's and apis, and databases, but doing them all together in a one man band with a crunch time, while also working full time, and having a full family with lots of obligations is challenging.
+
+I usually have chatGPT off to one side to throw questions and spitball ideas at, and then I have Copilot in my coding window to help autocomplete things that are obvious.
+
+Neither are fantastic at doing much deep work ... they are effectively just ghosts of engineers of the past responding to things that resemble patterns that have been completed before. They don't have thoughts, and you shouldn't trust them to do much, but they are damn handy. They catch my mistakes, identify why errors are coming up, fill in the mind numbing stuff fairly well (though you have to do plenty to tighten up what they write), and they can point you to patterns and libraries you might not have thought of. If you give them some typescript definitions, they can also do a good job of assembling some forms and creating some validations that aren't half bad. 
+
+You gotta keep an eye on them, just like Tony does, but they can be a force multiplier for someone with some deep experience. 
+
+## Unoffice hours
+@date=2025-01-27
+@tags=socializing, engineering, programming, coding
+
+From a hackernews post, I found this site:
+
+https://interconnected.org/home/2020/09/24/unoffice_hours
+
+about having office hours anyone can pop into. I used to work in offices all the time, and I enjoyed the nerdy conversations of colleges. I have been a remote worker for a long time though, and I miss the banter of chatting it up with someone who likes to talk about all things engineering. 
+
 ## Why Multiple Competing Platforms Are Better Than One
 
 @date=2025-01-15  

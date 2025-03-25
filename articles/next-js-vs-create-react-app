@@ -1,9 +1,6 @@
 
-<!DOCTYPE html>
-  <html>
-      <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
-        <base href="../">  
+        <html>
+            <head>
                 <title>Next.js vs Create-React-App - RobKohr's Blog</title>
 
 <!-- Google tag (gtag.js) -->
@@ -18,16 +15,14 @@
   gtag("config", "UA-600316-3");
 </script>
 
-<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
-<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
-<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
-<script src="./libs/highlight/highlight.min.js"></script>
-<script src="./image-lazy-loader.js"></script>
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
 
                 <link rel="canonical" href="https://robkohr.com/articles/next-js-vs-create-react-app" />
                 <link rel="stylesheet" href="../neat.css">
-
-                <meta property="og:description" content="When doing react, I have on worked with CRA up until now. I just took over a next.js app, and when built and deployed, it is speedy, but didn't like some of the details of development:- myApp/pages/pa" />
+                <base href="../">
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>

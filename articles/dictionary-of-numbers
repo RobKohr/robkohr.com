@@ -1,9 +1,6 @@
 
-<!DOCTYPE html>
-  <html>
-      <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
-        <base href="../">  
+        <html>
+            <head>
                 <title>dictionary of numbers - RobKohr's Blog</title>
 
 <!-- Google tag (gtag.js) -->
@@ -18,16 +15,14 @@
   gtag("config", "UA-600316-3");
 </script>
 
-<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
-<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
-<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
-<script src="./libs/highlight/highlight.min.js"></script>
-<script src="./image-lazy-loader.js"></script>
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
 
                 <link rel="canonical" href="https://robkohr.com/articles/dictionary-of-numbers" />
                 <link rel="stylesheet" href="../neat.css">
-
-                <meta property="og:description" content="http://blog.xkcd.com/2013/05/15/dictionary-of-numbers/### Dictionary of Numbers | xkcdhttp://blog.xkcd.com/2013/05/15/dictionary-of-numbers/http://blog.xkcd.com/2013/05/15/dictionary-of-numbers/" />
+                <base href="../">
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>

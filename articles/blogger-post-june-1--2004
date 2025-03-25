@@ -1,9 +1,6 @@
 
-<!DOCTYPE html>
-  <html>
-      <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
-        <base href="../">  
+        <html>
+            <head>
                 <title>Blogger Post June 1, 2004 - RobKohr's Blog</title>
 
 <!-- Google tag (gtag.js) -->
@@ -18,16 +15,14 @@
   gtag("config", "UA-600316-3");
 </script>
 
-<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
-<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
-<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
-<script src="./libs/highlight/highlight.min.js"></script>
-<script src="./image-lazy-loader.js"></script>
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
 
                 <link rel="canonical" href="https://robkohr.com/articles/blogger-post-june-1--2004" />
                 <link rel="stylesheet" href="../neat.css">
-
-                <meta property="og:description" content="I just started a movie making group. I am pulling people together throughcraig's list and using yahoo groups as a forum. I also set up thissite: http://moviemakers.robkohr.comI figure this will be a f" />
+                <base href="../">
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>

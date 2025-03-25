@@ -1,9 +1,6 @@
 
-<!DOCTYPE html>
-  <html>
-      <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
-        <base href="../">  
+        <html>
+            <head>
                 <title>One of my favorite mobile apps is Mind Wall. It is a simple puzzle game where... - RobKohr's Blog</title>
 
 <!-- Google tag (gtag.js) -->
@@ -18,16 +15,14 @@
   gtag("config", "UA-600316-3");
 </script>
 
-<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
-<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
-<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
-<script src="./libs/highlight/highlight.min.js"></script>
-<script src="./image-lazy-loader.js"></script>
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
 
                 <link rel="canonical" href="https://robkohr.com/articles/one-of-my-favorite-mobile-apps-is-mind-wall--it-is-a-simple-puzzle-game-where---" />
                 <link rel="stylesheet" href="../neat.css">
-
-                <meta property="og:description" content="One of my favorite mobile apps is Mind Wall. It is a simple puzzle game where you need to chip off one square of a wall to fit a tetris like block through the wall. It is mildly challenging, and makes" />
+                <base href="../">
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>

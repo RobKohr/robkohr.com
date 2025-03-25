@@ -15,11 +15,10 @@
   gtag("config", "UA-600316-3");
 </script>
 
-<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
-<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
-<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
-<script src="./libs/highlight/highlight.min.js"></script>
-<script src="./image-lazy-loader.js"></script>
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
 
                 <link rel="stylesheet" href="../neat.css">
                 <base href="../">
@@ -38,7 +37,7 @@
 <a href="https://www.youtube.com/watch?v=JIbIYCM48to">https://www.youtube.com/watch?v=JIbIYCM48to</a>
 I like that you can tap into things like brackets to work with quantum computers.</p>
 <p>I still do think that AWS is like sticky fly paper to tech organizations. Yes, come use all of our fancy sm...</p>
- <p><a class="nowrap" href="articles/aws">READ MORE (137 words, 1 minutes)</a></p> 
+ <p><a class="nowrap" href="articles/aws">READ MORE (137 words)</a></p> 
     </article>
     
     <h2><a href="articles/easy-instant-github-branch-deployment">Easy instant github branch deployment</a></h2>

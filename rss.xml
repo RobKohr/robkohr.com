@@ -5,9 +5,57 @@
             <link>https://robkohr.com</link>
             <description>RobKohr's Blog</description>
             <language>en-us</language>
-            <lastBuildDate>Wed, 15 Jan 2025 08:00:00 GMT</lastBuildDate>
-            <pubDate>Wed, 15 Jan 2025 08:00:00 GMT</pubDate>
+            <lastBuildDate>Tue, 25 Mar 2025 07:00:00 GMT</lastBuildDate>
+            <pubDate>Tue, 25 Mar 2025 07:00:00 GMT</pubDate>
             <ttl>1800</ttl>
+            <item>
+                <guid>https://robkohr.com/articles/all-the-content-is-way-more-valuable</guid>
+                <title>All the content is way more valuable</title>
+                <link>https://robkohr.com/articles/all-the-content-is-way-more-valuable</link>
+                <description>All the content is way more valuable</description>
+                <pubDate>Mon, 24 Feb 2025 01:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/how-to-play-figgie</guid>
+                <title>How to play figgie</title>
+                <link>https://robkohr.com/articles/how-to-play-figgie</link>
+                <description>How to play figgie</description>
+                <pubDate>Thu, 20 Feb 2025 01:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/why-are-ai-companies-hiring-software-engineers-if-ai-can-code-better-than-humans-</guid>
+                <title>Why are AI companies hiring software engineers if AI can code better than humans.</title>
+                <link>https://robkohr.com/articles/why-are-ai-companies-hiring-software-engineers-if-ai-can-code-better-than-humans-</link>
+                <description>Why are AI companies hiring software engineers if AI can code better than humans.</description>
+                <pubDate>Tue, 18 Feb 2025 01:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/i-came-upon-an-image-sharply-criticized-for-being-ai-generated</guid>
+                <title>I came upon an image sharply criticized for being AI generated</title>
+                <link>https://robkohr.com/articles/i-came-upon-an-image-sharply-criticized-for-being-ai-generated</link>
+                <description>I came upon an image sharply criticized for being AI generated</description>
+                <pubDate>Fri, 03 Jan 2025 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/coding-with-ai-feels-like-tony-stark-scene</guid>
+                <title>Coding with AI feels like Tony Stark Scene</title>
+                <link>https://robkohr.com/articles/coding-with-ai-feels-like-tony-stark-scene</link>
+                <description>Coding with AI feels like Tony Stark Scene</description>
+                <pubDate>Fri, 03 Jan 2025 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/unoffice-hours</guid>
+                <title>Unoffice hours</title>
+                <link>https://robkohr.com/articles/unoffice-hours</link>
+                <description>Unoffice hours</description>
+                <pubDate>Fri, 27 Dec 2024 00:00:00 GMT</pubDate>
+            </item>
+    
             <item>
                 <guid>https://robkohr.com/articles/why-multiple-competing-platforms-are-better-than-one</guid>
                 <title>Why Multiple Competing Platforms Are Better Than One</title>
@@ -358,54 +406,6 @@
                 <link>https://robkohr.com/articles/being-yourself-after-you-forget-yourself</link>
                 <description>Being yourself after you forget yourself</description>
                 <pubDate>Fri, 18 Aug 2023 00:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/why-isn-t-vr-exploding-into-the-mainstream-</guid>
-                <title>Why isn&#39;t VR exploding into the mainstream?</title>
-                <link>https://robkohr.com/articles/why-isn-t-vr-exploding-into-the-mainstream-</link>
-                <description>Why isn&#39;t VR exploding into the mainstream?</description>
-                <pubDate>Fri, 28 Jul 2023 00:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/alternative-to-zoom--google-meet--and-teams</guid>
-                <title>Alternative to zoom, google meet, and teams</title>
-                <link>https://robkohr.com/articles/alternative-to-zoom--google-meet--and-teams</link>
-                <description>Alternative to zoom, google meet, and teams</description>
-                <pubDate>Sat, 22 Jul 2023 00:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/how-to-run-a-company-the-netflix-way</guid>
-                <title>How to run a company the Netflix way</title>
-                <link>https://robkohr.com/articles/how-to-run-a-company-the-netflix-way</link>
-                <description>How to run a company the Netflix way</description>
-                <pubDate>Sat, 22 Jul 2023 00:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/45-going-on-46</guid>
-                <title>45 going on 46</title>
-                <link>https://robkohr.com/articles/45-going-on-46</link>
-                <description>45 going on 46</description>
-                <pubDate>Fri, 21 Jul 2023 00:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/movie-review--the-stand-in</guid>
-                <title>Movie review: the stand in</title>
-                <link>https://robkohr.com/articles/movie-review--the-stand-in</link>
-                <description>Movie review: the stand in</description>
-                <pubDate>Fri, 21 Jul 2023 00:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/writing-it-down</guid>
-                <title>Writing it down</title>
-                <link>https://robkohr.com/articles/writing-it-down</link>
-                <description>Writing it down</description>
-                <pubDate>Fri, 21 Jul 2023 00:00:00 GMT</pubDate>
             </item>
     
         </channel>

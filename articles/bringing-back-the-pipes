@@ -1,9 +1,6 @@
 
-<!DOCTYPE html>
-  <html>
-      <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
-        <base href="../">  
+        <html>
+            <head>
                 <title>Bringing back the pipes - RobKohr's Blog</title>
 
 <!-- Google tag (gtag.js) -->
@@ -18,16 +15,14 @@
   gtag("config", "UA-600316-3");
 </script>
 
-<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
-<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
-<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
-<script src="./libs/highlight/highlight.min.js"></script>
-<script src="./image-lazy-loader.js"></script>
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
 
                 <link rel="canonical" href="https://robkohr.com/articles/bringing-back-the-pipes" />
                 <link rel="stylesheet" href="../neat.css">
-
-                <meta property="og:description" content="![[2020-06-12-08-44-16.png]][Node red](https://nodered.org/) this is a very similar thing to yahoo pipes back in the day. It is a self hosted tool to pipe things into each other and do operations on t" />
+                <base href="../">
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>
@@ -38,7 +33,7 @@
     <div class="tags">@tags=<a href="tags/tools">tools</a></div>
     </div>
     <article>
-        <p><img data-src="images/2020-06-12-08-44-16.png" alt="2020-06-12-08-44-16.png" style="max-width: 100%;" /></p>
+        <p><img src="images/2020-06-12-08-44-16.png" alt="2020-06-12-08-44-16.png" style="max-width: 100%;" /></p>
 <p><a href="https://nodered.org/">Node red</a> this is a very similar thing to yahoo pipes back in the day. It is a self hosted tool to pipe things into each other and do operations on them (best to watch the video there).</p>
 
     </article>

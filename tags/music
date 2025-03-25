@@ -15,11 +15,10 @@
   gtag("config", "UA-600316-3");
 </script>
 
-<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
-<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
-<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
-<script src="./libs/highlight/highlight.min.js"></script>
-<script src="./image-lazy-loader.js"></script>
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
 
                 <link rel="stylesheet" href="../neat.css">
                 <base href="../">
@@ -34,10 +33,10 @@
     <div class="tags">@tags=<a href="tags/music">music</a>, <a href="tags/music-playing">music-playing</a></div>
     </div>
     <article>
-        <a href="articles/learning-violin-using-soundslice"><img class="icon" data-src="images/Pasted image 20241105070959.png" alt="Pasted image 20241105070959.png" style="max-width: 100%;" /></a><p>I have been learning violin for about 2 years now, on and off, and I can reasonably play some basic stuff from sheet music.</p>
+        <a href="articles/learning-violin-using-soundslice"><img class="icon" src="images/Pasted image 20241105070959.png" alt="Pasted image 20241105070959.png" style="max-width: 100%;" /></a><p>I have been learning violin for about 2 years now, on and off, and I can reasonably play some basic stuff from sheet music.</p>
 <p>Sometimes though, for more complex pieces, it is tricky to get a feel for how the notes match up to the actual expected way the song can should sound.</p>
 <p>I have been using<br>...</p>
- <p><a class="nowrap" href="articles/learning-violin-using-soundslice">READ MORE (251 words, 2 minutes, 1 images)</a></p> 
+ <p><a class="nowrap" href="articles/learning-violin-using-soundslice">READ MORE (251 words, 1 images)</a></p> 
     </article>
     
     <h2><a href="articles/rolling-stone-500-greatest-albums-merged">Rolling Stone 500 greatest albums merged</a></h2>
@@ -49,7 +48,7 @@
         <p>Someone posted up the various differences between different years that Rolling Stone released their top 500 albums of all time here:
 <a href="https://beckchris.com/2020/10/14/rolling-stones-500-greatest-albums-of-all-time-lists-an-analysis/">https://beckchris.com/2020/10/14/rolling-stones-500-greatest-albums-of-all-time-lists-an-analysis/</a></p>
 <p>I took that and created a spreadsheet so you can do some sorting...</p>
- <p><a class="nowrap" href="articles/rolling-stone-500-greatest-albums-merged">READ MORE (74 words, 1 minutes)</a></p> 
+ <p><a class="nowrap" href="articles/rolling-stone-500-greatest-albums-merged">READ MORE (74 words)</a></p> 
     </article>
     
     <h2><a href="articles/music-has-become-a-zero-sum-game">Music has become a zero-sum game</a></h2>
@@ -61,7 +60,7 @@
         <p>Musicians used to make money via album sales (records, tapes, cds, mp3s, etc). This is how they exploded financially by selling millions of copies.</p>
 <p>Today we have streaming, such as Spotify, as the main avenue to make money as a musician. This is a very different economic situation.</p>
 <p>In the initi...</p>
- <p><a class="nowrap" href="articles/music-has-become-a-zero-sum-game">READ MORE (701 words, 5 minutes)</a></p> 
+ <p><a class="nowrap" href="articles/music-has-become-a-zero-sum-game">READ MORE (701 words)</a></p> 
     </article>
     
     <h2><a href="articles/downloading-youtube-videos">Downloading youtube videos</a></h2>
@@ -83,7 +82,7 @@
     </div>
     <article>
         <p>I looked up 2000&#39;s music yesterday on spotify. I am a child of the 80&#39;s and 90&#39;s and when I listen to music, I really lean heavy into those decades, and like most people when they hit middle age, they tune into the newest music on the radio, and feel that the music of their childhood is way super...</p>
- <p><a class="nowrap" href="articles/on-nostalgia-in-the-evolution-of-music">READ MORE (490 words, 4 minutes)</a></p> 
+ <p><a class="nowrap" href="articles/on-nostalgia-in-the-evolution-of-music">READ MORE (490 words)</a></p> 
     </article>
     
     <h2><a href="articles/butchering-the-basics">Butchering the basics</a></h2>

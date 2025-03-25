@@ -15,11 +15,10 @@
   gtag("config", "UA-600316-3");
 </script>
 
-<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
-<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
-<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
-<script src="./libs/highlight/highlight.min.js"></script>
-<script src="./image-lazy-loader.js"></script>
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
 
                 <link rel="stylesheet" href="../neat.css">
                 <base href="../">
@@ -36,7 +35,7 @@
     <article>
         <p>I delved into svelte pretty deep to get a grasp of it. I decided to try to make a set of components similar to material UI, just focusing on form elements. </p>
 <p>When it came to passing values, references, functions up and down the component stack, it just became much more difficult than doing it in...</p>
- <p><a class="nowrap" href="articles/back-to-solidjs">READ MORE (163 words, 1 minutes)</a></p> 
+ <p><a class="nowrap" href="articles/back-to-solidjs">READ MORE (163 words)</a></p> 
     </article>
     
     <h2><a href="articles/svelte">Svelte</a></h2>

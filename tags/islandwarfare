@@ -15,11 +15,10 @@
   gtag("config", "UA-600316-3");
 </script>
 
-<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
-<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
-<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
-<script src="./libs/highlight/highlight.min.js"></script>
-<script src="./image-lazy-loader.js"></script>
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
 
                 <link rel="stylesheet" href="../neat.css">
                 <base href="../">
@@ -37,7 +36,7 @@
         <p>I am currently looking for users to beta test Island Warfare, which is a new game I am developing. In it you start with an empty island that you can build various types of buildings on, train soldiers, and sail off to conquer other players islands.</p>
 <p>To sign up to become a beta tester go to:
 http:/...</p>
- <p><a class="nowrap" href="articles/islandwarfare-com-coming-soon">READ MORE (55 words, 0 minutes)</a></p> 
+ <p><a class="nowrap" href="articles/islandwarfare-com-coming-soon">READ MORE (55 words)</a></p> 
     </article>
     
             </body>

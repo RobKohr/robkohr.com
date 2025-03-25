@@ -15,11 +15,10 @@
   gtag("config", "UA-600316-3");
 </script>
 
-<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
-<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
-<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
-<script src="./libs/highlight/highlight.min.js"></script>
-<script src="./image-lazy-loader.js"></script>
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
 
                 <link rel="stylesheet" href="../neat.css">
                 <base href="../">
@@ -34,7 +33,7 @@
     <div class="tags">@tags=<a href="tags/design">design</a>, <a href="tags/light-painter">light-painter</a>, <a href="tags/excelidraw">excelidraw</a></div>
     </div>
     <article>
-        <p><img data-src="images/2023-10-03 Light painter picking up blur.png" alt="2023-10-03 Light painter picking up blur.png" style="max-width: 100%;" /></p>
+        <p><img src="images/2023-10-03 Light painter picking up blur.png" alt="2023-10-03 Light painter picking up blur.png" style="max-width: 100%;" /></p>
 
     </article>
     

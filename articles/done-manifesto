@@ -1,9 +1,6 @@
 
-<!DOCTYPE html>
-  <html>
-      <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
-        <base href="../">  
+        <html>
+            <head>
                 <title>Done manifesto - RobKohr's Blog</title>
 
 <!-- Google tag (gtag.js) -->
@@ -18,16 +15,14 @@
   gtag("config", "UA-600316-3");
 </script>
 
-<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
-<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
-<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
-<script src="./libs/highlight/highlight.min.js"></script>
-<script src="./image-lazy-loader.js"></script>
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
 
                 <link rel="canonical" href="https://robkohr.com/articles/done-manifesto" />
                 <link rel="stylesheet" href="../neat.css">
-<meta property="og:image" content="https://robkohr.com/images/2023-09-22 Done manifesto.png" />
-                <meta property="og:description" content="> 1. There are three states of being. Not knowing, action and completion.> 2. Accept that everything is a draft. It helps to get it done.> 3. There is no editing stage.> 4. Pretending you know what yo" />
+                <base href="../">
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>
@@ -56,7 +51,7 @@
 </ol>
 </blockquote>
 <p>Source: <a href="https://medium.com/@bre/the-cult-of-done-manifesto-724ca1c2ff13">https://medium.com/@bre/the-cult-of-done-manifesto-724ca1c2ff13</a></p>
-<p><img data-src="images/2023-09-22 Done manifesto.png" alt="2023-09-22 Done manifesto.png" style="max-width: 100%;" /></p>
+<p><img src="images/2023-09-22 Done manifesto.png" alt="2023-09-22 Done manifesto.png" style="max-width: 100%;" /></p>
 
     </article>
     

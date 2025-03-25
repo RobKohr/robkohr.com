@@ -1,9 +1,6 @@
 
-<!DOCTYPE html>
-  <html>
-      <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
-        <base href="../">  
+        <html>
+            <head>
                 <title>1000 Blank White cards sounds like a fun game - RobKohr's Blog</title>
 
 <!-- Google tag (gtag.js) -->
@@ -18,16 +15,14 @@
   gtag("config", "UA-600316-3");
 </script>
 
-<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
-<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
-<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
-<script src="./libs/highlight/highlight.min.js"></script>
-<script src="./image-lazy-loader.js"></script>
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
 
                 <link rel="canonical" href="https://robkohr.com/articles/1000-blank-white-cards-sounds-like-a-fun-game" />
                 <link rel="stylesheet" href="../neat.css">
-<meta property="og:image" content="https://robkohr.com/images/From dvorakgame.co.uk.png" />
-                <meta property="og:description" content="![](https://cf.geekdo-images.com/itemrep/img/4qsEyUFfqBt4GtsJGGq0WD7YeCs=/fit-in/246x300/pic606721.jpg)I was reading this BGG page:https://boardgamegeek.com/boardgame/4550/1000-blank-white-cardsAnd it" />
+                <base href="../">
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>
@@ -48,7 +43,7 @@ I was reading this BGG page:</p>
 <li>Each player draws 5 cards from the deck</li>
 <li>The starting ruleset for the game is draw a card, play a card</li>
 <li>If you have a blank card in your hand, you can turn it into a new card. New cards should have a name, a drawing, a type, and a description.
-<img data-src="images/From dvorakgame.co.uk.png" alt="From dvorakgame.co.uk.png" style="max-width: 100%;" />
+<img src="images/From dvorakgame.co.uk.png" alt="From dvorakgame.co.uk.png" style="max-width: 100%;" />
 <img src="https://cf.geekdo-images.com/imagepage/img/tv6SDSCIJyhBmUT8IV3jlKggmSE=/fit-in/900x600/filters:no_upscale()/pic377521.jpg" alt=""></li>
 <li>The game ends when there is no cards left to draw</li>
 <li>Each card is one of the following types:<ul>

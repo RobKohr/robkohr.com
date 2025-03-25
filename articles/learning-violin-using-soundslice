@@ -1,9 +1,6 @@
 
-<!DOCTYPE html>
-  <html>
-      <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
-        <base href="../">  
+        <html>
+            <head>
                 <title>Learning Violin Using SoundSlice - RobKohr's Blog</title>
 
 <!-- Google tag (gtag.js) -->
@@ -18,16 +15,14 @@
   gtag("config", "UA-600316-3");
 </script>
 
-<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
-<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
-<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
-<script src="./libs/highlight/highlight.min.js"></script>
-<script src="./image-lazy-loader.js"></script>
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
 
                 <link rel="canonical" href="https://robkohr.com/articles/learning-violin-using-soundslice" />
                 <link rel="stylesheet" href="../neat.css">
-<meta property="og:image" content="https://robkohr.com/images/Pasted image 20241105070959.png" />
-                <meta property="og:description" content="I have been learning violin for about 2 years now, on and off, and I can reasonably play some basic stuff from sheet music.Sometimes though, for more complex pieces, it is tricky to get a feel for how" />
+                <base href="../">
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>
@@ -41,7 +36,7 @@
         <p>I have been learning violin for about 2 years now, on and off, and I can reasonably play some basic stuff from sheet music.</p>
 <p>Sometimes though, for more complex pieces, it is tricky to get a feel for how the notes match up to the actual expected way the song can should sound.</p>
 <p>I have been using <a href="https://www.soundslice.com">SoundSlice.com</a> 
-<img data-src="images/Pasted image 20241105070959.png" alt="Pasted image 20241105070959.png" style="max-width: 100%;" /></p>
+<img src="images/Pasted image 20241105070959.png" alt="Pasted image 20241105070959.png" style="max-width: 100%;" /></p>
 <p>It which allows you to import music from a pdf or use their excellent sheet music editing system to hand write out the sheet music if the importer isn&#39;t able to take in the music automatically.</p>
 <p>The editor is the best I have seen anywhere, and would be cool if DAW&#39;s would have the ability to use something like it, especially the way it handles using the keyboard to quickly enter and adjust notes.</p>
 <p>But, where this really shines and provides great help to the musician is that you can play the sheet music, sync it to a youtube video, and adjust the playback speed to even the slowest speed for when you are just learning the piece. </p>

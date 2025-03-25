@@ -1,9 +1,6 @@
 
-<!DOCTYPE html>
-  <html>
-      <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
-        <base href="../">  
+        <html>
+            <head>
                 <title>Cloudflare effects on users - RobKohr's Blog</title>
 
 <!-- Google tag (gtag.js) -->
@@ -18,16 +15,14 @@
   gtag("config", "UA-600316-3");
 </script>
 
-<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
-<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
-<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
-<script src="./libs/highlight/highlight.min.js"></script>
-<script src="./image-lazy-loader.js"></script>
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
 
                 <link rel="canonical" href="https://robkohr.com/articles/cloudflare-effects-on-users" />
                 <link rel="stylesheet" href="../neat.css">
-<meta property="og:image" content="https://robkohr.com/images/2020-09-22-15-12-53.png" />
-                <meta property="og:description" content="For the last few years I have been using cloudflare in front of editthis.info. On the 21st I dropped it, and saw an immediate decrease in average load times (from google analytics):![[2020-09-22-15-12" />
+                <base href="../">
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>
@@ -39,10 +34,10 @@
     </div>
     <article>
         <p>For the last few years I have been using cloudflare in front of editthis.info. On the 21st I dropped it, and saw an immediate decrease in average load times (from google analytics):</p>
-<p><img data-src="images/2020-09-22-15-12-53.png" alt="2020-09-22-15-12-53.png" style="max-width: 100%;" /></p>
+<p><img src="images/2020-09-22-15-12-53.png" alt="2020-09-22-15-12-53.png" style="max-width: 100%;" /></p>
 <p>This was without any changes to the system at all, and with about 800-900 active users per day.</p>
 <p>Also, as mentioned in my previous blog post, in cloudflare&#39;s dashboard, it reports a massive number of malicious attacks that they have thwarted.</p>
-<p><img data-src="images/2020-09-21-10-26-35.png" alt="2020-09-21-10-26-35.png" style="max-width: 100%;" /></p>
+<p><img src="images/2020-09-21-10-26-35.png" alt="2020-09-21-10-26-35.png" style="max-width: 100%;" /></p>
 <p>These are either inflated numbers, or more worrying actual users who couldn&#39;t get past their overly vigorous captcha screening process.</p>
 <p>I look forward to seeing how this effects user counts overall - some could be from the speed boast and some from lack of captchas. In either case, I won&#39;t be using cloudfront again. I am going to set up a simple nginx proxy in front of the website, and implement some caching there to help increase the speed even further.</p>
 

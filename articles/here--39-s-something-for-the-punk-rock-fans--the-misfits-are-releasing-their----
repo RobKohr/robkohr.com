@@ -1,9 +1,6 @@
 
-<!DOCTYPE html>
-  <html>
-      <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
-        <base href="../">  
+        <html>
+            <head>
                 <title>Here&#39;s something for the punk rock fans. The Misfits are releasing their ... - RobKohr's Blog</title>
 
 <!-- Google tag (gtag.js) -->
@@ -18,16 +15,14 @@
   gtag("config", "UA-600316-3");
 </script>
 
-<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
-<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
-<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
-<script src="./libs/highlight/highlight.min.js"></script>
-<script src="./image-lazy-loader.js"></script>
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
 
                 <link rel="canonical" href="https://robkohr.com/articles/here--39-s-something-for-the-punk-rock-fans--the-misfits-are-releasing-their----" />
                 <link rel="stylesheet" href="../neat.css">
-
-                <meta property="og:description" content="Here's something for the punk rock fans. The Misfits are releasing their first album in 12 years this October. I guess I know what to give my brother for Christmas.### Inside the Misfits&#39; First Al" />
+                <base href="../">
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>

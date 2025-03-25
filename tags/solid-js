@@ -15,11 +15,10 @@
   gtag("config", "UA-600316-3");
 </script>
 
-<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
-<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
-<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
-<script src="./libs/highlight/highlight.min.js"></script>
-<script src="./image-lazy-loader.js"></script>
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
 
                 <link rel="stylesheet" href="../neat.css">
                 <base href="../">
@@ -37,7 +36,7 @@
         <p>So, I am working on this forum software for neverall.com/f. I am working on making right now in solidjs because I feel that is a better platform for development.</p>
 <p>I have the server all setup in node.js. This is now able to handle registration and login.</p>
 <p>I have basically nothing as far as the fr...</p>
- <p><a class="nowrap" href="articles/write-code-for-a-business">READ MORE (229 words, 2 minutes)</a></p> 
+ <p><a class="nowrap" href="articles/write-code-for-a-business">READ MORE (229 words)</a></p> 
     </article>
     
             </body>

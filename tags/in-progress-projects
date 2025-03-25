@@ -15,11 +15,10 @@
   gtag("config", "UA-600316-3");
 </script>
 
-<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
-<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
-<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
-<script src="./libs/highlight/highlight.min.js"></script>
-<script src="./image-lazy-loader.js"></script>
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
 
                 <link rel="stylesheet" href="../neat.css">
                 <base href="../">
@@ -37,7 +36,7 @@
         <p><a href="http://instaboardgame.com">Instaboardgame</a> will be a place for people to instantly play and create boardgames with their friends wherever they may be.</p>
 <p>Think of it like a big box of board game pieces that you can pull out and start playing with.</p>
 <p>To start with, you create a table, then you can e...</p>
- <p><a class="nowrap" href="articles/instaboardgame-com---play-board-games-instantly-with-friends">READ MORE (176 words, 1 minutes)</a></p> 
+ <p><a class="nowrap" href="articles/instaboardgame-com---play-board-games-instantly-with-friends">READ MORE (176 words)</a></p> 
     </article>
     
     <h2><a href="articles/shareable-web-based-boardgame-update">Shareable web based boardgame update</a></h2>
@@ -46,13 +45,13 @@
     <div class="tags">@tags=<a href="tags/instaboardgame">instaboardgame</a>, <a href="tags/in-progress-projects">in-progress-projects</a></div>
     </div>
     <article>
-        <a href="articles/shareable-web-based-boardgame-update"><img class="icon" data-src="images/2020-06-04-15-12-03.png" alt="2020-06-04-15-12-03.png" style="max-width: 100%;" /></a><p><a href="http://tentoncreations.com/a/Started-on-a-shareable-web-based-boardgame-system/">Last month</a> I made a doodle post of an idea for an instant online board game system.</p>
+        <a href="articles/shareable-web-based-boardgame-update"><img class="icon" src="images/2020-06-04-15-12-03.png" alt="2020-06-04-15-12-03.png" style="max-width: 100%;" /></a><p><a href="http://tentoncreations.com/a/Started-on-a-shareable-web-based-boardgame-system/">Last month</a> I made a doodle post of an idea for an instant online board game system.</p>
 <p>Well, progress is coming along fast:</p>
 <p>So far I have:</p>
 <ul>
 <li>a react site which directs [/game/test](<a href="https://instaboardgame.com/game">https://instaboardgame.com/game</a>...</li>
 </ul>
- <p><a class="nowrap" href="articles/shareable-web-based-boardgame-update">READ MORE (270 words, 2 minutes, 1 images)</a></p> 
+ <p><a class="nowrap" href="articles/shareable-web-based-boardgame-update">READ MORE (270 words, 1 images)</a></p> 
     </article>
     
             </body>

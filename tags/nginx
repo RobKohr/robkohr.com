@@ -15,11 +15,10 @@
   gtag("config", "UA-600316-3");
 </script>
 
-<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
-<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
-<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
-<script src="./libs/highlight/highlight.min.js"></script>
-<script src="./image-lazy-loader.js"></script>
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
 
                 <link rel="stylesheet" href="../neat.css">
                 <base href="../">
@@ -35,7 +34,7 @@
     </div>
     <article>
         <p>I did a fix on editthis.info yesterday. It was running super slow, and I found that some ip addresses were banging the hell out of it. One was trying to connect to login.live.com or something like that from microsoft. Another one kept requesting a weird string of escape characters. Both had no us...</p>
- <p><a class="nowrap" href="articles/hammered-by-attempted-hackers">READ MORE (293 words, 2 minutes)</a></p> 
+ <p><a class="nowrap" href="articles/hammered-by-attempted-hackers">READ MORE (293 words)</a></p> 
     </article>
     
     <h2><a href="articles/setup-ssl-websockets-from-node-using-nginx-and-certbot">Setup ssl websockets from node using nginx and certbot</a></h2>
@@ -44,9 +43,9 @@
     <div class="tags">@tags=<a href="tags/nginx">nginx</a>, <a href="tags/nodejs">nodejs</a>, <a href="tags/web-development">web-development</a>, <a href="tags/instaboardgame">instaboardgame</a>, <a href="tags/websockets">websockets</a></div>
     </div>
     <article>
-        <a href="articles/setup-ssl-websockets-from-node-using-nginx-and-certbot"><img class="icon" data-src="images/2020-06-12-08-30-59.png" alt="2020-06-12-08-30-59.png" style="max-width: 100%;" /></a><p>Certbot is the tool from <a href="https://letsencrypt.org">letsencrypt.org</a> that lets you generate ssl certificates for your site without having to pay the likes of Verisign ever again. Basically I love the heck out of them for what they do.</p>
+        <a href="articles/setup-ssl-websockets-from-node-using-nginx-and-certbot"><img class="icon" src="images/2020-06-12-08-30-59.png" alt="2020-06-12-08-30-59.png" style="max-width: 100%;" /></a><p>Certbot is the tool from <a href="https://letsencrypt.org">letsencrypt.org</a> that lets you generate ssl certificates for your site without having to pay the likes of Verisign ever again. Basically I love the heck out of them for what they do.</p>
 <p>Nginx runs on your server to redirect examplesite.com to loc...</p>
- <p><a class="nowrap" href="articles/setup-ssl-websockets-from-node-using-nginx-and-certbot">READ MORE (510 words, 4 minutes, 1 images)</a></p> 
+ <p><a class="nowrap" href="articles/setup-ssl-websockets-from-node-using-nginx-and-certbot">READ MORE (510 words, 1 images)</a></p> 
     </article>
     
     <h2><a href="articles/registered-godotassetstore-org">registered godotassetstore.org</a></h2>
@@ -56,7 +55,7 @@
     </div>
     <article>
         <p>I just registered godotassetstore.org for the <a href="https://godotassetstore.org">Godot Asset Store</a>. It seems like it would be an easier name to share with people and the media than godotasset.store, which just seems a little odd. I&#39;ll have to set an nginx redirect for it on the server and set up cert...</p>
- <p><a class="nowrap" href="articles/registered-godotassetstore-org">READ MORE (55 words, 0 minutes)</a></p> 
+ <p><a class="nowrap" href="articles/registered-godotassetstore-org">READ MORE (55 words)</a></p> 
     </article>
     
             </body>

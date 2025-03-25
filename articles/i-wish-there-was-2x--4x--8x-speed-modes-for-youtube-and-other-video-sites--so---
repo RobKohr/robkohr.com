@@ -1,9 +1,6 @@
 
-<!DOCTYPE html>
-  <html>
-      <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
-        <base href="../">  
+        <html>
+            <head>
                 <title>I wish there was 2x, 4x, 8x speed modes for youtube and other video sites. So... - RobKohr's Blog</title>
 
 <!-- Google tag (gtag.js) -->
@@ -18,16 +15,14 @@
   gtag("config", "UA-600316-3");
 </script>
 
-<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
-<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
-<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
-<script src="./libs/highlight/highlight.min.js"></script>
-<script src="./image-lazy-loader.js"></script>
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
 
                 <link rel="canonical" href="https://robkohr.com/articles/i-wish-there-was-2x--4x--8x-speed-modes-for-youtube-and-other-video-sites--so---" />
                 <link rel="stylesheet" href="../neat.css">
-
-                <meta property="og:description" content="I wish there was 2x, 4x, 8x speed modes for youtube and other video sites. Some interesting talks take to long. I remember this was a feature on my iphone, and I used to use it for some podcasts." />
+                <base href="../">
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>

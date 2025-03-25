@@ -15,11 +15,10 @@
   gtag("config", "UA-600316-3");
 </script>
 
-<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
-<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
-<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
-<script src="./libs/highlight/highlight.min.js"></script>
-<script src="./image-lazy-loader.js"></script>
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
 
                 <link rel="stylesheet" href="../neat.css">
                 <base href="../">
@@ -65,7 +64,7 @@
     <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
     </div>
     <article>
-        <p><img data-src="images/2020-06-12-08-40-09.png" alt="2020-06-12-08-40-09.png" style="max-width: 100%;" /></p>
+        <p><img src="images/2020-06-12-08-40-09.png" alt="2020-06-12-08-40-09.png" style="max-width: 100%;" /></p>
 <p>It amazes me how much can be done with VS code. It is really the perfect editor thanks to all of the extensions.</p>
 
     </article>
@@ -78,7 +77,7 @@
     <article>
         <p><strong>Google Extension Idea: Check out elsewhere for amazon.</strong>
 I use a chrome extension called &quot;the invisible hand&quot; which shows you what other online stores are charging in comparison to amazon. It would be great if there was an extension called &quot;check out elsewhere&quot; where your whole cart could be dro...</p>
- <p><a class="nowrap" href="articles/google-extension-idea--check-out-elsewhere-for-amazon-">READ MORE (213 words, 2 minutes)</a></p> 
+ <p><a class="nowrap" href="articles/google-extension-idea--check-out-elsewhere-for-amazon-">READ MORE (213 words)</a></p> 
     </article>
     
     <h2><a href="articles/so-nice--i-was-fiddling-with-gimp-to-edit-an-image--but-aviary-is-so-much-eas---">So nice. I was fiddling with Gimp to edit an image, but aviary is so much eas...</a></h2>

@@ -15,11 +15,10 @@
   gtag("config", "UA-600316-3");
 </script>
 
-<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
-<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
-<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
-<script src="./libs/highlight/highlight.min.js"></script>
-<script src="./image-lazy-loader.js"></script>
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
 
                 <link rel="stylesheet" href="../neat.css">
                 <base href="../">
@@ -36,7 +35,7 @@
     <article>
         <p>After being on Dreamhost for a long time, I have switched for Slicehost. They have great uptime, cheaper prices, and allows you to do more geeky things with your webserver.  </p>
 <p>This isn&#39;t a big jab against Dreamhost though. I am still a big user of them, but their VPS service doesn&#39;t give me the...</p>
- <p><a class="nowrap" href="articles/cueflash-now-on-slicehost">READ MORE (161 words, 1 minutes)</a></p> 
+ <p><a class="nowrap" href="articles/cueflash-now-on-slicehost">READ MORE (161 words)</a></p> 
     </article>
     
     <h2><a href="articles/cueflash-version-2-is-here-">cueFlash version 2 is here!</a></h2>
@@ -46,7 +45,7 @@
     </div>
     <article>
         <p>The new version of cueflash is now out. It has been rewritten from the ground up with the following goals:<br>*Easier to add features to - my previous version was pretty poorly coded<br>*Decks are no longer copied when imported by new users - this created a bloated db<br>*People can edit each other&#39;...</p>
- <p><a class="nowrap" href="articles/cueflash-version-2-is-here-">READ MORE (143 words, 1 minutes)</a></p> 
+ <p><a class="nowrap" href="articles/cueflash-version-2-is-here-">READ MORE (143 words)</a></p> 
     </article>
     
     <h2><a href="articles/cueflash-version-two-">cueFlash version two!</a></h2>
@@ -57,7 +56,7 @@
     <article>
         <p>A new version of cueflash is in development and will be released shortly. It will feature deck ratings, ajax card loads (just loads the content of the cards to speed up card viewing), comments, and a cleaned up interface.  </p>
 <p>The current design (not really functional) is at:<br>[<a href="http://robkohr.co">http://robkohr.co</a>...</p>
- <p><a class="nowrap" href="articles/cueflash-version-two-">READ MORE (82 words, 1 minutes)</a></p> 
+ <p><a class="nowrap" href="articles/cueflash-version-two-">READ MORE (82 words)</a></p> 
     </article>
     
             </body>

@@ -15,11 +15,10 @@
   gtag("config", "UA-600316-3");
 </script>
 
-<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
-<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
-<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
-<script src="./libs/highlight/highlight.min.js"></script>
-<script src="./image-lazy-loader.js"></script>
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
 
                 <link rel="stylesheet" href="../neat.css">
                 <base href="../">
@@ -39,7 +38,7 @@
 <p>Puny thought set with glue to the back of the brain. Fingers lock as I sit.</p>
 <hr>
 <p>Could an ant leave a leaf that has rebounded deviously to his outstretched ...</p>
- <p><a class="nowrap" href="articles/wisps">READ MORE (67 words, 1 minutes)</a></p> 
+ <p><a class="nowrap" href="articles/wisps">READ MORE (67 words)</a></p> 
     </article>
     
             </body>

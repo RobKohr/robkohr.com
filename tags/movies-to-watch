@@ -15,11 +15,10 @@
   gtag("config", "UA-600316-3");
 </script>
 
-<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
-<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
-<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
-<script src="./libs/highlight/highlight.min.js"></script>
-<script src="./image-lazy-loader.js"></script>
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
 
                 <link rel="stylesheet" href="../neat.css">
                 <base href="../">
@@ -34,7 +33,7 @@
     <div class="tags">@tags=<a href="tags/movies-to-watch">movies-to-watch</a></div>
     </div>
     <article>
-        <p><img data-src="images/2020-06-12-08-32-08.png" alt="2020-06-12-08-32-08.png" style="max-width: 100%;" /></p>
+        <p><img src="images/2020-06-12-08-32-08.png" alt="2020-06-12-08-32-08.png" style="max-width: 100%;" /></p>
 <ul>
 <li><input disabled="" type="checkbox"> New jack city (again)</li>
 <li><input disabled="" type="checkbox"> Nick cage movies</li>

@@ -15,11 +15,10 @@
   gtag("config", "UA-600316-3");
 </script>
 
-<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
-<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
-<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
-<script src="./libs/highlight/highlight.min.js"></script>
-<script src="./image-lazy-loader.js"></script>
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
 
                 <link rel="stylesheet" href="../neat.css">
                 <base href="../">
@@ -36,7 +35,7 @@
     <article>
         <p>In a few days, TikTok will be banned in the USA.</p>
 <p>I won’t mourn the loss of the platform. Personally, watching short-form videos on TikTok, YouTube, or Facebook feels like mental junk food—leaving me with a sense of unease. These platforms don’t seem beneficial for anyone, but eliminating TikTok ...</p>
- <p><a class="nowrap" href="articles/why-multiple-competing-platforms-are-better-than-one">READ MORE (532 words, 4 minutes)</a></p> 
+ <p><a class="nowrap" href="articles/why-multiple-competing-platforms-are-better-than-one">READ MORE (532 words)</a></p> 
     </article>
     
     <h2><a href="articles/remove-annoying-eu-cookie-banners">Remove annoying EU cookie banners</a></h2>
@@ -45,8 +44,8 @@
     <div class="tags">@tags=<a href="tags/css">css</a>, <a href="tags/govt">govt</a>, <a href="tags/automating-life">automating-life</a></div>
     </div>
     <article>
-        <a href="articles/remove-annoying-eu-cookie-banners"><img class="icon" data-src="images/2020-06-12-08-43-25.png" alt="2020-06-12-08-43-25.png" style="max-width: 100%;" /></a><p>Tired of having to annoyingly see those accept cookies messages that EU bureaucrats have foisted upon us all? Use the <a href="https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha">StyleBot</a> chrome extension and then open stylebot-&gt;options-&gt;Edit Global Style Sheet, and the...</p>
- <p><a class="nowrap" href="articles/remove-annoying-eu-cookie-banners">READ MORE (37 words, 0 minutes, 1 images)</a></p> 
+        <a href="articles/remove-annoying-eu-cookie-banners"><img class="icon" src="images/2020-06-12-08-43-25.png" alt="2020-06-12-08-43-25.png" style="max-width: 100%;" /></a><p>Tired of having to annoyingly see those accept cookies messages that EU bureaucrats have foisted upon us all? Use the <a href="https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha">StyleBot</a> chrome extension and then open stylebot-&gt;options-&gt;Edit Global Style Sheet, and the...</p>
+ <p><a class="nowrap" href="articles/remove-annoying-eu-cookie-banners">READ MORE (37 words, 1 images)</a></p> 
     </article>
     
     <h2><a href="articles/govt-law-monitoring-site">Govt law monitoring site</a></h2>
@@ -55,7 +54,7 @@
     <div class="tags">@tags=<a href="tags/concept-art">concept-art</a>, <a href="tags/govt">govt</a></div>
     </div>
     <article>
-        <p><img data-src="images/2019-04-24 Govt law monitoring site.jpg" alt="2019-04-24 Govt law monitoring site.jpg" style="max-width: 100%;" /></p>
+        <p><img src="images/2019-04-24 Govt law monitoring site.jpg" alt="2019-04-24 Govt law monitoring site.jpg" style="max-width: 100%;" /></p>
 
     </article>
     

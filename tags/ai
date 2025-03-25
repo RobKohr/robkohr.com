@@ -15,11 +15,10 @@
   gtag("config", "UA-600316-3");
 </script>
 
-<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
-<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
-<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
-<script src="./libs/highlight/highlight.min.js"></script>
-<script src="./image-lazy-loader.js"></script>
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
 
                 <link rel="stylesheet" href="../neat.css">
                 <base href="../">
@@ -27,6 +26,41 @@
             <body>
             <a href="./index.html">&larr; Home</a>
             <h2>Tag: ai</h2>
+    
+    <h2><a href="articles/why-are-ai-companies-hiring-software-engineers-if-ai-can-code-better-than-humans-">Why are AI companies hiring software engineers if AI can code better than humans.</a></h2>
+    <div class="variables">
+    <div class="date">@date=2025-03-18</div>
+    <div class="tags">@tags=<a href="tags/ai">ai</a></div>
+    </div>
+    <article>
+        <p>This post is based on a response I gave to a reddit post with the same title.</p>
+<p>Ok, I have been a software engineer for over 25 years, and I love myself some AI for coding, but it can&#39;t do the thinking for you at all because it can&#39;t think. It can just complete patterns. </p>
+<p>If I were to give you th...</p>
+ <p><a class="nowrap" href="articles/why-are-ai-companies-hiring-software-engineers-if-ai-can-code-better-than-humans-">READ MORE (763 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/i-came-upon-an-image-sharply-criticized-for-being-ai-generated">I came upon an image sharply criticized for being AI generated</a></h2>
+    <div class="variables">
+    <div class="date">@date=2025-02-03</div>
+    <div class="tags">@tags=<a href="tags/ai">ai</a></div>
+    </div>
+    <article>
+        <p>It is created my the patterns captured from a million artists like lightning bugs in a jar and shaken in just the right way to get them to excrete a munged together brilliance of an individual operator.</p>
+<p>We want to burn the beautiful creation by our mechanized wonder, but all it is is a million t...</p>
+ <p><a class="nowrap" href="articles/i-came-upon-an-image-sharply-criticized-for-being-ai-generated">READ MORE (62 words)</a></p> 
+    </article>
+    
+    <h2><a href="articles/coding-with-ai-feels-like-tony-stark-scene">Coding with AI feels like Tony Stark Scene</a></h2>
+    <div class="variables">
+    <div class="date">@date=2025-02-03</div>
+    <div class="tags">@tags=<a href="tags/coding">coding</a>, <a href="tags/ai">ai</a></div>
+    </div>
+    <article>
+        <p>I remember the little helping hands robots in the iron man movies with joy. </p>
+<p>They aren&#39;t too smart or helpful, the are a little bit smart assy, but they clearly help Tony move faster without having to deal with having human assistants around.</p>
+<p>ChatGPT and Github Copilot really fill those roles f...</p>
+ <p><a class="nowrap" href="articles/coding-with-ai-feels-like-tony-stark-scene">READ MORE (304 words)</a></p> 
+    </article>
     
     <h2><a href="articles/why-generative-ai-violates-copyright---for-skeptics">Why Generative AI Violates Copyright - for skeptics</a></h2>
     <div class="variables">
@@ -36,7 +70,7 @@
     <article>
         <p>There is a thread of thought about AI, that it isn&#39;t violating copyright, because, just like humans, it is just synthesizing new works from it&#39;s learning. </p>
 <p>I was a little on the fence about this, but after a bit of mental wanderings, I side hard on the side that it is violating copyright. To get...</p>
- <p><a class="nowrap" href="articles/why-generative-ai-violates-copyright---for-skeptics">READ MORE (1006 words, 8 minutes)</a></p> 
+ <p><a class="nowrap" href="articles/why-generative-ai-violates-copyright---for-skeptics">READ MORE (1006 words)</a></p> 
     </article>
     
     <h2><a href="articles/artificial-intelligence-vs-computational-intelligence">Artificial Intelligence vs Computational Intelligence</a></h2>
@@ -48,7 +82,7 @@
         <p>Youtube video for this: <a href="https://youtu.be/wb9hVUk3SS8">https://youtu.be/wb9hVUk3SS8</a></p>
 <p>These two terms are sometimes used interchangeably, and there are many conflicting definitions that sometimes switch the roles of these terms. </p>
 <p>To me, artificial intelligence is the effort to simulate the real intelligence of humans. For this...</p>
- <p><a class="nowrap" href="articles/artificial-intelligence-vs-computational-intelligence">READ MORE (382 words, 3 minutes)</a></p> 
+ <p><a class="nowrap" href="articles/artificial-intelligence-vs-computational-intelligence">READ MORE (382 words)</a></p> 
     </article>
     
     <h2><a href="articles/failure-state-for-computers-and-ai">Failure state for computers and AI</a></h2>
@@ -61,7 +95,7 @@
 Car backup sensor thought there was something there, but wasn&#39;t and wouldn&#39;t let me back up, but car had an override
 The airplane that they were pulling up in, but ignoring the stall warning
 Teslas that people let drive...</p>
- <p><a class="nowrap" href="articles/failure-state-for-computers-and-ai">READ MORE (68 words, 1 minutes)</a></p> 
+ <p><a class="nowrap" href="articles/failure-state-for-computers-and-ai">READ MORE (68 words)</a></p> 
     </article>
     
     <h2><a href="articles/brought-in-my-google-plus-backup">Brought in my google plus backup</a></h2>
@@ -73,7 +107,7 @@ Teslas that people let drive...</p>
         <p>About 5 years ago google plus went by by, but I made sure to export using their checkout feature all the posts. </p>
 <p>Turns out that I was a pretty prolific poster there with about 250 posts. Each exported file was a way too cluttered blob of html and style code. </p>
 <p>I had the goal of copying them into...</p>
- <p><a class="nowrap" href="articles/brought-in-my-google-plus-backup">READ MORE (245 words, 2 minutes)</a></p> 
+ <p><a class="nowrap" href="articles/brought-in-my-google-plus-backup">READ MORE (245 words)</a></p> 
     </article>
     
     <h2><a href="articles/ai-generated-image-of-a-mushroom-house---midjourney">AI generated image of a mushroom house - Midjourney</a></h2>
@@ -82,7 +116,7 @@ Teslas that people let drive...</p>
     <div class="tags">@tags=<a href="tags/ai">ai</a></div>
     </div>
     <article>
-        <p><img data-src="images/Mushroom House.png" alt="Mushroom House.png" style="max-width: 100%;" /></p>
+        <p><img src="images/Mushroom House.png" alt="Mushroom House.png" style="max-width: 100%;" /></p>
 
     </article>
     

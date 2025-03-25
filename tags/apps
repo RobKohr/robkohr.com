@@ -15,11 +15,10 @@
   gtag("config", "UA-600316-3");
 </script>
 
-<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
-<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
-<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
-<script src="./libs/highlight/highlight.min.js"></script>
-<script src="./image-lazy-loader.js"></script>
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
 
                 <link rel="stylesheet" href="../neat.css">
                 <base href="../">
@@ -36,7 +35,7 @@
     <article>
         <p>Photoshop wasn&#39;t handy, and gimp is a pain to use. After trying to find a decent alternative, I stumbled upon sumopaint, a free web based photo editor. It might be a bit weak for super-advanced users, but for me it worked just fine. </p>
 <p>It does layers, magic wand selection, and 98% of all of the oth...</p>
- <p><a class="nowrap" href="articles/photoshop-wasn-t-handy--and-gimp-is-a-pain-to-use-">READ MORE (66 words, 1 minutes)</a></p> 
+ <p><a class="nowrap" href="articles/photoshop-wasn-t-handy--and-gimp-is-a-pain-to-use-">READ MORE (66 words)</a></p> 
     </article>
     
             </body>

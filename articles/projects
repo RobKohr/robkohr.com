@@ -1,9 +1,6 @@
 
-<!DOCTYPE html>
-  <html>
-      <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
-        <base href="../">  
+        <html>
+            <head>
                 <title>Projects - RobKohr's Blog</title>
 
 <!-- Google tag (gtag.js) -->
@@ -18,16 +15,14 @@
   gtag("config", "UA-600316-3");
 </script>
 
-<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
-<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
-<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
-<script src="./libs/highlight/highlight.min.js"></script>
-<script src="./image-lazy-loader.js"></script>
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
 
                 <link rel="canonical" href="https://robkohr.com/articles/projects" />
                 <link rel="stylesheet" href="../neat.css">
-<meta property="og:image" content="https://robkohr.com/images/cueflash.png" />
-                <meta property="og:description" content="These are personal, non-work-related projects. Contact my g-mail account at RobKohr for my resume to see what I built for others.Other little projects are at my [github page](https://github.com/robkoh" />
+                <base href="../">
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>
@@ -41,19 +36,19 @@
         <p>These are personal, non-work-related projects. Contact my g-mail account at RobKohr for my resume to see what I built for others.</p>
 <p>Other little projects are at my <a href="https://github.com/robkohr">github page</a></p>
 <h3>Cueflash.com</h3>
-<p><img data-src="images/cueflash.png" alt="cueflash.png" style="max-width: 100%;" /></p>
+<p><img src="images/cueflash.png" alt="cueflash.png" style="max-width: 100%;" /></p>
 <p><a href="https://cueflash.com">https://cueflash.com</a></p>
 <p>A flashcard based collaborative learning site which focuses on cards you don&#39;t know using an adaptive algorithm.</p>
 <h3>EditThis.info</h3>
-<p><img data-src="images/editthis.png" alt="editthis.png" style="max-width: 100%;" /></p>
+<p><img src="images/editthis.png" alt="editthis.png" style="max-width: 100%;" /></p>
 <p><a href="https://editthis.info">https://editthis.info</a></p>
 <p>Shake-n-bake instant MediaWikis for groups, topics, or whatever</p>
 <h3>Mix-Match Domains</h3>
-<p><img data-src="images/mixmatch.png" alt="mixmatch.png" style="max-width: 100%;" />
+<p><img src="images/mixmatch.png" alt="mixmatch.png" style="max-width: 100%;" />
 <a href="https://mixmatchdomains.com">https://mixmatchdomains.com</a></p>
 <p>Generate domains using related words to terms you provide. Terms can be individual words or comma seperated lists of words to randomly select from.</p>
 <h3>ConstantSail.com</h3>
-<p><img data-src="images/constantsail.png" alt="constantsail.png" style="max-width: 100%;" />
+<p><img src="images/constantsail.png" alt="constantsail.png" style="max-width: 100%;" />
 <a href="https://constantsail.com">https://constantsail.com</a></p>
 <p>In-progress pirate, sailing, and trading game</p>
 <h3>Glicko</h3>

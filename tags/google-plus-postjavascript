@@ -15,11 +15,10 @@
   gtag("config", "UA-600316-3");
 </script>
 
-<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
-<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
-<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
-<script src="./libs/highlight/highlight.min.js"></script>
-<script src="./image-lazy-loader.js"></script>
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
 
                 <link rel="stylesheet" href="../neat.css">
                 <base href="../">
@@ -37,7 +36,7 @@
         <p>When working with mongodb especially, but also in other cases, you can create a deep stack of calls that can get pretty ugly in javascript. </p>
 <p>To avoid this I created a function that will recursively go through an array of things you want to process in a callback stack. </p>
 <p>Follow link to read more...</p>
- <p><a class="nowrap" href="articles/avoiding-a-deep-stack-of-callbacks">READ MORE (62 words, 0 minutes)</a></p> 
+ <p><a class="nowrap" href="articles/avoiding-a-deep-stack-of-callbacks">READ MORE (62 words)</a></p> 
     </article>
     
             </body>

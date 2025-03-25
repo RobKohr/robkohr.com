@@ -1,9 +1,6 @@
 
-<!DOCTYPE html>
-  <html>
-      <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
-        <base href="../">  
+        <html>
+            <head>
                 <title>It looks like SOPA and PIPA have likely been stopped as politicians have drop... - RobKohr's Blog</title>
 
 <!-- Google tag (gtag.js) -->
@@ -18,16 +15,14 @@
   gtag("config", "UA-600316-3");
 </script>
 
-<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
-<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
-<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
-<script src="./libs/highlight/highlight.min.js"></script>
-<script src="./image-lazy-loader.js"></script>
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
 
                 <link rel="canonical" href="https://robkohr.com/articles/it-looks-like-sopa-and-pipa-have-likely-been-stopped-as-politicians-have-drop---" />
                 <link rel="stylesheet" href="../neat.css">
-
-                <meta property="og:description" content="It looks like SOPA and PIPA have likely been stopped as politicians have dropped support for it.It was a great move for freedom, but on a more sour grapes note: where was this outpouring of popular di" />
+                <base href="../">
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>

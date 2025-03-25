@@ -1,9 +1,6 @@
 
-<!DOCTYPE html>
-  <html>
-      <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
-        <base href="../">  
+        <html>
+            <head>
                 <title>Using my kids&#39; playroom as a photo studio can be amusing in retrospect. - RobKohr's Blog</title>
 
 <!-- Google tag (gtag.js) -->
@@ -18,16 +15,14 @@
   gtag("config", "UA-600316-3");
 </script>
 
-<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
-<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
-<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
-<script src="./libs/highlight/highlight.min.js"></script>
-<script src="./image-lazy-loader.js"></script>
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
 
                 <link rel="canonical" href="https://robkohr.com/articles/using-my-kids--39--playroom-as-a-photo-studio-can-be-amusing-in-retrospect-" />
                 <link rel="stylesheet" href="../neat.css">
-
-                <meta property="og:description" content="Using my kids' playroom as a photo studio can be amusing in retrospect.![[googlePlusPhotos/Photos%20from%20posts/2011-12-02/175cnoc8bb9he.jpg]]" />
+                <base href="../">
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>
@@ -39,7 +34,7 @@
     </div>
     <article>
         <p>Using my kids&#39; playroom as a photo studio can be amusing in retrospect.</p>
-<p><img data-src="images/googlePlusPhotos/Photos%20from%20posts/2011-12-02/175cnoc8bb9he.jpg" alt="googlePlusPhotos/Photos%20from%20posts/2011-12-02/175cnoc8bb9he.jpg" style="max-width: 100%;" /></p>
+<p><img src="images/googlePlusPhotos/Photos%20from%20posts/2011-12-02/175cnoc8bb9he.jpg" alt="googlePlusPhotos/Photos%20from%20posts/2011-12-02/175cnoc8bb9he.jpg" style="max-width: 100%;" /></p>
 
     </article>
     

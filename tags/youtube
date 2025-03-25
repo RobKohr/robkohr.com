@@ -15,11 +15,10 @@
   gtag("config", "UA-600316-3");
 </script>
 
-<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
-<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
-<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
-<script src="./libs/highlight/highlight.min.js"></script>
-<script src="./image-lazy-loader.js"></script>
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
 
                 <link rel="stylesheet" href="../neat.css">
                 <base href="../">
@@ -48,7 +47,7 @@
         <p>Youtube video for this: <a href="https://youtu.be/wb9hVUk3SS8">https://youtu.be/wb9hVUk3SS8</a></p>
 <p>These two terms are sometimes used interchangeably, and there are many conflicting definitions that sometimes switch the roles of these terms. </p>
 <p>To me, artificial intelligence is the effort to simulate the real intelligence of humans. For this...</p>
- <p><a class="nowrap" href="articles/artificial-intelligence-vs-computational-intelligence">READ MORE (382 words, 3 minutes)</a></p> 
+ <p><a class="nowrap" href="articles/artificial-intelligence-vs-computational-intelligence">READ MORE (382 words)</a></p> 
     </article>
     
     <h2><a href="articles/downloading-youtube-videos">Downloading youtube videos</a></h2>
@@ -72,7 +71,7 @@
         <p>It seems that any addon related to youtube downloading gets zapped form the Firefox and Chrome app stores. :( </p>
 <p>Here is one I have used on Firefox that disappeared:</p>
 <p>If you want to audit it before installing it, change the extension to zip, and unzip it (xpi is just a zip file). It looks like i...</p>
- <p><a class="nowrap" href="articles/firefox-youtube-downloader-add-on">READ MORE (75 words, 1 minutes)</a></p> 
+ <p><a class="nowrap" href="articles/firefox-youtube-downloader-add-on">READ MORE (75 words)</a></p> 
     </article>
     
     <h2><a href="articles/popular-youtubers---look-at-their-old-stuff">Popular YouTubers - look at their old stuff</a></h2>
@@ -83,7 +82,7 @@
     <article>
         <p>I kinda love going to a popular youtuber&#39;s channel, going to their videos section, and sorting by oldest. </p>
 <p>What is now a polished producer of content that makes you feel intimidated to even attempt to make videos was once someone with a crappy camera, shooting in their back yard with a bad audio...</p>
- <p><a class="nowrap" href="articles/popular-youtubers---look-at-their-old-stuff">READ MORE (142 words, 1 minutes)</a></p> 
+ <p><a class="nowrap" href="articles/popular-youtubers---look-at-their-old-stuff">READ MORE (142 words)</a></p> 
     </article>
     
     <h2><a href="articles/full-vinyl-albums-on-youtube">Full vinyl albums on youtube</a></h2>

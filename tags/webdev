@@ -15,11 +15,10 @@
   gtag("config", "UA-600316-3");
 </script>
 
-<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
-<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
-<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
-<script src="./libs/highlight/highlight.min.js"></script>
-<script src="./image-lazy-loader.js"></script>
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
 
                 <link rel="stylesheet" href="../neat.css">
                 <base href="../">
@@ -34,10 +33,10 @@
     <div class="tags">@tags=<a href="tags/programming">programming</a>, <a href="tags/webdev">webdev</a></div>
     </div>
     <article>
-        <a href="articles/tailwind----quick-thought"><img class="icon" data-src="images/Pasted image 20241215105219.png" alt="Pasted image 20241215105219.png" style="max-width: 100%;" /></a><p>Look at a bunch of tailwind videos, and thought about how I code to see if the two would be compatiable.</p>
+        <a href="articles/tailwind----quick-thought"><img class="icon" src="images/Pasted image 20241215105219.png" alt="Pasted image 20241215105219.png" style="max-width: 100%;" /></a><p>Look at a bunch of tailwind videos, and thought about how I code to see if the two would be compatiable.</p>
 <p>Typically I make React components, and I give a class name to the top level of the react component. So, UserProfileCard would have the class .user-profile-card-component.</p>
 <p>Then, I create a .s...</p>
- <p><a class="nowrap" href="articles/tailwind----quick-thought">READ MORE (535 words, 4 minutes, 1 images)</a></p> 
+ <p><a class="nowrap" href="articles/tailwind----quick-thought">READ MORE (535 words, 1 images)</a></p> 
     </article>
     
     <h2><a href="articles/getting-a-little-torn-between-svelte-and-solidjs">Getting a little torn between svelte and SolidJS</a></h2>
@@ -48,7 +47,7 @@
     <article>
         <p>I have been playing with svelte, and liking it, but things just seem to mysterious. With SolidJS, I know what to expect.</p>
 <p>I got to creating some input components with svelte and started to do a registration form. Going to try again with SolidJS to build the same thing. Let&#39;s see if it goes a litt...</p>
- <p><a class="nowrap" href="articles/getting-a-little-torn-between-svelte-and-solidjs">READ MORE (56 words, 0 minutes)</a></p> 
+ <p><a class="nowrap" href="articles/getting-a-little-torn-between-svelte-and-solidjs">READ MORE (56 words)</a></p> 
     </article>
     
     <h2><a href="articles/on-typescript">On typescript</a></h2>
@@ -57,10 +56,10 @@
     <div class="tags">@tags=<a href="tags/typescript">typescript</a>, <a href="tags/webdev">webdev</a></div>
     </div>
     <article>
-        <a href="articles/on-typescript"><img class="icon" data-src="images/2021-08-15-11-32-29.png" alt="2021-08-15-11-32-29.png" style="max-width: 100%;" /></a><p>After working with typescript a lot on work projects, I typically skip it on personal projects as it just seems tedious at times.</p>
+        <a href="articles/on-typescript"><img class="icon" src="images/2021-08-15-11-32-29.png" alt="2021-08-15-11-32-29.png" style="max-width: 100%;" /></a><p>After working with typescript a lot on work projects, I typically skip it on personal projects as it just seems tedious at times.</p>
 <p>Well, I just threw it into the neverall project while working on an alerting system, and by golly did it help clean up some things.</p>
 <p>The issues I find are related t...</p>
- <p><a class="nowrap" href="articles/on-typescript">READ MORE (159 words, 1 minutes, 1 images)</a></p> 
+ <p><a class="nowrap" href="articles/on-typescript">READ MORE (159 words, 1 images)</a></p> 
     </article>
     
     <h2><a href="articles/bringing-things-under-one-roof">Bringing things under one roof</a></h2>
@@ -73,7 +72,7 @@
 <p><a href="https://www.seoquake.com/blog/subdomains-vs-subfolders/">subdomains vs subfolders</a></p>
 <p>I looks pretty clear that subfolders are the way to go.</p>
 <p>With a single server with nginx on it, you can reverse proxy to multiple servers usi...</p>
- <p><a class="nowrap" href="articles/bringing-things-under-one-roof">READ MORE (248 words, 2 minutes)</a></p> 
+ <p><a class="nowrap" href="articles/bringing-things-under-one-roof">READ MORE (248 words)</a></p> 
     </article>
     
     <h2><a href="articles/fontello---icon-fonts-generator">Fontello - icon fonts generator</a></h2>
@@ -85,7 +84,7 @@
         <p>This is so cool! You can take and mesh together icons from different font sets along with svg images and define the names of the icons however you like.</p>
 <p>This is the most awesome way to make an icon set for your website!</p>
 <p>With this you can scale things as you like, and make icons any color you lik...</p>
- <p><a class="nowrap" href="articles/fontello---icon-fonts-generator">READ MORE (61 words, 0 minutes)</a></p> 
+ <p><a class="nowrap" href="articles/fontello---icon-fonts-generator">READ MORE (61 words)</a></p> 
     </article>
     
     <h2><a href="articles/digital-ocean">Digital Ocean</a></h2>
@@ -96,7 +95,7 @@
     <article>
         <p>Loving DigitalOcean.com vps. Only $5 a month for a base one, but if you are using it for development, you can snapshot it and shut it down, and only pay a few cents for the hours you had it running.   </p>
 <p>Basically I treat snapshoting and shutting down like putting away my toys for playing with l...</p>
- <p><a class="nowrap" href="articles/digital-ocean">READ MORE (72 words, 1 minutes)</a></p> 
+ <p><a class="nowrap" href="articles/digital-ocean">READ MORE (72 words)</a></p> 
     </article>
     
     <h2><a href="articles/i-used-to-work-in-e-commerce--and-one-term-you-might-not-heard-of-is-called-a---">I used to work in e-commerce, and one term you might not heard of is called a...</a></h2>
@@ -107,7 +106,7 @@
     <article>
         <p>I used to work in e-commerce, and one term you might not heard of is called an &quot;abandoned cart.&quot; It is when a user is about to check out, but then leaves the site. This happens frequently, and many savvy e-commerce sites try to recover these abandoned carts.</p>
 <p>If you got through much of the process...</p>
- <p><a class="nowrap" href="articles/i-used-to-work-in-e-commerce--and-one-term-you-might-not-heard-of-is-called-a---">READ MORE (151 words, 1 minutes)</a></p> 
+ <p><a class="nowrap" href="articles/i-used-to-work-in-e-commerce--and-one-term-you-might-not-heard-of-is-called-a---">READ MORE (151 words)</a></p> 
     </article>
     
     <h2><a href="articles/no-database-for-node-js">No database for node.js</a></h2>
@@ -118,7 +117,7 @@
     <article>
         <p>So I have been using node.js and mongo for some time, and yeah, it works fine and all, but I am starting to wonder, why bother with a db at all?</p>
 <p>When you are using PHP each load of a page restarts the PHP app, and the only way you can have any state stored for anything is to use some database sys...</p>
- <p><a class="nowrap" href="articles/no-database-for-node-js">READ MORE (285 words, 2 minutes)</a></p> 
+ <p><a class="nowrap" href="articles/no-database-for-node-js">READ MORE (285 words)</a></p> 
     </article>
     
             </body>
