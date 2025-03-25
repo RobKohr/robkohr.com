@@ -1,0 +1,55 @@
+
+        <html>
+            <head>
+                <title>Why are AI companies hiring software engineers if AI can code better than humans. - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
+
+                <link rel="canonical" href="https://robkohr.com/articles/why-are-ai-companies-hiring-software-engineers-if-ai-can-code-better-than-humans-" />
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            
+    <h2><a href="articles/why-are-ai-companies-hiring-software-engineers-if-ai-can-code-better-than-humans-">Why are AI companies hiring software engineers if AI can code better than humans.</a></h2>
+    <div class="variables">
+    <div class="date">@date=2025-03-18</div>
+    <div class="tags">@tags=<a href="tags/ai">ai</a></div>
+    </div>
+    <article>
+        <p>This post is based on a response I gave to a reddit post with the same title.</p>
+<p>Ok, I have been a software engineer for over 25 years, and I love myself some AI for coding, but it can&#39;t do the thinking for you at all because it can&#39;t think. It can just complete patterns. </p>
+<p>If I were to give you the pattern of 12233344445... You&#39;d probably be able to guess the rest of the pattern, and so would AI, and that is what it is good at, but to the Nth degree because it has every single publically available bit of human code and text available to pair with whatever pattern you provide to it. </p>
+<p>This makes it really good at:</p>
+<ol>
+<li><p>Autocompleting some code where you give a really strong hint of where you are going with something. In fact, this has made my code more commentful as it lets the AI basically use my comments as basically natural language coding. Also, throw in some really strong typing information and data validation, and kinda like a half solved suduko puzzle, it becomes easy for the AI to fill in the rest. What&#39;s nice is you can guide the AI to do all the code for the typing and validation and comments, and then things just flow from there. You are just helping fill in the weirdly shaped suduku puzzle that you are needing to solve.</p>
+</li>
+<li><p>Calling out your screwups. Somewhere in your hairbrained react/useEffect/redux bs you call code, you done screwed the pooch (or your former coworers did, but we don&#39;t want to point fingers), and it will take the next 3 hours and a pot of coffee to untangle your mess. Well, your primative monkey brain just can&#39;t handle that many factors of complexity easily, but you write up a very detailed debug log of what is wrong and what is right, and paste in all the relevent code and have it properly labeled, and about 50% of the time the AI will point out in bright neon lights exactly what is wrong, and will even be nice enough not to berate you about the rest of the mess of code around it unless you ask it to. Half the time though, it might take you several iterations to get the AI to see things right, but it will take less time than just having to dissect it all yourself. After you figure it out, have it help you add some tests, and then have it clean up the mess some and validate it with those tests.</p>
+</li>
+<li><p>Diving in the deep end with shit you don&#39;t know anything about. Need to write some code in Objective C, and you don&#39;t know a damn bit about it? Well not only will it help you write the code, but also probably do it in such a way that will resolve some of the common pitfalls about it. This also helps accelelorate your learning in something where you don&#39;t need to read the documentation (much of which wouldn&#39;t directly apply to what you need to do), and instantly see examples of what best (or at least most common) practices are for solving a problem.</p>
+</li>
+</ol>
+<p>With all of this, I think AI is replacing programmers, but not in the way people think. It can take a person with a good programming mindset, and make them able to tackle easy problems easily, and also to venture into areas that they might not specialize in, thus eliminating the need for engineers who need very detailed direction. But, also like the beginning of the industrial age, it opens up a new horizon of possibilities to many. I know I am now successfully taking on personal projects that were eternally shelved because I can venture into areas that I was not an expert in, and I can more easily plow through some of the drudgery. No longer do I have to hand sew things, I have mechanization that can help me take my ideas and do the meanial work. </p>
+<p>In the past 20 years, I have seen the rise of coder academies produce programmers in the field that would not have typically made it through the great filter that is the computer science degree. I think these academies will struggle and the programmers they produce will struggle unless they start pushing more critical thinking and less rote memorization. I suspect this is also a common trend along a large number of other professions as well. The bar is being raised for critical thought, now that base knowledge is being made irrelevant.</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

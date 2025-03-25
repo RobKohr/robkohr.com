@@ -1,0 +1,49 @@
+
+        <html>
+            <head>
+                <title>Coding with AI feels like Tony Stark Scene - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
+
+                <link rel="canonical" href="https://robkohr.com/articles/coding-with-ai-feels-like-tony-stark-scene" />
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            
+    <h2><a href="articles/coding-with-ai-feels-like-tony-stark-scene">Coding with AI feels like Tony Stark Scene</a></h2>
+    <div class="variables">
+    <div class="date">@date=2025-02-03</div>
+    <div class="tags">@tags=<a href="tags/coding">coding</a>, <a href="tags/ai">ai</a></div>
+    </div>
+    <article>
+        <p>I remember the little helping hands robots in the iron man movies with joy. </p>
+<p>They aren&#39;t too smart or helpful, the are a little bit smart assy, but they clearly help Tony move faster without having to deal with having human assistants around.</p>
+<p>ChatGPT and Github Copilot really fill those roles for me. </p>
+<p>I am working on slapping together a new version of Pivotal Tracker as it is about to sunset. This is to replace a project with nearly a decade&#39;s worth of development, and do it in a couple months.</p>
+<p>I have a decent amount of experience with building UI&#39;s and apis, and databases, but doing them all together in a one man band with a crunch time, while also working full time, and having a full family with lots of obligations is challenging.</p>
+<p>I usually have chatGPT off to one side to throw questions and spitball ideas at, and then I have Copilot in my coding window to help autocomplete things that are obvious.</p>
+<p>Neither are fantastic at doing much deep work ... they are effectively just ghosts of engineers of the past responding to things that resemble patterns that have been completed before. They don&#39;t have thoughts, and you shouldn&#39;t trust them to do much, but they are damn handy. They catch my mistakes, identify why errors are coming up, fill in the mind numbing stuff fairly well (though you have to do plenty to tighten up what they write), and they can point you to patterns and libraries you might not have thought of. If you give them some typescript definitions, they can also do a good job of assembling some forms and creating some validations that aren&#39;t half bad. </p>
+<p>You gotta keep an eye on them, just like Tony does, but they can be a force multiplier for someone with some deep experience.</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

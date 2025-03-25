@@ -1,0 +1,63 @@
+
+        <html>
+            <head>
+                <title>How to play figgie - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
+
+                <link rel="canonical" href="https://robkohr.com/articles/how-to-play-figgie" />
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            
+    <h2><a href="articles/how-to-play-figgie">How to play figgie</a></h2>
+    <div class="variables">
+    <div class="date">@date=2025-03-20</div>
+    <div class="tags">@tags=<a href="tags/games">games</a>, <a href="tags/boardgames">boardgames</a></div>
+    </div>
+    <article>
+        <p>This is a game invented by Jane Street to help people learn about trading and working with limited information.</p>
+<p>To set up for this, have one player go off to a side table so other players don&#39;t see, and sort the cards into 4 piles, one for each suit. Take the two black suits piles face down, and put them on one side randomly, and the two red suits and put them on the other side. So you should have 4 piles of cards, each with 12 cards in each pile, and each pile should be a single suit. So lets say in this case we have piles of Spades(S), Clubs(C), Hearts(H), Diamonds(D).</p>
+<p>Leave those piles as is and have another player come over and secretly pull 4 cards off of one of the colored piles (Let&#39;s say black spades), and then for the other color, pull off 2 of each of the piles (so 2 off the hearts and 2 off the diamonds). Importantly, that person needs to not know what colors they pulled off. The cards pulled off can then be put into a discarded pile or back in the box. Stack all 4 together, and shuffle them, and then bring them back to the main table and have another person shuffle for good measure.</p>
+<p>Now your deck is ready to go. In this imaginary case, we have 8 Spades, 12 clubs, 10 hearts, and 10 diamonds. The 8 spades is the target suit, and will be the only one that will pay out in the end, and you will note that if you identify the suit with 12 cards in it (the common suit), you will be able to figure out which one has the 8 cards in it.  Of course, at this point, no one should be able to know which is the goal suit (the one that pays out). All other cards are worthless.</p>
+<p>Each card in the goal suit is worth 10 chips in the end. Also the person with the most goal cards gets the remainder of then ante in the middle.</p>
+<p>To start out with, everyone gets 350 chips, and the ante is put in to equal 200 chips, so with:</p>
+<ul>
+<li>4 players that is 50 chips each</li>
+<li>5 players that 40 chips each</li>
+<li>With 6 or 7 players 30 chips each</li>
+<li>8 players 25 chips</li>
+<li>9 players, 22 chips</li>
+<li>10 players, 20 chips
+The rules really only cover 4-5 players, but I extended it here to make it so you can play with bigger groups. I think with less than 4 you would end up with dead locks too easily.</li>
+</ul>
+<p>Set a timer on a phone for 4 minutes. </p>
+<p>At this point players can start trading chips and cards with each other.</p>
+<p>You can say &quot;I will pay 4 for diamonds&quot;, &quot;selling clubs for 3&quot;, &quot;anyone have any spade for sale&quot;</p>
+<p>and so on, and then people accepting or communicating with each other for the sales.</p>
+<p>There are no turns, and everyone can talk and trade the same time until the time is up.</p>
+<p>Then everyone reveals their cards and you identify the goal suit. Players with the goal suit get 10 chips from the pot for each one, and then the person with the most of the goal suit gets the pot. </p>
+<p>Play as many hands as you like and then compare your winnings. You might want to play until someone is out of chips, or just a specific number of rounds.</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

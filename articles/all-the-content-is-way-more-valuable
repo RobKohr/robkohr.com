@@ -1,0 +1,47 @@
+
+        <html>
+            <head>
+                <title>All the content is way more valuable - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
+
+                <link rel="canonical" href="https://robkohr.com/articles/all-the-content-is-way-more-valuable" />
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            
+    <h2><a href="articles/all-the-content-is-way-more-valuable">All the content is way more valuable</a></h2>
+    <div class="variables">
+    <div class="date">@date=2025-03-24</div>
+    <div class="tags">@tags=<a href="tags/ads">ads</a>, <a href="tags/web">web</a></div>
+    </div>
+    <article>
+        <p>Whenever you write a blog, post to social media, comment on something, or create something that is shared on the web, the thing you share is then enshrined in ads.</p>
+<p>Those ad based companies bring in so much money that they become worth 100s of billions of dollars. Every piece of content we share online carries more value than we realize. Value that the creators of the content will not see, other than beyond the enjoyment of interacting with others. </p>
+<p>Writers in Hollywood can go on strike. It is entertaining to think of what a internet content creators strike would look like. Every troll, every instagram minor celebrity, every doting grandma posting pictures of her grandkids on FB, every Youtuber, all went silent. Not even a single like would be clicked. They would line up in front of corporate headquarters and demand a slice of the pie for every add that appears next to their google review of a local Chinese restaurant. </p>
+<p>It is all a silly idea, but if in this imaginary world, we got paid for half of all the ad revenue served around what we wrote, shared and uploaded, how much would each of us have jingling around in our pockets.</p>
+<p>More than that, how much would that change our behaviors. Would we be more sharing if we had incentive beyond just communicating with our fellow humans? Would we recoil at the idea that grandma is just posting up our kid pictures for attention so that she can get her nails done. Would it sully everything if our computer ejected shiny nickels at us every time we messaged an old friend. </p>
+<p>Would we embrace a system where every interaction has a price tag? Or would we miss the internet as a space for pure, unpaid connection? Then again, someone is getting paid—maybe we prefer it that way. Maybe it&#39;s better for a faceless corporation to profit from our words than for us to profit from each other.</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

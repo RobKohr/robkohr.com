@@ -1,0 +1,43 @@
+
+        <html>
+            <head>
+                <title>ads - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            <h2>Tag: ads</h2>
+    
+    <h2><a href="articles/all-the-content-is-way-more-valuable">All the content is way more valuable</a></h2>
+    <div class="variables">
+    <div class="date">@date=2025-03-24</div>
+    <div class="tags">@tags=<a href="tags/ads">ads</a>, <a href="tags/web">web</a></div>
+    </div>
+    <article>
+        <p>Whenever you write a blog, post to social media, comment on something, or create something that is shared on the web, the thing you share is then enshrined in ads.</p>
+<p>Those ad based companies bring in so much money that they become worth 100s of billions of dollars. Every piece of content we share ...</p>
+ <p><a class="nowrap" href="articles/all-the-content-is-way-more-valuable">READ MORE (328 words)</a></p> 
+    </article>
+    
+            </body>
+        </html>
+    

@@ -1,0 +1,44 @@
+
+        <html>
+            <head>
+                <title>engineering - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            <h2>Tag: engineering</h2>
+    
+    <h2><a href="articles/unoffice-hours">Unoffice hours</a></h2>
+    <div class="variables">
+    <div class="date">@date=2025-01-27</div>
+    <div class="tags">@tags=<a href="tags/socializing">socializing</a>, <a href="tags/engineering">engineering</a>, <a href="tags/programming">programming</a>, <a href="tags/coding">coding</a></div>
+    </div>
+    <article>
+        <p>From a hackernews post, I found this site:</p>
+<p><a href="https://interconnected.org/home/2020/09/24/unoffice_hours">https://interconnected.org/home/2020/09/24/unoffice_hours</a></p>
+<p>about having office hours anyone can pop into. I used to work in offices all the time, and I enjoyed the nerdy conversations of colleges. I have been a remote worker for a long time though, and ...</p>
+ <p><a class="nowrap" href="articles/unoffice-hours">READ MORE (62 words)</a></p> 
+    </article>
+    
+            </body>
+        </html>
+    
