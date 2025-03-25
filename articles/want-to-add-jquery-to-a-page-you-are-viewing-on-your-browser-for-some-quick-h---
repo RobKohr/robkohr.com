@@ -1,6 +1,9 @@
 
-        <html>
-            <head>
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
                 <title>Want to add jquery to a page you are viewing on your browser for some quick h... - RobKohr's Blog</title>
 
 <!-- Google tag (gtag.js) -->
@@ -15,14 +18,16 @@
   gtag("config", "UA-600316-3");
 </script>
 
-<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
-<link rel="shortcut icon" type="image/ico" href="favicon.ico">
-<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
-<script src="libs/highlight/highlight.min.js"></script>
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
 
                 <link rel="canonical" href="https://robkohr.com/articles/want-to-add-jquery-to-a-page-you-are-viewing-on-your-browser-for-some-quick-h---" />
                 <link rel="stylesheet" href="../neat.css">
-                <base href="../">
+
+                <meta property="og:description" content="Want to add jquery to a page you are viewing on your browser for some quick hackery?Create a bookmark with this as the location:```javascript:void((function(){j=document.createElement(SCRIPT);j.src=" />
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>

@@ -1,6 +1,9 @@
 
-        <html>
-            <head>
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
                 <title>I had to take down both of the games I had on the iPhone due to a takedown re... - RobKohr's Blog</title>
 
 <!-- Google tag (gtag.js) -->
@@ -15,14 +18,16 @@
   gtag("config", "UA-600316-3");
 </script>
 
-<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
-<link rel="shortcut icon" type="image/ico" href="favicon.ico">
-<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
-<script src="libs/highlight/highlight.min.js"></script>
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
 
                 <link rel="canonical" href="https://robkohr.com/articles/i-had-to-take-down-both-of-the-games-i-had-on-the-iphone-due-to-a-takedown-re---" />
                 <link rel="stylesheet" href="../neat.css">
-                <base href="../">
+
+                <meta property="og:description" content="I had to take down both of the games I had on the iPhone due to a takedown request from Atari for copyright violations. Guess it wasn't a good idea to create a nock off of games that were from the 70s" />
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>

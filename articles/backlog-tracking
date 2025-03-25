@@ -1,6 +1,9 @@
 
-        <html>
-            <head>
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
                 <title>Backlog tracking - RobKohr's Blog</title>
 
 <!-- Google tag (gtag.js) -->
@@ -15,14 +18,16 @@
   gtag("config", "UA-600316-3");
 </script>
 
-<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
-<link rel="shortcut icon" type="image/ico" href="favicon.ico">
-<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
-<script src="libs/highlight/highlight.min.js"></script>
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
 
                 <link rel="canonical" href="https://robkohr.com/articles/backlog-tracking" />
                 <link rel="stylesheet" href="../neat.css">
-                <base href="../">
+<meta property="og:image" content="https://robkohr.com/images/2020-06-12-08-37-23.png" />
+                <meta property="og:description" content="![[2020-06-12-08-37-23.png]]Using a long notebook file has made it easier to keep track of what I need to do each day. On any day I grab things from the backlog, and stick them under the header for to" />
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>
@@ -33,7 +38,7 @@
     <div class="tags">@tags=<a href="tags/software-ideas">software-ideas</a></div>
     </div>
     <article>
-        <p><img src="images/2020-06-12-08-37-23.png" alt="2020-06-12-08-37-23.png" style="max-width: 100%;" /></p>
+        <p><img data-src="images/2020-06-12-08-37-23.png" alt="2020-06-12-08-37-23.png" style="max-width: 100%;" /></p>
 <p>Using a long notebook file has made it easier to keep track of what I need to do each day. On any day I grab things from the backlog, and stick them under the header for today&#39;s date. Then I checkmark competed items. Incomplete items just move to the next day (or back to the backlog).</p>
 <p>Perhaps a react app for the phone would be ideal for this?</p>
 

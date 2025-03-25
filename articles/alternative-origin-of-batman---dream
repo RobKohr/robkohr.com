@@ -1,6 +1,9 @@
 
-        <html>
-            <head>
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
                 <title>Alternative origin of Batman - dream - RobKohr's Blog</title>
 
 <!-- Google tag (gtag.js) -->
@@ -15,14 +18,16 @@
   gtag("config", "UA-600316-3");
 </script>
 
-<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
-<link rel="shortcut icon" type="image/ico" href="favicon.ico">
-<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
-<script src="libs/highlight/highlight.min.js"></script>
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
 
                 <link rel="canonical" href="https://robkohr.com/articles/alternative-origin-of-batman---dream" />
                 <link rel="stylesheet" href="../neat.css">
-                <base href="../">
+<meta property="og:image" content="https://robkohr.com/images/Pasted image 20241122131133.png" />
+                <meta property="og:description" content="Scrouge McDuck starts poor and is recruited by joker to become batman. I think it was just to entertain the Joker, but then Scrouge through the conflict also grows more as an individual to become the " />
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>
@@ -34,10 +39,10 @@
     </div>
     <article>
         <p>Scrouge McDuck starts poor and is recruited by joker to become batman. I think it was just to entertain the Joker, but then Scrouge through the conflict also grows more as an individual to become the wealthiest man of Duckburg.</p>
-<p><img src="images/Pasted image 20241122131133.png" alt="Pasted image 20241122131133.png" style="max-width: 100%;" /></p>
+<p><img data-src="images/Pasted image 20241122131133.png" alt="Pasted image 20241122131133.png" style="max-width: 100%;" /></p>
 <p>I had some struggles with chatGPT making this.</p>
-<p><img src="images/Pasted image 20241122131206.png" alt="Pasted image 20241122131206.png" style="max-width: 100%;" /></p>
-<p><img src="images/Pasted image 20241122131230.png" alt="Pasted image 20241122131230.png" style="max-width: 100%;" /></p>
+<p><img data-src="images/Pasted image 20241122131206.png" alt="Pasted image 20241122131206.png" style="max-width: 100%;" /></p>
+<p><img data-src="images/Pasted image 20241122131230.png" alt="Pasted image 20241122131230.png" style="max-width: 100%;" /></p>
 <p>I kinda love that the money bin is just a trash can of gold coins.</p>
 
     </article>

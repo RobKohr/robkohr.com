@@ -1,6 +1,9 @@
 
-        <html>
-            <head>
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
                 <title>attempt 2 at making sourdough starter - RobKohr's Blog</title>
 
 <!-- Google tag (gtag.js) -->
@@ -15,14 +18,16 @@
   gtag("config", "UA-600316-3");
 </script>
 
-<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
-<link rel="shortcut icon" type="image/ico" href="favicon.ico">
-<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
-<script src="libs/highlight/highlight.min.js"></script>
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
 
                 <link rel="canonical" href="https://robkohr.com/articles/attempt-2-at-making-sourdough-starter" />
                 <link rel="stylesheet" href="../neat.css">
-                <base href="../">
+<meta property="og:image" content="https://robkohr.com/images/Yeast starter.jpg" />
+                <meta property="og:description" content="First one dried out from a day of neglect.I am attempting to do this to make bread at home to help with Ella's gluten intolerance. Apparently even rustic breads from the grocery store are very high in" />
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>
@@ -36,7 +41,7 @@
         <p>First one dried out from a day of neglect.</p>
 <p>I am attempting to do this to make bread at home to help with Ella&#39;s gluten intolerance. Apparently even rustic breads from the grocery store are very high in gluten from the sped up process of bread making that helps keep it fluffy and more shelf stable.</p>
 <p>I am hoping that more traditional sourdough bread will have more broken down gluten protein. 
-<img src="images/Yeast starter.jpg" alt="Yeast starter.jpg" style="max-width: 100%;" /></p>
+<img data-src="images/Yeast starter.jpg" alt="Yeast starter.jpg" style="max-width: 100%;" /></p>
 
     </article>
     

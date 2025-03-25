@@ -1,6 +1,9 @@
 
-        <html>
-            <head>
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
                 <title>Tailwind... quick thought - RobKohr's Blog</title>
 
 <!-- Google tag (gtag.js) -->
@@ -15,14 +18,16 @@
   gtag("config", "UA-600316-3");
 </script>
 
-<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
-<link rel="shortcut icon" type="image/ico" href="favicon.ico">
-<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
-<script src="libs/highlight/highlight.min.js"></script>
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
 
                 <link rel="canonical" href="https://robkohr.com/articles/tailwind----quick-thought" />
                 <link rel="stylesheet" href="../neat.css">
-                <base href="../">
+<meta property="og:image" content="https://robkohr.com/images/Pasted image 20241215105219.png" />
+                <meta property="og:description" content="Look at a bunch of tailwind videos, and thought about how I code to see if the two would be compatiable.Typically I make React components, and I give a class name to the top level of the react compone" />
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>
@@ -40,7 +45,7 @@
 <p>Anything that defined colors, shadowing, sizing, etc, would go in the variables.scss file. </p>
 <p>With all that, I like what I have. Generic chunks that get reused between components (like .card), some specifications, and a bit of component specific tailored styling. </p>
 <p>Now looking at the little animated image demoing use of it on the tailwindcss.com website, I just can&#39;t see why I would want to use that for styling a component. </p>
-<p><img src="images/Pasted image 20241215105219.png" alt="Pasted image 20241215105219.png" style="max-width: 100%;" /></p>
+<p><img data-src="images/Pasted image 20241215105219.png" alt="Pasted image 20241215105219.png" style="max-width: 100%;" /></p>
 <p>I would probably set something like:</p>
 <pre><code class="language-css">.quote-card-component{
     .card{

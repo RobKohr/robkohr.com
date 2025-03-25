@@ -1,6 +1,9 @@
 
-        <html>
-            <head>
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
                 <title>Making a laptop holder - RobKohr's Blog</title>
 
 <!-- Google tag (gtag.js) -->
@@ -15,14 +18,16 @@
   gtag("config", "UA-600316-3");
 </script>
 
-<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
-<link rel="shortcut icon" type="image/ico" href="favicon.ico">
-<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
-<script src="libs/highlight/highlight.min.js"></script>
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
 
                 <link rel="canonical" href="https://robkohr.com/articles/making-a-laptop-holder" />
                 <link rel="stylesheet" href="../neat.css">
-                <base href="../">
+<meta property="og:image" content="https://robkohr.com/images/before-cuts.png" />
+                <meta property="og:description" content="I like to use my 3d printer a lot, but sometimes when there is a problem, I drop out of use for a while. Recently, a big ball of melted plastic formed around the hot end, and I didn't have an urge to " />
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>
@@ -38,8 +43,8 @@
 <p>I heated it up to ABS temperature, and then took a sodering iron to cut off chunks of it, then pried off whatever was left. All worked great, and no that the pumpkin was done, it was time to do something else.</p>
 <p>I hook up a laptop to my screen via usb-c and need a way to hold it vertically. I figured I should throw in some cable management, pen slots, and maybe some spaces to put magnets to put things like paperclips on. </p>
 <p>First I started in Tinkercad with a large rectiliniar cube as a hole to represent the laptop, and then put it 4 mm above the ground. Then I stacked the other parts around it and added cuts. This is the primary mode I do for design. Add chunks and then do subtracts. </p>
-<p><img src="images/before-cuts.png" alt="before-cuts.png" style="max-width: 100%;" /></p>
-<p><img src="images/after cuts.png" alt="after cuts.png" style="max-width: 100%;" /></p>
+<p><img data-src="images/before-cuts.png" alt="before-cuts.png" style="max-width: 100%;" /></p>
+<p><img data-src="images/after cuts.png" alt="after cuts.png" style="max-width: 100%;" /></p>
 <p>I also try to work with multiples/fractions of 12. Base 12 has the most factors (12, 6, 4, 3, 2, 1) and works well for keeping things scaled in pleasing proportions to each other (this is why lego is base 12, the imperial system works off of base 12, our clocks, western music scales, and many other things). So the height for the surrounding bases are 6mm high, and everything follows from there. </p>
 <p>So off to the printer it goes, and here is the final product:</p>
 <p>(image coming soon)</p>

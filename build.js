@@ -1,13 +1,14 @@
 import fs from "fs";
 import { marked } from "marked";
-console.info("Starting build.js");
+
 /* Get html content from analytics.html */
 var headerExtras = `
 ${fs.readFileSync("analytics.html", "utf8")}
-<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
-<link rel="shortcut icon" type="image/ico" href="favicon.ico">
-<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
-<script src="libs/highlight/highlight.min.js"></script>
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
 `;
 
 /* 
@@ -18,7 +19,7 @@ and replace it with this:
 */
 
 function replaceImageLinks(text) {
-  const out = text.replace(/!\[\[(.+)\]\]/g, '<img src="images/$1" alt="$1" style="max-width: 100%;" />');
+  const out = text.replace(/!\[\[(.+)\]\]/g, '<img data-src="images/$1" alt="$1" style="max-width: 100%;" />');
   /* find all image paths, remove the syntax around them, and put the file names in an array */
   const matches = text.match(/!\[\[(.+)\]\]/g)?.map(function (match) {
     return match.replace(/!\[\[(.+)\]\]/, "$1");
@@ -72,7 +73,6 @@ var articlesFull = data.split("\n## ");
 
 var tagPages = {};
 
-console.info("Parsing articles");
 var articles = articlesFull.map(function (articleOrig) {
   const article = {};
   var lines = articleOrig.split("\n");
@@ -83,7 +83,7 @@ var articles = articlesFull.map(function (articleOrig) {
         Those lines should be removed from the content and added to the article object
         */
   article.variables = {};
-
+  const tagLabels = [];
   article.content = article.content.replace(/@(\w+)=(.*)/g, function (match, key, value) {
     value = value.trim();
     if (key === "tags") {
@@ -91,6 +91,7 @@ var articles = articlesFull.map(function (articleOrig) {
         .split(",")
         .map(function (tagLabel) {
           tagLabel = tagLabel.trim();
+          tagLabels.push(tagLabel);
           if (tagLabel === "") {
             return "";
           }
@@ -120,16 +121,17 @@ var articles = articlesFull.map(function (articleOrig) {
   const hasReadMore = contentWithoutATags.length > summaryLength;
   article.summary = htmlUpdaters(
     marked.parse(contentWithoutATags.substring(0, 300) + "...") +
-      ` <p><a class="nowrap" href="${articleUrl(article)}">READ MORE (${wordCount} words${imageCountLabel})</a></p> `
+      ` <p><a class="nowrap" href="${articleUrl(article)}">READ MORE (${wordCount} words, ${Math.round(wordCount / 130)} minutes${imageCountLabel})</a></p> `
   ).replace(/<img.+>/g, "");
   let icon = "";
   if (!hasReadMore) {
     article.summary = article.html;
   } else {
-    let matches = article.html.match(/<img src="(.+)" alt="(.+)" style="max-width: 100%;" \/>/);
+    let matches = article.html.match(/<img data-src="(.+)" alt="(.+)" style="max-width: 100%;" \/>/);
     icon = matches?.length ? matches[0] : "";
     if (icon) {
       icon = `<a href="${articleUrl(article)}">${icon.replace("img", 'img class="icon"')}</a>`;
+      article.iconUrl = matches[1];
     }
   }
   article.icon = icon;
@@ -139,6 +141,9 @@ var articles = articlesFull.map(function (articleOrig) {
     */
   /* if variable publishDate is in the future, then skip this article */
   if (article.variables.publishDate && new Date(article.variables.publishDate) > new Date()) {
+    return null;
+  }
+  if (tagLabels.includes("politics")) {
     return null;
   }
 
@@ -172,9 +177,13 @@ articles.forEach(function (article) {
 });
 
 let output = `
-    <html>
-        <head>
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        
             <title>RobKohr's Blog</title>
+            <base href="./">
 ${headerExtras}
             <link rel="stylesheet" href="neat.css">
         </head>
@@ -226,7 +235,6 @@ function addArticleToOutput(article, output, full) {
   );
 }
 
-console.info("Writing articles");
 articles.forEach(function (article) {
   if (article === null) {
     return;
@@ -235,14 +243,22 @@ articles.forEach(function (article) {
     output = addArticleToOutput(article, output);
   }
   const filename = `${toKebab(article.title)}`;
+
+  //description content for meta tag needs to be less than 200 characters and no html and now double quotes and new lines should be removed
+  const description = article.content.replace(/<[^>]+>/g, "").replace(/\n/g, "").substring(0, 200).replace(/"/g, "");
+
   const articleStartHtml = `
-        <html>
-            <head>
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
                 <title>${article.title} - RobKohr's Blog</title>
 ${headerExtras}
                 <link rel="canonical" href="https://robkohr.com/articles/${filename}" />
                 <link rel="stylesheet" href="../neat.css">
-                <base href="../">
+${article.icon ? '<meta property="og:image" content="https://robkohr.com/'+article.iconUrl+'" />' : ""}
+                <meta property="og:description" content="${description}" />
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>
@@ -262,7 +278,6 @@ output += `
 `;
 fs.writeFileSync("index.html", output);
 
-console.info("Writing tags");
 Object.keys(tagPages).forEach(function (tag) {
   let output = `
         <html>
@@ -319,7 +334,6 @@ fs.writeFileSync(`tags/index.html`, output);
 const date = new Date();
 const basicDate = new Date(date.getFullYear(), date.getMonth(), date.getDate()).toUTCString();
 
-console.info("Writing rss feed");
 /* create an rss feed of the last 50 articles */
 output = `
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">

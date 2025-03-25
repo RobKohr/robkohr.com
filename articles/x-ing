@@ -1,6 +1,9 @@
 
-        <html>
-            <head>
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
                 <title>X-ing - RobKohr's Blog</title>
 
 <!-- Google tag (gtag.js) -->
@@ -15,14 +18,16 @@
   gtag("config", "UA-600316-3");
 </script>
 
-<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
-<link rel="shortcut icon" type="image/ico" href="favicon.ico">
-<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
-<script src="libs/highlight/highlight.min.js"></script>
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
 
                 <link rel="canonical" href="https://robkohr.com/articles/x-ing" />
                 <link rel="stylesheet" href="../neat.css">
-                <base href="../">
+<meta property="og:image" content="https://robkohr.com/images/xing.jpg" />
+                <meta property="og:description" content="![[xing.jpg]]I wrote this a long while back about a dream I had about a race that happens every year. This isn't a normal race, but one where participants can bring all manner of things to race with (" />
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>
@@ -33,7 +38,7 @@
     <div class="tags">@tags=<a href="tags/dreams">dreams</a></div>
     </div>
     <article>
-        <p><img src="images/xing.jpg" alt="xing.jpg" style="max-width: 100%;" />
+        <p><img data-src="images/xing.jpg" alt="xing.jpg" style="max-width: 100%;" />
 I wrote this a long while back about a dream I had about a race that happens every year. This isn&#39;t a normal race, but one where participants can bring all manner of things to race with (skateboards, bikes, etc) but most chose to go by foot.  </p>
 <p>The race starts in the dark of night, in a dense cityscape. The route is chosen that involves back allays, bridges, tunnels, fences, walls, and all sorts of difficult structures to cross. Some paths are down right dangerous. All of these paths are the shortest paths, where participants can take the longer slower path, avoiding danger and possible trespassing charges.  </p>
 <p>It all started out small at first, just a group of friends just doing it for fun. But before the designated start time this year, hundreds of people crowded through the tight starting point. There was no starting gun, there was no referee. You could hear the sound of a multitude of cell phones ringing their own little alarm sound.  </p>

@@ -1,6 +1,9 @@
 
-        <html>
-            <head>
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
                 <title>Buying cheap during coronavirus - RobKohr's Blog</title>
 
 <!-- Google tag (gtag.js) -->
@@ -15,14 +18,16 @@
   gtag("config", "UA-600316-3");
 </script>
 
-<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
-<link rel="shortcut icon" type="image/ico" href="favicon.ico">
-<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
-<script src="libs/highlight/highlight.min.js"></script>
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
 
                 <link rel="canonical" href="https://robkohr.com/articles/buying-cheap-during-coronavirus" />
                 <link rel="stylesheet" href="../neat.css">
-                <base href="../">
+
+                <meta property="og:description" content="![[2020-06-12-08-39-31.png]]A lot of stocks are really down, some much more than average: Cruise ships, amusement parks, Dave and Busters, movie theater chains.Selling all of my stock index funds and " />
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>
@@ -33,7 +38,7 @@
     <div class="tags">@tags=<a href="tags/stocks">stocks</a></div>
     </div>
     <article>
-        <p><img src="images/2020-06-12-08-39-31.png" alt="2020-06-12-08-39-31.png" style="max-width: 100%;" /></p>
+        <p><img data-src="images/2020-06-12-08-39-31.png" alt="2020-06-12-08-39-31.png" style="max-width: 100%;" /></p>
 <p>A lot of stocks are really down, some much more than average: Cruise ships, amusement parks, Dave and Busters, movie theater chains.</p>
 <p>Selling all of my stock index funds and buying up whatever is cheap.</p>
 <p>UPDATE 2 years later: everything went great :D</p>

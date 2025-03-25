@@ -1,6 +1,9 @@
 
-        <html>
-            <head>
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
                 <title>Tailwind - RobKohr's Blog</title>
 
 <!-- Google tag (gtag.js) -->
@@ -15,14 +18,16 @@
   gtag("config", "UA-600316-3");
 </script>
 
-<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
-<link rel="shortcut icon" type="image/ico" href="favicon.ico">
-<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
-<script src="libs/highlight/highlight.min.js"></script>
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
 
                 <link rel="canonical" href="https://robkohr.com/articles/tailwind" />
                 <link rel="stylesheet" href="../neat.css">
-                <base href="../">
+<meta property="og:image" content="https://robkohr.com/images/Pasted image 20230807125724.png" />
+                <meta property="og:description" content="Tailwind is a css framework that with some html code that looks like this:![[Pasted image 20230807125724.png]]You can style your site without css. Instead, you throw classes on dom elements and then t" />
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>
@@ -34,7 +39,7 @@
     </div>
     <article>
         <p>Tailwind is a css framework that with some html code that looks like this:
-<img src="images/Pasted image 20230807125724.png" alt="Pasted image 20230807125724.png" style="max-width: 100%;" /></p>
+<img data-src="images/Pasted image 20230807125724.png" alt="Pasted image 20230807125724.png" style="max-width: 100%;" /></p>
 <p>You can style your site without css. </p>
 <p>Instead, you throw classes on dom elements and then tailwind will ladle some css on your element to get it to look the way you like. </p>
 <p>As someone who has done scss for a long time, I rather like giving things a class name, fitting them in the structure of the site, and writing the css for them. You can set some padding, width, rounded borders, etc, fairly easy in css, and not learn and integrate another thing.</p>

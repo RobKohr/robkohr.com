@@ -1,0 +1,50 @@
+
+        <html>
+            <head>
+                <title>Making millions - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/making-millions">Making millions</a></h2>
+    <div class="variables">
+    <div class="date">@date=2023-07-30</div>
+    <div class="tags">@tags=<a href="tags/money">money</a>, <a href="tags/business">business</a></div>
+    </div>
+    <article>
+        <p>When people say they make 6 figures, it means they make somewhere just over 100k. These are usually fairly high skilled labor. </p>
+<p>The average salary is about 50k.</p>
+<p>With most retailers paying up to $15 for mostly unskilled labor, the lower end of yearly income is about 30k. </p>
+<p>If you go furtherest up the skill tree to laborers working the best payed jobs at companies such as google, you can get up to 200-250k. Basically the highest paid worker makes 8-10x what the lowest paid worker makes. </p>
+<p>That is pretty much it, and it is hard to get past that summit, even if you are a super star worker. No amount of elbow grease or skillset is going to bust you out of making more than that if you are working for someone else. That is the salary bell curve and it gets real thin on the right side. Yeah, there are some exceptions such as athletes, movie stars, and CEOs that break the bell curve and get paid way beyond that for basically being an in demand worker that isn&#39;t replaceable, but those people have climbed some serious mountains to get there.</p>
+<p>And yet there 22 million millionaires in the USA alive today  [<a href="https://www.ramseysolutions.com/retirement/how-many-millionaires-in-us">source</a>] out of a population of about 300 million Americans. That is stored up income though, and not annual income, so plenty of 6 figure incomes can get there. 0.5% earn over a million a year [<a href="https://www.weforum.org/agenda/2022/04/united-states-actual-perceived-income-gap-economy/">source</a>].</p>
+<p>That is still a pretty big percentage. That is 1 out of every 200 in your high school graduating class. That is too big of a number to account for with high paid athletes and movie stars.</p>
+<p>What that number does represent is business owners. People who run restaurants or business franchises, car dealerships, or small service companies online. People who employ other people to provide value to others, and then make money off of that value minus the overhead of the business and employees. The people who will pay people somewhere between the 30k-200k that everyone else makes. </p>
+<p>That is the realistic way to break out of the glass ceiling and climb to something beyond is not getting a paycheck from someone else. You have to serve more than your boss. You have to serve hundreds, thousands, or millions of people with something that you create and provide to them. The creation of the service you provide to them could be from your own two hands, or from the employment of others to fulfill that creation on a grander scale, but you are no longer getting a big paycheck from an individual or business, but you are getting tiny paychecks from a multitude of individuals or businesses. </p>
+<p>That is a challenging path to walk in self motivation, financial risk, and also endless mental and possible physical energy that comes with not riding on the back of someone else that provided you with those things (your employer). It is a grind to get further and further to the right of the salary bell curve, but eventually you will hit a limit where you will plateau, and that plateau will be based on your skill compared to everyone else in your profession, and the limits of your profession, but when you work for yourself serving others, that plateau is more amorphous, and it depends on your business sense and your ability to see opportunity. The scary thing is that plateau could be zero or even negative $ if you are crap at running a business, but if you get a few standard deviations above the average on that bell curve, you could be making 100&#39;s of times more income than you could ever make as an employee.</p>
+
+    </article>
+    
+            </body>
+          </html>
+          
