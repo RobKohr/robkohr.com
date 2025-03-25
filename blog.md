@@ -1,7 +1,7 @@
 
 ## Navigation
 
-- <a href="articles/now">⏰ Now</a>
+- <a href="now">⏰ Now</a>
 <!--- <a href="https://mailchi.mp/73f113e474f1/robert-kohrs-blog">📧 Signup to the Monthly Email List</a>-->
 - <a href="articles/about">ℹ️ About</a>
 - <a href="tags/index.html">🏷️ Tags</a>

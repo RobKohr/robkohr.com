@@ -121,7 +121,9 @@ var articles = articlesFull.map(function (articleOrig) {
   const hasReadMore = contentWithoutATags.length > summaryLength;
   article.summary = htmlUpdaters(
     marked.parse(contentWithoutATags.substring(0, 300) + "...") +
-      ` <p><a class="nowrap" href="${articleUrl(article)}">READ MORE (${wordCount} words, ${Math.round(wordCount / 130)} minutes${imageCountLabel})</a></p> `
+      ` <p><a class="nowrap" href="${articleUrl(article)}">READ MORE (${wordCount} words, ${Math.round(
+        wordCount / 130
+      )} minutes${imageCountLabel})</a></p> `
   ).replace(/<img.+>/g, "");
   let icon = "";
   if (!hasReadMore) {
@@ -245,7 +247,11 @@ articles.forEach(function (article) {
   const filename = `${toKebab(article.title)}`;
 
   //description content for meta tag needs to be less than 200 characters and no html and now double quotes and new lines should be removed
-  const description = article.content.replace(/<[^>]+>/g, "").replace(/\n/g, "").substring(0, 200).replace(/"/g, "");
+  const description = article.content
+    .replace(/<[^>]+>/g, "")
+    .replace(/\n/g, "")
+    .substring(0, 200)
+    .replace(/"/g, "");
 
   const articleStartHtml = `
 <!DOCTYPE html>
@@ -257,7 +263,7 @@ articles.forEach(function (article) {
 ${headerExtras}
                 <link rel="canonical" href="https://robkohr.com/articles/${filename}" />
                 <link rel="stylesheet" href="../neat.css">
-${article.icon ? '<meta property="og:image" content="https://robkohr.com/'+article.iconUrl+'" />' : ""}
+${article.icon ? '<meta property="og:image" content="https://robkohr.com/' + article.iconUrl + '" />' : ""}
                 <meta property="og:description" content="${description}" />
             </head>
             <body>
@@ -385,5 +391,11 @@ output += `
     </rss>
 `;
 fs.writeFileSync(`rss.xml`, output);
+
+// copy file from articles/now.html to now/index.html and create the directory for it if needed
+if (!fs.existsSync("now")) {
+  fs.mkdirSync("now");
+}
+fs.copyFileSync("articles/now.html", "now/index.html");
 
 console.log("done");
