@@ -392,10 +392,10 @@ output += `
 `;
 fs.writeFileSync(`rss.xml`, output);
 
-// copy file from articles/now.html to now/index.html and create the directory for it if needed
-if (!fs.existsSync("now")) {
-  fs.mkdirSync("now");
-}
-fs.copyFileSync("articles/now", "now/index.html");
+// // copy file from articles/now.html to now/index.html and create the directory for it if needed
+// if (!fs.existsSync("now")) {
+//   fs.mkdirSync("now");
+// }
+fs.copyFileSync("articles/now", "now");
 
 console.log("done");
