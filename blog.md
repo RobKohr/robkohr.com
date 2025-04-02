@@ -7102,8 +7102,8 @@ robkohr+boardgames@gmail.com
 
 #### April 1st, 2025 2 new games for this weekend
 
-![[Pasted image 20250401085159.png]]
-![[Pasted image 20250401085229.png]]
+![[2025-04-01 Wilmots Warehouse.png]]
+![[2025-04-01 Camel Up.png]]
 
 #### Jan 2nd, 2024 New meetup group
 
