@@ -5,9 +5,17 @@
             <link>https://robkohr.com</link>
             <description>RobKohr's Blog</description>
             <language>en-us</language>
-            <lastBuildDate>Tue, 25 Mar 2025 07:00:00 GMT</lastBuildDate>
-            <pubDate>Tue, 25 Mar 2025 07:00:00 GMT</pubDate>
+            <lastBuildDate>Wed, 02 Apr 2025 07:00:00 GMT</lastBuildDate>
+            <pubDate>Wed, 02 Apr 2025 07:00:00 GMT</pubDate>
             <ttl>1800</ttl>
+            <item>
+                <guid>https://robkohr.com/articles/picking-a-phone-number-to-avoid-telemarketers</guid>
+                <title>Picking a phone number to avoid telemarketers</title>
+                <link>https://robkohr.com/articles/picking-a-phone-number-to-avoid-telemarketers</link>
+                <description>Picking a phone number to avoid telemarketers</description>
+                <pubDate>Thu, 27 Feb 2025 01:00:00 GMT</pubDate>
+            </item>
+    
             <item>
                 <guid>https://robkohr.com/articles/now</guid>
                 <title>Now</title>
@@ -398,14 +406,6 @@
                 <link>https://robkohr.com/articles/tree-sketch</link>
                 <description>Tree sketch</description>
                 <pubDate>Sun, 03 Sep 2023 00:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/done-manifesto</guid>
-                <title>Done manifesto</title>
-                <link>https://robkohr.com/articles/done-manifesto</link>
-                <description>Done manifesto</description>
-                <pubDate>Tue, 22 Aug 2023 00:00:00 GMT</pubDate>
             </item>
     
         </channel>

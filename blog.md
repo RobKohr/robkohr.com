@@ -14,12 +14,31 @@
 @page=true
 
 - Living in Longview, WA
+- Running a [local boardgame](https://robkohr.com/articles/longview-boardgamers) group (and collecting an every growing collection of games)
 - Working on https://neverall.com/tracker - a replacement for Pivotal Tracker
 - Improving lifting methods and records
 - Wanting to get more into oil painting
 - Playing VR games: thrill of the fight 2, polysketch, gorn
 - Listening to a bunch of random stuff at https://open.spotify.com/user/1258723561
 
+
+
+
+## Picking a phone number to avoid telemarketers
+@tags=telemarketers,spam,android-apps
+@date=2025-03-27
+
+I grew up in New Jersey, and when I first got a cell phone, T-mobile was using a brand new area code in NJ, 848, which was the area code I received, and I have yet to meet another person with that area code. A good reason for that is that I moved away from NJ not too long after college.
+
+Telemarketers can spoof phone numbers, and tend to like to pick one that match the number they are calling, or sometimes a neighboring area code to that area code.
+
+This makes it easy to block the vast majority of them since I don't get calls from that area code, and if you are getting a new phone number, I would recommend doing something similar. Choose an area code where you are extremely unlikely to receive calls from it (maybe Alaska), and then get a good call blocker tool.
+
+I have android, and unfortunately the app store kinda sucks now with everything being ladled with ads or subscriptions or both.
+
+I side loaded f-droid, which is an open source oriented app store which has lots of free apps that are not abusive. I am using this one which has blocked hundreds of spam calls, and allows for wildcard area code blocking:
+
+https://f-droid.org/packages/at.bitfire.nophonespam/
 
 ## All the content is way more valuable 
 @tags=ads,web
@@ -7074,12 +7093,17 @@ We now have a website: [https://robkohr.com/articles/longview-boardgamers](https
 
 If you wanna get all social:
 - There is a facebook group here: [https://www.facebook.com/groups/603728688043181](https://www.facebook.com/groups/603728688043181)
-- And a meetup group here: [https://www.meetup.com/longview-kelso-cowlitz-county-board-games-meetup-group/discussions/](https://www.meetup.com/longview-kelso-cowlitz-county-board-games-meetup-group/discussions/)
+- And a meetup group here: [https://www.meetup.com/longview-kelso-boardgames-meetup-group]
 
 If you wanna get on the email list, send me an email at:
 robkohr+boardgames@gmail.com
 
 ### Updates:
+
+#### April 1st, 2025 2 new games for this weekend
+
+![[Pasted image 20250401085159.png]]
+![[Pasted image 20250401085229.png]]
 
 #### Jan 2nd, 2024 New meetup group
 
