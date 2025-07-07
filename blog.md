@@ -42,6 +42,8 @@
 @tags=life, relationships, dating
 @date=2025-07-07
 
+![[Pasted image 20250707144243.png]]
+
 Sex is fun, enjoyable, and all, but keep in mind it's primary function is making babies.
 
 If you have sex with someone, and you don't want to have babies with them, then you are playing Russian roulette with the rest of your life.
@@ -128,14 +130,19 @@ And even then, let the parents decide what is right, not a corrupt bureaucrat.
 @tags=thoughts
 @date=2025-06-11
 
+![[Pasted image 20250707144320.png]]
+
 We have dancing robots, Turing test passible AIs, drone warfare, immersive virtual reality, the internet becoming basically a hive consciousness, new drugs that are tackling things that were impossible in the past, 3d printing, advanced touch screen computers in our pockets, same day delivery most anything we want, giant cheap home tv screens, and hoverboards that fail at really being hoverboards.
 
 Ok, that last one was a fail. 
 
 We are also more educated, less at war, less subject to violent crime, and less poor. All and all, not to bad (maybe I'll list out the bad parts in some other post...)
+
 ## Auto blocking time consuming websites
 @tags=productivity
 @date=2025-06-05
+
+![[Pasted image 20250707144404.png]]
 
 I find that youtube, facebook, and reddit are a little too consuming of time and attention, but I also sometimes want to go lookup something on them. 
 
@@ -236,9 +243,12 @@ You can also create an alias in your ~/.zprofile to manually run it:
 ```
 alias reset-hosts='sudo /usr/local/bin/reset-hosts.sh'
 ```
+
 ## Should you get a playdate to make games for it
 @tags=gamedev
 @date=2025-06-05
+
+![[Pasted image 20250707144440.png]]
 
 For a long time, I was in a rut for years as far as game development. I dabbled in a bunch of engines, but never got something off the ground. With the playdate I banged out two titles (you can find them at https://neverall.itch.io) and had a fun time and was able to include my kids in the game development process (btw, 3x5 blank index cards are the exact ratio as the playdate screen and are great for drawing art on).
 
@@ -307,6 +317,8 @@ Sorry to the suited up guy at the end. Obviously miniskirts are preferred in the
 ## One of the first systems I built - ruQueue
 @tags=projects-completed, programming, projects
 @date=2025-05-16
+
+![[Pasted image 20250707144724.png]]
 
 I built this with https://github.com/fultonj for Rutgers University about 20 years ago. It was used by the university to manage all the different types of request tickets that came in for technical support for students at the university. 
 

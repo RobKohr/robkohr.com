@@ -26,8 +26,8 @@
 
                 <link rel="canonical" href="https://robkohr.com/articles/one-of-the-first-systems-i-built---ruqueue" />
                 <link rel="stylesheet" href="../neat.css">
-<meta property="og:image" content="https://robkohr.com/images/ruqueue.jpeg" />
-                <meta property="og:description" content="I built this with https://github.com/fultonj for Rutgers University about 20 years ago. It was used by the university to manage all the different types of request tickets that came in for technical su" />
+<meta property="og:image" content="https://robkohr.com/images/Pasted image 20250707144724.png" />
+                <meta property="og:description" content="![[Pasted image 20250707144724.png]]I built this with https://github.com/fultonj for Rutgers University about 20 years ago. It was used by the university to manage all the different types of request t" />
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>
@@ -38,7 +38,8 @@
     <div class="tags">@tags=<a href="tags/projects-completed">projects-completed</a>, <a href="tags/programming">programming</a>, <a href="tags/projects">projects</a></div>
     </div>
     <article>
-        <p>I built this with <a href="https://github.com/fultonj">https://github.com/fultonj</a> for Rutgers University about 20 years ago. It was used by the university to manage all the different types of request tickets that came in for technical support for students at the university. </p>
+        <p><img data-src="images/Pasted image 20250707144724.png" alt="Pasted image 20250707144724.png" style="max-width: 100%;" /></p>
+<p>I built this with <a href="https://github.com/fultonj">https://github.com/fultonj</a> for Rutgers University about 20 years ago. It was used by the university to manage all the different types of request tickets that came in for technical support for students at the university. </p>
 <p>I particularly liked our lifesavers styled &quot;ColoredTable&quot; design using just primary colored frames and minimal spacing. </p>
 <p>If you feel an urge to browse through some old php code that was prior to the use of object/class structures and frameworks, it is a pretty enjoyable and easy read:
 <a href="https://savannah.nongnu.org/projects/ruqueue/">https://savannah.nongnu.org/projects/ruqueue/</a></p>

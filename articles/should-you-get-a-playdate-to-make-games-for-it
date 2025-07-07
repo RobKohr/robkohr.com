@@ -26,8 +26,8 @@
 
                 <link rel="canonical" href="https://robkohr.com/articles/should-you-get-a-playdate-to-make-games-for-it" />
                 <link rel="stylesheet" href="../neat.css">
-
-                <meta property="og:description" content="For a long time, I was in a rut for years as far as game development. I dabbled in a bunch of engines, but never got something off the ground. With the playdate I banged out two titles (you can find t" />
+<meta property="og:image" content="https://robkohr.com/images/Pasted image 20250707144440.png" />
+                <meta property="og:description" content="![[Pasted image 20250707144440.png]]For a long time, I was in a rut for years as far as game development. I dabbled in a bunch of engines, but never got something off the ground. With the playdate I b" />
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>
@@ -38,7 +38,8 @@
     <div class="tags">@tags=<a href="tags/gamedev">gamedev</a></div>
     </div>
     <article>
-        <p>For a long time, I was in a rut for years as far as game development. I dabbled in a bunch of engines, but never got something off the ground. With the playdate I banged out two titles (you can find them at <a href="https://neverall.itch.io">https://neverall.itch.io</a>) and had a fun time and was able to include my kids in the game development process (btw, 3x5 blank index cards are the exact ratio as the playdate screen and are great for drawing art on).</p>
+        <p><img data-src="images/Pasted image 20250707144440.png" alt="Pasted image 20250707144440.png" style="max-width: 100%;" /></p>
+<p>For a long time, I was in a rut for years as far as game development. I dabbled in a bunch of engines, but never got something off the ground. With the playdate I banged out two titles (you can find them at <a href="https://neverall.itch.io">https://neverall.itch.io</a>) and had a fun time and was able to include my kids in the game development process (btw, 3x5 blank index cards are the exact ratio as the playdate screen and are great for drawing art on).</p>
 <p>I think I made back more than I invested in buying a playdate, and it was a fun journey. I tried to submit both the games to the catalog store, but they weren&#39;t up to their quality standards... I might circle back to try to improve them enough for that. I am sure I would probably have made orders of magnitude more in the catalog, so if you wanna be a bit more profitable, look at the standards for the games on the store, and try to aim for that. Selling on itch isn&#39;t going to do it.</p>
 <p>Yeah, you won&#39;t make a huge amount on a playdate game, but let me tell you it has reinvigorated me, and I am now working on taking one of those title all the way to being a 3d rendered game in unreal engine. </p>
 <p>And I think this is where it shines. It gets the creative juices flowing, and constrains you in a good way artistically. With the limits of the device, you focus 100% on fun engaging gameplay. And if you nail that bit, you can translate your game design into something more visually rich. If your idea doesn&#39;t end up being fun enough that you wanna keep playing it, then you bang out another idea. Kinda like how great artists just rough out ideas in a sketchbook. </p>

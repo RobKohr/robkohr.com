@@ -34,9 +34,9 @@
     <div class="tags">@tags=<a href="tags/projects-completed">projects-completed</a>, <a href="tags/programming">programming</a>, <a href="tags/projects">projects</a></div>
     </div>
     <article>
-        <a href="articles/one-of-the-first-systems-i-built---ruqueue"><img class="icon" data-src="images/ruqueue.jpeg" alt="ruqueue.jpeg" style="max-width: 100%;" /></a><p>I built this with <a href="https://github.com/fultonj">https://github.com/fultonj</a> for Rutgers University about 20 years ago. It was used by the university to manage all the different types of request tickets that came in for technical support for students at the university. </p>
-<p>I particularly liked our lifesavers styled &quot;ColoredTable&quot;...</p>
- <p><a class="nowrap" href="articles/one-of-the-first-systems-i-built---ruqueue">READ MORE (205 words, 2 minutes, 1 images)</a></p> 
+        <a href="articles/one-of-the-first-systems-i-built---ruqueue"><img class="icon" data-src="images/Pasted image 20250707144724.png" alt="Pasted image 20250707144724.png" style="max-width: 100%;" /></a><p>I built this with <a href="https://github.com/fultonj">https://github.com/fultonj</a> for Rutgers University about 20 years ago. It was used by the university to manage all the different types of request tickets that came in for technical support for students at the university. </p>
+<p>I particularly liked our lifesavers styled &quot;ColoredTabl...</p>
+ <p><a class="nowrap" href="articles/one-of-the-first-systems-i-built---ruqueue">READ MORE (207 words, 2 minutes, 2 images)</a></p> 
     </article>
     
     <h2><a href="articles/working-on-pivotal-tracker-replacement">Working on Pivotal Tracker replacement</a></h2>

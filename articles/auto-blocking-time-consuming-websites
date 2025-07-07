@@ -26,8 +26,8 @@
 
                 <link rel="canonical" href="https://robkohr.com/articles/auto-blocking-time-consuming-websites" />
                 <link rel="stylesheet" href="../neat.css">
-
-                <meta property="og:description" content="I find that youtube, facebook, and reddit are a little too consuming of time and attention, but I also sometimes want to go lookup something on them. To help with this, I block the sites using this /e" />
+<meta property="og:image" content="https://robkohr.com/images/Pasted image 20250707144404.png" />
+                <meta property="og:description" content="![[Pasted image 20250707144404.png]]I find that youtube, facebook, and reddit are a little too consuming of time and attention, but I also sometimes want to go lookup something on them. To help with t" />
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>
@@ -38,7 +38,8 @@
     <div class="tags">@tags=<a href="tags/productivity">productivity</a></div>
     </div>
     <article>
-        <p>I find that youtube, facebook, and reddit are a little too consuming of time and attention, but I also sometimes want to go lookup something on them. </p>
+        <p><img data-src="images/Pasted image 20250707144404.png" alt="Pasted image 20250707144404.png" style="max-width: 100%;" /></p>
+<p>I find that youtube, facebook, and reddit are a little too consuming of time and attention, but I also sometimes want to go lookup something on them. </p>
 <p>To help with this, I block the sites using this /etc/hosts file on my mac:</p>
 <pre><code>##
 # Host Database
