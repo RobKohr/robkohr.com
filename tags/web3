@@ -1,7 +1,7 @@
 
         <html>
             <head>
-                <title>bitcoin - RobKohr's Blog</title>
+                <title>web3 - RobKohr's Blog</title>
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
@@ -26,7 +26,7 @@
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>
-            <h2>Tag: bitcoin</h2>
+            <h2>Tag: web3</h2>
     
     <h2><a href="articles/web3----why-hasn-t-it-come-to-be-">Web3... why hasn't it come to be.</a></h2>
     <div class="variables">
@@ -38,28 +38,6 @@
 <p>Web3 lacks any cohesive definition.</p>
 <p>There is a thought cloud of different ideas that somehow get lumped under web3, and some of them have come to be (cryptocu...</p>
  <p><a class="nowrap" href="articles/web3----why-hasn-t-it-come-to-be-">READ MORE (503 words, 4 minutes)</a></p> 
-    </article>
-    
-    <h2><a href="articles/bitcoin-pricing">Bitcoin pricing</a></h2>
-    <div class="variables">
-    <div class="date">@date=2015-02-12</div>
-    <div class="tags">@tags=<a href="tags/bitcoin">bitcoin</a></div>
-    </div>
-    <article>
-        <p>I see so many charts posted predicting the future value of bitcoin.  </p>
-<p>I love it when people put lines all over price charts hoping to predict the subjective valuation of thousands of irrational actors.   </p>
-<p>Trends are meaningless, and mass action will come in response to events out in the wor...</p>
- <p><a class="nowrap" href="articles/bitcoin-pricing">READ MORE (132 words, 1 minutes)</a></p> 
-    </article>
-    
-    <h2><a href="articles/bitcoins-mined">bitcoins mined</a></h2>
-    <div class="variables">
-    <div class="date">@date=2013-01-01</div>
-    <div class="tags">@tags=<a href="tags/bitcoin">bitcoin</a></div>
-    </div>
-    <article>
-        <p>So 25 btc are mined every 10 minutes, 3600 per day. At $13 a piece, that is $4800 per day. Considering the number of people that are doing bitcoin mining, it doesn&#39;t seem like a lucritive investment - unless you have free/subsidized electricity.</p>
-
     </article>
     
             </body>

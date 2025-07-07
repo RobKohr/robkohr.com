@@ -1,0 +1,55 @@
+
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
+                <title>...sells shelves? - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
+
+                <link rel="canonical" href="https://robkohr.com/articles/---sells-shelves-" />
+                <link rel="stylesheet" href="../neat.css">
+<meta property="og:image" content="https://robkohr.com/images/Shelf1.jpg" />
+                <meta property="og:description" content="These are top results when shopping for industrial shelves, in order that they appeared on Amazon. I am pleased that the dude with a hardhat is number 1. He is thinking about safety, and even making s" />
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            
+    <h2><a href="articles/---sells-shelves-">...sells shelves?</a></h2>
+    <div class="variables">
+    <div class="date">@date=2025-05-19</div>
+    <div class="tags">@tags=<a href="tags/marketing">marketing</a></div>
+    </div>
+    <article>
+        <p>These are top results when shopping for industrial shelves, in order that they appeared on Amazon. </p>
+<p>I am pleased that the dude with a hardhat is number 1. He is thinking about safety, and even making sure the shelves are level.</p>
+<p>Sorry to the suited up guy at the end. Obviously miniskirts are preferred in the warehouse over the spy look. </p>
+<p><img data-src="images/Shelf1.jpg" alt="Shelf1.jpg" style="max-width: 100%;" />
+<img data-src="images/Shelf2.jpg" alt="Shelf2.jpg" style="max-width: 100%;" />
+<img data-src="images/Shelf3.jpg" alt="Shelf3.jpg" style="max-width: 100%;" />
+<img data-src="images/Shelf4.jpg" alt="Shelf4.jpg" style="max-width: 100%;" />
+<img data-src="images/Shelf5.jpg" alt="Shelf5.jpg" style="max-width: 100%;" />
+<img data-src="images/Shelf6.jpg" alt="Shelf6.jpg" style="max-width: 100%;" /></p>
+
+    </article>
+    
+            </body>
+          </html>
+          

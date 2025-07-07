@@ -20,8 +20,451 @@
 - Wanting to get more into oil painting
 - Playing VR games: thrill of the fight 2, polysketch, gorn
 - Listening to a bunch of random stuff at https://open.spotify.com/user/1258723561
+-  <a href="articles/favorite-movies">Some of my favorite movies</a>
+
+## Favorite Movies
+@page=true
+
+- Big Trouble In Little China
+- Mr. Right
+- Enchanted
+- Full Metal Jacket
+- Baby Driver
+- Rango
+- Moon
+- Sisu
+- Nobody
+- John Dies in the End
+- Dave Made a Maze
+- Tucker and Dale vs Evil
+
+## Marriage, Dating, Sex Advice
+@tags=life, relationships, dating
+@date=2025-07-07
+
+Sex is fun, enjoy, and all, but keep in mind it's primary function is making babies.
+
+If you have sex with someone, and you don't want to have babies with them, then you are playing Russian roulette with the rest of your life.
+
+Beyond that, for dating and marriage, try to imagine your partner as they were when they were a child. Would you like to raise the child version of that person with the adult version of that person? If not, then walk away. 
+
+If they have children already, or even pets, look at how they parent them. It is an excellent sign on how they would raise children with you. Also look at how they treat other people - strangers, waiters, co-workers, friends, and most importantly enemies. Early on infatuation will make them treat you differently than anyone else, but time and life circumstances may make you fall later into another category, and possibly someone that don't like anymore. If they don't treat people well, even those they don't like, consider this regarding how you may one day be treated. Never be with someone who is vindictive and passive aggressive. That is like being a mouse tempted by cheese on a trap. 
+
+Also, as we become older, we become more amplified versions of our self. Whatever traits you have, often just become more so as you get older, not less so. Are there things about your partner that really you just barely tolerate, and there is nothing changing there (not what they say they are trying to change, but in what actually changes). You can't change the person, and if there is something that is a problem, if they aren't seeking to change it without you pressuring them, then that problem will just grow as they get older.
+
+And related to that, look at their parents. We don't become our parents, but if there are light traits that you see in your partner that exists strongly in their parents, it is a good indicator of what is to come. 
+
+Look at your own parents. Often times the first person we settle with matches strongly with the person who raised you who matches their gender. This may be a good thing or not depending on how you feel about your parents. But if you are seeing someone who reminds you of your mother/father, and you see problems with that parent's role in your life (perhaps abuse, or other type of harm they did to you), be sure that you aren't signing yourself up for more of the same.
+
+Are they are on the same page as you as far as family and life goals - and without you biasing them one way or another? Do they want children, and when? Do they want to live on a farm, or the suburbs, or the city? Are they happy with both of your career paths? Is there a divergence in goals that are only resolved if someone gives up on their stance, and if so, is this going to contain a buried resentment?
+
+Now love is love, but if you are looking at a big life step with someone (having a child, getting married, or even just continuing a relationship beyond the 3, 6, 12 month mark - these are great go/no-go time points), these are things to consider. If there are sticking points, don't assume you can change them if the other person doesn't have the desire to change them themselves. You might be able to damn up or divert a mighty river temporarily, but if it truly 
+ 
+
+## Just discovered Raylib
+@tags=gamedev, programming
+@date=2025-06-30
+
+I have recently started diving into Unreal Engine. The reason being I wanted to turn this game:
+https://neverall.itch.io/jewel-defender
+into a high quality 3d explosion fest co-op game on steam.
+
+I want to get fireballs, and particles and all that, but with a high frame rate and snappy arcade controls.
+
+So, I needed performance. Looking at Godot, it wasn't really there, and Unity has left a bad taste in my mouth regarding their business decisions, and beyond that, I didn't really like the UI of working with Unity when I tried to make a game with it.
+
+I have been plodding through a udemity guide to Unreal using C++, and also I just watched a video on building flappy bird with Unreal using blueprints.
+
+What I have come to the conclusion of is that I HATE learning these UIs. When I watch people make things with game engines, it seems like they just knew how to navigate the infinite maze of menus to select just the right pieces to use, and knew already how to configure them.
+
+What I witness is something that takes a few seconds to achieve in a video which I know comes from orders of magnitude more time reading documentation and keeping up on system design changes.
+
+Ugh.
+
+So, reflecting back, I have made some games in Javascript and in Lua. These are things that I have gotten done and released into the world. Hell, I even made a MMO pirate game in javascript with networking and all (https://constantsail.com)
+
+What have I achieved in game engines has been a bunch of false starts, lots of youtube watching, and just generally disappointment. 
+
+This is clearly why I am a programmer and not a designer. I hate working with UIs.
+
+But, now I need to figure out how to put on my big boy pants and make a Steam worthy game that people will drop money on. 
+
+Now, prior to getting into Unreal, I was experimenting with https://lovr.org/. I figured this would be great because it was in Lua, which comes really easy for me, and would make porting over Jewel Defender just a matter of updating api calls, and making 2d models be 3d, but I was experiencing build issues on my Intel based Mac, and also came to the conclusion that the project didn't have enough contributors to use. 
+
+I also considered SDL, but that seemed scary at first with needing C++ which I am not super familiar with, and the framework also seemed a bit hard to dive into. 
+
+In either case, I was looking at circling back on it after deciding to move away from unreal engine, but in the process of exploring I stumbled upon Raylib, https://www.raylib.com, which seems to achieve a lot of what SDL does, but with a simpler API and bindings for a bunch of different languages. It seems to be lightning fast, and browsing through the examples, it covers all of my use cases, and I have no trouble understanding what is going on codewise.
+
+I also watch some game showcases, https://www.youtube.com/watch?v=i7isROcHwWE, and it hit me as to one of the other reasons I wanted to do things in code rather than in a game engine. Game engines provide you a fairly direct path to developing a game, and really make it so anything outside that path comes with effort.
+
+But, with you are coding freeform, you decide how everything looks and is rendered. Everything becomes less cookie cutter. 
+
+And this is really evident in that game showcase. Many of those games would be far removed from what they would look like if they came out of a game engine. Yes, they are all achievable (maybe), but they wouldn't be what would likely come out the other side.
+
+As far as language, I think I am going to hit c first instead of lua as the performance is really great in c:
+https://www.reddit.com/r/raylib/comments/15jy1x3/raylib_bunnymark_benchmark_with_100k_bunnies/
+
+but maybe I will flip back to lua if it ends up faster to build with. 
 
 
+## Many steam indie games are being hidden in Germany
+@tags=freedom, govt, games
+@date=2025-06-26
+https://www.heise.de/en/news/Steam-Why-some-of-the-best-indie-games-will-soon-be-hidden-in-Germany-9960810.html
+
+So basically, for every game, someone in the game company that made the game needs to fill out a form so that it can get rated. 
+
+As a lot of developers kinda just walk away from supporting their game after a few years, this minor hurtle will make the game unavailable in Germany. 
+
+What a stupid law. It should have had some grandfathered in provision so the thousands of games (and movies) that aren't actively managed would have exceptions. 
+
+Or, maybe stop trying to make the govt be our parents. If parents aren't reviewing the game themselves, then it is on them. And filling out a survey of what the game has in it, and using that as some metric for what age it is for is asinine. Unless there are some actual studies proving that certain things in games are going to harm children at certain ages, then this is not something that should be legislated. 
+
+And even then, let the parents decide what is right, not a corrupt bureaucrat.
+## We're in the future
+@tags=thoughts
+@date=2025-06-11
+
+We have dancing robots, Turing test passible AIs, drone warfare, immersive virtual reality, the internet becoming basically a hive consciousness, new drugs that are tackling things that were impossible in the past, 3d printing, advanced touch screen computers in our pockets, same day delivery most anything we want, giant cheap home tv screens, and hoverboards that fail at really being hoverboards.
+
+Ok, that last one was a fail. 
+
+We are also more educated, less at war, less subject to violent crime, and less poor. All and all, not to bad (maybe I'll list out the bad parts in some other post...)
+## Auto blocking time consuming websites
+@tags=productivity
+@date=2025-06-05
+
+I find that youtube, facebook, and reddit are a little too consuming of time and attention, but I also sometimes want to go lookup something on them. 
+
+To help with this, I block the sites using this /etc/hosts file on my mac:
+```
+##
+# Host Database
+#
+# localhost is used to configure the loopback interface
+# when the system is booting.  Do not change this entry.
+##
+
+## if you adjust these, reset the counter in obsidian.
+127.0.0.1       localhost
+255.255.255.255 broadcasthost
+::1             localhost
+127.0.0.1       reddit.com
+127.0.0.1       www.reddit.com
+127.0.0.1       youtube.com
+127.0.0.1       www.youtube.com
+```
+
+If I want to look at something, I just edit the file, and comment out the site I want to see (put a `#` character at the beginning of the line).
+
+But of course this will mean that until I come back and update the file, it will remain accessible to me. 
+
+To resolve this, I create a copy of /etc/hosts called /etc/hosts.source, and set it to copy over my /etc/hosts every 30 minutes. I do this using launchd, which is a way to schedule repeating jobs on a mac (a similar thing can be done with cron on linux).
+
+In this tutorial I will show you how to do this. 
+
+First create this script:
+`sudo nano /usr/local/bin/reset-hosts.sh`
+```
+#!/bin/bash
+
+# Copy source to actual hosts
+cp /etc/hosts.source /etc/hosts
+# Optional: flush DNS cache
+dscacheutil -flushcache
+
+```
+
+Then make it executable:
+```
+sudo chmod +x /usr/local/bin/reset-hosts.sh
+```
+Make it able to be run without a password:
+```
+sudo EDITOR=nano visudo
+```
+Add this line at the end (replace `yourusername` with your actual macOS username):
+```
+yourusername ALL=(ALL) NOPASSWD: /usr/local/bin/reset-hosts.sh
+```
+
+Create a Launch Agent plist:
+
+`nano ~/Library/LaunchAgents/com.neverall.reset-hosts.plist`
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+ "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.neverall.reset-hosts</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>sudo</string>
+        <string>/usr/local/bin/reset-hosts.sh</string>
+    </array>
+
+    <key>StartInterval</key>
+    <integer>1800</integer> <!-- Run every 30 minutes -->
+
+    <key>RunAtLoad</key>
+    <true/>
+
+    <key>StandardErrorPath</key>
+    <string>/tmp/reset-hosts.err</string>
+    <key>StandardOutPath</key>
+    <string>/tmp/reset-hosts.out</string>
+</dict>
+</plist>
+```
+
+Load it:
+```
+launchctl load ~/Library/LaunchAgents/com.neverall.reset-hosts.plist
+```
+
+Verify it:
+`launchctl list | grep reset-hosts`
+
+You can also create an alias in your ~/.zprofile to manually run it:
+```
+alias reset-hosts='sudo /usr/local/bin/reset-hosts.sh'
+```
+## Should you get a playdate to make games for it
+@tags=gamedev
+@date=2025-06-05
+
+For a long time, I was in a rut for years as far as game development. I dabbled in a bunch of engines, but never got something off the ground. With the playdate I banged out two titles (you can find them at https://neverall.itch.io) and had a fun time and was able to include my kids in the game development process (btw, 3x5 blank index cards are the exact ratio as the playdate screen and are great for drawing art on).
+
+I think I made back more than I invested in buying a playdate, and it was a fun journey. I tried to submit both the games to the catalog store, but they weren't up to their quality standards... I might circle back to try to improve them enough for that. I am sure I would probably have made orders of magnitude more in the catalog, so if you wanna be a bit more profitable, look at the standards for the games on the store, and try to aim for that. Selling on itch isn't going to do it.
+
+Yeah, you won't make a huge amount on a playdate game, but let me tell you it has reinvigorated me, and I am now working on taking one of those title all the way to being a 3d rendered game in unreal engine. 
+
+And I think this is where it shines. It gets the creative juices flowing, and constrains you in a good way artistically. With the limits of the device, you focus 100% on fun engaging gameplay. And if you nail that bit, you can translate your game design into something more visually rich. If your idea doesn't end up being fun enough that you wanna keep playing it, then you bang out another idea. Kinda like how great artists just rough out ideas in a sketchbook. 
+
+To belabor things a bit more, this is I think what hurts game devs the most in the long term. They have an idea that seems great in their head, it takes 2-3 years to make it to a final product, and in the end it just isn't engaging, and then they leave a sad post on the gamedev forums about the fact that no one is playing their games. 
+
+Look at some of the best games out there: GTA, stardew valley, factorio, etc.
+
+A watered down simple version of any of those games could be made and be fun on the playdate. If this was the first version of any of those games, players would be falling over themselves to buy it on the handheld, and with that marketability proven in a tiny area, a fully fleshed out version could be made.
+
+So, if you have an idea kicking around, get a playdate, build the game, sell it and get feedback. I'd say if you make 100 sales on itch for a playdate game, you have a winner that you should build for real and sell on steam. 
+
+## More videos per row in youtube
+@tags=youtube,browser-extensions
+@date=2025-06-03
+
+I like youtube, but I don't like the recent change they did to make it so only 4 giant video "thumbnails" show per row on my large computer display. Why did I pay for all these pixels, if not to shove data into my head faster.
+
+Fortunately this is super easy to fix. 
+
+Add the Code Injector add on for Chrome, Firefox, or Edge
+https://github.com/Lor-Saba/Code-Injector
+
+1) go to youtube
+2) click on the browser bar button for the extension
+3) Click add rule
+4) In the upper right corner click "Current Host"
+5) Click on the CSS tab
+6) Enter this css and click save:
+
+```
+html #contents{
+--ytd-rich-grid-items-per-row: 8;
+}
+
+  
+/* resolve some fonts getting squished */
+html ytd-rich-grid-media[typography-bump] #video-title.ytd-rich-grid-media{
+  font-size: 1rem;
+  line-height: 1.4rem;
+}
+```
+Now you can have the glory of 8 items in a row (you have to reload after you save).
+
+You can change 8 to be whatever you like it to be. I tried out 12, and even 20, but I found 8 to be the sweet spot.
+## ...sells shelves?
+@tags=marketing
+@date=2025-05-19
+These are top results when shopping for industrial shelves, in order that they appeared on Amazon. 
+
+I am pleased that the dude with a hardhat is number 1. He is thinking about safety, and even making sure the shelves are level.
+
+Sorry to the suited up guy at the end. Obviously miniskirts are preferred in the warehouse over the spy look. 
+
+![[Shelf1.jpg]]
+![[Shelf2.jpg]]
+![[Shelf3.jpg]]
+![[Shelf4.jpg]]
+![[Shelf5.jpg]]
+![[Shelf6.jpg]]
+## One of the first systems I built - ruQueue
+@tags=projects-completed, programming, projects
+@date=2025-05-16
+
+I built this with https://github.com/fultonj for Rutgers University about 20 years ago. It was used by the university to manage all the different types of request tickets that came in for technical support for students at the university. 
+
+I particularly liked our lifesavers styled "ColoredTable" design using just primary colored frames and minimal spacing. 
+
+If you feel an urge to browse through some old php code that was prior to the use of object/class structures and frameworks, it is a pretty enjoyable and easy read:
+https://savannah.nongnu.org/projects/ruqueue/
+
+John and I were big fans of lisp at the time and we tried to focus on functional oriented coding... at least as much as you could with php. We ended up doing this whole project in just about 4 months as it had to get done before the students got back for summer break. 
+
+It makes me think that sometimes all of these frameworks, language constructs, microservices, and cloud computing get in the way of banging out a fast usable system. We hardly even had any javascript on the page, and usability was great. It all ran off of a rack based server and handled a huge amount of requests... though I do remember tuning apache's threads was non-trivial. Ugh.
+
+![[ruqueue.jpeg]]
+## Web3... why hasn't it come to be.
+@tags=web3, crypto-currencies, bitcoin
+@date=2025-05-11
+There was a thread on LinkedIn about the fact that web3 hasn't come to be yet, because it isn't ready. But I think the problem is simple.
+
+Web3 lacks any cohesive definition.
+
+There is a thought cloud of different ideas that somehow get lumped under web3, and some of them have come to be (cryptocurrencies), and some turned out to be not particularly useful despite having promise (smart contracts), and sometimes scammy (NFTs, stake based tokens).
+
+None of these things seem very webby, which probably is part of the confusion. There is also the idea of distributed block chain storied content, but that seems rather pointless, and I guess if you could make the blockchain have a database with an api, you could run a site on that, but anyone who knows about distributed blockchains and how much every little bit of them has to be replicated a million times and the inheritance cost of that, you can quickly see it would be a hard cost/benefit argument.
+
+Meanwhile, anyone can spin up some VPSes, and build complex interactive sites serving millions of users, and do it on a shoestring budget if they are smart with their tech choices.
+
+And I guess this tips into the web3 argument for a more distributed internet... which we essentially already have. It is just that users have voted with their feet to go for a centralized web of big web apps like facebook and reddit.
+
+You can build web applications that can be distributed between lots of servers, and that is called load balancing. :) But to be less of a smart aleck, there are also plenty of easy methods for a forum (or any web application) to be replicated between a bunch of different servers with different owners, and use it to distribute updates to each other. Mastodon is kinda a little bit like this. Bittorrent is another thing that has a bit of this. And Bitmessenger was something that could create real time distributed chat channels with no central server, but interest waned in it, because the fact is, most people don't have any interest in it ... and the distributed network piece of it was a disk and processor heavy thing that couldn't exist on mobile phones.
+
+I guess the whole point is, web3 seemed to be a desire to reframe one tool (blockchain content) as a way to usher in a new better world wide web focused on no central authority. We already have that in the forms that it provides value, but for the most part, it adds great complexity and cost, and for little benefit, and when it does work out well to be distributed, a custom tailored solution for a focused need such as bitttorent or tor solves those things and attempts to tamp down the costs of being distributed to make the user experience a good one. 
+
+Perhaps a general purpose distributed crypo ledger for web applications just is like bitmessenger, an interesting idea that doesn't end up providing enough juice to be worth the squeeze. 
+
+## Lets make a game with Unreal Engine
+@tags=jewel-defender,game-dev,unreal-engine
+@date=2025-05-10
+So went back to exploring development with different game engines:
+- Unity
+	- Skipped partly because of not trusting them anymore
+	- More so because when I tried building a VR game in the past with them, I just didn't like their interface, just seems clunky
+	- Every game that comes out of unity has the same cartoony feel and I want to make something that stands out
+- Godot
+	- Explored a bit. Making a node tree for everything seemed tedious
+	- I want to have the option of porting to VR and having tons of lighting effects. I haven't seen any VR games of quality from Godot and also very little high end 3d games. It seems the best looking ones need to be clever to get the most out of the system to look good. I don't want to have to be clever.
+- Lovr
+	- This was a serious contender. I really enjoyed making Jewel Defender for the playdate in lua, and porting it to 3d should have been fairly trivial, and I like just working in code
+	- Most recent build wasn't working for my older intel mac
+	- The shapes example and another example were not rendering correctly
+	- The number of people working on the project is small so hard to know how much support I will get with issues
+	- No real games released
+	- Would require more learning to get special lighting effects and such working. I am not working on this to flex my brain muscles, just to deliver a product.
+- Unreal
+	- Downsides: seems to have more barrier to entry and learning
+	- Gotta use C++ - kinda new to me (worked with it minorly about 20 years ago), but I am knowledgeable enough to get by, especially with come genAI as my coding jetpack
+	- Sure-ist path to high quality looking game development. It really is built for this. My game is really a bunch of tanks driving around shooting robots that wanna drive off with gems. This is something that could have been built for the NES (and was built for the playdate), so yeah, it is fun as hell to play (the joy of making a first pass with the playdate), but it is only going to sell with good visuals. 
+
+
+If you are going to make a game, you might as well make one that will sell well.
+
+Yes you can make a really good game, that looks mediocre, and it might sell despite its looks.
+
+But a game that looks sharp doesn't have to be all that special to sell.
+
+Hell, when you look at most AAA games, they look really sharp, and if they are good, they introduce 1 or two unique game mechanics, and sell like hotcakes.
+
+Try to look like a AAA game, but with minimal investment in cost. That is the key.
+
+Unity games looks basic, and there are plenty of them out there.
+
+Godot is not powerful enough.
+
+2d pixel art games usually don't sell. I did a browsing of all the indie new releases that sold well (not great, but 1000+ sales). Almost none of them were 2d games. 
+
+But a 3d game with good bloom and lighting effects will minimially sell 1000 units (hopefully). If you are charging $15 a game (a good price point), you can make 1.5m from selling 100,000 games.  You can do that!
+
+Keep with the idea of no-network access local multiplayer co-op game. 
+
+Copy [[Jewel Defender]] gameplay and even code as much as you can the same. 
+
+Set a 3 month limit on development - July 31st. 
+
+## Failed to finish Neverall Tracker on time
+@date=2025-04-30
+@tags=neverall-tracker
+
+I had the goal of finishing Neverall Tracker at the beginning of April. Pivotal Tracker shuts down today on April 30th and I wanted a month to try to advertise and get people to export over their data there to Neverall Tracker. 
+
+Now it is april 30th and this is what we have:
+![[Pasted image 20250430111523.png]]
+
+It can import in from Pivotal Tracker (not that that helps anymore since it is about to go down), You can add stories, you can set the states, you can delete stories, and add titles. You can even drag things around and change their column and order. I even have it so it can send out invite emails and control members on your project. 
+
+What I don't have is a finished product. It looks like mud, you don't have all of the form fields implemented. 
+
+I would say the start date for this project was September 10th, 2024. So about 7 months.
+
+Now, lets keep in mind I work full time, and am an active father with kid sports and such. 
+
+Ideally I should have been working about 1 hr a day 5 days a week. 
+
+Looking at my activity log on github:
+
+![[Pasted image 20250430112113.png]]
+![[Pasted image 20250430112752.png]]
+
+Though this is a mix of different side project repos and of course this blog as well, but lets say 80% of it is working on this project. 
+
+So with 69 days with commits during these 7 months, that is 55 days on the project at about an hour a day. There are about 4.34 weeks in a month, so across 7 months that is about 30 weeks. So I only worked on this about 1.8 days a week. 
+
+So it failed partly from lack of time commitment. Looking at where I got, if I maintained the goal of working on it 5 days a week, I would have gotten it completed by now. 
+
+Which is pretty amazing considering the complexity of a project that took a full team probably over a year to complete. I think a big help for this was github co-pilot, and recently Cursor AI. There was a lot of grunt work to be done with validating huge numbers of fields, working out typescript and error handling for imports (which took about 2 months to get right), and recently some help with styling css. 
+
+The architecture and planning though, AI sucks at. Maintaining good structure and not going off the rails in creating lots of bogus code... also a weakness though. 
+
+They make good helping hands, but they have to be constantly monitored for hard to spot logic and other issues. But with that in mind, they have been a huge boon to development.
+
+Now where to go from here. 
+
+I think I sunk the biggest user acquisition prospect: being able to import current projects into the system (and also the sad sunk cost of building the import system that will be useless). 
+
+The deadline is no longer meaningful.
+
+And I am starting to get back interested in game development. I really wanna make Jewel Defender for steam, and with that I am trying out engines and I think I will be taking on Unreal Engine despite it's difficulty, because it's output can be so beautiful.
+
+This leaves me with the quandary. Keep working on a project that likely will have little prospect of being very profitable, but would be good to do to get myself into a space of working on real systems that are not games that can get subscriptions; or working on games that would be fun and inspiring to me, and could also be profitable, and would be following my passions. 
+
+Writing it out, it seems more clear cut that I focus on game dev, but I think what I will do is try to maintain 1.8 days a week of working on this project. It is close to finished, and the tools that I build to complete this could be used on many other web application projects that I have kicking around in my backlog. 
+
+So work on games for 3 days a week and 1.8 days a week hit web dev projects. Sounds great. :D
+
+
+## Setting up LÖVR in vscode
+@tags=lovr,coding,vscode
+@date=2025-04-27
+This was taken down, and I found it in the web archive here:
+
+https://web.archive.org/web/20230209043024/https://gist.github.com/ussaohelcim/9eca6eaa903eefff07b4f3e2019de915
+
+### Requirements
+- vscode
+- Lua Language Server coded by Lua by sumneko
+    - https://github.com/sumneko/lua-language-server
+- lovr api docs
+    - https://github.com/bjornbytes/lovr-docs/tree/master/api
+
+### How to
+
+- install `lua language server` extension in your vscode
+- download `lovr api docs` somewhere
+    - git clone https://github.com/bjornbytes/lovr-docs.git
+- open `lua language server` extension settings
+- search for `Lua › Workspace: Library`
+- press add item
+- insert the docs api full path 
+  ![[Pasted image 20250429114249.png]]
+- you are ready to go
+---
+### Other things I found useful
+https://github.com/mcclure/lodr
 
 
 ## Picking a phone number to avoid telemarketers
@@ -7280,3 +7723,5 @@ JavaScript, Node.js, ReactJS, AngularJS, jQuery, MongoDB/NoSQL, Websockets, HTML
 B.S., Computer Science, 2001, Rutgers University, New Brunswick, NJ  
 Masters of Business Administration, 2006, Rutgers School of Business, Newark, NJ  
 Certified Scrum Master, 2009
+
+-  <a href="articles/favorite-movies">Some of my favorite movies</a>

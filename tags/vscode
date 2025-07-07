@@ -1,0 +1,52 @@
+
+        <html>
+            <head>
+                <title>vscode - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            <h2>Tag: vscode</h2>
+    
+    <h2><a href="articles/setting-up-l-vr-in-vscode">Setting up LÖVR in vscode</a></h2>
+    <div class="variables">
+    <div class="date">@date=2025-04-27</div>
+    <div class="tags">@tags=<a href="tags/lovr">lovr</a>, <a href="tags/coding">coding</a>, <a href="tags/vscode">vscode</a></div>
+    </div>
+    <article>
+        <a href="articles/setting-up-l-vr-in-vscode"><img class="icon" data-src="images/Pasted image 20250429114249.png" alt="Pasted image 20250429114249.png" style="max-width: 100%;" /></a><p>This was taken down, and I found it in the web archive here:</p>
+<p><a href="https://web.archive.org/web/20230209043024/https://gist.github.com/ussaohelcim/9eca6eaa903eefff07b4f3e2019de915">https://web.archive.org/web/20230209043024/https://gist.github.com/ussaohelcim/9eca6eaa903eefff07b4f3e2019de915</a></p>
+<h3>Requirements</h3>
+<ul>
+<li>vscode</li>
+<li>Lua Language Server coded by Lua by sumneko<ul>
+<li><a href="https://github.com/sumneko/lua-language-serve">https://github.com/sumneko/lua-language-serve</a>...</li>
+</ul>
+</li>
+</ul>
+ <p><a class="nowrap" href="articles/setting-up-l-vr-in-vscode">READ MORE (94 words, 1 minutes, 1 images)</a></p> 
+    </article>
+    
+            </body>
+        </html>
+    

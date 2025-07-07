@@ -1,0 +1,51 @@
+
+        <html>
+            <head>
+                <title>game-dev - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            <h2>Tag: game-dev</h2>
+    
+    <h2><a href="articles/lets-make-a-game-with-unreal-engine">Lets make a game with Unreal Engine</a></h2>
+    <div class="variables">
+    <div class="date">@date=2025-05-10</div>
+    <div class="tags">@tags=<a href="tags/jewel-defender">jewel-defender</a>, <a href="tags/game-dev">game-dev</a>, <a href="tags/unreal-engine">unreal-engine</a></div>
+    </div>
+    <article>
+        <p>So went back to exploring development with different game engines:</p>
+<ul>
+<li>Unity<ul>
+<li>Skipped partly because of not trusting them anymore</li>
+<li>More so because when I tried building a VR game in the past with them, I just didn&#39;t like their interface, just seems clunky</li>
+<li>Every game that comes out of unity ha...</li>
+</ul>
+</li>
+</ul>
+ <p><a class="nowrap" href="articles/lets-make-a-game-with-unreal-engine">READ MORE (581 words, 4 minutes)</a></p> 
+    </article>
+    
+            </body>
+        </html>
+    

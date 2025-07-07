@@ -28,6 +28,18 @@
             <a href="./index.html">&larr; Home</a>
             <h2>Tag: browser-extensions</h2>
     
+    <h2><a href="articles/more-videos-per-row-in-youtube">More videos per row in youtube</a></h2>
+    <div class="variables">
+    <div class="date">@date=2025-06-03</div>
+    <div class="tags">@tags=<a href="tags/youtube">youtube</a>, <a href="tags/browser-extensions">browser-extensions</a></div>
+    </div>
+    <article>
+        <p>I like youtube, but I don&#39;t like the recent change they did to make it so only 4 giant video &quot;thumbnails&quot; show per row on my large computer display. Why did I pay for all these pixels, if not to shove data into my head faster.</p>
+<p>Fortunately this is super easy to fix. </p>
+<p>Add the Code Injector add on...</p>
+ <p><a class="nowrap" href="articles/more-videos-per-row-in-youtube">READ MORE (160 words, 1 minutes)</a></p> 
+    </article>
+    
     <h2><a href="articles/netflix-jump-scroll">Netflix Jump scroll</a></h2>
     <div class="variables">
     <div class="date">@date=2015-05-12</div>

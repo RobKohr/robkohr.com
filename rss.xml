@@ -5,9 +5,121 @@
             <link>https://robkohr.com</link>
             <description>RobKohr's Blog</description>
             <language>en-us</language>
-            <lastBuildDate>Wed, 02 Apr 2025 07:00:00 GMT</lastBuildDate>
-            <pubDate>Wed, 02 Apr 2025 07:00:00 GMT</pubDate>
+            <lastBuildDate>Mon, 07 Jul 2025 07:00:00 GMT</lastBuildDate>
+            <pubDate>Mon, 07 Jul 2025 07:00:00 GMT</pubDate>
             <ttl>1800</ttl>
+            <item>
+                <guid>https://robkohr.com/articles/making-millions</guid>
+                <title>Making millions</title>
+                <link>https://robkohr.com/articles/making-millions</link>
+                <description>Making millions</description>
+                <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/marriage--dating--sex-advice</guid>
+                <title>Marriage, Dating, Sex Advice</title>
+                <link>https://robkohr.com/articles/marriage--dating--sex-advice</link>
+                <description>Marriage, Dating, Sex Advice</description>
+                <pubDate>Sat, 07 Jun 2025 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/just-discovered-raylib</guid>
+                <title>Just discovered Raylib</title>
+                <link>https://robkohr.com/articles/just-discovered-raylib</link>
+                <description>Just discovered Raylib</description>
+                <pubDate>Fri, 30 May 2025 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/many-steam-indie-games-are-being-hidden-in-germany</guid>
+                <title>Many steam indie games are being hidden in Germany</title>
+                <link>https://robkohr.com/articles/many-steam-indie-games-are-being-hidden-in-germany</link>
+                <description>Many steam indie games are being hidden in Germany</description>
+                <pubDate>Mon, 26 May 2025 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/we-re-in-the-future</guid>
+                <title>We&#39;re in the future</title>
+                <link>https://robkohr.com/articles/we-re-in-the-future</link>
+                <description>We&#39;re in the future</description>
+                <pubDate>Sun, 11 May 2025 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/auto-blocking-time-consuming-websites</guid>
+                <title>Auto blocking time consuming websites</title>
+                <link>https://robkohr.com/articles/auto-blocking-time-consuming-websites</link>
+                <description>Auto blocking time consuming websites</description>
+                <pubDate>Mon, 05 May 2025 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/should-you-get-a-playdate-to-make-games-for-it</guid>
+                <title>Should you get a playdate to make games for it</title>
+                <link>https://robkohr.com/articles/should-you-get-a-playdate-to-make-games-for-it</link>
+                <description>Should you get a playdate to make games for it</description>
+                <pubDate>Mon, 05 May 2025 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/more-videos-per-row-in-youtube</guid>
+                <title>More videos per row in youtube</title>
+                <link>https://robkohr.com/articles/more-videos-per-row-in-youtube</link>
+                <description>More videos per row in youtube</description>
+                <pubDate>Sat, 03 May 2025 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/---sells-shelves-</guid>
+                <title>...sells shelves?</title>
+                <link>https://robkohr.com/articles/---sells-shelves-</link>
+                <description>...sells shelves?</description>
+                <pubDate>Sat, 19 Apr 2025 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/one-of-the-first-systems-i-built---ruqueue</guid>
+                <title>One of the first systems I built - ruQueue</title>
+                <link>https://robkohr.com/articles/one-of-the-first-systems-i-built---ruqueue</link>
+                <description>One of the first systems I built - ruQueue</description>
+                <pubDate>Wed, 16 Apr 2025 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/web3----why-hasn-t-it-come-to-be-</guid>
+                <title>Web3... why hasn&#39;t it come to be.</title>
+                <link>https://robkohr.com/articles/web3----why-hasn-t-it-come-to-be-</link>
+                <description>Web3... why hasn&#39;t it come to be.</description>
+                <pubDate>Fri, 11 Apr 2025 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/lets-make-a-game-with-unreal-engine</guid>
+                <title>Lets make a game with Unreal Engine</title>
+                <link>https://robkohr.com/articles/lets-make-a-game-with-unreal-engine</link>
+                <description>Lets make a game with Unreal Engine</description>
+                <pubDate>Thu, 10 Apr 2025 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/failed-to-finish-neverall-tracker-on-time</guid>
+                <title>Failed to finish Neverall Tracker on time</title>
+                <link>https://robkohr.com/articles/failed-to-finish-neverall-tracker-on-time</link>
+                <description>Failed to finish Neverall Tracker on time</description>
+                <pubDate>Sun, 30 Mar 2025 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/setting-up-l-vr-in-vscode</guid>
+                <title>Setting up LÖVR in vscode</title>
+                <link>https://robkohr.com/articles/setting-up-l-vr-in-vscode</link>
+                <description>Setting up LÖVR in vscode</description>
+                <pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
+            </item>
+    
             <item>
                 <guid>https://robkohr.com/articles/picking-a-phone-number-to-avoid-telemarketers</guid>
                 <title>Picking a phone number to avoid telemarketers</title>
@@ -294,118 +406,6 @@
                 <link>https://robkohr.com/articles/planning-on-extending-the-playground-structure</link>
                 <description>Planning on extending the playground structure</description>
                 <pubDate>Sat, 13 Jan 2024 00:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/artificial-intelligence-vs-computational-intelligence</guid>
-                <title>Artificial Intelligence vs Computational Intelligence</title>
-                <link>https://robkohr.com/articles/artificial-intelligence-vs-computational-intelligence</link>
-                <description>Artificial Intelligence vs Computational Intelligence</description>
-                <pubDate>Sun, 24 Dec 2023 00:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/javascript-game-development-resources</guid>
-                <title>Javascript game development resources</title>
-                <link>https://robkohr.com/articles/javascript-game-development-resources</link>
-                <description>Javascript game development resources</description>
-                <pubDate>Mon, 11 Dec 2023 00:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/3-exercises-a-day</guid>
-                <title>3 exercises a day</title>
-                <link>https://robkohr.com/articles/3-exercises-a-day</link>
-                <description>3 exercises a day</description>
-                <pubDate>Mon, 11 Dec 2023 00:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/haikus-about-technology-failing</guid>
-                <title>Haikus about technology failing</title>
-                <link>https://robkohr.com/articles/haikus-about-technology-failing</link>
-                <description>Haikus about technology failing</description>
-                <pubDate>Fri, 08 Dec 2023 08:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/perfect-quote-about-the-hard-part-about-programming</guid>
-                <title>Perfect quote about the hard part about programming</title>
-                <link>https://robkohr.com/articles/perfect-quote-about-the-hard-part-about-programming</link>
-                <description>Perfect quote about the hard part about programming</description>
-                <pubDate>Sat, 11 Nov 2023 00:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/updating-elf-factory</guid>
-                <title>Updating Elf Factory</title>
-                <link>https://robkohr.com/articles/updating-elf-factory</link>
-                <description>Updating Elf Factory</description>
-                <pubDate>Wed, 08 Nov 2023 00:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/mountain-forest-and-lake</guid>
-                <title>Mountain forest and lake</title>
-                <link>https://robkohr.com/articles/mountain-forest-and-lake</link>
-                <description>Mountain forest and lake</description>
-                <pubDate>Tue, 07 Nov 2023 00:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/downloading-youtube-videos</guid>
-                <title>Downloading youtube videos</title>
-                <link>https://robkohr.com/articles/downloading-youtube-videos</link>
-                <description>Downloading youtube videos</description>
-                <pubDate>Fri, 20 Oct 2023 23:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/tapping-out-a-muscle-group-with-20-reps</guid>
-                <title>Tapping out a muscle group with 20 reps</title>
-                <link>https://robkohr.com/articles/tapping-out-a-muscle-group-with-20-reps</link>
-                <description>Tapping out a muscle group with 20 reps</description>
-                <pubDate>Sun, 15 Oct 2023 23:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/online-tool-for-quick-photo-edits</guid>
-                <title>Online tool for quick photo edits</title>
-                <link>https://robkohr.com/articles/online-tool-for-quick-photo-edits</link>
-                <description>Online tool for quick photo edits</description>
-                <pubDate>Sun, 15 Oct 2023 23:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/pointing-away-from-the-pointless</guid>
-                <title>Pointing away from the pointless</title>
-                <link>https://robkohr.com/articles/pointing-away-from-the-pointless</link>
-                <description>Pointing away from the pointless</description>
-                <pubDate>Sun, 01 Oct 2023 00:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/failure-state-for-computers-and-ai</guid>
-                <title>Failure state for computers and AI</title>
-                <link>https://robkohr.com/articles/failure-state-for-computers-and-ai</link>
-                <description>Failure state for computers and AI</description>
-                <pubDate>Fri, 15 Sep 2023 00:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/light-painter-picking-up-blur</guid>
-                <title>Light painter picking up blur</title>
-                <link>https://robkohr.com/articles/light-painter-picking-up-blur</link>
-                <description>Light painter picking up blur</description>
-                <pubDate>Sun, 03 Sep 2023 00:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/tree-sketch</guid>
-                <title>Tree sketch</title>
-                <link>https://robkohr.com/articles/tree-sketch</link>
-                <description>Tree sketch</description>
-                <pubDate>Sun, 03 Sep 2023 00:00:00 GMT</pubDate>
             </item>
     
         </channel>

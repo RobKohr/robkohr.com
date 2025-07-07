@@ -1,6 +1,9 @@
 
-        <html>
-            <head>
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
                 <title>Meeting with people who have to come back to the office - RobKohr's Blog</title>
 
 <!-- Google tag (gtag.js) -->
@@ -15,17 +18,19 @@
   gtag("config", "UA-600316-3");
 </script>
 
-<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
-<link rel="shortcut icon" type="image/ico" href="favicon.ico">
-<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
-<script src="libs/highlight/highlight.min.js"></script>
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
 
                 <link rel="canonical" href="https://robkohr.com/articles/meeting-with-people-who-have-to-come-back-to-the-office" />
                 <link rel="stylesheet" href="../neat.css">
-                <base href="../">
+<meta property="og:image" content="https://robkohr.com/images/2023-08-23 back to work.png" />
+                <meta property="og:description" content="![[2023-08-23 back to work.png]]So my company is telling all people within a 50 mile radius of work that they have to now come in 2 days a week. Currently seeing how it is effecting people who now has" />
             </head>
             <body>
-            <a href="./index.html">← Home</a>
+            <a href="./index.html">&larr; Home</a>
             
     <h2><a href="articles/meeting-with-people-who-have-to-come-back-to-the-office">Meeting with people who have to come back to the office</a></h2>
     <div class="variables">
@@ -33,7 +38,7 @@
     <div class="tags">@tags=<a href="tags/business">business</a></div>
     </div>
     <article>
-        <p><img src="images/2023-08-23 back to work.png" alt="2023-08-23 back to work.png" style="max-width: 100%;" /></p>
+        <p><img data-src="images/2023-08-23 back to work.png" alt="2023-08-23 back to work.png" style="max-width: 100%;" /></p>
 <p>So my company is telling all people within a 50 mile radius of work that they have to now come in 2 days a week. </p>
 <p>Currently seeing how it is effecting people who now has to spend an hour each day either way and the disappointment they have. </p>
 <p>The manager is talking about how it is applying to them, how they aren&#39;t getting an exception, and people will have to get in line to get an exception.</p>

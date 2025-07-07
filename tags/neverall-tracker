@@ -1,0 +1,45 @@
+
+        <html>
+            <head>
+                <title>neverall-tracker - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            <h2>Tag: neverall-tracker</h2>
+    
+    <h2><a href="articles/failed-to-finish-neverall-tracker-on-time">Failed to finish Neverall Tracker on time</a></h2>
+    <div class="variables">
+    <div class="date">@date=2025-04-30</div>
+    <div class="tags">@tags=<a href="tags/neverall-tracker">neverall-tracker</a></div>
+    </div>
+    <article>
+        <a href="articles/failed-to-finish-neverall-tracker-on-time"><img class="icon" data-src="images/Pasted image 20250430111523.png" alt="Pasted image 20250430111523.png" style="max-width: 100%;" /></a><p>I had the goal of finishing Neverall Tracker at the beginning of April. Pivotal Tracker shuts down today on April 30th and I wanted a month to try to advertise and get people to export over their data there to Neverall Tracker. </p>
+<p>Now it is april 30th and this is what we have:</p>
+<p>It can import in f...</p>
+ <p><a class="nowrap" href="articles/failed-to-finish-neverall-tracker-on-time">READ MORE (691 words, 5 minutes, 3 images)</a></p> 
+    </article>
+    
+            </body>
+        </html>
+    

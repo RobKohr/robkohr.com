@@ -1,0 +1,53 @@
+
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
+                <title>One of the first systems I built - ruQueue - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
+
+                <link rel="canonical" href="https://robkohr.com/articles/one-of-the-first-systems-i-built---ruqueue" />
+                <link rel="stylesheet" href="../neat.css">
+<meta property="og:image" content="https://robkohr.com/images/ruqueue.jpeg" />
+                <meta property="og:description" content="I built this with https://github.com/fultonj for Rutgers University about 20 years ago. It was used by the university to manage all the different types of request tickets that came in for technical su" />
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            
+    <h2><a href="articles/one-of-the-first-systems-i-built---ruqueue">One of the first systems I built - ruQueue</a></h2>
+    <div class="variables">
+    <div class="date">@date=2025-05-16</div>
+    <div class="tags">@tags=<a href="tags/projects-completed">projects-completed</a>, <a href="tags/programming">programming</a>, <a href="tags/projects">projects</a></div>
+    </div>
+    <article>
+        <p>I built this with <a href="https://github.com/fultonj">https://github.com/fultonj</a> for Rutgers University about 20 years ago. It was used by the university to manage all the different types of request tickets that came in for technical support for students at the university. </p>
+<p>I particularly liked our lifesavers styled &quot;ColoredTable&quot; design using just primary colored frames and minimal spacing. </p>
+<p>If you feel an urge to browse through some old php code that was prior to the use of object/class structures and frameworks, it is a pretty enjoyable and easy read:
+<a href="https://savannah.nongnu.org/projects/ruqueue/">https://savannah.nongnu.org/projects/ruqueue/</a></p>
+<p>John and I were big fans of lisp at the time and we tried to focus on functional oriented coding... at least as much as you could with php. We ended up doing this whole project in just about 4 months as it had to get done before the students got back for summer break. </p>
+<p>It makes me think that sometimes all of these frameworks, language constructs, microservices, and cloud computing get in the way of banging out a fast usable system. We hardly even had any javascript on the page, and usability was great. It all ran off of a rack based server and handled a huge amount of requests... though I do remember tuning apache&#39;s threads was non-trivial. Ugh.</p>
+<p><img data-src="images/ruqueue.jpeg" alt="ruqueue.jpeg" style="max-width: 100%;" /></p>
+
+    </article>
+    
+            </body>
+          </html>
+          

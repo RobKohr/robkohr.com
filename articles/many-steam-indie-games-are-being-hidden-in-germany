@@ -1,0 +1,52 @@
+
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
+                <title>Many steam indie games are being hidden in Germany - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
+
+                <link rel="canonical" href="https://robkohr.com/articles/many-steam-indie-games-are-being-hidden-in-germany" />
+                <link rel="stylesheet" href="../neat.css">
+
+                <meta property="og:description" content="https://www.heise.de/en/news/Steam-Why-some-of-the-best-indie-games-will-soon-be-hidden-in-Germany-9960810.htmlSo basically, for every game, someone in the game company that made the game needs to fil" />
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            
+    <h2><a href="articles/many-steam-indie-games-are-being-hidden-in-germany">Many steam indie games are being hidden in Germany</a></h2>
+    <div class="variables">
+    <div class="date">@date=2025-06-26</div>
+    <div class="tags">@tags=<a href="tags/freedom">freedom</a>, <a href="tags/govt">govt</a>, <a href="tags/games">games</a></div>
+    </div>
+    <article>
+        <p><a href="https://www.heise.de/en/news/Steam-Why-some-of-the-best-indie-games-will-soon-be-hidden-in-Germany-9960810.html">https://www.heise.de/en/news/Steam-Why-some-of-the-best-indie-games-will-soon-be-hidden-in-Germany-9960810.html</a></p>
+<p>So basically, for every game, someone in the game company that made the game needs to fill out a form so that it can get rated. </p>
+<p>As a lot of developers kinda just walk away from supporting their game after a few years, this minor hurtle will make the game unavailable in Germany. </p>
+<p>What a stupid law. It should have had some grandfathered in provision so the thousands of games (and movies) that aren&#39;t actively managed would have exceptions. </p>
+<p>Or, maybe stop trying to make the govt be our parents. If parents aren&#39;t reviewing the game themselves, then it is on them. And filling out a survey of what the game has in it, and using that as some metric for what age it is for is asinine. Unless there are some actual studies proving that certain things in games are going to harm children at certain ages, then this is not something that should be legislated. </p>
+<p>And even then, let the parents decide what is right, not a corrupt bureaucrat.</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

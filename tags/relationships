@@ -1,0 +1,45 @@
+
+        <html>
+            <head>
+                <title>relationships - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            <h2>Tag: relationships</h2>
+    
+    <h2><a href="articles/marriage--dating--sex-advice">Marriage, Dating, Sex Advice</a></h2>
+    <div class="variables">
+    <div class="date">@date=2025-07-07</div>
+    <div class="tags">@tags=<a href="tags/life">life</a>, <a href="tags/relationships">relationships</a>, <a href="tags/dating">dating</a></div>
+    </div>
+    <article>
+        <p>Sex is fun, enjoy, and all, but keep in mind it&#39;s primary function is making babies.</p>
+<p>If you have sex with someone, and you don&#39;t want to have babies with them, then you are playing Russian roulette with the rest of your life.</p>
+<p>Beyond that, for dating and marriage, try to imagine your partner as ...</p>
+ <p><a class="nowrap" href="articles/marriage--dating--sex-advice">READ MORE (593 words, 5 minutes)</a></p> 
+    </article>
+    
+            </body>
+        </html>
+    

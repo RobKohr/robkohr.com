@@ -1,0 +1,55 @@
+
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
+                <title>Auto blocking time consuming websites - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
+
+                <link rel="canonical" href="https://robkohr.com/articles/auto-blocking-time-consuming-websites" />
+                <link rel="stylesheet" href="../neat.css">
+
+                <meta property="og:description" content="I find that youtube, facebook, and reddit are a little too consuming of time and attention, but I also sometimes want to go lookup something on them. To help with this, I block the sites using this /e" />
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            
+    <h2><a href="articles/auto-blocking-time-consuming-websites">Auto blocking time consuming websites</a></h2>
+    <div class="variables">
+    <div class="date">@date=2025-06-05</div>
+    <div class="tags">@tags=<a href="tags/productivity">productivity</a></div>
+    </div>
+    <article>
+        <p>I find that youtube, facebook, and reddit are a little too consuming of time and attention, but I also sometimes want to go lookup something on them. </p>
+<p>To help with this, I block the sites using this /etc/hosts file on my mac:</p>
+<pre><code>##
+# Host Database
+#
+# localhost is used to configure the loopback interface
+# when the system is booting.  Do not change this entry.
+##
+</code></pre>
+
+    </article>
+    
+            </body>
+          </html>
+          

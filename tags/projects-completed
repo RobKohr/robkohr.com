@@ -1,0 +1,44 @@
+
+        <html>
+            <head>
+                <title>projects-completed - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            <h2>Tag: projects-completed</h2>
+    
+    <h2><a href="articles/one-of-the-first-systems-i-built---ruqueue">One of the first systems I built - ruQueue</a></h2>
+    <div class="variables">
+    <div class="date">@date=2025-05-16</div>
+    <div class="tags">@tags=<a href="tags/projects-completed">projects-completed</a>, <a href="tags/programming">programming</a>, <a href="tags/projects">projects</a></div>
+    </div>
+    <article>
+        <a href="articles/one-of-the-first-systems-i-built---ruqueue"><img class="icon" data-src="images/ruqueue.jpeg" alt="ruqueue.jpeg" style="max-width: 100%;" /></a><p>I built this with <a href="https://github.com/fultonj">https://github.com/fultonj</a> for Rutgers University about 20 years ago. It was used by the university to manage all the different types of request tickets that came in for technical support for students at the university. </p>
+<p>I particularly liked our lifesavers styled &quot;ColoredTable&quot;...</p>
+ <p><a class="nowrap" href="articles/one-of-the-first-systems-i-built---ruqueue">READ MORE (205 words, 2 minutes, 1 images)</a></p> 
+    </article>
+    
+            </body>
+        </html>
+    

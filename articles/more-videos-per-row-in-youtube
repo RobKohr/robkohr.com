@@ -1,0 +1,71 @@
+
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
+                <title>More videos per row in youtube - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
+
+                <link rel="canonical" href="https://robkohr.com/articles/more-videos-per-row-in-youtube" />
+                <link rel="stylesheet" href="../neat.css">
+
+                <meta property="og:description" content="I like youtube, but I don't like the recent change they did to make it so only 4 giant video thumbnails show per row on my large computer display. Why did I pay for all these pixels, if not to shove" />
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            
+    <h2><a href="articles/more-videos-per-row-in-youtube">More videos per row in youtube</a></h2>
+    <div class="variables">
+    <div class="date">@date=2025-06-03</div>
+    <div class="tags">@tags=<a href="tags/youtube">youtube</a>, <a href="tags/browser-extensions">browser-extensions</a></div>
+    </div>
+    <article>
+        <p>I like youtube, but I don&#39;t like the recent change they did to make it so only 4 giant video &quot;thumbnails&quot; show per row on my large computer display. Why did I pay for all these pixels, if not to shove data into my head faster.</p>
+<p>Fortunately this is super easy to fix. </p>
+<p>Add the Code Injector add on for Chrome, Firefox, or Edge
+<a href="https://github.com/Lor-Saba/Code-Injector">https://github.com/Lor-Saba/Code-Injector</a></p>
+<ol>
+<li>go to youtube</li>
+<li>click on the browser bar button for the extension</li>
+<li>Click add rule</li>
+<li>In the upper right corner click &quot;Current Host&quot;</li>
+<li>Click on the CSS tab</li>
+<li>Enter this css and click save:</li>
+</ol>
+<pre><code>html #contents{
+--ytd-rich-grid-items-per-row: 8;
+}
+
+  
+/* resolve some fonts getting squished */
+html ytd-rich-grid-media[typography-bump] #video-title.ytd-rich-grid-media{
+  font-size: 1rem;
+  line-height: 1.4rem;
+}
+</code></pre>
+<p>Now you can have the glory of 8 items in a row (you have to reload after you save).</p>
+<p>You can change 8 to be whatever you like it to be. I tried out 12, and even 20, but I found 8 to be the sweet spot.</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

@@ -1,6 +1,9 @@
 
-        <html>
-            <head>
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
                 <title>Making millions - RobKohr's Blog</title>
 
 <!-- Google tag (gtag.js) -->
@@ -15,20 +18,23 @@
   gtag("config", "UA-600316-3");
 </script>
 
-<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
-<link rel="shortcut icon" type="image/ico" href="favicon.ico">
-<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
-<script src="libs/highlight/highlight.min.js"></script>
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
 
+                <link rel="canonical" href="https://robkohr.com/articles/making-millions" />
                 <link rel="stylesheet" href="../neat.css">
-                <base href="../">
+
+                <meta property="og:description" content="When people say they make 6 figures, it means they make somewhere just over 100k. These are usually fairly high skilled labor. The average salary is about 50k.With most retailers paying up to $15 for " />
             </head>
             <body>
-            <a href="./index.html">Home</a>
+            <a href="./index.html">&larr; Home</a>
             
     <h2><a href="articles/making-millions">Making millions</a></h2>
     <div class="variables">
-    <div class="date">@date=2023-07-30</div>
+    <div class="date">@date=2025-07-30</div>
     <div class="tags">@tags=<a href="tags/money">money</a>, <a href="tags/business">business</a></div>
     </div>
     <article>

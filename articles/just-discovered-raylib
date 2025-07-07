@@ -1,0 +1,68 @@
+
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
+                <title>Just discovered Raylib - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
+
+                <link rel="canonical" href="https://robkohr.com/articles/just-discovered-raylib" />
+                <link rel="stylesheet" href="../neat.css">
+
+                <meta property="og:description" content="I have recently started diving into Unreal Engine. The reason being I wanted to turn this game:https://neverall.itch.io/jewel-defenderinto a high quality 3d explosion fest co-op game on steam.I want t" />
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            
+    <h2><a href="articles/just-discovered-raylib">Just discovered Raylib</a></h2>
+    <div class="variables">
+    <div class="date">@date=2025-06-30</div>
+    <div class="tags">@tags=<a href="tags/gamedev">gamedev</a>, <a href="tags/programming">programming</a></div>
+    </div>
+    <article>
+        <p>I have recently started diving into Unreal Engine. The reason being I wanted to turn this game:
+<a href="https://neverall.itch.io/jewel-defender">https://neverall.itch.io/jewel-defender</a>
+into a high quality 3d explosion fest co-op game on steam.</p>
+<p>I want to get fireballs, and particles and all that, but with a high frame rate and snappy arcade controls.</p>
+<p>So, I needed performance. Looking at Godot, it wasn&#39;t really there, and Unity has left a bad taste in my mouth regarding their business decisions, and beyond that, I didn&#39;t really like the UI of working with Unity when I tried to make a game with it.</p>
+<p>I have been plodding through a udemity guide to Unreal using C++, and also I just watched a video on building flappy bird with Unreal using blueprints.</p>
+<p>What I have come to the conclusion of is that I HATE learning these UIs. When I watch people make things with game engines, it seems like they just knew how to navigate the infinite maze of menus to select just the right pieces to use, and knew already how to configure them.</p>
+<p>What I witness is something that takes a few seconds to achieve in a video which I know comes from orders of magnitude more time reading documentation and keeping up on system design changes.</p>
+<p>Ugh.</p>
+<p>So, reflecting back, I have made some games in Javascript and in Lua. These are things that I have gotten done and released into the world. Hell, I even made a MMO pirate game in javascript with networking and all (<a href="https://constantsail.com">https://constantsail.com</a>)</p>
+<p>What have I achieved in game engines has been a bunch of false starts, lots of youtube watching, and just generally disappointment. </p>
+<p>This is clearly why I am a programmer and not a designer. I hate working with UIs.</p>
+<p>But, now I need to figure out how to put on my big boy pants and make a Steam worthy game that people will drop money on. </p>
+<p>Now, prior to getting into Unreal, I was experimenting with <a href="https://lovr.org/">https://lovr.org/</a>. I figured this would be great because it was in Lua, which comes really easy for me, and would make porting over Jewel Defender just a matter of updating api calls, and making 2d models be 3d, but I was experiencing build issues on my Intel based Mac, and also came to the conclusion that the project didn&#39;t have enough contributors to use. </p>
+<p>I also considered SDL, but that seemed scary at first with needing C++ which I am not super familiar with, and the framework also seemed a bit hard to dive into. </p>
+<p>In either case, I was looking at circling back on it after deciding to move away from unreal engine, but in the process of exploring I stumbled upon Raylib, <a href="https://www.raylib.com">https://www.raylib.com</a>, which seems to achieve a lot of what SDL does, but with a simpler API and bindings for a bunch of different languages. It seems to be lightning fast, and browsing through the examples, it covers all of my use cases, and I have no trouble understanding what is going on codewise.</p>
+<p>I also watch some game showcases, <a href="https://www.youtube.com/watch?v=i7isROcHwWE">https://www.youtube.com/watch?v=i7isROcHwWE</a>, and it hit me as to one of the other reasons I wanted to do things in code rather than in a game engine. Game engines provide you a fairly direct path to developing a game, and really make it so anything outside that path comes with effort.</p>
+<p>But, with you are coding freeform, you decide how everything looks and is rendered. Everything becomes less cookie cutter. </p>
+<p>And this is really evident in that game showcase. Many of those games would be far removed from what they would look like if they came out of a game engine. Yes, they are all achievable (maybe), but they wouldn&#39;t be what would likely come out the other side.</p>
+<p>As far as language, I think I am going to hit c first instead of lua as the performance is really great in c:
+<a href="https://www.reddit.com/r/raylib/comments/15jy1x3/raylib_bunnymark_benchmark_with_100k_bunnies/">https://www.reddit.com/r/raylib/comments/15jy1x3/raylib_bunnymark_benchmark_with_100k_bunnies/</a></p>
+<p>but maybe I will flip back to lua if it ends up faster to build with.</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

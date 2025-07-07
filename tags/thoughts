@@ -28,6 +28,16 @@
             <a href="./index.html">&larr; Home</a>
             <h2>Tag: thoughts</h2>
     
+    <h2><a href="articles/we-re-in-the-future">We're in the future</a></h2>
+    <div class="variables">
+    <div class="date">@date=2025-06-11</div>
+    <div class="tags">@tags=<a href="tags/thoughts">thoughts</a></div>
+    </div>
+    <article>
+        <p>We have dancing robots, Turing test passible AIs, drone warfare, immersive virtual reality, the internet becoming basically a hive consciousness, new drugs that are tackling things that were impossible in the past, 3d printing, advanced touch screen computers in our pockets, same day delivery mos...</p>
+ <p><a class="nowrap" href="articles/we-re-in-the-future">READ MORE (100 words, 1 minutes)</a></p> 
+    </article>
+    
     <h2><a href="articles/modern-art---indie-gaming">Modern art = Indie gaming</a></h2>
     <div class="variables">
     <div class="date">@date=2025-01-05</div>
