@@ -34,11 +34,11 @@
     <div class="tags">@tags=<a href="tags/gamedev">gamedev</a>, <a href="tags/programming">programming</a></div>
     </div>
     <article>
-        <p>I have recently started diving into Unreal Engine. The reason being I wanted to turn this game:
+        <a href="articles/just-discovered-raylib"><img class="icon" data-src="images/Pasted image 20250707124943.png" alt="Pasted image 20250707124943.png" style="max-width: 100%;" /></a><p>I have recently started diving into Unreal Engine. The reason being I wanted to turn this game:
 <a href="https://neverall.itch.io/jewel-defender">https://neverall.itch.io/jewel-defender</a>
 into a high quality 3d explosion fest co-op game on steam.</p>
-<p>I want to get fireballs, and particles and all that, but with a high frame rate and snappy arcade con...</p>
- <p><a class="nowrap" href="articles/just-discovered-raylib">READ MORE (653 words, 5 minutes)</a></p> 
+<p>I want to get fireballs, and particles and all that, but with a high frame rate and snappy arcade c...</p>
+ <p><a class="nowrap" href="articles/just-discovered-raylib">READ MORE (655 words, 5 minutes, 1 images)</a></p> 
     </article>
     
     <h2><a href="articles/one-of-the-first-systems-i-built---ruqueue">One of the first systems I built - ruQueue</a></h2>

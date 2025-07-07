@@ -42,13 +42,13 @@
 @tags=life, relationships, dating
 @date=2025-07-07
 
-Sex is fun, enjoy, and all, but keep in mind it's primary function is making babies.
+Sex is fun, enjoyable, and all, but keep in mind it's primary function is making babies.
 
 If you have sex with someone, and you don't want to have babies with them, then you are playing Russian roulette with the rest of your life.
 
-Beyond that, for dating and marriage, try to imagine your partner as they were when they were a child. Would you like to raise the child version of that person with the adult version of that person? If not, then walk away. 
+Beyond that, for dating and marriage, try to imagine your partner as they were when they were a child. Would you like to raise the child version of that person with the adult version of that person? If not, then walk away. Personality and genetics are strongly linked.
 
-If they have children already, or even pets, look at how they parent them. It is an excellent sign on how they would raise children with you. Also look at how they treat other people - strangers, waiters, co-workers, friends, and most importantly enemies. Early on infatuation will make them treat you differently than anyone else, but time and life circumstances may make you fall later into another category, and possibly someone that don't like anymore. If they don't treat people well, even those they don't like, consider this regarding how you may one day be treated. Never be with someone who is vindictive and passive aggressive. That is like being a mouse tempted by cheese on a trap. 
+If they have children already, or even pets, look at how they parent them. It is an excellent sign on how they would raise children with you. Also look at how they treat other people - strangers, waiters, co-workers, friends, and most importantly enemies. Early on infatuation will make them treat you differently than anyone else, but time and life circumstances may make you fall later into another category, and possibly someone that doesn't like you anymore. If they don't treat people well, even those they don't like, consider this regarding how you may one day be treated. Never be with someone who is vindictive and passive aggressive. That is like being a mouse tempted by cheese on a trap. 
 
 Also, as we become older, we become more amplified versions of our self. Whatever traits you have, often just become more so as you get older, not less so. Are there things about your partner that really you just barely tolerate, and there is nothing changing there (not what they say they are trying to change, but in what actually changes). You can't change the person, and if there is something that is a problem, if they aren't seeking to change it without you pressuring them, then that problem will just grow as they get older.
 
@@ -58,12 +58,14 @@ Look at your own parents. Often times the first person we settle with matches st
 
 Are they are on the same page as you as far as family and life goals - and without you biasing them one way or another? Do they want children, and when? Do they want to live on a farm, or the suburbs, or the city? Are they happy with both of your career paths? Is there a divergence in goals that are only resolved if someone gives up on their stance, and if so, is this going to contain a buried resentment?
 
-Now love is love, but if you are looking at a big life step with someone (having a child, getting married, or even just continuing a relationship beyond the 3, 6, 12 month mark - these are great go/no-go time points), these are things to consider. If there are sticking points, don't assume you can change them if the other person doesn't have the desire to change them themselves. You might be able to damn up or divert a mighty river temporarily, but if it truly 
+Now love is love, but if you are looking at a big life step with someone (having a child, getting married, or even just continuing a relationship beyond the 3, 6, 12 month mark - these are great go/no-go time points), these are things to consider. If there are sticking points, don't assume you can change them if the other person doesn't have the desire to change them themselves. You might be able to damn up or divert a mighty river temporarily, but making someone be something they are not is a great way to have things go poorly.
  
 
 ## Just discovered Raylib
 @tags=gamedev, programming
 @date=2025-06-30
+
+![[Pasted image 20250707124943.png]]
 
 I have recently started diving into Unreal Engine. The reason being I wanted to turn this game:
 https://neverall.itch.io/jewel-defender
@@ -105,6 +107,7 @@ As far as language, I think I am going to hit c first instead of lua as the perf
 https://www.reddit.com/r/raylib/comments/15jy1x3/raylib_bunnymark_benchmark_with_100k_bunnies/
 
 but maybe I will flip back to lua if it ends up faster to build with. 
+
 
 
 ## Many steam indie games are being hidden in Germany

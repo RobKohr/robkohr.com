@@ -26,8 +26,8 @@
 
                 <link rel="canonical" href="https://robkohr.com/articles/just-discovered-raylib" />
                 <link rel="stylesheet" href="../neat.css">
-
-                <meta property="og:description" content="I have recently started diving into Unreal Engine. The reason being I wanted to turn this game:https://neverall.itch.io/jewel-defenderinto a high quality 3d explosion fest co-op game on steam.I want t" />
+<meta property="og:image" content="https://robkohr.com/images/Pasted image 20250707124943.png" />
+                <meta property="og:description" content="![[Pasted image 20250707124943.png]]I have recently started diving into Unreal Engine. The reason being I wanted to turn this game:https://neverall.itch.io/jewel-defenderinto a high quality 3d explosi" />
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>
@@ -38,7 +38,8 @@
     <div class="tags">@tags=<a href="tags/gamedev">gamedev</a>, <a href="tags/programming">programming</a></div>
     </div>
     <article>
-        <p>I have recently started diving into Unreal Engine. The reason being I wanted to turn this game:
+        <p><img data-src="images/Pasted image 20250707124943.png" alt="Pasted image 20250707124943.png" style="max-width: 100%;" /></p>
+<p>I have recently started diving into Unreal Engine. The reason being I wanted to turn this game:
 <a href="https://neverall.itch.io/jewel-defender">https://neverall.itch.io/jewel-defender</a>
 into a high quality 3d explosion fest co-op game on steam.</p>
 <p>I want to get fireballs, and particles and all that, but with a high frame rate and snappy arcade controls.</p>
