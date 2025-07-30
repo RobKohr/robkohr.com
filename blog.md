@@ -38,6 +38,101 @@
 - Dave Made a Maze
 - Tucker and Dale vs Evil
 
+## The path to mastery
+@tag=motivation
+@date=2025-07-30
+
+![[10000 hours 20250730105523.png]]
+
+Go to an open mic night for comedians and musicians. Go to a student art show. Go to a skate park.
+
+Go listen to 10000 hours by macklemore (not the Justin Bieber song... Different meaning there)   
+
+The ability to create is a learned skill that comes from lots of grinding. Even a child learning to talk goes through the same learning path. And yep after 5 years of intense learning they can have a conversation with you. By 8 or 9 they start to get deep and philosophical and are spreading their wings and their learning takes them on new journeys as they become readers. 
+  
+Look at many fields of creative endeavors and you will see a similar flight past. 
+
+This is why their are so many armchair creators commenting on how they could do just as well if they tried, and when they do put forth the effort they realize after a year or two they just got to the foothills of the mountain and can actually see the climb in front of them. 
+
+This is what in is called the valley of dispair. 
+
+This is where a lot of creatives throw in the towel. They suddenly see how hard it is to move on to the next level. This valley swallows most of us whole as we abandon the quest to greatness.
+
+But those who grit their teeth and push on to the 10 thousand hours are the ones who became masters in their craft.
+
+I love on YouTube you can go to any channels about page, and go to videos, and sort by oldest. Some clean out their earlier failures, but most don't. Find the most polished and successful YouTuber, and look at the crap they made for the first few years. Or the first songs of hit song writers. Or the videos famous directors made in film school. Or the first few games famous indie game devs churned out. 
+
+The mastery of any craft follows a similar pathway every time and if you have been struggling and felt like you have been getting good, but then realize that you hit the valley of dispair, just realize you have made it past where 80% of people have gone. And now you are at the part that consumes the 80% of those whole made it to that point. Now is the time to summon that will to climb the mountain before you and become the master. Show us what you got.
+
+## Daily Sketch - Ancient Robot
+@tag=daily-sketch
+@date=2025-07-30
+
+Built with stone and scraps he trudges on through the millennia. Step by step he gets slower as the overgrowth takes him.
+
+![[20250730104502 Ancient Robot.png]]
+
+## Working on getting lighting to look like Blender in raylib
+@tag=raylib, blender
+@date=2025-07-24
+
+![[Raylib blender lighting 20250724144955.png]]
+## Daily sketch - Orc
+@tag=daily-sketch
+@date=2025-07-24
+
+
+![[20250724144955 Daily Sketch Orc.png]]
+
+## How I lost weight even though I suck at dieting
+@tags=fitness, weight-loss
+@date=2025-07-24
+
+I am lazy and I hate calorie counting and I am not keen on having a limit on how much I eat a day.
+
+I am pretty fit and strong, and lift weights regularly every week, but I had quite a bit of a gut, and was probably over 25% body fat. 
+
+I cut out drinks with sugar in them, eating after dinner, and in general just eating healthy meals with a focus on eating more proteins (protein pasta is great). 
+
+All this lowered my fat levels down to a reasonable level, but still left me with about 23% body fat and a bit of a belly, and that remained consistent. Trying to diet here and there and trim out things during the day didn't really cause any maintainable change.
+
+Then I tried doing a 24 hour fast once a week. This really means just eating one dinner a little earlier (4:30pm) and then skipping breakfast and lunch and drinking water with electrolytes added. 
+
+With keeping the rest of the days calorie intake the same, I have shaved off consistently about 1 pound a week and 1/2" from my waistline. 
+
+![[Weight and Waist measurements 20250724082605.png]]
+Those are some nice trend-lines. :) Also, it seems my weight is fluctuating much less on a day-to-day basis. 
+
+This has been going for 5 weeks now, and I have gone from 23% to 19.7% based on Navy body fat formula.
+
+What is great is I have no cravings or feelings that I am depriving myself except for the last 8 hrs of the weekly fast. The rest of the week, I eat well.
+
+My plan is to bring myself down to 15% and then continuing to measure. If I get above 15% I fast that week, if I don't then I don't fast, so it basically becomes like a controllable throttle. Getting too low seems to have negative side effects, and 15% seems based on what I have read, to be a healthy limit. 
+
+A concern I had starting out on this was that eating and muscle growth go hand in hand, and it is hard to grow muscles when dieting. I have continued to lift the same number of days a week, but I just don't lift when I am fasting (don't want to over stress those muscles). So far, to my surprise, it seems I have broken through some plateaus on lifting, so my weight loss is mostly targeting fat and isn't hurting my lifting. One way to also see this is my waistline is shrinking faster than my weight, which is a good sign that the weight loss isn't hitting muscles hard. 
+
+But just on a feeling, I am feeling even stronger than before, and hitting even more personal records. 
+
+
+## First day using Raylib
+@tags=raylib, gamedev
+@date=2025-07-15
+
+![[Screen Recording 2025-07-15 at 8.20.42 AM.mov]]
+I've never done a game before in C, nor one that is 3d. This only took a few hours to bang out.
+
+I've done some in javascript before and some in lua for playdate to make this game: https://neverall.itch.io/jewel-defender
+
+I am now porting Jewel Defender to a 3d enviornment with a lot more features and will be bring it to steam.
+
+### What brought me here
+
+Before today I explored a lot of different options, and tried to learn Unreal and started on a C++ lesson series on it, was getting bored learning more and more about the interface, and then watched this video on how to build flappy bird, and that ended it for me. I don't want to dig through a giant box of premade components to find just the right one and configure it correctly to show up on the screen. Watching the video, it seemed like magic how he went through, and I knew there was a huge amount of learning that took to get there.
+
+I really wanted a nice collection of primatives that I could assemble into the components I need, and so far raylib seems to be exactly what I ordered. What I was able to bang out with no familiarity with anything is truly baffeling, and I look forward to building up a nice stack of bits and peices tied together with thread. 
+
+
+
 ## Marriage, Dating, Sex Advice
 @tags=life, relationships, dating
 @date=2025-07-07
@@ -148,14 +243,13 @@ I find that youtube, facebook, and reddit are a little too consuming of time and
 
 To help with this, I block the sites using this /etc/hosts file on my mac:
 ```
-##
+
 # Host Database
 #
 # localhost is used to configure the loopback interface
 # when the system is booting.  Do not change this entry.
-##
 
-## if you adjust these, reset the counter in obsidian.
+# if you adjust these, reset the counter in obsidian.
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
 ::1             localhost
@@ -867,7 +961,7 @@ My main issues:
 
 Scrouge McDuck starts poor and is recruited by joker to become batman. I think it was just to entertain the Joker, but then Scrouge through the conflict also grows more as an individual to become the wealthiest man of Duckburg.
 
-![[Pasted image 20241122131133.png]]
+![[20241122131133 Batman screwge.png]]
 
 I had some struggles with chatGPT making this.
 
@@ -1387,7 +1481,7 @@ https://grugbrain.dev/
 ## Updating Elf Factory
 @date=2023-12-08
 @tags=elf-factory, playdate, gamedev
-![[Pasted image 20231208132932.png]]
+![[20231208132932 Elf factory loading screen.png]]
 
 So I built Elf Factory initially when I didn't have a playdate, and created some tiny fonts to make it so a decent amount of text could appear on the screen.
 
@@ -1992,9 +2086,9 @@ I hook up a laptop to my screen via usb-c and need a way to hold it vertically. 
 
 First I started in Tinkercad with a large rectiliniar cube as a hole to represent the laptop, and then put it 4 mm above the ground. Then I stacked the other parts around it and added cuts. This is the primary mode I do for design. Add chunks and then do subtracts. 
 
-![[before-cuts.png]]
+![[20230703 before-cuts.png]]
 
-![[after cuts.png]]
+![[20230703 after cuts.png]]
 
 I also try to work with multiples/fractions of 12. Base 12 has the most factors (12, 6, 4, 3, 2, 1) and works well for keeping things scaled in pleasing proportions to each other (this is why lego is base 12, the imperial system works off of base 12, our clocks, western music scales, and many other things). So the height for the surrounding bases are 6mm high, and everything follows from there. 
 
@@ -2452,7 +2546,7 @@ https://www.youtube.com/watch?v=AXwgpUvLiwk
 
 ![[Santa - 2022-12-20.png]]
 
-![[Elf 2022-12-20.png]]
+![[20221220 Elf.png]]
 
 
 
@@ -2499,7 +2593,7 @@ This is much more nuanced, and there is a real problem that is being addressed. 
 @date=2022-08-18
 @tags=art, spen
 
-![[Desk 2022-08-18.jpg]]
+![[20220818 Desk.jpg]]
 
 
 
@@ -2507,14 +2601,14 @@ This is much more nuanced, and there is a real problem that is being addressed. 
 @date=2022-08-15
 @tags=ar, drawing, playground, design, woodworking
 
-![[Designing playground structure using AR - 2022-08-15.png]]
+![[20220815 Designing playground structure using AR -.png]]
 
 
 ## Concept art for space fighting game - 2022-07-26
 @date=2022-07-26
 @tags=space-battle-game, art, concept-art
 
-![[Concept art for space fighting game - 2022-07-26.jpg]]
+![[20220726 Concept art for space fighting game.jpg]]
 
 
 ## On Nostalgia In The Evolution of Music

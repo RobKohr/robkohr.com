@@ -5,15 +5,63 @@
             <link>https://robkohr.com</link>
             <description>RobKohr's Blog</description>
             <language>en-us</language>
-            <lastBuildDate>Mon, 07 Jul 2025 07:00:00 GMT</lastBuildDate>
-            <pubDate>Mon, 07 Jul 2025 07:00:00 GMT</pubDate>
+            <lastBuildDate>Wed, 30 Jul 2025 07:00:00 GMT</lastBuildDate>
+            <pubDate>Wed, 30 Jul 2025 07:00:00 GMT</pubDate>
             <ttl>1800</ttl>
+            <item>
+                <guid>https://robkohr.com/articles/the-path-to-mastery</guid>
+                <title>The path to mastery</title>
+                <link>https://robkohr.com/articles/the-path-to-mastery</link>
+                <description>The path to mastery</description>
+                <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/daily-sketch---ancient-robot</guid>
+                <title>Daily Sketch - Ancient Robot</title>
+                <link>https://robkohr.com/articles/daily-sketch---ancient-robot</link>
+                <description>Daily Sketch - Ancient Robot</description>
+                <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
+            </item>
+    
             <item>
                 <guid>https://robkohr.com/articles/making-millions</guid>
                 <title>Making millions</title>
                 <link>https://robkohr.com/articles/making-millions</link>
                 <description>Making millions</description>
                 <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/working-on-getting-lighting-to-look-like-blender-in-raylib</guid>
+                <title>Working on getting lighting to look like Blender in raylib</title>
+                <link>https://robkohr.com/articles/working-on-getting-lighting-to-look-like-blender-in-raylib</link>
+                <description>Working on getting lighting to look like Blender in raylib</description>
+                <pubDate>Tue, 24 Jun 2025 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/daily-sketch---orc</guid>
+                <title>Daily sketch - Orc</title>
+                <link>https://robkohr.com/articles/daily-sketch---orc</link>
+                <description>Daily sketch - Orc</description>
+                <pubDate>Tue, 24 Jun 2025 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/how-i-lost-weight-even-though-i-suck-at-dieting</guid>
+                <title>How I lost weight even though I suck at dieting</title>
+                <link>https://robkohr.com/articles/how-i-lost-weight-even-though-i-suck-at-dieting</link>
+                <description>How I lost weight even though I suck at dieting</description>
+                <pubDate>Tue, 24 Jun 2025 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/first-day-using-raylib</guid>
+                <title>First day using Raylib</title>
+                <link>https://robkohr.com/articles/first-day-using-raylib</link>
+                <description>First day using Raylib</description>
+                <pubDate>Sun, 15 Jun 2025 00:00:00 GMT</pubDate>
             </item>
     
             <item>
@@ -358,54 +406,6 @@
                 <link>https://robkohr.com/articles/sometimes</link>
                 <description>Sometimes</description>
                 <pubDate>Sat, 20 Apr 2024 00:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/returning-to-feudalism-after-capitalism-fails</guid>
-                <title>Returning to Feudalism after capitalism fails</title>
-                <link>https://robkohr.com/articles/returning-to-feudalism-after-capitalism-fails</link>
-                <description>Returning to Feudalism after capitalism fails</description>
-                <pubDate>Thu, 29 Feb 2024 01:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/why-generative-ai-violates-copyright---for-skeptics</guid>
-                <title>Why Generative AI Violates Copyright - for skeptics</title>
-                <link>https://robkohr.com/articles/why-generative-ai-violates-copyright---for-skeptics</link>
-                <description>Why Generative AI Violates Copyright - for skeptics</description>
-                <pubDate>Tue, 06 Feb 2024 00:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/landships</guid>
-                <title>Landships</title>
-                <link>https://robkohr.com/articles/landships</link>
-                <description>Landships</description>
-                <pubDate>Sun, 04 Feb 2024 00:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/great-life-advice</guid>
-                <title>Great life advice</title>
-                <link>https://robkohr.com/articles/great-life-advice</link>
-                <description>Great life advice</description>
-                <pubDate>Sat, 27 Jan 2024 00:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/why-we-shouldn-t-have-switched-to-metric--clickbait--</guid>
-                <title>Why we shouldn&#39;t have switched to metric (clickbait!)</title>
-                <link>https://robkohr.com/articles/why-we-shouldn-t-have-switched-to-metric--clickbait--</link>
-                <description>Why we shouldn&#39;t have switched to metric (clickbait!)</description>
-                <pubDate>Sat, 20 Jan 2024 00:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/planning-on-extending-the-playground-structure</guid>
-                <title>Planning on extending the playground structure</title>
-                <link>https://robkohr.com/articles/planning-on-extending-the-playground-structure</link>
-                <description>Planning on extending the playground structure</description>
-                <pubDate>Sat, 13 Jan 2024 00:00:00 GMT</pubDate>
             </item>
     
         </channel>

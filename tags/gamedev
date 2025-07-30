@@ -28,6 +28,18 @@
             <a href="./index.html">&larr; Home</a>
             <h2>Tag: gamedev</h2>
     
+    <h2><a href="articles/first-day-using-raylib">First day using Raylib</a></h2>
+    <div class="variables">
+    <div class="date">@date=2025-07-15</div>
+    <div class="tags">@tags=<a href="tags/raylib">raylib</a>, <a href="tags/gamedev">gamedev</a></div>
+    </div>
+    <article>
+        <a href="articles/first-day-using-raylib"><img class="icon" data-src="images/Screen Recording 2025-07-15 at 8.20.42 AM.mov" alt="Screen Recording 2025-07-15 at 8.20.42 AM.mov" style="max-width: 100%;" /></a><p>I&#39;ve never done a game before in C, nor one that is 3d. This only took a few hours to bang out.</p>
+<p>I&#39;ve done some in javascript before and some in lua for playdate to make this game: <a href="https://neverall.itch.io/jewel-defender">https://neverall.itch.io/jewel-defender</a></p>
+<p>I am now porting Jewel Defender to a 3d enviornment with a lot more featur...</p>
+ <p><a class="nowrap" href="articles/first-day-using-raylib">READ MORE (231 words, 2 minutes, 1 images)</a></p> 
+    </article>
+    
     <h2><a href="articles/just-discovered-raylib">Just discovered Raylib</a></h2>
     <div class="variables">
     <div class="date">@date=2025-06-30</div>
@@ -57,10 +69,10 @@ into a high quality 3d explosion fest co-op game on steam.</p>
     <div class="tags">@tags=<a href="tags/elf-factory">elf-factory</a>, <a href="tags/playdate">playdate</a>, <a href="tags/gamedev">gamedev</a></div>
     </div>
     <article>
-        <a href="articles/updating-elf-factory"><img class="icon" data-src="images/Pasted image 20231208132932.png" alt="Pasted image 20231208132932.png" style="max-width: 100%;" /></a><p>So I built Elf Factory initially when I didn&#39;t have a playdate, and created some tiny fonts to make it so a decent amount of text could appear on the screen.</p>
+        <a href="articles/updating-elf-factory"><img class="icon" data-src="images/20231208132932 Elf factory loading screen.png" alt="20231208132932 Elf factory loading screen.png" style="max-width: 100%;" /></a><p>So I built Elf Factory initially when I didn&#39;t have a playdate, and created some tiny fonts to make it so a decent amount of text could appear on the screen.</p>
 <p>That looked great on my computer monitor, but apparently not so much on the playdate.</p>
 <p>Now that I have one in hand, I was able to tweak a...</p>
- <p><a class="nowrap" href="articles/updating-elf-factory">READ MORE (131 words, 1 minutes, 1 images)</a></p> 
+ <p><a class="nowrap" href="articles/updating-elf-factory">READ MORE (133 words, 1 minutes, 1 images)</a></p> 
     </article>
     
     <h2><a href="articles/on-game-development">On game development</a></h2>

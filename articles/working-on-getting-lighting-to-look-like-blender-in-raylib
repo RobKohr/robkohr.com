@@ -4,7 +4,7 @@
       <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
         <base href="../">  
-                <title>Desk - RobKohr's Blog</title>
+                <title>Working on getting lighting to look like Blender in raylib - RobKohr's Blog</title>
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
@@ -24,21 +24,21 @@
 <script src="./libs/highlight/highlight.min.js"></script>
 <script src="./image-lazy-loader.js"></script>
 
-                <link rel="canonical" href="https://robkohr.com/articles/desk" />
+                <link rel="canonical" href="https://robkohr.com/articles/working-on-getting-lighting-to-look-like-blender-in-raylib" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="![[20220818 Desk.jpg]]" />
+                <meta property="og:description" content="![[Raylib blender lighting 20250724144955.png]]" />
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>
             
-    <h2><a href="articles/desk">Desk</a></h2>
+    <h2><a href="articles/working-on-getting-lighting-to-look-like-blender-in-raylib">Working on getting lighting to look like Blender in raylib</a></h2>
     <div class="variables">
-    <div class="date">@date=2022-08-18</div>
-    <div class="tags">@tags=<a href="tags/art">art</a>, <a href="tags/spen">spen</a></div>
+    <div class="date">@date=2025-07-24</div>
+    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
     </div>
     <article>
-        <p><img data-src="images/20220818 Desk.jpg" alt="20220818 Desk.jpg" style="max-width: 100%;" /></p>
+        <p><img data-src="images/Raylib blender lighting 20250724144955.png" alt="Raylib blender lighting 20250724144955.png" style="max-width: 100%;" /></p>
 
     </article>
     

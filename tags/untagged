@@ -44,6 +44,49 @@
  <p><a class="nowrap" href="articles/now">READ MORE (65 words, 1 minutes)</a></p> 
     </article>
     
+    <h2><a href="articles/the-path-to-mastery">The path to mastery</a></h2>
+    <div class="variables">
+    <div class="date">@date=2025-07-30</div>
+    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    </div>
+    <article>
+        <a href="articles/the-path-to-mastery"><img class="icon" data-src="images/10000 hours 20250730105523.png" alt="10000 hours 20250730105523.png" style="max-width: 100%;" /></a><p>Go to an open mic night for comedians and musicians. Go to a student art show. Go to a skate park.</p>
+<p>Go listen to 10000 hours by macklemore (not the Justin Bieber song... Different meaning there)   </p>
+<p>The ability to create is a learned skill that comes from lots of grinding. Even a child learning...</p>
+ <p><a class="nowrap" href="articles/the-path-to-mastery">READ MORE (410 words, 3 minutes, 1 images)</a></p> 
+    </article>
+    
+    <h2><a href="articles/daily-sketch---ancient-robot">Daily Sketch - Ancient Robot</a></h2>
+    <div class="variables">
+    <div class="date">@date=2025-07-30</div>
+    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    </div>
+    <article>
+        <p>Built with stone and scraps he trudges on through the millennia. Step by step he gets slower as the overgrowth takes him.</p>
+<p><img data-src="images/20250730104502 Ancient Robot.png" alt="20250730104502 Ancient Robot.png" style="max-width: 100%;" /></p>
+
+    </article>
+    
+    <h2><a href="articles/working-on-getting-lighting-to-look-like-blender-in-raylib">Working on getting lighting to look like Blender in raylib</a></h2>
+    <div class="variables">
+    <div class="date">@date=2025-07-24</div>
+    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    </div>
+    <article>
+        <p><img data-src="images/Raylib blender lighting 20250724144955.png" alt="Raylib blender lighting 20250724144955.png" style="max-width: 100%;" /></p>
+
+    </article>
+    
+    <h2><a href="articles/daily-sketch---orc">Daily sketch - Orc</a></h2>
+    <div class="variables">
+    <div class="date">@date=2025-07-24</div>
+    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    </div>
+    <article>
+        <p><img data-src="images/20250724144955 Daily Sketch Orc.png" alt="20250724144955 Daily Sketch Orc.png" style="max-width: 100%;" /></p>
+
+    </article>
+    
     <h2><a href="articles/happy-perfect-square-year-45-2---2025">Happy perfect square year 45^2 = 2025</a></h2>
     <div class="variables">
     <div class="date">@date=2025-01-03</div>

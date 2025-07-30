@@ -41,12 +41,79 @@
         <p><img data-src="images/Pasted image 20250707144404.png" alt="Pasted image 20250707144404.png" style="max-width: 100%;" /></p>
 <p>I find that youtube, facebook, and reddit are a little too consuming of time and attention, but I also sometimes want to go lookup something on them. </p>
 <p>To help with this, I block the sites using this /etc/hosts file on my mac:</p>
-<pre><code>##
+<pre><code>
 # Host Database
 #
 # localhost is used to configure the loopback interface
 # when the system is booting.  Do not change this entry.
-##
+
+# if you adjust these, reset the counter in obsidian.
+127.0.0.1       localhost
+255.255.255.255 broadcasthost
+::1             localhost
+127.0.0.1       reddit.com
+127.0.0.1       www.reddit.com
+127.0.0.1       youtube.com
+127.0.0.1       www.youtube.com
+</code></pre>
+<p>If I want to look at something, I just edit the file, and comment out the site I want to see (put a <code>#</code> character at the beginning of the line).</p>
+<p>But of course this will mean that until I come back and update the file, it will remain accessible to me. </p>
+<p>To resolve this, I create a copy of /etc/hosts called /etc/hosts.source, and set it to copy over my /etc/hosts every 30 minutes. I do this using launchd, which is a way to schedule repeating jobs on a mac (a similar thing can be done with cron on linux).</p>
+<p>In this tutorial I will show you how to do this. </p>
+<p>First create this script:
+<code>sudo nano /usr/local/bin/reset-hosts.sh</code></p>
+<pre><code>#!/bin/bash
+
+# Copy source to actual hosts
+cp /etc/hosts.source /etc/hosts
+# Optional: flush DNS cache
+dscacheutil -flushcache
+</code></pre>
+<p>Then make it executable:</p>
+<pre><code>sudo chmod +x /usr/local/bin/reset-hosts.sh
+</code></pre>
+<p>Make it able to be run without a password:</p>
+<pre><code>sudo EDITOR=nano visudo
+</code></pre>
+<p>Add this line at the end (replace <code>yourusername</code> with your actual macOS username):</p>
+<pre><code>yourusername ALL=(ALL) NOPASSWD: /usr/local/bin/reset-hosts.sh
+</code></pre>
+<p>Create a Launch Agent plist:</p>
+<p><code>nano ~/Library/LaunchAgents/com.neverall.reset-hosts.plist</code></p>
+<pre><code>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE plist PUBLIC &quot;-//Apple//DTD PLIST 1.0//EN&quot;
+ &quot;http://www.apple.com/DTDs/PropertyList-1.0.dtd&quot;&gt;
+&lt;plist version=&quot;1.0&quot;&gt;
+&lt;dict&gt;
+    &lt;key&gt;Label&lt;/key&gt;
+    &lt;string&gt;com.neverall.reset-hosts&lt;/string&gt;
+
+    &lt;key&gt;ProgramArguments&lt;/key&gt;
+    &lt;array&gt;
+        &lt;string&gt;sudo&lt;/string&gt;
+        &lt;string&gt;/usr/local/bin/reset-hosts.sh&lt;/string&gt;
+    &lt;/array&gt;
+
+    &lt;key&gt;StartInterval&lt;/key&gt;
+    &lt;integer&gt;1800&lt;/integer&gt; &lt;!-- Run every 30 minutes --&gt;
+
+    &lt;key&gt;RunAtLoad&lt;/key&gt;
+    &lt;true/&gt;
+
+    &lt;key&gt;StandardErrorPath&lt;/key&gt;
+    &lt;string&gt;/tmp/reset-hosts.err&lt;/string&gt;
+    &lt;key&gt;StandardOutPath&lt;/key&gt;
+    &lt;string&gt;/tmp/reset-hosts.out&lt;/string&gt;
+&lt;/dict&gt;
+&lt;/plist&gt;
+</code></pre>
+<p>Load it:</p>
+<pre><code>launchctl load ~/Library/LaunchAgents/com.neverall.reset-hosts.plist
+</code></pre>
+<p>Verify it:
+<code>launchctl list | grep reset-hosts</code></p>
+<p>You can also create an alias in your ~/.zprofile to manually run it:</p>
+<pre><code>alias reset-hosts=&#39;sudo /usr/local/bin/reset-hosts.sh&#39;
 </code></pre>
 
     </article>
