@@ -100,7 +100,8 @@ Then I tried doing a 24 hour fast once a week. This really means just eating one
 
 With keeping the rest of the days calorie intake the same, I have shaved off consistently about 1 pound a week and 1/2" from my waistline. 
 
-![[20250724082605 Weight and Waist measurements.png]]
+![[20250724082605WeightAndWaistMeasurements.png]]
+
 Those are some nice trend-lines. :) Also, it seems my weight is fluctuating much less on a day-to-day basis. 
 
 This has been going for 5 weeks now, and I have gone from 23% to 19.7% based on Navy body fat formula.
