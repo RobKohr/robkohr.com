@@ -5,15 +5,15 @@
             <link>https://robkohr.com</link>
             <description>RobKohr's Blog</description>
             <language>en-us</language>
-            <lastBuildDate>Wed, 30 Jul 2025 07:00:00 GMT</lastBuildDate>
-            <pubDate>Wed, 30 Jul 2025 07:00:00 GMT</pubDate>
+            <lastBuildDate>Wed, 13 Aug 2025 07:00:00 GMT</lastBuildDate>
+            <pubDate>Wed, 13 Aug 2025 07:00:00 GMT</pubDate>
             <ttl>1800</ttl>
             <item>
-                <guid>https://robkohr.com/articles/the-path-to-mastery</guid>
-                <title>The path to mastery</title>
-                <link>https://robkohr.com/articles/the-path-to-mastery</link>
-                <description>The path to mastery</description>
-                <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
+                <guid>https://robkohr.com/articles/ai-and-raylib-is-like-peanut-butter-and-jelly</guid>
+                <title>AI and raylib is like peanut butter and jelly</title>
+                <link>https://robkohr.com/articles/ai-and-raylib-is-like-peanut-butter-and-jelly</link>
+                <description>AI and raylib is like peanut butter and jelly</description>
+                <pubDate>Sun, 13 Jul 2025 00:00:00 GMT</pubDate>
             </item>
     
             <item>
@@ -25,11 +25,27 @@
             </item>
     
             <item>
+                <guid>https://robkohr.com/articles/daily-sketch---ancient-robot-2025-07-30</guid>
+                <title>Daily Sketch - Ancient Robot 2025-07-30</title>
+                <link>https://robkohr.com/articles/daily-sketch---ancient-robot-2025-07-30</link>
+                <description>Daily Sketch - Ancient Robot 2025-07-30</description>
+                <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
                 <guid>https://robkohr.com/articles/making-millions</guid>
                 <title>Making millions</title>
                 <link>https://robkohr.com/articles/making-millions</link>
                 <description>Making millions</description>
                 <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/the-path-to-mastery</guid>
+                <title>The path to mastery</title>
+                <link>https://robkohr.com/articles/the-path-to-mastery</link>
+                <description>The path to mastery</description>
+                <pubDate>Sun, 29 Jun 2025 00:00:00 GMT</pubDate>
             </item>
     
             <item>
@@ -390,22 +406,6 @@
                 <link>https://robkohr.com/articles/update-to--tapping-out-at-20-reps-</link>
                 <description>Update to &quot;Tapping out at 20 reps&quot;</description>
                 <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/music-has-become-a-zero-sum-game</guid>
-                <title>Music has become a zero-sum game</title>
-                <link>https://robkohr.com/articles/music-has-become-a-zero-sum-game</link>
-                <description>Music has become a zero-sum game</description>
-                <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/sometimes</guid>
-                <title>Sometimes</title>
-                <link>https://robkohr.com/articles/sometimes</link>
-                <description>Sometimes</description>
-                <pubDate>Sat, 20 Apr 2024 00:00:00 GMT</pubDate>
             </item>
     
         </channel>

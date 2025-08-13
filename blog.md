@@ -38,9 +38,47 @@
 - Dave Made a Maze
 - Tucker and Dale vs Evil
 
+## AI and raylib is like peanut butter and jelly
+@tag=raylib, c, programming, ai, llms
+@date=2025-08-13
+
+My day job is working on enterprise scale React web applications with thousands of files. 
+
+Our company is wading into the AI agent realm and I have been using Cursor there and will be trying Claude code next week.
+
+I have to say it has been a fun time, and pretty eye opening as to what AI is good at and what it is bad at.
+
+* It is really good at helping make sense of something you don't have knowledge about
+* It is really good at doing lots detail oriented but obvious stuff that you can spell out in detail.
+
+It is bad at:
+* doing general sweeping changes
+* think about things and not being a dunderhead
+
+So, if you don't know a language at all, but you understand the psudocode perfectly of what you want it to achieve, and you spell it out for AI and do it one piece at a time testing it along the way and reading everything it does, then you are golden.
+
+Now this brings be to Raylib and C, and how I started using them. I decided to skip out on game engines because I am more of a coder, and I also had dealing with a huge amount of prebuilt parts that you need a gui to assemble together, and thus you need to read a lot of documentation or watch videos to understand so much. 
+
+Working with an api is great, but with work and life, learning raylib and c seemed like a bridge too far, but with AI I can speak to my codebase with pseudocode and then learn what it does and then start making changes by hand. 
+
+And this is also where a big gap between engines and frameworks start to close together. 
+
+With engines, like Unity and Godot, the prebuilt components saved you time from having to write obvious code, but now, any component that you can pull out of your imagination, as long as it is well thought out, can appear with a simple request, and be perfectly tailored to what you are looking for. With a collection of primitives that Raylib provide, and a general understanding of software engineering, you don't have to dig into the metaphorical box of parts that are provided to you, you can summon the perfect part, and you don't have to know C or Raylib all too well to be able to do so, because you have an idiotic, but knowledgeable assistant to enlighten you.
+
+I guess that the TLDR summary is that AI paired with Raylib basically gives you that toybox of parts that engines to, but the box becomes infinite and doesn't rely on you needing know all the things available to you. 
+
+## Daily Sketch - Ancient Robot
+@tag=daily-sketch
+@date=2025-07-30
+
+Built with stone and scraps he trudges on through the millennia. Step by step he gets slower as the overgrowth takes him.
+
+![[Ancient Robot 20250730104502.png]]
+
+
 ## The path to mastery
 @tag=motivation
-@date=2025-07-30
+@date=2025-07-29
 
 ![[10000 hours 20250730105523.png]]
 
