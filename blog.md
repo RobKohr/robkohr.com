@@ -74,15 +74,14 @@ I guess that the TLDR summary is that AI paired with Raylib basically gives you 
 @date=2025-07-30
 
 Built with stone and scraps he trudges on through the millennia. Step by step he gets slower as the overgrowth takes him.
-
-![[Ancient Robot 20250730104502.png]]
+![[20250813130328 Ancient Robot.png]]
 
 
 ## The path to mastery
 @tag=motivation
 @date=2025-07-29
 
-![[10000 hours 20250730105523.png]]
+![[20250730105523 10000 hours.png]]
 
 Go to an open mic night for comedians and musicians. Go to a student art show. Go to a skate park.
 
