@@ -26,8 +26,8 @@
 
                 <link rel="canonical" href="https://robkohr.com/articles/ai-and-raylib-is-like-peanut-butter-and-jelly" />
                 <link rel="stylesheet" href="../neat.css">
-
-                <meta property="og:description" content="My day job is working on enterprise scale React web applications with thousands of files. Our company is wading into the AI agent realm and I have been using Cursor there and will be trying Claude cod" />
+<meta property="og:image" content="https://robkohr.com/images/20250813130114 AI and Raylib as peanutbutter and jelly.png" />
+                <meta property="og:description" content="![[20250813130114 AI and Raylib as peanutbutter and jelly.png]]My day job is working on enterprise scale React web applications with thousands of files. Our company is wading into the AI agent realm a" />
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>
@@ -38,7 +38,8 @@
     <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
     </div>
     <article>
-        <p>My day job is working on enterprise scale React web applications with thousands of files. </p>
+        <p><img data-src="images/20250813130114 AI and Raylib as peanutbutter and jelly.png" alt="20250813130114 AI and Raylib as peanutbutter and jelly.png" style="max-width: 100%;" /></p>
+<p>My day job is working on enterprise scale React web applications with thousands of files. </p>
 <p>Our company is wading into the AI agent realm and I have been using Cursor there and will be trying Claude code next week.</p>
 <p>I have to say it has been a fun time, and pretty eye opening as to what AI is good at and what it is bad at.</p>
 <ul>

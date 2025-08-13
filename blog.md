@@ -42,6 +42,8 @@
 @tag=raylib, c, programming, ai, llms
 @date=2025-08-13
 
+![[20250813130114 AI and Raylib as peanutbutter and jelly.png]]
+
 My day job is working on enterprise scale React web applications with thousands of files. 
 
 Our company is wading into the AI agent realm and I have been using Cursor there and will be trying Claude code next week.
