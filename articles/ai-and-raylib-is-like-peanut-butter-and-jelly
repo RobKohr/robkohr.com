@@ -18,9 +18,9 @@
   gtag("config", "UA-600316-3");
 </script>
 
-<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
-<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
-<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="./rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="./favicon.ico">
+<link rel="stylesheet" href="./libs/highlight/styles/dark.min.css">
 <script src="./libs/highlight/highlight.min.js"></script>
 <script src="./image-lazy-loader.js"></script>
 
@@ -35,7 +35,7 @@
     <h2><a href="articles/ai-and-raylib-is-like-peanut-butter-and-jelly">AI and raylib is like peanut butter and jelly</a></h2>
     <div class="variables">
     <div class="date">@date=2025-08-13</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=<a href="tags/raylib">raylib</a>, <a href="tags/c">c</a>, <a href="tags/programming">programming</a>, <a href="tags/ai">ai</a>, <a href="tags/llms">llms</a></div>
     </div>
     <article>
         <p><img data-src="images/20250813130114 AI and Raylib as peanutbutter and jelly.png" alt="20250813130114 AI and Raylib as peanutbutter and jelly.png" style="max-width: 100%;" /></p>

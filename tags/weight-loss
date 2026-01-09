@@ -15,9 +15,9 @@
   gtag("config", "UA-600316-3");
 </script>
 
-<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
-<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
-<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="./rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="./favicon.ico">
+<link rel="stylesheet" href="./libs/highlight/styles/dark.min.css">
 <script src="./libs/highlight/highlight.min.js"></script>
 <script src="./image-lazy-loader.js"></script>
 
@@ -27,6 +27,34 @@
             <body>
             <a href="./index.html">&larr; Home</a>
             <h2>Tag: weight-loss</h2>
+    
+    <h2><a href="articles/how-i-m-cutting-body-fat-without-losing-muscle">How I’m Cutting Body Fat Without Losing Muscle</a></h2>
+    <div class="variables">
+    <div class="date">@date=2025-12-11</div>
+    <div class="tags">@tags=<a href="tags/exercise">exercise</a>, <a href="tags/weight-loss">weight-loss</a></div>
+    </div>
+    <article>
+        <p>I’m almost 50, and after years of lifting I’ve built solid muscle, but I was sitting around 25% body fat. Most of that concern now is about health—mainly getting visceral fat down—so I decided to dial things in.</p>
+<p>Here’s the basic approach that has actually worked for me:</p>
+<p>**1. Keep the base diet c...</p>
+ <p><a class="nowrap" href="articles/how-i-m-cutting-body-fat-without-losing-muscle">READ MORE (237 words, 2 minutes)</a></p> 
+    </article>
+    
+    <h2><a href="articles/how-to-lose-weight-without-counting-calories-and-constantly-feel-like-you-are-starving-">How to lose weight without counting calories and constantly feel like you are starving.</a></h2>
+    <div class="variables">
+    <div class="date">@date=2025-09-26</div>
+    <div class="tags">@tags=<a href="tags/weight-loss">weight-loss</a>, <a href="tags/exercise">exercise</a>, <a href="tags/fitness">fitness</a></div>
+    </div>
+    <article>
+        <p>What has worked for me </p>
+<ul>
+<li>24 hour fasting once a week </li>
+<li>At most one sugary drink every other day, and under 200 calories </li>
+<li>so none of the 500calorie starbucks drinks </li>
+<li>A normal healthy diet of home cooked foods with an aim on high protein/calorie ratio (divide protein by calorie per serving an...</li>
+</ul>
+ <p><a class="nowrap" href="articles/how-to-lose-weight-without-counting-calories-and-constantly-feel-like-you-are-starving-">READ MORE (235 words, 2 minutes)</a></p> 
+    </article>
     
     <h2><a href="articles/how-i-lost-weight-even-though-i-suck-at-dieting">How I lost weight even though I suck at dieting</a></h2>
     <div class="variables">

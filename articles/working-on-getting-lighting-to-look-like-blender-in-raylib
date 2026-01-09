@@ -18,9 +18,9 @@
   gtag("config", "UA-600316-3");
 </script>
 
-<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
-<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
-<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="./rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="./favicon.ico">
+<link rel="stylesheet" href="./libs/highlight/styles/dark.min.css">
 <script src="./libs/highlight/highlight.min.js"></script>
 <script src="./image-lazy-loader.js"></script>
 
@@ -35,7 +35,7 @@
     <h2><a href="articles/working-on-getting-lighting-to-look-like-blender-in-raylib">Working on getting lighting to look like Blender in raylib</a></h2>
     <div class="variables">
     <div class="date">@date=2025-07-24</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=<a href="tags/raylib">raylib</a>, <a href="tags/blender">blender</a></div>
     </div>
     <article>
         <p><img data-src="images/Raylib blender lighting 20250724144955.png" alt="Raylib blender lighting 20250724144955.png" style="max-width: 100%;" /></p>

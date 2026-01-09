@@ -15,9 +15,9 @@
   gtag("config", "UA-600316-3");
 </script>
 
-<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
-<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
-<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="./rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="./favicon.ico">
+<link rel="stylesheet" href="./libs/highlight/styles/dark.min.css">
 <script src="./libs/highlight/highlight.min.js"></script>
 <script src="./image-lazy-loader.js"></script>
 
@@ -27,6 +27,17 @@
             <body>
             <a href="./index.html">&larr; Home</a>
             <h2>Tag: jewel-defender</h2>
+    
+    <h2><a href="articles/designing-for-multiplayer-before-you-need-it">Designing for Multiplayer Before You Need It</a></h2>
+    <div class="variables">
+    <div class="date">@date=2026-01-09</div>
+    <div class="tags">@tags=<a href="tags/gamedev">gamedev</a>, <a href="tags/jewel-defender">jewel-defender</a></div>
+    </div>
+    <article>
+        <p>Very often when indies are making a game, they aim to focus on local multiplayer first and punt on making an online multiplayer version of it. This is reasonable—you want to get the game out the door, and networking is hard.</p>
+<p>The problem is that local-only architecture quietly bakes in assumptions...</p>
+ <p><a class="nowrap" href="articles/designing-for-multiplayer-before-you-need-it">READ MORE (481 words, 4 minutes)</a></p> 
+    </article>
     
     <h2><a href="articles/lets-make-a-game-with-unreal-engine">Lets make a game with Unreal Engine</a></h2>
     <div class="variables">

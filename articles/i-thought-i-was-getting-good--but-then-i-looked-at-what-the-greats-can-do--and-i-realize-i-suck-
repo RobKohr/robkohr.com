@@ -1,0 +1,55 @@
+
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
+                <title>I thought I was getting good, but then I looked at what the greats can do, and I realize I suck. - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="./rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="./favicon.ico">
+<link rel="stylesheet" href="./libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
+
+                <link rel="canonical" href="https://robkohr.com/articles/i-thought-i-was-getting-good--but-then-i-looked-at-what-the-greats-can-do--and-i-realize-i-suck-" />
+                <link rel="stylesheet" href="../neat.css">
+
+                <meta property="og:description" content="I experienced this when learning violin, and then trying to play something that was beyond my ability, and a lot of people experience this when they start to get really good at something, but then the" />
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            
+    <h2><a href="articles/i-thought-i-was-getting-good--but-then-i-looked-at-what-the-greats-can-do--and-i-realize-i-suck-">I thought I was getting good, but then I looked at what the greats can do, and I realize I suck.</a></h2>
+    <div class="variables">
+    <div class="date">@date=2025-09-02</div>
+    <div class="tags">@tags=<a href="tags/motivation">motivation</a></div>
+    </div>
+    <article>
+        <p>I experienced this when learning violin, and then trying to play something that was beyond my ability, and a lot of people experience this when they start to get really good at something, but then they realize how much different their skill is than someone who is an expert at something</p>
+<p>Two things:</p>
+<ul>
+<li>&quot;Comparison is the thief of joy&quot;</li>
+<li>There is also the valley of despair in the Dunning Kruger effect <a href="https://www.straightnesstraining.com/tips/the-dunning-kruger-effect/">https://www.straightnesstraining.com/tips/the-dunning-kruger-effect/</a></li>
+</ul>
+<p>All artist and creators follow this path. Everything seems to be getting easy and possible, and then you realize you just climbed the first hill that has made you competent. Then you fall into a valley of despair because you can now appreciate how good a master of your craft is, and how hard that journey is.</p>
+<p>But it is important to know, that every master started out by sucking. My biggest motivation is to find someone on youtube that you admire for being great at something, go into their profile-&gt;videos-&gt;sort by oldest. Unless they deleted their old posts or started a new channel, you will see the most amateur hour crap.</p>
+<p>This is universal, and the way they get to mastery is to follow your path, but crawl out of the valley of despair by every day putting in an hour of time and improving every day. 10 thousand hours, that is what you need to master it. Or you can just lie down in this valley and let your voice die there along with about 80% of the people who make it this far.</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

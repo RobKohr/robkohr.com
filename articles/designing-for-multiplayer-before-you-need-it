@@ -1,0 +1,88 @@
+
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
+                <title>Designing for Multiplayer Before You Need It - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="./rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="./favicon.ico">
+<link rel="stylesheet" href="./libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
+
+                <link rel="canonical" href="https://robkohr.com/articles/designing-for-multiplayer-before-you-need-it" />
+                <link rel="stylesheet" href="../neat.css">
+
+                <meta property="og:description" content="Very often when indies are making a game, they aim to focus on local multiplayer first and punt on making an online multiplayer version of it. This is reasonable—you want to get the game out the door," />
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            
+    <h2><a href="articles/designing-for-multiplayer-before-you-need-it">Designing for Multiplayer Before You Need It</a></h2>
+    <div class="variables">
+    <div class="date">@date=2026-01-09</div>
+    <div class="tags">@tags=<a href="tags/gamedev">gamedev</a>, <a href="tags/jewel-defender">jewel-defender</a></div>
+    </div>
+    <article>
+        <p>Very often when indies are making a game, they aim to focus on local multiplayer first and punt on making an online multiplayer version of it. This is reasonable—you want to get the game out the door, and networking is hard.</p>
+<p>The problem is that local-only architecture quietly bakes in assumptions that are hostile to networking: shared state, immediate input, tight coupling between gameplay logic and rendering, and logic running “wherever it’s convenient.” Once those assumptions exist, adding a server later is not an additive change—it’s a rewrite.</p>
+<p>One way to bridge this gap is to wire the game as if it were multiplayer without actually implementing online multiplayer yet, and let that shape your code. For some concrete context, I’m doing this right now in <em>Jewel Defender</em>.</p>
+<h3>Treat the Game as Client–Server From Day One</h3>
+<p>Even though <em>Jewel Defender</em> is currently a local multiplayer game, I treat it as if it is always client–server.</p>
+<p>The server code lives inside the app. When a local game starts, the app spins up a server instance and creates a room. Clients then “connect” to it, even though everything is running in the same process.</p>
+<p>The important part is not <em>where</em> the server runs, but that it exists as a concept and owns the world.</p>
+<h3>A Fake Network Is Still a Network</h3>
+<p>I have a network receiver layer that can receive input from two sources:</p>
+<ul>
+<li><p>a <code>local_network</code> interface</p>
+</li>
+<li><p>a <code>remote_network</code> interface</p>
+</li>
+</ul>
+<p>Both use the same function signatures and message formats.</p>
+<p>The local network is not a real network. It is just a function call that delivers the same messages that would normally be sent over the wire—player controls, join/leave events, etc. The remote network will eventually send those same messages across an actual connection.</p>
+<p>From the caller’s perspective, there is no special case. You send input through “the network,” and something on the other side processes it.</p>
+<h3>Physics and AI Live After the Network Boundary</h3>
+<p>All physics, AI, and game rules run only after input passes through the network interface.</p>
+<p>The server processes the input and produces world updates. Those updates are then fed back to client-side code exactly as if they came from a remote server.</p>
+<p>This enforces a hard boundary:</p>
+<ul>
+<li><p>clients send intent</p>
+</li>
+<li><p>the server owns truth</p>
+</li>
+</ul>
+<p>Even locally, nothing is allowed to “just reach in” and mutate game state.</p>
+<h3>Minimal Networking, Intentional Constraints</h3>
+<p>Right now I am deliberately not solving advanced multiplayer problems:</p>
+<ul>
+<li><p>no rollback or lookback</p>
+</li>
+<li><p>no client-side prediction</p>
+</li>
+<li><p>no handling disconnects, failures, or rejoining</p>
+</li>
+</ul>
+<p>That is all fine. Those are hard problems and orthogonal to basic architecture.</p>
+<p>What this approach buys me is that when I do add online multiplayer, the work will be strictly about networking concerns—latency, reliability, reconciliation—not about untangling gameplay logic that was never designed to cross a network boundary.</p>
+<p>That is the real win.</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

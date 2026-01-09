@@ -41,7 +41,7 @@
 
 
 ## Designing for Multiplayer Before You Need It
-@tag=gamedev, jewel-defender
+@tags=gamedev, jewel-defender
 @date=2026-01-09
 Very often when indies are making a game, they aim to focus on local multiplayer first and punt on making an online multiplayer version of it. This is reasonable—you want to get the game out the door, and networking is hard.
 
@@ -99,7 +99,7 @@ What this approach buys me is that when I do add online multiplayer, the work wi
 That is the real win.
 
 ## How I’m Cutting Body Fat Without Losing Muscle
-@tag=exercise, weight-loss
+@tags=exercise, weight-loss
 @date=2025-12-11
 I’m almost 50, and after years of lifting I’ve built solid muscle, but I was sitting around 25% body fat. Most of that concern now is about health—mainly getting visceral fat down—so I decided to dial things in.
 
@@ -130,12 +130,12 @@ Nothing here is extreme. It’s just consistent, simple habits that I can keep d
 
 As somewon
 ## A Texas Chainsaw Manicure
-@tag=art, halloween, daily-sketch
+@tags=art, halloween, daily-sketch
 @date=2025-10-10
 ![[2025-10-10 A Texas Chainsaw Manicure.jpg]]
 
 ## Create a spotify playlist from a text file
-@tag=spotify, music
+@tags=spotify, music
 @date=2025-09-30
 
 I give chatgpt a list of artists and tell it to produce a playlist of related songs and artists in this format:
@@ -152,7 +152,7 @@ to create a playlist.
 I find this is a great way of finding new artists and with a little conversation you can guide chatgpt to go further afield then what spotify would ever recommend to you. 
 
 ## How to lose weight without counting calories and constantly feel like you are starving.
-@tag=weight-loss, exercise, fitness
+@tags=weight-loss, exercise, fitness
 @date=2025-09-26
 
 What has worked for me 
@@ -172,17 +172,17 @@ I have been lifting weights for the last 5 years, and my weight was stable with 
 Note: don't try to diet without lifting weight. That will reduce your muscle mass as much as your fat mass, and decrease your metabolism. You need to do this coupled with progressive lifting.
 
 ## Daily Sketch - the Mask 
-@tag=daily-sketch
+@tags=daily-sketch
 @date=2025-09-25
 ![[IMG_20250925_091907203_HDR~2.jpg]]
 
 ## Daily Sketch - Waterworld 2025-09-23
-@tag=daily-sketch
+@tags=daily-sketch
 @date=2025-09-23
 
 ![[20250923 Waterworld.jpg]]
 ## I thought I was getting good, but then I looked at what the greats can do, and I realize I suck.
-@tag=motivation
+@tags=motivation
 @date=2025-09-02
 
 I experienced this when learning violin, and then trying to play something that was beyond my ability, and a lot of people experience this when they start to get really good at something, but then they realize how much different their skill is than someone who is an expert at something
@@ -199,7 +199,7 @@ But it is important to know, that every master started out by sucking. My bigges
 This is universal, and the way they get to mastery is to follow your path, but crawl out of the valley of despair by every day putting in an hour of time and improving every day. 10 thousand hours, that is what you need to master it. Or you can just lie down in this valley and let your voice die there along with about 80% of the people who make it this far.
 
 ## AI and raylib is like peanut butter and jelly
-@tag=raylib, c, programming, ai, llms
+@tags=raylib, c, programming, ai, llms
 @date=2025-08-13
 
 ![[20250813130114 AI and Raylib as peanutbutter and jelly.png]]
@@ -230,7 +230,7 @@ With engines, like Unity and Godot, the prebuilt components saved you time from 
 I guess that the TLDR summary is that AI paired with Raylib basically gives you that toybox of parts that engines to, but the box becomes infinite and doesn't rely on you needing know all the things available to you. 
 
 ## Daily Sketch - Ancient Robot 2025-07-30
-@tag=daily-sketch
+@tags=daily-sketch
 @date=2025-07-30
 
 Built with stone and scraps he trudges on through the millennia. Step by step he gets slower as the overgrowth takes him.
@@ -238,7 +238,7 @@ Built with stone and scraps he trudges on through the millennia. Step by step he
 
 
 ## The path to mastery
-@tag=motivation
+@tags=motivation
 @date=2025-07-29
 
 ![[20250730105523 10000 hours.png]]
@@ -265,12 +265,12 @@ The mastery of any craft follows a similar pathway every time and if you have be
 
 
 ## Working on getting lighting to look like Blender in raylib
-@tag=raylib, blender
+@tags=raylib, blender
 @date=2025-07-24
 
 ![[Raylib blender lighting 20250724144955.png]]
 ## Daily sketch - Orc
-@tag=daily-sketch
+@tags=daily-sketch
 @date=2025-07-24
 
 

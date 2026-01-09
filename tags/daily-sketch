@@ -1,0 +1,84 @@
+
+        <html>
+            <head>
+                <title>daily-sketch - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="./rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="./favicon.ico">
+<link rel="stylesheet" href="./libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            <h2>Tag: daily-sketch</h2>
+    
+    <h2><a href="articles/a-texas-chainsaw-manicure">A Texas Chainsaw Manicure</a></h2>
+    <div class="variables">
+    <div class="date">@date=2025-10-10</div>
+    <div class="tags">@tags=<a href="tags/art">art</a>, <a href="tags/halloween">halloween</a>, <a href="tags/daily-sketch">daily-sketch</a></div>
+    </div>
+    <article>
+        <p><img data-src="images/2025-10-10 A Texas Chainsaw Manicure.jpg" alt="2025-10-10 A Texas Chainsaw Manicure.jpg" style="max-width: 100%;" /></p>
+
+    </article>
+    
+    <h2><a href="articles/daily-sketch---the-mask">Daily Sketch - the Mask</a></h2>
+    <div class="variables">
+    <div class="date">@date=2025-09-25</div>
+    <div class="tags">@tags=<a href="tags/daily-sketch">daily-sketch</a></div>
+    </div>
+    <article>
+        <p><img data-src="images/IMG_20250925_091907203_HDR~2.jpg" alt="IMG_20250925_091907203_HDR~2.jpg" style="max-width: 100%;" /></p>
+
+    </article>
+    
+    <h2><a href="articles/daily-sketch---waterworld-2025-09-23">Daily Sketch - Waterworld 2025-09-23</a></h2>
+    <div class="variables">
+    <div class="date">@date=2025-09-23</div>
+    <div class="tags">@tags=<a href="tags/daily-sketch">daily-sketch</a></div>
+    </div>
+    <article>
+        <p><img data-src="images/20250923 Waterworld.jpg" alt="20250923 Waterworld.jpg" style="max-width: 100%;" /></p>
+
+    </article>
+    
+    <h2><a href="articles/daily-sketch---ancient-robot-2025-07-30">Daily Sketch - Ancient Robot 2025-07-30</a></h2>
+    <div class="variables">
+    <div class="date">@date=2025-07-30</div>
+    <div class="tags">@tags=<a href="tags/daily-sketch">daily-sketch</a></div>
+    </div>
+    <article>
+        <p>Built with stone and scraps he trudges on through the millennia. Step by step he gets slower as the overgrowth takes him.
+<img data-src="images/20250813130328 Ancient Robot.png" alt="20250813130328 Ancient Robot.png" style="max-width: 100%;" /></p>
+
+    </article>
+    
+    <h2><a href="articles/daily-sketch---orc">Daily sketch - Orc</a></h2>
+    <div class="variables">
+    <div class="date">@date=2025-07-24</div>
+    <div class="tags">@tags=<a href="tags/daily-sketch">daily-sketch</a></div>
+    </div>
+    <article>
+        <p><img data-src="images/20250724144955 Daily Sketch Orc.png" alt="20250724144955 Daily Sketch Orc.png" style="max-width: 100%;" /></p>
+
+    </article>
+    
+            </body>
+        </html>
+    

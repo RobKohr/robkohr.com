@@ -18,16 +18,16 @@
   gtag("config", "UA-600316-3");
 </script>
 
-<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
-<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
-<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="./rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="./favicon.ico">
+<link rel="stylesheet" href="./libs/highlight/styles/dark.min.css">
 <script src="./libs/highlight/highlight.min.js"></script>
 <script src="./image-lazy-loader.js"></script>
 
                 <link rel="canonical" href="https://robkohr.com/articles/daily-sketch---ancient-robot-2025-07-30" />
                 <link rel="stylesheet" href="../neat.css">
 
-                <meta property="og:description" content="Built with stone and scraps he trudges on through the millennia. Step by step he gets slower as the overgrowth takes him.![[20250730104502 Ancient Robot.png]]" />
+                <meta property="og:description" content="Built with stone and scraps he trudges on through the millennia. Step by step he gets slower as the overgrowth takes him.![[20250813130328 Ancient Robot.png]]" />
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>
@@ -35,11 +35,11 @@
     <h2><a href="articles/daily-sketch---ancient-robot-2025-07-30">Daily Sketch - Ancient Robot 2025-07-30</a></h2>
     <div class="variables">
     <div class="date">@date=2025-07-30</div>
-    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    <div class="tags">@tags=<a href="tags/daily-sketch">daily-sketch</a></div>
     </div>
     <article>
-        <p>Built with stone and scraps he trudges on through the millennia. Step by step he gets slower as the overgrowth takes him.</p>
-<p><img data-src="images/20250730104502 Ancient Robot.png" alt="20250730104502 Ancient Robot.png" style="max-width: 100%;" /></p>
+        <p>Built with stone and scraps he trudges on through the millennia. Step by step he gets slower as the overgrowth takes him.
+<img data-src="images/20250813130328 Ancient Robot.png" alt="20250813130328 Ancient Robot.png" style="max-width: 100%;" /></p>
 
     </article>
     

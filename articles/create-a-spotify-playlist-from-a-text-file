@@ -1,0 +1,54 @@
+
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
+                <title>Create a spotify playlist from a text file - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="./rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="./favicon.ico">
+<link rel="stylesheet" href="./libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
+
+                <link rel="canonical" href="https://robkohr.com/articles/create-a-spotify-playlist-from-a-text-file" />
+                <link rel="stylesheet" href="../neat.css">
+
+                <meta property="og:description" content="I give chatgpt a list of artists and tell it to produce a playlist of related songs and artists in this format:Artist 1 - songArtist 2 - song...And then paste it in here:https://www.spotlistr.com/sear" />
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            
+    <h2><a href="articles/create-a-spotify-playlist-from-a-text-file">Create a spotify playlist from a text file</a></h2>
+    <div class="variables">
+    <div class="date">@date=2025-09-30</div>
+    <div class="tags">@tags=<a href="tags/spotify">spotify</a>, <a href="tags/music">music</a></div>
+    </div>
+    <article>
+        <p>I give chatgpt a list of artists and tell it to produce a playlist of related songs and artists in this format:</p>
+<p>Artist 1 - song
+Artist 2 - song
+...</p>
+<p>And then paste it in here:
+<a href="https://www.spotlistr.com/search/textbox">https://www.spotlistr.com/search/textbox</a></p>
+<p>to create a playlist. </p>
+<p>I find this is a great way of finding new artists and with a little conversation you can guide chatgpt to go further afield then what spotify would ever recommend to you.</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

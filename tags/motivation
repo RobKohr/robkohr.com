@@ -15,9 +15,9 @@
   gtag("config", "UA-600316-3");
 </script>
 
-<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
-<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
-<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="./rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="./favicon.ico">
+<link rel="stylesheet" href="./libs/highlight/styles/dark.min.css">
 <script src="./libs/highlight/highlight.min.js"></script>
 <script src="./image-lazy-loader.js"></script>
 
@@ -27,6 +27,29 @@
             <body>
             <a href="./index.html">&larr; Home</a>
             <h2>Tag: motivation</h2>
+    
+    <h2><a href="articles/i-thought-i-was-getting-good--but-then-i-looked-at-what-the-greats-can-do--and-i-realize-i-suck-">I thought I was getting good, but then I looked at what the greats can do, and I realize I suck.</a></h2>
+    <div class="variables">
+    <div class="date">@date=2025-09-02</div>
+    <div class="tags">@tags=<a href="tags/motivation">motivation</a></div>
+    </div>
+    <article>
+        <p>I experienced this when learning violin, and then trying to play something that was beyond my ability, and a lot of people experience this when they start to get really good at something, but then they realize how much different their skill is than someone who is an expert at something</p>
+<p>Two thing...</p>
+ <p><a class="nowrap" href="articles/i-thought-i-was-getting-good--but-then-i-looked-at-what-the-greats-can-do--and-i-realize-i-suck-">READ MORE (254 words, 2 minutes)</a></p> 
+    </article>
+    
+    <h2><a href="articles/the-path-to-mastery">The path to mastery</a></h2>
+    <div class="variables">
+    <div class="date">@date=2025-07-29</div>
+    <div class="tags">@tags=<a href="tags/motivation">motivation</a></div>
+    </div>
+    <article>
+        <a href="articles/the-path-to-mastery"><img class="icon" data-src="images/20250730105523 10000 hours.png" alt="20250730105523 10000 hours.png" style="max-width: 100%;" /></a><p>Go to an open mic night for comedians and musicians. Go to a student art show. Go to a skate park.</p>
+<p>Go listen to 10000 hours by macklemore (not the Justin Bieber song... Different meaning there)   </p>
+<p>The ability to create is a learned skill that comes from lots of grinding. Even a child learning...</p>
+ <p><a class="nowrap" href="articles/the-path-to-mastery">READ MORE (410 words, 3 minutes, 1 images)</a></p> 
+    </article>
     
     <h2><a href="articles/done-manifesto">Done manifesto</a></h2>
     <div class="variables">
