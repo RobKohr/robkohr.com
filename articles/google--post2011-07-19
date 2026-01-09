@@ -1,0 +1,41 @@
+
+        <html>
+            <head>
+                <title>Google+ post2011-07-19 - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/google--post2011-07-19">Google+ post2011-07-19</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-07-19</div>
+    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    </div>
+    <article>
+        <p><img src="images/googlePlusPhotos/Photos%20from%20posts/2011-07-19/16s65q35h8cdu.png" alt="googlePlusPhotos/Photos%20from%20posts/2011-07-19/16s65q35h8cdu.png" style="max-width: 100%;" /></p>
+
+    </article>
+    
+            </body>
+          </html>
+          

@@ -1,0 +1,99 @@
+
+        <html>
+            <head>
+                <title>games - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            <h2>Tag: games</h2>
+    
+    <h2><a href="articles/many-steam-indie-games-are-being-hidden-in-germany">Many steam indie games are being hidden in Germany</a></h2>
+    <div class="variables">
+    <div class="date">@date=2025-06-26</div>
+    <div class="tags">@tags=<a href="tags/freedom">freedom</a>, <a href="tags/govt">govt</a>, <a href="tags/games">games</a></div>
+    </div>
+    <article>
+        <p><a href="https://www.heise.de/en/news/Steam-Why-some-of-the-best-indie-games-will-soon-be-hidden-in-Germany-9960810.html">https://www.heise.de/en/news/Steam-Why-some-of-the-best-indie-games-will-soon-be-hidden-in-Germany-9960810.html</a></p>
+<p>So basically, for every game, someone in the game company that made the game needs to fill out a form so that it can get rated. </p>
+<p>As a lot of developers kinda just walk away from suppor...</p>
+ <p><a class="nowrap" href="articles/many-steam-indie-games-are-being-hidden-in-germany">READ MORE (171 words, 1 minutes)</a></p> 
+    </article>
+    
+    <h2><a href="articles/how-to-play-figgie">How to play figgie</a></h2>
+    <div class="variables">
+    <div class="date">@date=2025-03-20</div>
+    <div class="tags">@tags=<a href="tags/games">games</a>, <a href="tags/boardgames">boardgames</a></div>
+    </div>
+    <article>
+        <p>This is a game invented by Jane Street to help people learn about trading and working with limited information.</p>
+<p>To set up for this, have one player go off to a side table so other players don&#39;t see, and sort the cards into 4 piles, one for each suit. Take the two black suits piles face down, and...</p>
+ <p><a class="nowrap" href="articles/how-to-play-figgie">READ MORE (572 words, 4 minutes)</a></p> 
+    </article>
+    
+    <h2><a href="articles/programming-elevator-action">Programming Elevator Action</a></h2>
+    <div class="variables">
+    <div class="date">@date=2019-12-02</div>
+    <div class="tags">@tags=<a href="tags/other-peoples-projects">other-peoples-projects</a>, <a href="tags/games">games</a></div>
+    </div>
+    <article>
+        <a href="articles/programming-elevator-action"><img class="icon" data-src="images/2020-06-12-08-43-51.png" alt="2020-06-12-08-43-51.png" style="max-width: 100%;" /></a><p><a href="https://play.elevatorsaga.com/">Elevator Saga</a> is a javascript programming game where you have to write code to control elevators in the most efficient possible manner to be increasingly difficult levels. Warning: this is totally a nerd trap that will suck your attention if you are a programme...</p>
+ <p><a class="nowrap" href="articles/programming-elevator-action">READ MORE (44 words, 0 minutes, 1 images)</a></p> 
+    </article>
+    
+    <h2><a href="articles/i-want-to-try-out-your-indie-local-multiplayer-game">I want to try out your Indie Local Multiplayer Game</a></h2>
+    <div class="variables">
+    <div class="date">@date=2019-11-27</div>
+    <div class="tags">@tags=<a href="tags/games">games</a></div>
+    </div>
+    <article>
+        <p>I have a PC hooked up to a TV with a bunch of controllers, and I love local multiplayer games with my kids. If you have a game you would like us to beta test, and write a review of, just send me a message on twitter.</p>
+
+    </article>
+    
+    <h2><a href="articles/wow--that-s-it--game-over-for-nintendo--xbox--and-playstation">Wow, that's it. Game over for Nintendo, XBox, and playstation</a></h2>
+    <div class="variables">
+    <div class="date">@date=2014-04-02</div>
+    <div class="tags">@tags=<a href="tags/games">games</a></div>
+    </div>
+    <article>
+        <p>Wow, that&#39;s it. Game over for Nintendo, XBox, and playstation. It is so easy to make a game on android and put it on this store, consoles and their gated developer communities don&#39;t stand a chance. </p>
+<p>There have been a few android game consoles that were made by small firms and a bunch that were i...</p>
+ <p><a class="nowrap" href="articles/wow--that-s-it--game-over-for-nintendo--xbox--and-playstation">READ MORE (90 words, 1 minutes)</a></p> 
+    </article>
+    
+    <h2><a href="articles/one-of-my-favorite-mobile-apps-is-mind-wall--it-is-a-simple-puzzle-game-where---">One of my favorite mobile apps is Mind Wall. It is a simple puzzle game where...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2014-02-24</div>
+    <div class="tags">@tags=<a href="tags/games">games</a>, <a href="tags/ld48">ld48</a></div>
+    </div>
+    <article>
+        <p>One of my favorite mobile apps is Mind Wall. It is a simple puzzle game where you need to chip off one square of a wall to fit a tetris like block through the wall. It is mildly challenging, and makes for a good spacial puzzle. It was created for ld48</p>
+<p>iOS:
+&lt;a rel=&quot;nofollow&quot; target=&quot;_blank&quot; href=&quot;...</p>
+ <p><a class="nowrap" href="articles/one-of-my-favorite-mobile-apps-is-mind-wall--it-is-a-simple-puzzle-game-where---">READ MORE (67 words, 1 minutes)</a></p> 
+    </article>
+    
+            </body>
+        </html>
+    

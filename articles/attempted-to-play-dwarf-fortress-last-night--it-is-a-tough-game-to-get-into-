@@ -1,0 +1,50 @@
+
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
+                <title>Attempted to play Dwarf Fortress last night. It is a tough game to get into. - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
+
+                <link rel="canonical" href="https://robkohr.com/articles/attempted-to-play-dwarf-fortress-last-night--it-is-a-tough-game-to-get-into-" />
+                <link rel="stylesheet" href="../neat.css">
+
+                <meta property="og:description" content="Attempted to play Dwarf Fortress last night. It is a tough game to get into.### Bay 12 Games: Dwarf Fortresshttp://www.bay12games.com/dwarves/http://www.vayapotra.es/wordpress/wp-content/uploads/2009/" />
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            
+    <h2><a href="articles/attempted-to-play-dwarf-fortress-last-night--it-is-a-tough-game-to-get-into-">Attempted to play Dwarf Fortress last night. It is a tough game to get into.</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-09-27</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>Attempted to play Dwarf Fortress last night. It is a tough game to get into.</p>
+<h3>Bay 12 Games: Dwarf Fortress</h3>
+<p><a href="http://www.bay12games.com/dwarves/">http://www.bay12games.com/dwarves/</a></p>
+<p><a href="http://www.vayapotra.es/wordpress/wp-content/uploads/2009/02/2rmqi6o.gif">http://www.vayapotra.es/wordpress/wp-content/uploads/2009/02/2rmqi6o.gif</a></p>
+
+    </article>
+    
+            </body>
+          </html>
+          

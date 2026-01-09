@@ -1,0 +1,48 @@
+
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
+                <title>A very very simple blog - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
+
+                <link rel="canonical" href="https://robkohr.com/articles/a-very-very-simple-blog" />
+                <link rel="stylesheet" href="../neat.css">
+
+                <meta property="og:description" content="This blog was created with a simple markdown file and a directory of images. Trying to come up with a good way to host it will be interestingI should come up with a new username on twitter and domain " />
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            
+    <h2><a href="articles/a-very-very-simple-blog">A very very simple blog</a></h2>
+    <div class="variables">
+    <div class="date">@date=2019-11-20</div>
+    <div class="tags">@tags=<a href="tags/blog">blog</a></div>
+    </div>
+    <article>
+        <p>This blog was created with a simple markdown file and a directory of images. Trying to come up with a good way to host it will be interesting</p>
+<p>I should come up with a new username on twitter and domain name to match it.</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

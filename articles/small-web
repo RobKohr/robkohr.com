@@ -1,0 +1,49 @@
+
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
+                <title>Small Web - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
+
+                <link rel="canonical" href="https://robkohr.com/articles/small-web" />
+                <link rel="stylesheet" href="../neat.css">
+
+                <meta property="og:description" content="I just found this:https://kagi.com/smallweb/It will present you with a new blog article from various different blogs when every you press the Next Post button. So much more enjoyable than browsing f" />
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            
+    <h2><a href="articles/small-web">Small Web</a></h2>
+    <div class="variables">
+    <div class="date">@date=2025-01-08</div>
+    <div class="tags">@tags=<a href="tags/reading">reading</a>, <a href="tags/blogs">blogs</a></div>
+    </div>
+    <article>
+        <p>I just found this:
+<a href="https://kagi.com/smallweb/">https://kagi.com/smallweb/</a></p>
+<p>It will present you with a new blog article from various different blogs when every you press the &quot;Next Post&quot; button. So much more enjoyable than browsing facebook or any social media site.</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

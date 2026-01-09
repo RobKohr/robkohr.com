@@ -1,0 +1,43 @@
+
+        <html>
+            <head>
+                <title>Google+ post2011-08-05 - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/google--post2011-08-05">Google+ post2011-08-05</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-08-05</div>
+    <div class="tags">@tags=<a href="tags/untagged">untagged</a></div>
+    </div>
+    <article>
+        <p><a href="https://www.google.com/maps/search/?api=1&query=45.520571,%20-122.77419099999997" class="location" target="_blank" title="45.520571, -122.77419099999997"><img src="https://www.gstatic.com/images/icons/material/system/2x/place_grey600_24dp.png"><span>Mitchell Park
+Address: Portland, OR 97229</a></p>
+<p><a href="https://www.google.com/maps/search/?api=1&amp;query=45.520571,%20-122.77419099999997">https://www.google.com/maps/search/?api=1&amp;query=45.520571,%20-122.77419099999997</a></p>
+
+    </article>
+    
+            </body>
+          </html>
+          

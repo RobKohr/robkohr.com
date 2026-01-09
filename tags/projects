@@ -1,0 +1,225 @@
+
+        <html>
+            <head>
+                <title>projects - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            <h2>Tag: projects</h2>
+    
+    <h2><a href="articles/one-of-the-first-systems-i-built---ruqueue">One of the first systems I built - ruQueue</a></h2>
+    <div class="variables">
+    <div class="date">@date=2025-05-16</div>
+    <div class="tags">@tags=<a href="tags/projects-completed">projects-completed</a>, <a href="tags/programming">programming</a>, <a href="tags/projects">projects</a></div>
+    </div>
+    <article>
+        <a href="articles/one-of-the-first-systems-i-built---ruqueue"><img class="icon" data-src="images/Pasted image 20250707144724.png" alt="Pasted image 20250707144724.png" style="max-width: 100%;" /></a><p>I built this with <a href="https://github.com/fultonj">https://github.com/fultonj</a> for Rutgers University about 20 years ago. It was used by the university to manage all the different types of request tickets that came in for technical support for students at the university. </p>
+<p>I particularly liked our lifesavers styled &quot;ColoredTabl...</p>
+ <p><a class="nowrap" href="articles/one-of-the-first-systems-i-built---ruqueue">READ MORE (207 words, 2 minutes, 2 images)</a></p> 
+    </article>
+    
+    <h2><a href="articles/working-on-pivotal-tracker-replacement">Working on Pivotal Tracker replacement</a></h2>
+    <div class="variables">
+    <div class="date">@date=2024-09-23</div>
+    <div class="tags">@tags=<a href="tags/tracker">tracker</a>, <a href="tags/software">software</a>, <a href="tags/projects">projects</a></div>
+    </div>
+    <article>
+        <p>Pivotal tracker is one of my favorite apps, and it looks like it is getting shut down. As such, I am looking to build a similar tracker software to fill this niche. </p>
+<p>If you are interested and wanna be alerted to when it is released as well as other things I am building/doing, <a href="https://mailchi.mp/73f113e474f1/robert-kohrs-blog">📧 Signup to the Monthly Email List</a></p>
+
+    </article>
+    
+    <h2><a href="articles/cardboard-boat-regatta">Cardboard Boat Regatta</a></h2>
+    <div class="variables">
+    <div class="date">@date=2023-07-12</div>
+    <div class="tags">@tags=<a href="tags/fun">fun</a>, <a href="tags/projects">projects</a></div>
+    </div>
+    <article>
+        <a href="articles/cardboard-boat-regatta"><img class="icon" data-src="images/2023-07-02-cardboard-boat-building.jpg" alt="2023-07-02-cardboard-boat-building.jpg" style="max-width: 100%;" /></a><p>Longview has an annual cardboard boat regatta, and I wanted to participate this year. </p>
+<p>The theme was Christmas in July, and my daughter Chloe&#39;s favorite movie is Nightmare Before Christmas, so of course we had to do that. </p>
+<p>I had my neighbor Scott and my son Jevon help with the construction.</p>
+<p>...</p>
+ <p><a class="nowrap" href="articles/cardboard-boat-regatta">READ MORE (170 words, 1 minutes, 12 images)</a></p> 
+    </article>
+    
+    <h2><a href="articles/weighted-task-chooser">Weighted Task Chooser</a></h2>
+    <div class="variables">
+    <div class="date">@date=2020-04-09</div>
+    <div class="tags">@tags=<a href="tags/projects">projects</a>, <a href="tags/launched">launched</a></div>
+    </div>
+    <article>
+        <a href="articles/weighted-task-chooser"><img class="icon" data-src="images/2020-06-12-08-34-20.png" alt="2020-06-12-08-34-20.png" style="max-width: 100%;" /></a><p><a href="https://github.com/RobKohr/weighted-task-chooser">Weighted task chooser</a> is a command line node script that will select a randomly weighted task to do out of a tasklist markdown file.</p>
+<p>So you have a list of tasks to do in a markdown file:</p>
+<ul>
+<li><input disabled="" type="checkbox"> Task 1</li>
+<li><input disabled="" type="checkbox"> Task 2</li>
+<li>[4] Task 3<ul>
+<li><input disabled="" type="checkbox"> Subtask...</li>
+</ul>
+</li>
+</ul>
+ <p><a class="nowrap" href="articles/weighted-task-chooser">READ MORE (110 words, 1 minutes, 1 images)</a></p> 
+    </article>
+    
+    <h2><a href="articles/constantsail-doing-surprisingly-well">ConstantSail doing surprisingly well</a></h2>
+    <div class="variables">
+    <div class="date">@date=2019-11-21</div>
+    <div class="tags">@tags=<a href="tags/projects">projects</a>, <a href="tags/constantsail">constantsail</a></div>
+    </div>
+    <article>
+        <p><a href="http://constantsail.com">Constant Sail Pirates and Traders</a> analytics seems to do consistently well despite being a page with no content on it other than an old video. I should make it a priority to make this game again with newer tech to support more users than before as there is just a continu...</p>
+ <p><a class="nowrap" href="articles/constantsail-doing-surprisingly-well">READ MORE (60 words, 0 minutes, 1 images)</a></p> 
+    </article>
+    
+    <h2><a href="articles/registered-godotassetstore-org">registered godotassetstore.org</a></h2>
+    <div class="variables">
+    <div class="date">@date=2019-11-21</div>
+    <div class="tags">@tags=<a href="tags/projects">projects</a>, <a href="tags/godot-asset-store">godot-asset-store</a>, <a href="tags/nginx">nginx</a>, <a href="tags/certbot">certbot</a></div>
+    </div>
+    <article>
+        <p>I just registered godotassetstore.org for the <a href="https://godotassetstore.org">Godot Asset Store</a>. It seems like it would be an easier name to share with people and the media than godotasset.store, which just seems a little odd. I&#39;ll have to set an nginx redirect for it on the server and set up cert...</p>
+ <p><a class="nowrap" href="articles/registered-godotassetstore-org">READ MORE (55 words, 0 minutes)</a></p> 
+    </article>
+    
+    <h2><a href="articles/a-blog-generator">A blog generator</a></h2>
+    <div class="variables">
+    <div class="date">@date=2019-11-20</div>
+    <div class="tags">@tags=<a href="tags/blog">blog</a>, <a href="tags/projects">projects</a>, <a href="tags/announcements">announcements</a>, <a href="tags/github">github</a>, <a href="tags/open-source">open-source</a></div>
+    </div>
+    <article>
+        <p>And just like that, now we have a dead simple blog generator tool:</p>
+<p><a href="https://github.com/RobKohr/dead-simple-markdown-to-static-blog-creator">Github / dead-simple-markdown-to-static-blog-creator</a></p>
+<p>This was used to create the site you are currently on!</p>
+
+    </article>
+    
+    <h2><a href="articles/godot-asset-store">Godot Asset Store</a></h2>
+    <div class="variables">
+    <div class="date">@date=2019-11-19</div>
+    <div class="tags">@tags=<a href="tags/godot">godot</a>, <a href="tags/godot-asset-store">godot-asset-store</a>, <a href="tags/projects">projects</a>, <a href="tags/in-progress">in-progress</a>, <a href="tags/angular">angular</a>, <a href="tags/nodejs">nodejs</a></div>
+    </div>
+    <article>
+        <p>I started developing the <a href="https://godotassetstore.org">Godot Asset Store</a> a few weeks ago. It is built with Angular and node.js as the backend api with nginx as the frontend.</p>
+<p>I am getting to the tricky parts now:</p>
+<ul>
+<li>Auth</li>
+<li>Fetching content from github</li>
+<li>payments</li>
+<li>splitting out payments</li>
+<li>accoun...</li>
+</ul>
+ <p><a class="nowrap" href="articles/godot-asset-store">READ MORE (45 words, 0 minutes)</a></p> 
+    </article>
+    
+    <h2><a href="articles/started-working-on-the-godot-asset-store">Started working on the Godot Asset store</a></h2>
+    <div class="variables">
+    <div class="date">@date=2019-10-25</div>
+    <div class="tags">@tags=<a href="tags/godot-asset-store">godot-asset-store</a>, <a href="tags/started-project">started-project</a>, <a href="tags/projects">projects</a>, <a href="tags/godot">godot</a></div>
+    </div>
+    <article>
+        <p>10/25/2019 is the day I started the Godot Asset Store, and so I am inserting this entry for that day. After creating my first godot app (the tutorial dodge game), and after years of dipping my toe into Unity but never making much of anything, I see great potential in Godot.</p>
+<p>One of the biggest pa...</p>
+ <p><a class="nowrap" href="articles/started-working-on-the-godot-asset-store">READ MORE (313 words, 2 minutes)</a></p> 
+    </article>
+    
+    <h2><a href="articles/mix-match-domains">Mix Match Domains</a></h2>
+    <div class="variables">
+    <div class="date">@date=2019-01-24</div>
+    <div class="tags">@tags=<a href="tags/projects">projects</a>, <a href="tags/launched">launched</a></div>
+    </div>
+    <article>
+        <p><a href="https://mixmatchdomains.com">Generate domain names from keywords</a> using <a href="https://mixmatchdomains.com">mixmatchdomains.com</a></p>
+<p><img data-src="images/mixmatch.png" alt="mixmatch.png" style="max-width: 100%;" /></p>
+
+    </article>
+    
+    <h2><a href="articles/islandwarfare">Islandwarfare</a></h2>
+    <div class="variables">
+    <div class="date">@date=2015-02-13</div>
+    <div class="tags">@tags=<a href="tags/projects">projects</a>, <a href="tags/island-warfare">island-warfare</a>, <a href="tags/webgame">webgame</a></div>
+    </div>
+    <article>
+        <p>I am working on a game at <a href="http://islandwarfare.com">islandwarfare.com</a>  </p>
+<p>Sign up now to receive an email when it is launched!  </p>
+<p>It will be a game where you build up the resources and units on an island and use them to capture other neighboring islands.</p>
+
+    </article>
+    
+    <h2><a href="articles/glico-rating-system">Glico rating system</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-04-28</div>
+    <div class="tags">@tags=<a href="tags/projects">projects</a>, <a href="tags/launched">launched</a>, <a href="tags/open-source">open-source</a></div>
+    </div>
+    <article>
+        <p><a href="https://github.com/RobKohr/glicko">Javascript implementation of glicko-2 rating system along with a ffa-team based setup.</a></p>
+<p><img data-src="images/Elo_rating_graph.svg.png" alt="Elo_rating_graph.svg.png" style="max-width: 100%;" /></p>
+
+    </article>
+    
+    <h2><a href="articles/constantsail-pirates-and-traders">ConstantSail Pirates and Traders</a></h2>
+    <div class="variables">
+    <div class="date">@date=2008-12-06</div>
+    <div class="tags">@tags=<a href="tags/projects">projects</a>, <a href="tags/suspended">suspended</a></div>
+    </div>
+    <article>
+        <p><a href="https://constantsail.com">Constant Sail</a> is a pirate and sailing massive multiplayer game that is in development
+<br><img data-src="images/constantsail.png" alt="constantsail.png" style="max-width: 100%;" /></p>
+
+    </article>
+    
+    <h2><a href="articles/island-warfare">Island Warfare</a></h2>
+    <div class="variables">
+    <div class="date">@date=2008-08-30</div>
+    <div class="tags">@tags=<a href="tags/projects">projects</a>, <a href="tags/suspended">suspended</a></div>
+    </div>
+    <article>
+        <p><a href="http://islandwarfare.com">Island Warfare</a> will be a game where you build up your islands and the armies on your island to go take over other user&#39;s islands</p>
+
+    </article>
+    
+    <h2><a href="articles/cueflash-flashcard-study-tool">Cueflash flashcard study tool</a></h2>
+    <div class="variables">
+    <div class="date">@date=2006-02-26</div>
+    <div class="tags">@tags=<a href="tags/projects">projects</a>, <a href="tags/launched">launched</a></div>
+    </div>
+    <article>
+        <p><a href="https://cueflash.com">Cueflash</a> is a study tool where you can create and share flashcards (cuecards). As you study with it, it will adapt to you and show you cards more frequently based upon how well you know them.</p>
+<p><img data-src="images/cueflash.png" alt="cueflash.png" style="max-width: 100%;" /></p>
+
+    </article>
+    
+    <h2><a href="articles/editthis-info">Editthis.info</a></h2>
+    <div class="variables">
+    <div class="date">@date=2005-01-13</div>
+    <div class="tags">@tags=<a href="tags/projects">projects</a>, <a href="tags/launched">launched</a></div>
+    </div>
+    <article>
+        <p><a href="https://editthis.info">Editthis.info</a> is a wiki hosting service where you can create your own wiki in seconds for free!</p>
+<p><img data-src="images/editthis.png" alt="editthis.png" style="max-width: 100%;" /></p>
+
+    </article>
+    
+            </body>
+        </html>
+    

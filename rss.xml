@@ -1,0 +1,412 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+            <atom:link href="https://robkohr.com/rss.xml" rel="self" type="application/rss+xml" />
+            <title>RobKohr's Blog</title>
+            <link>https://robkohr.com</link>
+            <description>RobKohr's Blog</description>
+            <language>en-us</language>
+            <lastBuildDate>Wed, 13 Aug 2025 07:00:00 GMT</lastBuildDate>
+            <pubDate>Wed, 13 Aug 2025 07:00:00 GMT</pubDate>
+            <ttl>1800</ttl>
+            <item>
+                <guid>https://robkohr.com/articles/ai-and-raylib-is-like-peanut-butter-and-jelly</guid>
+                <title>AI and raylib is like peanut butter and jelly</title>
+                <link>https://robkohr.com/articles/ai-and-raylib-is-like-peanut-butter-and-jelly</link>
+                <description>AI and raylib is like peanut butter and jelly</description>
+                <pubDate>Sun, 13 Jul 2025 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/daily-sketch---ancient-robot</guid>
+                <title>Daily Sketch - Ancient Robot</title>
+                <link>https://robkohr.com/articles/daily-sketch---ancient-robot</link>
+                <description>Daily Sketch - Ancient Robot</description>
+                <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/daily-sketch---ancient-robot-2025-07-30</guid>
+                <title>Daily Sketch - Ancient Robot 2025-07-30</title>
+                <link>https://robkohr.com/articles/daily-sketch---ancient-robot-2025-07-30</link>
+                <description>Daily Sketch - Ancient Robot 2025-07-30</description>
+                <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/making-millions</guid>
+                <title>Making millions</title>
+                <link>https://robkohr.com/articles/making-millions</link>
+                <description>Making millions</description>
+                <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/the-path-to-mastery</guid>
+                <title>The path to mastery</title>
+                <link>https://robkohr.com/articles/the-path-to-mastery</link>
+                <description>The path to mastery</description>
+                <pubDate>Sun, 29 Jun 2025 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/working-on-getting-lighting-to-look-like-blender-in-raylib</guid>
+                <title>Working on getting lighting to look like Blender in raylib</title>
+                <link>https://robkohr.com/articles/working-on-getting-lighting-to-look-like-blender-in-raylib</link>
+                <description>Working on getting lighting to look like Blender in raylib</description>
+                <pubDate>Tue, 24 Jun 2025 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/daily-sketch---orc</guid>
+                <title>Daily sketch - Orc</title>
+                <link>https://robkohr.com/articles/daily-sketch---orc</link>
+                <description>Daily sketch - Orc</description>
+                <pubDate>Tue, 24 Jun 2025 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/how-i-lost-weight-even-though-i-suck-at-dieting</guid>
+                <title>How I lost weight even though I suck at dieting</title>
+                <link>https://robkohr.com/articles/how-i-lost-weight-even-though-i-suck-at-dieting</link>
+                <description>How I lost weight even though I suck at dieting</description>
+                <pubDate>Tue, 24 Jun 2025 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/first-day-using-raylib</guid>
+                <title>First day using Raylib</title>
+                <link>https://robkohr.com/articles/first-day-using-raylib</link>
+                <description>First day using Raylib</description>
+                <pubDate>Sun, 15 Jun 2025 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/marriage--dating--sex-advice</guid>
+                <title>Marriage, Dating, Sex Advice</title>
+                <link>https://robkohr.com/articles/marriage--dating--sex-advice</link>
+                <description>Marriage, Dating, Sex Advice</description>
+                <pubDate>Sat, 07 Jun 2025 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/just-discovered-raylib</guid>
+                <title>Just discovered Raylib</title>
+                <link>https://robkohr.com/articles/just-discovered-raylib</link>
+                <description>Just discovered Raylib</description>
+                <pubDate>Fri, 30 May 2025 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/many-steam-indie-games-are-being-hidden-in-germany</guid>
+                <title>Many steam indie games are being hidden in Germany</title>
+                <link>https://robkohr.com/articles/many-steam-indie-games-are-being-hidden-in-germany</link>
+                <description>Many steam indie games are being hidden in Germany</description>
+                <pubDate>Mon, 26 May 2025 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/we-re-in-the-future</guid>
+                <title>We&#39;re in the future</title>
+                <link>https://robkohr.com/articles/we-re-in-the-future</link>
+                <description>We&#39;re in the future</description>
+                <pubDate>Sun, 11 May 2025 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/auto-blocking-time-consuming-websites</guid>
+                <title>Auto blocking time consuming websites</title>
+                <link>https://robkohr.com/articles/auto-blocking-time-consuming-websites</link>
+                <description>Auto blocking time consuming websites</description>
+                <pubDate>Mon, 05 May 2025 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/should-you-get-a-playdate-to-make-games-for-it</guid>
+                <title>Should you get a playdate to make games for it</title>
+                <link>https://robkohr.com/articles/should-you-get-a-playdate-to-make-games-for-it</link>
+                <description>Should you get a playdate to make games for it</description>
+                <pubDate>Mon, 05 May 2025 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/more-videos-per-row-in-youtube</guid>
+                <title>More videos per row in youtube</title>
+                <link>https://robkohr.com/articles/more-videos-per-row-in-youtube</link>
+                <description>More videos per row in youtube</description>
+                <pubDate>Sat, 03 May 2025 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/---sells-shelves-</guid>
+                <title>...sells shelves?</title>
+                <link>https://robkohr.com/articles/---sells-shelves-</link>
+                <description>...sells shelves?</description>
+                <pubDate>Sat, 19 Apr 2025 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/one-of-the-first-systems-i-built---ruqueue</guid>
+                <title>One of the first systems I built - ruQueue</title>
+                <link>https://robkohr.com/articles/one-of-the-first-systems-i-built---ruqueue</link>
+                <description>One of the first systems I built - ruQueue</description>
+                <pubDate>Wed, 16 Apr 2025 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/web3----why-hasn-t-it-come-to-be-</guid>
+                <title>Web3... why hasn&#39;t it come to be.</title>
+                <link>https://robkohr.com/articles/web3----why-hasn-t-it-come-to-be-</link>
+                <description>Web3... why hasn&#39;t it come to be.</description>
+                <pubDate>Fri, 11 Apr 2025 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/lets-make-a-game-with-unreal-engine</guid>
+                <title>Lets make a game with Unreal Engine</title>
+                <link>https://robkohr.com/articles/lets-make-a-game-with-unreal-engine</link>
+                <description>Lets make a game with Unreal Engine</description>
+                <pubDate>Thu, 10 Apr 2025 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/failed-to-finish-neverall-tracker-on-time</guid>
+                <title>Failed to finish Neverall Tracker on time</title>
+                <link>https://robkohr.com/articles/failed-to-finish-neverall-tracker-on-time</link>
+                <description>Failed to finish Neverall Tracker on time</description>
+                <pubDate>Sun, 30 Mar 2025 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/setting-up-l-vr-in-vscode</guid>
+                <title>Setting up LÖVR in vscode</title>
+                <link>https://robkohr.com/articles/setting-up-l-vr-in-vscode</link>
+                <description>Setting up LÖVR in vscode</description>
+                <pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/picking-a-phone-number-to-avoid-telemarketers</guid>
+                <title>Picking a phone number to avoid telemarketers</title>
+                <link>https://robkohr.com/articles/picking-a-phone-number-to-avoid-telemarketers</link>
+                <description>Picking a phone number to avoid telemarketers</description>
+                <pubDate>Thu, 27 Feb 2025 01:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/now</guid>
+                <title>Now</title>
+                <link>https://robkohr.com/articles/now</link>
+                <description>Now</description>
+                <pubDate>Tue, 25 Feb 2025 01:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/all-the-content-is-way-more-valuable</guid>
+                <title>All the content is way more valuable</title>
+                <link>https://robkohr.com/articles/all-the-content-is-way-more-valuable</link>
+                <description>All the content is way more valuable</description>
+                <pubDate>Mon, 24 Feb 2025 01:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/how-to-play-figgie</guid>
+                <title>How to play figgie</title>
+                <link>https://robkohr.com/articles/how-to-play-figgie</link>
+                <description>How to play figgie</description>
+                <pubDate>Thu, 20 Feb 2025 01:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/why-are-ai-companies-hiring-software-engineers-if-ai-can-code-better-than-humans-</guid>
+                <title>Why are AI companies hiring software engineers if AI can code better than humans.</title>
+                <link>https://robkohr.com/articles/why-are-ai-companies-hiring-software-engineers-if-ai-can-code-better-than-humans-</link>
+                <description>Why are AI companies hiring software engineers if AI can code better than humans.</description>
+                <pubDate>Tue, 18 Feb 2025 01:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/i-came-upon-an-image-sharply-criticized-for-being-ai-generated</guid>
+                <title>I came upon an image sharply criticized for being AI generated</title>
+                <link>https://robkohr.com/articles/i-came-upon-an-image-sharply-criticized-for-being-ai-generated</link>
+                <description>I came upon an image sharply criticized for being AI generated</description>
+                <pubDate>Fri, 03 Jan 2025 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/coding-with-ai-feels-like-tony-stark-scene</guid>
+                <title>Coding with AI feels like Tony Stark Scene</title>
+                <link>https://robkohr.com/articles/coding-with-ai-feels-like-tony-stark-scene</link>
+                <description>Coding with AI feels like Tony Stark Scene</description>
+                <pubDate>Fri, 03 Jan 2025 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/unoffice-hours</guid>
+                <title>Unoffice hours</title>
+                <link>https://robkohr.com/articles/unoffice-hours</link>
+                <description>Unoffice hours</description>
+                <pubDate>Fri, 27 Dec 2024 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/why-multiple-competing-platforms-are-better-than-one</guid>
+                <title>Why Multiple Competing Platforms Are Better Than One</title>
+                <link>https://robkohr.com/articles/why-multiple-competing-platforms-are-better-than-one</link>
+                <description>Why Multiple Competing Platforms Are Better Than One</description>
+                <pubDate>Sun, 15 Dec 2024 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/small-web</guid>
+                <title>Small Web</title>
+                <link>https://robkohr.com/articles/small-web</link>
+                <description>Small Web</description>
+                <pubDate>Sun, 08 Dec 2024 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/modern-art---indie-gaming</guid>
+                <title>Modern art = Indie gaming</title>
+                <link>https://robkohr.com/articles/modern-art---indie-gaming</link>
+                <description>Modern art = Indie gaming</description>
+                <pubDate>Thu, 05 Dec 2024 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/happy-perfect-square-year-45-2---2025</guid>
+                <title>Happy perfect square year 45^2 = 2025</title>
+                <link>https://robkohr.com/articles/happy-perfect-square-year-45-2---2025</link>
+                <description>Happy perfect square year 45^2 = 2025</description>
+                <pubDate>Tue, 03 Dec 2024 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/hammered-by-attempted-hackers</guid>
+                <title>Hammered by attempted hackers</title>
+                <link>https://robkohr.com/articles/hammered-by-attempted-hackers</link>
+                <description>Hammered by attempted hackers</description>
+                <pubDate>Tue, 03 Dec 2024 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/wisps</guid>
+                <title>Wisps</title>
+                <link>https://robkohr.com/articles/wisps</link>
+                <description>Wisps</description>
+                <pubDate>Sat, 23 Nov 2024 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/tailwind----quick-thought</guid>
+                <title>Tailwind... quick thought</title>
+                <link>https://robkohr.com/articles/tailwind----quick-thought</link>
+                <description>Tailwind... quick thought</description>
+                <pubDate>Fri, 15 Nov 2024 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/alternative-origin-of-batman---dream</guid>
+                <title>Alternative origin of Batman - dream</title>
+                <link>https://robkohr.com/articles/alternative-origin-of-batman---dream</link>
+                <description>Alternative origin of Batman - dream</description>
+                <pubDate>Mon, 21 Oct 2024 23:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/convert-react-javascript-project-to-typescript---one-file-at-a-time</guid>
+                <title>Convert React Javascript project to Typescript - one file at a time</title>
+                <link>https://robkohr.com/articles/convert-react-javascript-project-to-typescript---one-file-at-a-time</link>
+                <description>Convert React Javascript project to Typescript - one file at a time</description>
+                <pubDate>Fri, 11 Oct 2024 23:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/learning-violin-using-soundslice</guid>
+                <title>Learning Violin Using SoundSlice</title>
+                <link>https://robkohr.com/articles/learning-violin-using-soundslice</link>
+                <description>Learning Violin Using SoundSlice</description>
+                <pubDate>Fri, 04 Oct 2024 23:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/price-gouging</guid>
+                <title>Price Gouging</title>
+                <link>https://robkohr.com/articles/price-gouging</link>
+                <description>Price Gouging</description>
+                <pubDate>Mon, 26 Aug 2024 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/working-on-pivotal-tracker-replacement</guid>
+                <title>Working on Pivotal Tracker replacement</title>
+                <link>https://robkohr.com/articles/working-on-pivotal-tracker-replacement</link>
+                <description>Working on Pivotal Tracker replacement</description>
+                <pubDate>Fri, 23 Aug 2024 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/barbell-strategies</guid>
+                <title>Barbell Strategies</title>
+                <link>https://robkohr.com/articles/barbell-strategies</link>
+                <description>Barbell Strategies</description>
+                <pubDate>Sun, 28 Jul 2024 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/cat-litter-parallel-universe-machine</guid>
+                <title>Cat Litter Parallel Universe Machine</title>
+                <link>https://robkohr.com/articles/cat-litter-parallel-universe-machine</link>
+                <description>Cat Litter Parallel Universe Machine</description>
+                <pubDate>Tue, 16 Jul 2024 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/organize-through-a-calendar</guid>
+                <title>Organize Through a calendar</title>
+                <link>https://robkohr.com/articles/organize-through-a-calendar</link>
+                <description>Organize Through a calendar</description>
+                <pubDate>Sun, 14 Jul 2024 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/firefox-in-all-things</guid>
+                <title>Firefox in all things</title>
+                <link>https://robkohr.com/articles/firefox-in-all-things</link>
+                <description>Firefox in all things</description>
+                <pubDate>Sun, 14 Jul 2024 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/focus---learning</guid>
+                <title>Focus &amp; Learning</title>
+                <link>https://robkohr.com/articles/focus---learning</link>
+                <description>Focus &amp; Learning</description>
+                <pubDate>Sun, 14 Jul 2024 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/wind</guid>
+                <title>Wind</title>
+                <link>https://robkohr.com/articles/wind</link>
+                <description>Wind</description>
+                <pubDate>Tue, 11 Jun 2024 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/rolling-stone-500-greatest-albums-merged</guid>
+                <title>Rolling Stone 500 greatest albums merged</title>
+                <link>https://robkohr.com/articles/rolling-stone-500-greatest-albums-merged</link>
+                <description>Rolling Stone 500 greatest albums merged</description>
+                <pubDate>Tue, 28 May 2024 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/update-to--tapping-out-at-20-reps-</guid>
+                <title>Update to &quot;Tapping out at 20 reps&quot;</title>
+                <link>https://robkohr.com/articles/update-to--tapping-out-at-20-reps-</link>
+                <description>Update to &quot;Tapping out at 20 reps&quot;</description>
+                <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
+            </item>
+    
+        </channel>
+    </rss>

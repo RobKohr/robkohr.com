@@ -1,0 +1,73 @@
+
+        <html>
+            <head>
+                <title>design - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            <h2>Tag: design</h2>
+    
+    <h2><a href="articles/light-painter-picking-up-blur">Light painter picking up blur</a></h2>
+    <div class="variables">
+    <div class="date">@date=2023-10-03</div>
+    <div class="tags">@tags=<a href="tags/design">design</a>, <a href="tags/light-painter">light-painter</a>, <a href="tags/excelidraw">excelidraw</a></div>
+    </div>
+    <article>
+        <p><img data-src="images/2023-10-03 Light painter picking up blur.png" alt="2023-10-03 Light painter picking up blur.png" style="max-width: 100%;" /></p>
+
+    </article>
+    
+    <h2><a href="articles/designing-playground-structure-using-ar">Designing playground structure using AR</a></h2>
+    <div class="variables">
+    <div class="date">@date=2022-08-15</div>
+    <div class="tags">@tags=<a href="tags/ar">ar</a>, <a href="tags/drawing">drawing</a>, <a href="tags/playground">playground</a>, <a href="tags/design">design</a>, <a href="tags/woodworking">woodworking</a></div>
+    </div>
+    <article>
+        <p><img data-src="images/20220815 Designing playground structure using AR -.png" alt="20220815 Designing playground structure using AR -.png" style="max-width: 100%;" /></p>
+
+    </article>
+    
+    <h2><a href="articles/thoughts-on-using-grommet-for-web-app-design">Thoughts on using grommet for web app design</a></h2>
+    <div class="variables">
+    <div class="date">@date=2020-10-08</div>
+    <div class="tags">@tags=<a href="tags/web-dev">web-dev</a>, <a href="tags/design">design</a>, <a href="tags/react">react</a></div>
+    </div>
+    <article>
+        <p>I used <a href="https://icons.grommet.io/">Grommet</a> for a react project, and here are some of my thoughts on it.</p>
+<p>Things I like</p>
+<ul>
+<li>Works out of the box for most use cases</li>
+<li>Nice for form elements</li>
+<li>Gives a standard look and feel for the site without any need to work out details</li>
+</ul>
+<p>Things I don&#39;t like</p>
+<ul>
+<li>A ...</li>
+</ul>
+ <p><a class="nowrap" href="articles/thoughts-on-using-grommet-for-web-app-design">READ MORE (266 words, 2 minutes)</a></p> 
+    </article>
+    
+            </body>
+        </html>
+    

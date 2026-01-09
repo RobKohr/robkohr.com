@@ -1,0 +1,50 @@
+
+        <html>
+            <head>
+                <title>inspiration - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            <h2>Tag: inspiration</h2>
+    
+    <h2><a href="articles/done-manifesto">Done manifesto</a></h2>
+    <div class="variables">
+    <div class="date">@date=2023-09-22</div>
+    <div class="tags">@tags=<a href="tags/inspiration">inspiration</a>, <a href="tags/motivation">motivation</a></div>
+    </div>
+    <article>
+        <a href="articles/done-manifesto"><img class="icon" data-src="images/2023-09-22 Done manifesto.png" alt="2023-09-22 Done manifesto.png" style="max-width: 100%;" /></a><blockquote>
+<ol>
+<li>There are three states of being. Not knowing, action and completion.</li>
+<li>Accept that everything is a draft. It helps to get it done.</li>
+<li>There is no editing stage.</li>
+<li>Pretending you know what you&#39;re doing is almost the same as knowing what you are doing, so just accept that you know what...</li>
+</ol>
+</blockquote>
+ <p><a class="nowrap" href="articles/done-manifesto">READ MORE (175 words, 1 minutes, 1 images)</a></p> 
+    </article>
+    
+            </body>
+        </html>
+    

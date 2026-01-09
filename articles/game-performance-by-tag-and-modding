@@ -1,0 +1,50 @@
+
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
+                <title>Game performance by tag and modding - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
+
+                <link rel="canonical" href="https://robkohr.com/articles/game-performance-by-tag-and-modding" />
+                <link rel="stylesheet" href="../neat.css">
+
+                <meta property="og:description" content="This is a [great article about what games perform well on steam based upon their tags (categories)](https://www.gamasutra.com/blogs/DannyWeinbaum/20191115/353349/Genre_Viability_on_Steam_and_Other_Tre" />
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            
+    <h2><a href="articles/game-performance-by-tag-and-modding">Game performance by tag and modding</a></h2>
+    <div class="variables">
+    <div class="date">@date=2020-10-23</div>
+    <div class="tags">@tags=<a href="tags/gamedev">gamedev</a></div>
+    </div>
+    <article>
+        <p>This is a <a href="https://www.gamasutra.com/blogs/DannyWeinbaum/20191115/353349/Genre_Viability_on_Steam_and_Other_Trends__An_Analysis_Using_Review_Count.php">great article about what games perform well on steam based upon their tags (categories)</a>.</p>
+<p>Some games like strategy war games, which I have a great love for, make great money, and there are also very few of them. Other games like puzzlers are plentiful and don&#39;t make much. He also goes into the normal lifespan of a game and its revenue stream which tapers off after 5 years.</p>
+<p>There were so many good tidbits in there, and even a multipage spreadsheet of useful sales data, which is like gold now that steamspy can no longer function.</p>
+<p>One thing that seems to really make great money is the tag &quot;moddable.&quot; Definitely not easy to do in something like godot (or anything else for that matter) but it seems to make a big impact on profitability.</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

@@ -1,0 +1,45 @@
+
+        <html>
+            <head>
+                <title>haiku - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            <h2>Tag: haiku</h2>
+    
+    <h2><a href="articles/haiku---woodworking">Haiku - woodworking</a></h2>
+    <div class="variables">
+    <div class="date">@date=2023-03-21</div>
+    <div class="tags">@tags=<a href="tags/haiku">haiku</a></div>
+    </div>
+    <article>
+        <p>sawdust in my prints</p>
+<p>Grinding dust - I imagine</p>
+<p>stacking in warm light</p>
+
+    </article>
+    
+            </body>
+        </html>
+    

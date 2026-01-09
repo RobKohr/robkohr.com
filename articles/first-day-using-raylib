@@ -1,0 +1,53 @@
+
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
+                <title>First day using Raylib - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
+
+                <link rel="canonical" href="https://robkohr.com/articles/first-day-using-raylib" />
+                <link rel="stylesheet" href="../neat.css">
+<meta property="og:image" content="https://robkohr.com/images/Screen Recording 2025-07-15 at 8.20.42 AM.mov" />
+                <meta property="og:description" content="![[Screen Recording 2025-07-15 at 8.20.42 AM.mov]]I've never done a game before in C, nor one that is 3d. This only took a few hours to bang out.I've done some in javascript before and some in lua for" />
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            
+    <h2><a href="articles/first-day-using-raylib">First day using Raylib</a></h2>
+    <div class="variables">
+    <div class="date">@date=2025-07-15</div>
+    <div class="tags">@tags=<a href="tags/raylib">raylib</a>, <a href="tags/gamedev">gamedev</a></div>
+    </div>
+    <article>
+        <p><img data-src="images/Screen Recording 2025-07-15 at 8.20.42 AM.mov" alt="Screen Recording 2025-07-15 at 8.20.42 AM.mov" style="max-width: 100%;" />
+I&#39;ve never done a game before in C, nor one that is 3d. This only took a few hours to bang out.</p>
+<p>I&#39;ve done some in javascript before and some in lua for playdate to make this game: <a href="https://neverall.itch.io/jewel-defender">https://neverall.itch.io/jewel-defender</a></p>
+<p>I am now porting Jewel Defender to a 3d enviornment with a lot more features and will be bring it to steam.</p>
+<h3>What brought me here</h3>
+<p>Before today I explored a lot of different options, and tried to learn Unreal and started on a C++ lesson series on it, was getting bored learning more and more about the interface, and then watched this video on how to build flappy bird, and that ended it for me. I don&#39;t want to dig through a giant box of premade components to find just the right one and configure it correctly to show up on the screen. Watching the video, it seemed like magic how he went through, and I knew there was a huge amount of learning that took to get there.</p>
+<p>I really wanted a nice collection of primatives that I could assemble into the components I need, and so far raylib seems to be exactly what I ordered. What I was able to bang out with no familiarity with anything is truly baffeling, and I look forward to building up a nice stack of bits and peices tied together with thread.</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

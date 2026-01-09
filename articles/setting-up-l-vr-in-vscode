@@ -1,0 +1,77 @@
+
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
+                <title>Setting up LÖVR in vscode - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
+
+                <link rel="canonical" href="https://robkohr.com/articles/setting-up-l-vr-in-vscode" />
+                <link rel="stylesheet" href="../neat.css">
+<meta property="og:image" content="https://robkohr.com/images/Pasted image 20250429114249.png" />
+                <meta property="og:description" content="This was taken down, and I found it in the web archive here:https://web.archive.org/web/20230209043024/https://gist.github.com/ussaohelcim/9eca6eaa903eefff07b4f3e2019de915### Requirements- vscode- Lua" />
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            
+    <h2><a href="articles/setting-up-l-vr-in-vscode">Setting up LÖVR in vscode</a></h2>
+    <div class="variables">
+    <div class="date">@date=2025-04-27</div>
+    <div class="tags">@tags=<a href="tags/lovr">lovr</a>, <a href="tags/coding">coding</a>, <a href="tags/vscode">vscode</a></div>
+    </div>
+    <article>
+        <p>This was taken down, and I found it in the web archive here:</p>
+<p><a href="https://web.archive.org/web/20230209043024/https://gist.github.com/ussaohelcim/9eca6eaa903eefff07b4f3e2019de915">https://web.archive.org/web/20230209043024/https://gist.github.com/ussaohelcim/9eca6eaa903eefff07b4f3e2019de915</a></p>
+<h3>Requirements</h3>
+<ul>
+<li>vscode</li>
+<li>Lua Language Server coded by Lua by sumneko<ul>
+<li><a href="https://github.com/sumneko/lua-language-server">https://github.com/sumneko/lua-language-server</a></li>
+</ul>
+</li>
+<li>lovr api docs<ul>
+<li><a href="https://github.com/bjornbytes/lovr-docs/tree/master/api">https://github.com/bjornbytes/lovr-docs/tree/master/api</a></li>
+</ul>
+</li>
+</ul>
+<h3>How to</h3>
+<ul>
+<li>install <code>lua language server</code> extension in your vscode</li>
+<li>download <code>lovr api docs</code> somewhere<ul>
+<li>git clone <a href="https://github.com/bjornbytes/lovr-docs.git">https://github.com/bjornbytes/lovr-docs.git</a></li>
+</ul>
+</li>
+<li>open <code>lua language server</code> extension settings</li>
+<li>search for <code>Lua › Workspace: Library</code></li>
+<li>press add item</li>
+<li>insert the docs api full path 
+<img data-src="images/Pasted image 20250429114249.png" alt="Pasted image 20250429114249.png" style="max-width: 100%;" /></li>
+<li>you are ready to go</li>
+</ul>
+<hr>
+<h3>Other things I found useful</h3>
+<p><a href="https://github.com/mcclure/lodr">https://github.com/mcclure/lodr</a></p>
+
+    </article>
+    
+            </body>
+          </html>
+          

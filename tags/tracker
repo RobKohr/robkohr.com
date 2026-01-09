@@ -1,0 +1,44 @@
+
+        <html>
+            <head>
+                <title>tracker - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            <h2>Tag: tracker</h2>
+    
+    <h2><a href="articles/working-on-pivotal-tracker-replacement">Working on Pivotal Tracker replacement</a></h2>
+    <div class="variables">
+    <div class="date">@date=2024-09-23</div>
+    <div class="tags">@tags=<a href="tags/tracker">tracker</a>, <a href="tags/software">software</a>, <a href="tags/projects">projects</a></div>
+    </div>
+    <article>
+        <p>Pivotal tracker is one of my favorite apps, and it looks like it is getting shut down. As such, I am looking to build a similar tracker software to fill this niche. </p>
+<p>If you are interested and wanna be alerted to when it is released as well as other things I am building/doing, <a href="https://mailchi.mp/73f113e474f1/robert-kohrs-blog">📧 Signup to the Monthly Email List</a></p>
+
+    </article>
+    
+            </body>
+        </html>
+    

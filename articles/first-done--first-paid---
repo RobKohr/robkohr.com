@@ -1,0 +1,49 @@
+
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
+                <title>First done, first paid :) - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
+
+                <link rel="canonical" href="https://robkohr.com/articles/first-done--first-paid---" />
+                <link rel="stylesheet" href="../neat.css">
+
+                <meta property="og:description" content="First done, first paid :)### I need a simple image fix for this image - 0.75 BTChttps://bitcointalk.org/index.php?topic=90701.msg998158#msg998158" />
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            
+    <h2><a href="articles/first-done--first-paid---">First done, first paid :)</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-06-29</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>First done, first paid :)</p>
+<h3>I need a simple image fix for this image - 0.75 BTC</h3>
+<p><a href="https://bitcointalk.org/index.php?topic=90701.msg998158#msg998158">https://bitcointalk.org/index.php?topic=90701.msg998158#msg998158</a></p>
+
+    </article>
+    
+            </body>
+          </html>
+          

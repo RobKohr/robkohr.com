@@ -1,0 +1,48 @@
+
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
+                <title>Concepts for work time - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
+
+                <link rel="canonical" href="https://robkohr.com/articles/concepts-for-work-time" />
+                <link rel="stylesheet" href="../neat.css">
+
+                <meta property="og:description" content="Allow 30 minute blocks for things, and only have one active task at a time. Count how many 30 minute blocks you use... this should be equal to the points... maybe? Not really very scrummy, but might b" />
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            
+    <h2><a href="articles/concepts-for-work-time">Concepts for work time</a></h2>
+    <div class="variables">
+    <div class="date">@date=2021-08-27</div>
+    <div class="tags">@tags=<a href="tags/productivity">productivity</a></div>
+    </div>
+    <article>
+        <p>Allow 30 minute blocks for things, and only have one active task at a time. Count how many 30 minute blocks you use... this should be equal to the points... maybe? Not really very scrummy, but might be a good thing to track.</p>
+<p>6 points a day = 30 points a week.z</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

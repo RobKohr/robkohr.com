@@ -1,0 +1,87 @@
+
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
+                <title>Lets make a game with Unreal Engine - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
+
+                <link rel="canonical" href="https://robkohr.com/articles/lets-make-a-game-with-unreal-engine" />
+                <link rel="stylesheet" href="../neat.css">
+
+                <meta property="og:description" content="So went back to exploring development with different game engines:- Unity	- Skipped partly because of not trusting them anymore	- More so because when I tried building a VR game in the past with them," />
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            
+    <h2><a href="articles/lets-make-a-game-with-unreal-engine">Lets make a game with Unreal Engine</a></h2>
+    <div class="variables">
+    <div class="date">@date=2025-05-10</div>
+    <div class="tags">@tags=<a href="tags/jewel-defender">jewel-defender</a>, <a href="tags/game-dev">game-dev</a>, <a href="tags/unreal-engine">unreal-engine</a></div>
+    </div>
+    <article>
+        <p>So went back to exploring development with different game engines:</p>
+<ul>
+<li>Unity<ul>
+<li>Skipped partly because of not trusting them anymore</li>
+<li>More so because when I tried building a VR game in the past with them, I just didn&#39;t like their interface, just seems clunky</li>
+<li>Every game that comes out of unity has the same cartoony feel and I want to make something that stands out</li>
+</ul>
+</li>
+<li>Godot<ul>
+<li>Explored a bit. Making a node tree for everything seemed tedious</li>
+<li>I want to have the option of porting to VR and having tons of lighting effects. I haven&#39;t seen any VR games of quality from Godot and also very little high end 3d games. It seems the best looking ones need to be clever to get the most out of the system to look good. I don&#39;t want to have to be clever.</li>
+</ul>
+</li>
+<li>Lovr<ul>
+<li>This was a serious contender. I really enjoyed making Jewel Defender for the playdate in lua, and porting it to 3d should have been fairly trivial, and I like just working in code</li>
+<li>Most recent build wasn&#39;t working for my older intel mac</li>
+<li>The shapes example and another example were not rendering correctly</li>
+<li>The number of people working on the project is small so hard to know how much support I will get with issues</li>
+<li>No real games released</li>
+<li>Would require more learning to get special lighting effects and such working. I am not working on this to flex my brain muscles, just to deliver a product.</li>
+</ul>
+</li>
+<li>Unreal<ul>
+<li>Downsides: seems to have more barrier to entry and learning</li>
+<li>Gotta use C++ - kinda new to me (worked with it minorly about 20 years ago), but I am knowledgeable enough to get by, especially with come genAI as my coding jetpack</li>
+<li>Sure-ist path to high quality looking game development. It really is built for this. My game is really a bunch of tanks driving around shooting robots that wanna drive off with gems. This is something that could have been built for the NES (and was built for the playdate), so yeah, it is fun as hell to play (the joy of making a first pass with the playdate), but it is only going to sell with good visuals.</li>
+</ul>
+</li>
+</ul>
+<p>If you are going to make a game, you might as well make one that will sell well.</p>
+<p>Yes you can make a really good game, that looks mediocre, and it might sell despite its looks.</p>
+<p>But a game that looks sharp doesn&#39;t have to be all that special to sell.</p>
+<p>Hell, when you look at most AAA games, they look really sharp, and if they are good, they introduce 1 or two unique game mechanics, and sell like hotcakes.</p>
+<p>Try to look like a AAA game, but with minimal investment in cost. That is the key.</p>
+<p>Unity games looks basic, and there are plenty of them out there.</p>
+<p>Godot is not powerful enough.</p>
+<p>2d pixel art games usually don&#39;t sell. I did a browsing of all the indie new releases that sold well (not great, but 1000+ sales). Almost none of them were 2d games. </p>
+<p>But a 3d game with good bloom and lighting effects will minimially sell 1000 units (hopefully). If you are charging $15 a game (a good price point), you can make 1.5m from selling 100,000 games.  You can do that!</p>
+<p>Keep with the idea of no-network access local multiplayer co-op game. </p>
+<p>Copy [[Jewel Defender]] gameplay and even code as much as you can the same. </p>
+<p>Set a 3 month limit on development - July 31st.</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

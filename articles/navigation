@@ -1,0 +1,54 @@
+
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
+                <title>Navigation - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
+
+                <link rel="canonical" href="https://robkohr.com/articles/navigation" />
+                <link rel="stylesheet" href="../neat.css">
+
+                <meta property="og:description" content="- ⏰ Now📧 Signup to the Monthly Email List-->- ℹ️ About- 🏷️ Tags- 🚧 Projects- 📰 RSS feed- 🔭 My stuff out on the web" />
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            
+    <h2><a href="articles/navigation">Navigation</a></h2>
+    <div class="variables">
+    <div class="date"></div>
+    <div class="tags"></div>
+    </div>
+    <article>
+        <ul>
+<li><a href="now">⏰ Now</a><!--- <a href="https://mailchi.mp/73f113e474f1/robert-kohrs-blog">📧 Signup to the Monthly Email List</a>--></li>
+<li><a href="articles/about">ℹ️ About</a></li>
+<li><a href="tags/index.html">🏷️ Tags</a></li>
+<li><a href="articles/projects">🚧 Projects</a></li>
+<li><a href="rss.xml">📰 RSS feed</a></li>
+<li><a href="articles/my-stuff">🔭 My stuff out on the web</a></li>
+</ul>
+
+    </article>
+    
+            </body>
+          </html>
+          

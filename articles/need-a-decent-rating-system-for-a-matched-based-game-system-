@@ -1,0 +1,53 @@
+
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
+                <title>Need a decent rating system for a matched based game system? - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
+
+                <link rel="canonical" href="https://robkohr.com/articles/need-a-decent-rating-system-for-a-matched-based-game-system-" />
+                <link rel="stylesheet" href="../neat.css">
+
+                <meta property="og:description" content="Need a decent rating system for a matched based game system? I just implemented the glicko-2 rating system (similar to ELO, except much better) in javascript:https://github.com/RobKohr/glickoIf you de" />
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            
+    <h2><a href="articles/need-a-decent-rating-system-for-a-matched-based-game-system-">Need a decent rating system for a matched based game system?</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-04-26</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>Need a decent rating system for a matched based game system? </p>
+<p>I just implemented the glicko-2 rating system (similar to ELO, except much better) in javascript:
+<a rel="nofollow" target="_blank" href="https://github.com/RobKohr/glicko" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">https://github.com/RobKohr/glicko</a>
+If you decide to translate this into another language, let me know, and I will link to your version.</p>
+<h3>glicko</h3>
+<p><a href="https://github.com/RobKohr/glicko">https://github.com/RobKohr/glicko</a></p>
+<p><a href="https://github.com/RobKohr/glicko">https://github.com/RobKohr/glicko</a></p>
+
+    </article>
+    
+            </body>
+          </html>
+          

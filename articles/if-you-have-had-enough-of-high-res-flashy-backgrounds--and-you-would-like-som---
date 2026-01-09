@@ -1,0 +1,49 @@
+
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
+                <title>If you have had enough of high res flashy backgrounds, and you would like som... - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
+
+                <link rel="canonical" href="https://robkohr.com/articles/if-you-have-had-enough-of-high-res-flashy-backgrounds--and-you-would-like-som---" />
+                <link rel="stylesheet" href="../neat.css">
+
+                <meta property="og:description" content="If you have had enough of high res flashy backgrounds, and you would like something a little simpler.### Simple Desktopshttp://simpledesktops.com" />
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            
+    <h2><a href="articles/if-you-have-had-enough-of-high-res-flashy-backgrounds--and-you-would-like-som---">If you have had enough of high res flashy backgrounds, and you would like som...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-04-09</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>If you have had enough of high res flashy backgrounds, and you would like something a little simpler.</p>
+<h3>Simple Desktops</h3>
+<p><a href="http://simpledesktops.com">http://simpledesktops.com</a></p>
+
+    </article>
+    
+            </body>
+          </html>
+          

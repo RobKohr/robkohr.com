@@ -1,0 +1,43 @@
+
+        <html>
+            <head>
+                <title>workout - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            <h2>Tag: workout</h2>
+    
+    <h2><a href="articles/how-you-move-a-mountain--one-stone-at-a-time">How you move a mountain, one stone at a time</a></h2>
+    <div class="variables">
+    <div class="date">@date=2023-06-16</div>
+    <div class="tags">@tags=<a href="tags/workout">workout</a>, <a href="tags/exercise">exercise</a>, <a href="tags/fitness">fitness</a>, <a href="tags/motivation">motivation</a></div>
+    </div>
+    <article>
+        <p>I have been working out using a google spreadsheet to track workouts. I aim to do a 20 rep max each week for each exercise that is slightly above the previous week. So far, it has lead to a nice continuous improvement... assuming I don&#39;t ever skip weeks. Each time I skip more than 2 weeks it push...</p>
+ <p><a class="nowrap" href="articles/how-you-move-a-mountain--one-stone-at-a-time">READ MORE (220 words, 2 minutes)</a></p> 
+    </article>
+    
+            </body>
+        </html>
+    

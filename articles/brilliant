@@ -1,0 +1,49 @@
+
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
+                <title>brilliant - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
+
+                <link rel="canonical" href="https://robkohr.com/articles/brilliant" />
+                <link rel="stylesheet" href="../neat.css">
+
+                <meta property="og:description" content="brilliant### The Knights of the Round Staples : diesel sweeties robot webcomic &amp; geeky t-shirtshttp://dieselsweeties.com/archive/2923" />
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            
+    <h2><a href="articles/brilliant">brilliant</a></h2>
+    <div class="variables">
+    <div class="date">@date=2011-10-31</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>brilliant</p>
+<h3>The Knights of the Round Staples : diesel sweeties robot webcomic &amp; geeky t-shirts</h3>
+<p><a href="http://dieselsweeties.com/archive/2923">http://dieselsweeties.com/archive/2923</a></p>
+
+    </article>
+    
+            </body>
+          </html>
+          

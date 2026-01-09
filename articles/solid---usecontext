@@ -1,0 +1,72 @@
+
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
+                <title>Solid - useContext - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
+
+                <link rel="canonical" href="https://robkohr.com/articles/solid---usecontext" />
+                <link rel="stylesheet" href="../neat.css">
+
+                <meta property="og:description" content="I created a context system in SolidJS for forms```javascriptexport const FormContext = createContext();export interface Form {  data: any;  set: (data: any) => void;  validationResult: Accessor | unde" />
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            
+    <h2><a href="articles/solid---usecontext">Solid - useContext</a></h2>
+    <div class="variables">
+    <div class="date">@date=2023-08-21</div>
+    <div class="tags">@tags=<a href="tags/solidjs">solidjs</a></div>
+    </div>
+    <article>
+        <p>I created a context system in SolidJS for forms</p>
+<pre><code class="language-javascript">export const FormContext = createContext&lt;Form&gt;();
+
+export interface Form {
+  data: any;
+  set: (data: any) =&gt; void;
+  validationResult: Accessor&lt;Joi.ValidationResult&lt;any&gt; | undefined&gt;;
+  touched: Accessor&lt;TouchedData&gt;;
+  setFieldValue: (field: string, value: string) =&gt; void;
+  inputChangeHandler: (name: string) =&gt; (e: Event) =&gt; void;
+}
+/* snip */
+export default function FormContextProvider(props: FormContextProviderProps) {
+    /* set all of the form variable to apply to the context */
+
+    return (
+        &lt;FormContext.Provider value={form}&gt;
+          &lt;form use:formDecorator&gt;{children}&lt;/form&gt;
+        &lt;/FormContext.Provider&gt;
+    )
+</code></pre>
+<p>And in an input under that, I do:</p>
+<pre><code class="language-javascript">const form = useContext(FormContext);
+</code></pre>
+<p>and the form value seems to be stuck at undefined. :( </p>
+<p>More details here: <a href="https://stackoverflow.com/questions/76947570/solidjs-context-not-passing-down-to-children">https://stackoverflow.com/questions/76947570/solidjs-context-not-passing-down-to-children</a></p>
+
+    </article>
+    
+            </body>
+          </html>
+          

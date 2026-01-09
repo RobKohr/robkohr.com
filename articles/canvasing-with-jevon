@@ -1,0 +1,46 @@
+
+        <html>
+            <head>
+                <title>Canvasing with Jevon - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
+
+                <link rel="canonical" href="https://robkohr.com/articles/canvasing-with-jevon" />
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            
+    <h2><a href="articles/canvasing-with-jevon">Canvasing with Jevon</a></h2>
+    <div class="variables">
+    <div class="date">@date=2023-07-24</div>
+    <div class="tags">@tags=<a href="tags/politics">politics</a>, <a href="tags/campaigning">campaigning</a></div>
+    </div>
+    <article>
+        <p>Jevon and I walked up 23rd ave and down 24th. It was great doing it with him as we could each hit one side of the street. We weren&#39;t knocking on doors, just putting card stock fliers under door mats. </p>
+<p>It was a good day to do it, and he brought his bike so it was easy to get around. Eventually we started to run out of cards and didn&#39;t complete the loop, but we will continue tomorrow. </p>
+<p>Later today I will be working on the boat with Scott.</p>
+<p>Walking map of houses visited
+<img src="images/20230627_071428.jpg" alt="20230627_071428.jpg" style="max-width: 100%;" /></p>
+
+    </article>
+    
+            </body>
+          </html>
+          

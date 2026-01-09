@@ -1,0 +1,114 @@
+
+        <html>
+            <head>
+                <title>youtube - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            <h2>Tag: youtube</h2>
+    
+    <h2><a href="articles/more-videos-per-row-in-youtube">More videos per row in youtube</a></h2>
+    <div class="variables">
+    <div class="date">@date=2025-06-03</div>
+    <div class="tags">@tags=<a href="tags/youtube">youtube</a>, <a href="tags/browser-extensions">browser-extensions</a></div>
+    </div>
+    <article>
+        <p>I like youtube, but I don&#39;t like the recent change they did to make it so only 4 giant video &quot;thumbnails&quot; show per row on my large computer display. Why did I pay for all these pixels, if not to shove data into my head faster.</p>
+<p>Fortunately this is super easy to fix. </p>
+<p>Add the Code Injector add on...</p>
+ <p><a class="nowrap" href="articles/more-videos-per-row-in-youtube">READ MORE (160 words, 1 minutes)</a></p> 
+    </article>
+    
+    <h2><a href="articles/convert-react-javascript-project-to-typescript---one-file-at-a-time">Convert React Javascript project to Typescript - one file at a time</a></h2>
+    <div class="variables">
+    <div class="date">@date=2024-11-12</div>
+    <div class="tags">@tags=<a href="tags/react">react</a>, <a href="tags/javascript">javascript</a>, <a href="tags/programming">programming</a>, <a href="tags/youtube">youtube</a></div>
+    </div>
+    <article>
+        <p>Have a React project written in JS that you want to convert to Typescript, but not all at once? This step by step guide will help you with that:
+<a href="https://youtu.be/XqC1m2zJc4Y">https://youtu.be/XqC1m2zJc4Y</a></p>
+
+    </article>
+    
+    <h2><a href="articles/artificial-intelligence-vs-computational-intelligence">Artificial Intelligence vs Computational Intelligence</a></h2>
+    <div class="variables">
+    <div class="date">@date=2024-01-24</div>
+    <div class="tags">@tags=<a href="tags/ai">ai</a>, <a href="tags/youtube">youtube</a></div>
+    </div>
+    <article>
+        <p>Youtube video for this: <a href="https://youtu.be/wb9hVUk3SS8">https://youtu.be/wb9hVUk3SS8</a></p>
+<p>These two terms are sometimes used interchangeably, and there are many conflicting definitions that sometimes switch the roles of these terms. </p>
+<p>To me, artificial intelligence is the effort to simulate the real intelligence of humans. For this...</p>
+ <p><a class="nowrap" href="articles/artificial-intelligence-vs-computational-intelligence">READ MORE (382 words, 3 minutes)</a></p> 
+    </article>
+    
+    <h2><a href="articles/downloading-youtube-videos">Downloading youtube videos</a></h2>
+    <div class="variables">
+    <div class="date">@date=2023-11-21</div>
+    <div class="tags">@tags=<a href="tags/youtube">youtube</a>, <a href="tags/videos">videos</a>, <a href="tags/music">music</a></div>
+    </div>
+    <article>
+        <p>If you ever have a need to download some video from youtube, this is the best tool I found:
+<a href="https://github.com/yt-dlp/yt-dlp">https://github.com/yt-dlp/yt-dlp</a></p>
+<p>It gives you lots of options for output sizes and types and can download channels and playlists.</p>
+
+    </article>
+    
+    <h2><a href="articles/firefox-youtube-downloader-add-on">Firefox youtube downloader add on</a></h2>
+    <div class="variables">
+    <div class="date">@date=2023-07-07</div>
+    <div class="tags">@tags=<a href="tags/hacks">hacks</a>, <a href="tags/youtube">youtube</a></div>
+    </div>
+    <article>
+        <p>It seems that any addon related to youtube downloading gets zapped form the Firefox and Chrome app stores. :( </p>
+<p>Here is one I have used on Firefox that disappeared:</p>
+<p>If you want to audit it before installing it, change the extension to zip, and unzip it (xpi is just a zip file). It looks like i...</p>
+ <p><a class="nowrap" href="articles/firefox-youtube-downloader-add-on">READ MORE (75 words, 1 minutes)</a></p> 
+    </article>
+    
+    <h2><a href="articles/popular-youtubers---look-at-their-old-stuff">Popular YouTubers - look at their old stuff</a></h2>
+    <div class="variables">
+    <div class="date">@date=2023-06-22</div>
+    <div class="tags">@tags=<a href="tags/youtube">youtube</a>, <a href="tags/motivation">motivation</a></div>
+    </div>
+    <article>
+        <p>I kinda love going to a popular youtuber&#39;s channel, going to their videos section, and sorting by oldest. </p>
+<p>What is now a polished producer of content that makes you feel intimidated to even attempt to make videos was once someone with a crappy camera, shooting in their back yard with a bad audio...</p>
+ <p><a class="nowrap" href="articles/popular-youtubers---look-at-their-old-stuff">READ MORE (142 words, 1 minutes)</a></p> 
+    </article>
+    
+    <h2><a href="articles/full-vinyl-albums-on-youtube">Full vinyl albums on youtube</a></h2>
+    <div class="variables">
+    <div class="date">@date=2014-06-19</div>
+    <div class="tags">@tags=<a href="tags/youtube">youtube</a>, <a href="tags/music">music</a></div>
+    </div>
+    <article>
+        <p>This will list  recorded full albums on YT</p>
+<p><a href="https://www.youtube.com/results?search_query=full+album+vinyl&oq=full+album+vinyl&aq=f&aqi=g1&aql&gs_l=youtube-psuggest-reduced.3..0.443980.449368.0.449578.26.26.5.7.7.0.158.1233.11j3.14.0">full album vinyl - YouTube</a></p>
+
+    </article>
+    
+            </body>
+        </html>
+    

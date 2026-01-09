@@ -1,0 +1,48 @@
+
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
+                <title>Git Tower - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
+
+                <link rel="canonical" href="https://robkohr.com/articles/git-tower" />
+                <link rel="stylesheet" href="../neat.css">
+
+                <meta property="og:description" content="After years of using git from the command line, I pretty much only handle git from this app now. I started using it 4 months ago for work, and now also use it to manage my personal github stuff. It ma" />
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            
+    <h2><a href="articles/git-tower">Git Tower</a></h2>
+    <div class="variables">
+    <div class="date">@date=2015-03-16</div>
+    <div class="tags">@tags=<a href="tags/git">git</a></div>
+    </div>
+    <article>
+        <p>After years of using git from the command line, I pretty much only handle git from this app now. I started using it 4 months ago for work, and now also use it to manage my personal github stuff. It makes managing and visualizing git a breeze. </p>
+<p><a href="http://www.git-tower.com">Tower - The most powerful Git client for Mac</a></p>
+
+    </article>
+    
+            </body>
+          </html>
+          

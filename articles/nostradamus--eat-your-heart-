@@ -1,0 +1,44 @@
+
+        <html>
+            <head>
+                <title>Nostradamus, eat your heart. - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
+
+                <link rel="canonical" href="https://robkohr.com/articles/nostradamus--eat-your-heart-" />
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            
+    <h2><a href="articles/nostradamus--eat-your-heart-">Nostradamus, eat your heart.</a></h2>
+    <div class="variables">
+    <div class="date">@date=2012-01-11</div>
+    <div class="tags">@tags=<a href="tags/google-plus-post">google-plus-post</a></div>
+    </div>
+    <article>
+        <p>Nostradamus, eat your heart.</p>
+<p> This is Ron Paul&#39;s famous Predictions speech from April 24, 2002. This is the original video compiling recent images and video to give his speech a chilling effect. &quot;I have no timetable for these predictions, but just in case, keep them around and look at them in 5-10 years. Let&#39;s hope and pray that I&#39;m wrong on all accounts. If so, I will be very pleased. &quot;</p>
+<p><a href="http://www.youtube.com/watch?v=zGDisyWkIBM">http://www.youtube.com/watch?v=zGDisyWkIBM</a></p>
+
+    </article>
+    
+            </body>
+          </html>
+          

@@ -1,0 +1,40 @@
+
+## Navigation
+
+- <a href="articles/about">About</a>
+- <a href="tags/index.html">Tags</a>
+- <a href="articles/projects">Projects</a>
+- <a href="articles/other-writing">Other Writing</a>
+
+
+
+## Created a new blog render
+@date=2023-06-26
+@tags=coding, blog, obsidian
+
+I wiped out RobKohr.com as I haven't touched it in over 5 years, and replaced it with this blog. 
+
+It was built just using one long markdown file called blog.md that I edit in obsidian and each article is separated by ## Blog titles, and under that I use @date and @tags to specify those two values
+
+I created a build.js file that reads that file, splits it into separate articles, renders the md->html, applies some extra rendering and css, and spits them all out into a large collection of individual files. This makes for a very simple light weight site builder that is just serving static files. 
+
+Source code is here for those who want to do something similar:
+https://github.com/RobKohr/robkohr.com
+
+
+
+
+## Stackoverflow instead of beating your head against the wall
+@date=2023-06-22
+@tags=stackoverflow, coding, programming
+
+Often you will get deep in some code and come up against a wall. After working through it, and reading some documentation, if you haven't figured it out, it is time to go to stackoverflow.
+
+I have been on stackoverflow for a little over 14 years now, and while I don't answer a lot of questions (there is a lot of competition for that) I have a lot of questions that I have asked and have given me a pretty respectable score, putting me in the top 6% of users (https://stackoverflow.com/users/101909/robkohr). 
+
+The best things to do, is clearly state the problem, provide *concise* code that shows the problem in a reproducible way, and then state what you would like to achieve. 
+
+Sometimes when I work hard at making a clear question on stack overflow, I end up figuring out the answer myself. This is kinda like rubber duck debugging, but instead of a rubber duck, you are talking to the internet.
+
+Then you end up with being the person asking and answering the question and giving yourself double internet points... which is *oh so important* :) 
+

@@ -1,0 +1,110 @@
+
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
+                <title>Bookmarks - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
+
+                <link rel="canonical" href="https://robkohr.com/articles/bookmarks" />
+                <link rel="stylesheet" href="../neat.css">
+
+                <meta property="og:description" content="### Blogs- https://sambleckley.com/blog/	- Great articles on writing, coding, and philosophy.- https://substack.com/@abundantia	- Ancient historical stuff related to freedom- https://ploum.net/index_e" />
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            
+    <h2><a href="articles/bookmarks">Bookmarks</a></h2>
+    <div class="variables">
+    <div class="date"></div>
+    <div class="tags"></div>
+    </div>
+    <article>
+        <h3>Blogs</h3>
+<ul>
+<li><a href="https://sambleckley.com/blog/">https://sambleckley.com/blog/</a><ul>
+<li>Great articles on writing, coding, and philosophy.</li>
+</ul>
+</li>
+<li><a href="https://substack.com/@abundantia">https://substack.com/@abundantia</a><ul>
+<li>Ancient historical stuff related to freedom</li>
+</ul>
+</li>
+<li><a href="https://ploum.net/index_en.html">https://ploum.net/index_en.html</a><ul>
+<li>Some esoteric self reflection on the state of living</li>
+</ul>
+</li>
+<li><a href="https://www.redblobgames.com/">https://www.redblobgames.com/</a><ul>
+<li>Analysis of interesting logic problems in games</li>
+</ul>
+</li>
+<li><a href="https://longform.asmartbear.com/">https://longform.asmartbear.com/</a><ul>
+<li>Articles about the art of creating a successful startup</li>
+</ul>
+</li>
+<li><a href="https://mtlynch.io">https://mtlynch.io</a><ul>
+<li>Articles from ex-googler who is working on mini-online businesses</li>
+</ul>
+</li>
+</ul>
+<h3>Tech I like</h3>
+<ul>
+<li><a href="https://www.solidjs.com/">https://www.solidjs.com/</a><ul>
+<li>A fast light alternative to react that makes me feel like the early days of JS web dev - but in a good way</li>
+</ul>
+</li>
+<li><a href="https://bevyengine.org/">https://bevyengine.org/</a><ul>
+<li>Game engine built in Rust that I am getting interested in.</li>
+</ul>
+</li>
+</ul>
+<h3>Podcasts</h3>
+<ul>
+<li><a href="https://fallofcivilizationspodcast.com/">https://fallofcivilizationspodcast.com/</a><ul>
+<li>Fall of Civilizations - 2-3 hour podcasts that go deep into ancient civilizations with excellent content.</li>
+</ul>
+</li>
+<li><a href="https://thehistoryofrome.typepad.com/">https://thehistoryofrome.typepad.com/</a><ul>
+<li>Follow the rise and fall of Rome year to year in detail</li>
+</ul>
+</li>
+</ul>
+<h3>Other</h3>
+<ul>
+<li><a href="https://flashbak.com/">https://flashbak.com/</a><ul>
+<li>Amazing photographs from other time periods</li>
+</ul>
+</li>
+<li><a href="https://poestories.com/">https://poestories.com/</a><ul>
+<li>short stories by Edgar Allan Poe</li>
+</ul>
+</li>
+<li><a href="https://mythcreants.com/">https://mythcreants.com/</a><ul>
+<li>Thoughts about speculative fiction</li>
+</ul>
+</li>
+</ul>
+
+    </article>
+    
+            </body>
+          </html>
+          

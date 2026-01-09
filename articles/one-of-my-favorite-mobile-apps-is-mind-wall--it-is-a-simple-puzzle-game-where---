@@ -1,0 +1,53 @@
+
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
+                <title>One of my favorite mobile apps is Mind Wall. It is a simple puzzle game where... - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
+
+                <link rel="canonical" href="https://robkohr.com/articles/one-of-my-favorite-mobile-apps-is-mind-wall--it-is-a-simple-puzzle-game-where---" />
+                <link rel="stylesheet" href="../neat.css">
+
+                <meta property="og:description" content="One of my favorite mobile apps is Mind Wall. It is a simple puzzle game where you need to chip off one square of a wall to fit a tetris like block through the wall. It is mildly challenging, and makes" />
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            
+    <h2><a href="articles/one-of-my-favorite-mobile-apps-is-mind-wall--it-is-a-simple-puzzle-game-where---">One of my favorite mobile apps is Mind Wall. It is a simple puzzle game where...</a></h2>
+    <div class="variables">
+    <div class="date">@date=2014-02-24</div>
+    <div class="tags">@tags=<a href="tags/games">games</a>, <a href="tags/ld48">ld48</a></div>
+    </div>
+    <article>
+        <p>One of my favorite mobile apps is Mind Wall. It is a simple puzzle game where you need to chip off one square of a wall to fit a tetris like block through the wall. It is mildly challenging, and makes for a good spacial puzzle. It was created for ld48</p>
+<p>iOS:
+<a rel="nofollow" target="_blank" href="https://itunes.apple.com/us/app/mind-wall-universal/id320170750?mt=8" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">https://itunes.apple.com/us/app/mind-wall-universal/id320170750?mt=8</a></p>
+<p>Android: 
+<a rel="nofollow" target="_blank" href="https://play.google.com/store/apps/details?id=com.rtsoft.rtmindwall&hl=en" class="ot-anchor bidi_isolate" jslog="10929; track:click" dir="ltr">https://play.google.com/store/apps/details?id=com.rtsoft.rtmindwall&amp;hl=en</a></p>
+<p><a href="https://itunes.apple.com/us/app/mind-wall-universal/id320170750?mt=8">https://itunes.apple.com/us/app/mind-wall-universal/id320170750?mt=8</a></p>
+<p><a href="https://play.google.com/store/apps/details?id=com.rtsoft.rtmindwall&amp;hl=en">https://play.google.com/store/apps/details?id=com.rtsoft.rtmindwall&amp;hl=en</a></p>
+
+    </article>
+    
+            </body>
+          </html>
+          

@@ -1,0 +1,59 @@
+
+        <html>
+            <head>
+                <title>screenshot-saturday - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            <h2>Tag: screenshot-saturday</h2>
+    
+    <h2><a href="articles/screenshot-saturday-dec-7th-2019">Screenshot Saturday Dec 7th 2019</a></h2>
+    <div class="variables">
+    <div class="date">@date=2019-12-07</div>
+    <div class="tags">@tags=<a href="tags/godot-asset-store">godot-asset-store</a>, <a href="tags/screenshot-saturday">screenshot-saturday</a></div>
+    </div>
+    <article>
+        <p>
+<p><a href="https://youtu.be/JEbzAdhQo3k">On youtube</a></p>
+<p>Progress update on <a href="https://godotassetstore.org">https://godotassetstore.org</a></p>
+<p>What works</p>
+<ul>
+<li>Browse assets</li>
+<li>Individual Asset Page</li>
+<li>Downloading an Asset</li>
+</ul>
+<p>In progress</p>
+<ul>
+<li>Registration Submission</li>
+</ul>
+<p>Next Up</p>
+<ul>
+<li>Finish regis...</li>
+</ul>
+ <p><a class="nowrap" href="articles/screenshot-saturday-dec-7th-2019">READ MORE (41 words, 0 minutes, 1 images)</a></p> 
+    </article>
+    
+            </body>
+        </html>
+    

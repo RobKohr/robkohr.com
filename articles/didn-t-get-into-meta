@@ -1,0 +1,58 @@
+
+        <html>
+            <head>
+                <title>Didn't get into Meta - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">Home</a>
+            
+    <h2><a href="articles/didn-t-get-into-meta">Didn't get into Meta</a></h2>
+    <div class="variables">
+    <div class="date">@date=2023-08-02</div>
+    <div class="tags">@tags=<a href="tags/jobs">jobs</a></div>
+    </div>
+    <article>
+        <p>I have worked at the likes of Intel, Cisco, and several other large companies that aren&#39;t so well. I work as a principal engineer, and after about 25 years of professional software development, as well as a natural aptitude for it from an early age, I can say without feeling like I am boasting that at this point in my career, I have mastered my craft. </p>
+<p>Interestingly, after 3 attempts, I have yet to get hired at Facebook (aka Meta). This is kinda funny, as Facebook Marketplace was for quite a long time an app that was handled by a company other than Facebook, and I was the lead engineer of it. </p>
+<p>In either case, most recently I didn&#39;t make it past the first technical screening interview, even though I can say I knocked it out of the park. The interviewer escalated at tried every angle to stump me, and with ease I was able to solve every one of his progressively more difficult problems, and also I feel I had a good casual positive rapport with the interviewer. </p>
+<p>Yesterday, I found that I didn&#39;t get the job. </p>
+<p>Today, I looked at my analytics for my blog. Dear reader, if you are here, keep in mind that you are all alone, typically, as no one really reads this blog. I more write it for my own enrichment, and on a really good day, I might have 1-2 visitors stumble upon it. </p>
+<p>In the past two days, I had about 10 new users viewing it.</p>
+<p><img src="images/Pasted image 20230802104523.png" alt="Pasted image 20230802104523.png" style="max-width: 100%;" /></p>
+<p>My guess is that they were FB hiring people, that were looking into my web presence to find out more about me. If you combine this blog, twitter, facebook, reddit, etc; you eventually will come to a picture of someone who&#39;s counter culture mindset would not align with facebook&#39;s core beliefs. </p>
+<p>This was the text of the rejection letter:</p>
+<pre><code>I wanted to thank you again for coming to interview with the Meta, and for your patience as we collected feedback.  
+
+We were able to review feedback with the team, and unfortunately at this time we will not be moving forward in the process.   
+
+Unfortunately, due to company policy I am not able to share feedback from the interview.  
+
+It was really great working with you and I would really like to stay in touch. If it&#39;s OK, we&#39;d like to keep your resume on hand as future opportunities present themselves and we continue to grow. After 12 months have passed, we can revisit this with you again.
+</code></pre>
+<p>So I&#39;ll never know if my personal beliefs ran counter to their culture, or if some other minor thing threw off my interview acceptance. I guess I&#39;ll just have to accept the mystery. On the plus side, for a moment I had more readers of my blog ;)</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

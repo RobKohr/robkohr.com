@@ -1,0 +1,124 @@
+
+        <html>
+            <head>
+                <title>music - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            <h2>Tag: music</h2>
+    
+    <h2><a href="articles/learning-violin-using-soundslice">Learning Violin Using SoundSlice</a></h2>
+    <div class="variables">
+    <div class="date">@date=2024-11-05</div>
+    <div class="tags">@tags=<a href="tags/music">music</a>, <a href="tags/music-playing">music-playing</a></div>
+    </div>
+    <article>
+        <a href="articles/learning-violin-using-soundslice"><img class="icon" data-src="images/Pasted image 20241105070959.png" alt="Pasted image 20241105070959.png" style="max-width: 100%;" /></a><p>I have been learning violin for about 2 years now, on and off, and I can reasonably play some basic stuff from sheet music.</p>
+<p>Sometimes though, for more complex pieces, it is tricky to get a feel for how the notes match up to the actual expected way the song can should sound.</p>
+<p>I have been using<br>...</p>
+ <p><a class="nowrap" href="articles/learning-violin-using-soundslice">READ MORE (251 words, 2 minutes, 1 images)</a></p> 
+    </article>
+    
+    <h2><a href="articles/rolling-stone-500-greatest-albums-merged">Rolling Stone 500 greatest albums merged</a></h2>
+    <div class="variables">
+    <div class="date">@date=2024-06-28</div>
+    <div class="tags">@tags=<a href="tags/music">music</a></div>
+    </div>
+    <article>
+        <p>Someone posted up the various differences between different years that Rolling Stone released their top 500 albums of all time here:
+<a href="https://beckchris.com/2020/10/14/rolling-stones-500-greatest-albums-of-all-time-lists-an-analysis/">https://beckchris.com/2020/10/14/rolling-stones-500-greatest-albums-of-all-time-lists-an-analysis/</a></p>
+<p>I took that and created a spreadsheet so you can do some sorting...</p>
+ <p><a class="nowrap" href="articles/rolling-stone-500-greatest-albums-merged">READ MORE (74 words, 1 minutes)</a></p> 
+    </article>
+    
+    <h2><a href="articles/music-has-become-a-zero-sum-game">Music has become a zero-sum game</a></h2>
+    <div class="variables">
+    <div class="date">@date=2024-05-31</div>
+    <div class="tags">@tags=<a href="tags/economics">economics</a>, <a href="tags/music">music</a></div>
+    </div>
+    <article>
+        <p>Musicians used to make money via album sales (records, tapes, cds, mp3s, etc). This is how they exploded financially by selling millions of copies.</p>
+<p>Today we have streaming, such as Spotify, as the main avenue to make money as a musician. This is a very different economic situation.</p>
+<p>In the initi...</p>
+ <p><a class="nowrap" href="articles/music-has-become-a-zero-sum-game">READ MORE (701 words, 5 minutes)</a></p> 
+    </article>
+    
+    <h2><a href="articles/downloading-youtube-videos">Downloading youtube videos</a></h2>
+    <div class="variables">
+    <div class="date">@date=2023-11-21</div>
+    <div class="tags">@tags=<a href="tags/youtube">youtube</a>, <a href="tags/videos">videos</a>, <a href="tags/music">music</a></div>
+    </div>
+    <article>
+        <p>If you ever have a need to download some video from youtube, this is the best tool I found:
+<a href="https://github.com/yt-dlp/yt-dlp">https://github.com/yt-dlp/yt-dlp</a></p>
+<p>It gives you lots of options for output sizes and types and can download channels and playlists.</p>
+
+    </article>
+    
+    <h2><a href="articles/on-nostalgia-in-the-evolution-of-music">On Nostalgia In The Evolution of Music</a></h2>
+    <div class="variables">
+    <div class="date">@date=2022-02-14</div>
+    <div class="tags">@tags=<a href="tags/music">music</a>, <a href="tags/philosophy">philosophy</a></div>
+    </div>
+    <article>
+        <p>I looked up 2000&#39;s music yesterday on spotify. I am a child of the 80&#39;s and 90&#39;s and when I listen to music, I really lean heavy into those decades, and like most people when they hit middle age, they tune into the newest music on the radio, and feel that the music of their childhood is way super...</p>
+ <p><a class="nowrap" href="articles/on-nostalgia-in-the-evolution-of-music">READ MORE (490 words, 4 minutes)</a></p> 
+    </article>
+    
+    <h2><a href="articles/butchering-the-basics">Butchering the basics</a></h2>
+    <div class="variables">
+    <div class="date">@date=2018-02-01</div>
+    <div class="tags">@tags=<a href="tags/music">music</a></div>
+    </div>
+    <article>
+        <p><a href="https://www.youtube.com/watch?v=URkGWoNTDlA">https://www.youtube.com/watch?v=URkGWoNTDlA</a></p>
+
+    </article>
+    
+    <h2><a href="articles/cool--i-love-bjork">Cool, I love Bjork</a></h2>
+    <div class="variables">
+    <div class="date">@date=2015-01-25</div>
+    <div class="tags">@tags=<a href="tags/music">music</a></div>
+    </div>
+    <article>
+        <p>Cool, I love Bjork</p>
+<h3>Bjork in the New York Times Magazine</h3>
+<p><a href="http://whowillsaverockandroll.blogspot.com/2015/01/bjork-in-new-york-times-magazine.html">http://whowillsaverockandroll.blogspot.com/2015/01/bjork-in-new-york-times-magazine.html</a></p>
+
+    </article>
+    
+    <h2><a href="articles/full-vinyl-albums-on-youtube">Full vinyl albums on youtube</a></h2>
+    <div class="variables">
+    <div class="date">@date=2014-06-19</div>
+    <div class="tags">@tags=<a href="tags/youtube">youtube</a>, <a href="tags/music">music</a></div>
+    </div>
+    <article>
+        <p>This will list  recorded full albums on YT</p>
+<p><a href="https://www.youtube.com/results?search_query=full+album+vinyl&oq=full+album+vinyl&aq=f&aqi=g1&aql&gs_l=youtube-psuggest-reduced.3..0.443980.449368.0.449578.26.26.5.7.7.0.158.1233.11j3.14.0">full album vinyl - YouTube</a></p>
+
+    </article>
+    
+            </body>
+        </html>
+    

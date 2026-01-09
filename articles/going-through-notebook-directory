@@ -1,0 +1,47 @@
+
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
+                <title>Going through notebook directory - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
+
+                <link rel="canonical" href="https://robkohr.com/articles/going-through-notebook-directory" />
+                <link rel="stylesheet" href="../neat.css">
+
+                <meta property="og:description" content="I am going through my notebook directory where I have a bunch of little jottings, and these next posts are from those files all brought into this blog so they can be deleted." />
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            
+    <h2><a href="articles/going-through-notebook-directory">Going through notebook directory</a></h2>
+    <div class="variables">
+    <div class="date">@date=2020-05-07</div>
+    <div class="tags">@tags=<a href="tags/notebook">notebook</a></div>
+    </div>
+    <article>
+        <p>I am going through my notebook directory where I have a bunch of little jottings, and these next posts are from those files all brought into this blog so they can be deleted.</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

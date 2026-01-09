@@ -1,0 +1,70 @@
+
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
+                <title>Failed to finish Neverall Tracker on time - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
+
+                <link rel="canonical" href="https://robkohr.com/articles/failed-to-finish-neverall-tracker-on-time" />
+                <link rel="stylesheet" href="../neat.css">
+<meta property="og:image" content="https://robkohr.com/images/Pasted image 20250430111523.png" />
+                <meta property="og:description" content="I had the goal of finishing Neverall Tracker at the beginning of April. Pivotal Tracker shuts down today on April 30th and I wanted a month to try to advertise and get people to export over their data" />
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            
+    <h2><a href="articles/failed-to-finish-neverall-tracker-on-time">Failed to finish Neverall Tracker on time</a></h2>
+    <div class="variables">
+    <div class="date">@date=2025-04-30</div>
+    <div class="tags">@tags=<a href="tags/neverall-tracker">neverall-tracker</a></div>
+    </div>
+    <article>
+        <p>I had the goal of finishing Neverall Tracker at the beginning of April. Pivotal Tracker shuts down today on April 30th and I wanted a month to try to advertise and get people to export over their data there to Neverall Tracker. </p>
+<p>Now it is april 30th and this is what we have:
+<img data-src="images/Pasted image 20250430111523.png" alt="Pasted image 20250430111523.png" style="max-width: 100%;" /></p>
+<p>It can import in from Pivotal Tracker (not that that helps anymore since it is about to go down), You can add stories, you can set the states, you can delete stories, and add titles. You can even drag things around and change their column and order. I even have it so it can send out invite emails and control members on your project. </p>
+<p>What I don&#39;t have is a finished product. It looks like mud, you don&#39;t have all of the form fields implemented. </p>
+<p>I would say the start date for this project was September 10th, 2024. So about 7 months.</p>
+<p>Now, lets keep in mind I work full time, and am an active father with kid sports and such. </p>
+<p>Ideally I should have been working about 1 hr a day 5 days a week. </p>
+<p>Looking at my activity log on github:</p>
+<p><img data-src="images/Pasted image 20250430112113.png" alt="Pasted image 20250430112113.png" style="max-width: 100%;" />
+<img data-src="images/Pasted image 20250430112752.png" alt="Pasted image 20250430112752.png" style="max-width: 100%;" /></p>
+<p>Though this is a mix of different side project repos and of course this blog as well, but lets say 80% of it is working on this project. </p>
+<p>So with 69 days with commits during these 7 months, that is 55 days on the project at about an hour a day. There are about 4.34 weeks in a month, so across 7 months that is about 30 weeks. So I only worked on this about 1.8 days a week. </p>
+<p>So it failed partly from lack of time commitment. Looking at where I got, if I maintained the goal of working on it 5 days a week, I would have gotten it completed by now. </p>
+<p>Which is pretty amazing considering the complexity of a project that took a full team probably over a year to complete. I think a big help for this was github co-pilot, and recently Cursor AI. There was a lot of grunt work to be done with validating huge numbers of fields, working out typescript and error handling for imports (which took about 2 months to get right), and recently some help with styling css. </p>
+<p>The architecture and planning though, AI sucks at. Maintaining good structure and not going off the rails in creating lots of bogus code... also a weakness though. </p>
+<p>They make good helping hands, but they have to be constantly monitored for hard to spot logic and other issues. But with that in mind, they have been a huge boon to development.</p>
+<p>Now where to go from here. </p>
+<p>I think I sunk the biggest user acquisition prospect: being able to import current projects into the system (and also the sad sunk cost of building the import system that will be useless). </p>
+<p>The deadline is no longer meaningful.</p>
+<p>And I am starting to get back interested in game development. I really wanna make Jewel Defender for steam, and with that I am trying out engines and I think I will be taking on Unreal Engine despite it&#39;s difficulty, because it&#39;s output can be so beautiful.</p>
+<p>This leaves me with the quandary. Keep working on a project that likely will have little prospect of being very profitable, but would be good to do to get myself into a space of working on real systems that are not games that can get subscriptions; or working on games that would be fun and inspiring to me, and could also be profitable, and would be following my passions. </p>
+<p>Writing it out, it seems more clear cut that I focus on game dev, but I think what I will do is try to maintain 1.8 days a week of working on this project. It is close to finished, and the tools that I build to complete this could be used on many other web application projects that I have kicking around in my backlog. </p>
+<p>So work on games for 3 days a week and 1.8 days a week hit web dev projects. Sounds great. :D</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

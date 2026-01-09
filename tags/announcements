@@ -1,0 +1,45 @@
+
+        <html>
+            <head>
+                <title>announcements - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            <h2>Tag: announcements</h2>
+    
+    <h2><a href="articles/a-blog-generator">A blog generator</a></h2>
+    <div class="variables">
+    <div class="date">@date=2019-11-20</div>
+    <div class="tags">@tags=<a href="tags/blog">blog</a>, <a href="tags/projects">projects</a>, <a href="tags/announcements">announcements</a>, <a href="tags/github">github</a>, <a href="tags/open-source">open-source</a></div>
+    </div>
+    <article>
+        <p>And just like that, now we have a dead simple blog generator tool:</p>
+<p><a href="https://github.com/RobKohr/dead-simple-markdown-to-static-blog-creator">Github / dead-simple-markdown-to-static-blog-creator</a></p>
+<p>This was used to create the site you are currently on!</p>
+
+    </article>
+    
+            </body>
+        </html>
+    

@@ -1,0 +1,43 @@
+
+        <html>
+            <head>
+                <title>comedy - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            <h2>Tag: comedy</h2>
+    
+    <h2><a href="articles/firebird-on-ice---comedy-show-class-ending">Firebird On Ice - Comedy Show Class Ending</a></h2>
+    <div class="variables">
+    <div class="date">@date=2016-12-16</div>
+    <div class="tags">@tags=<a href="tags/comedy">comedy</a></div>
+    </div>
+    <article>
+        <p><a href="https://www.youtube.com/watch?v=WdVkZtA4NPg">https://www.youtube.com/watch?v=WdVkZtA4NPg</a></p>
+
+    </article>
+    
+            </body>
+        </html>
+    

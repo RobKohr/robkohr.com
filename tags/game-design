@@ -1,0 +1,45 @@
+
+        <html>
+            <head>
+                <title>game-design - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            <h2>Tag: game-design</h2>
+    
+    <h2><a href="articles/on-game-design--make-them-cry">On game design: make them cry</a></h2>
+    <div class="variables">
+    <div class="date">@date=2019-11-26</div>
+    <div class="tags">@tags=<a href="tags/game-design">game-design</a>, <a href="tags/other-peoples-projects">other-peoples-projects</a>, <a href="tags/game-review">game-review</a></div>
+    </div>
+    <article>
+        <p>
+<p>I was talking with <a href="http://twitter.com/octagon_game_st">@octagon_game_st</a> about his game <a href="https://play.google.com/store/apps/details?id=com.octagon.octomaze_demo">Octomaze</a></p>
+<p>I didn&#39;t finish the demo, and well, I figured I should paste it in as I think it is a good breakdo...</p>
+ <p><a class="nowrap" href="articles/on-game-design--make-them-cry">READ MORE (430 words, 3 minutes, 1 images)</a></p> 
+    </article>
+    
+            </body>
+        </html>
+    

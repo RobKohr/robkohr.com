@@ -1,0 +1,55 @@
+
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
+                <title>Web3... why hasn't it come to be. - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
+
+                <link rel="canonical" href="https://robkohr.com/articles/web3----why-hasn-t-it-come-to-be-" />
+                <link rel="stylesheet" href="../neat.css">
+
+                <meta property="og:description" content="There was a thread on LinkedIn about the fact that web3 hasn't come to be yet, because it isn't ready. But I think the problem is simple.Web3 lacks any cohesive definition.There is a thought cloud of " />
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            
+    <h2><a href="articles/web3----why-hasn-t-it-come-to-be-">Web3... why hasn't it come to be.</a></h2>
+    <div class="variables">
+    <div class="date">@date=2025-05-11</div>
+    <div class="tags">@tags=<a href="tags/web3">web3</a>, <a href="tags/crypto-currencies">crypto-currencies</a>, <a href="tags/bitcoin">bitcoin</a></div>
+    </div>
+    <article>
+        <p>There was a thread on LinkedIn about the fact that web3 hasn&#39;t come to be yet, because it isn&#39;t ready. But I think the problem is simple.</p>
+<p>Web3 lacks any cohesive definition.</p>
+<p>There is a thought cloud of different ideas that somehow get lumped under web3, and some of them have come to be (cryptocurrencies), and some turned out to be not particularly useful despite having promise (smart contracts), and sometimes scammy (NFTs, stake based tokens).</p>
+<p>None of these things seem very webby, which probably is part of the confusion. There is also the idea of distributed block chain storied content, but that seems rather pointless, and I guess if you could make the blockchain have a database with an api, you could run a site on that, but anyone who knows about distributed blockchains and how much every little bit of them has to be replicated a million times and the inheritance cost of that, you can quickly see it would be a hard cost/benefit argument.</p>
+<p>Meanwhile, anyone can spin up some VPSes, and build complex interactive sites serving millions of users, and do it on a shoestring budget if they are smart with their tech choices.</p>
+<p>And I guess this tips into the web3 argument for a more distributed internet... which we essentially already have. It is just that users have voted with their feet to go for a centralized web of big web apps like facebook and reddit.</p>
+<p>You can build web applications that can be distributed between lots of servers, and that is called load balancing. :) But to be less of a smart aleck, there are also plenty of easy methods for a forum (or any web application) to be replicated between a bunch of different servers with different owners, and use it to distribute updates to each other. Mastodon is kinda a little bit like this. Bittorrent is another thing that has a bit of this. And Bitmessenger was something that could create real time distributed chat channels with no central server, but interest waned in it, because the fact is, most people don&#39;t have any interest in it ... and the distributed network piece of it was a disk and processor heavy thing that couldn&#39;t exist on mobile phones.</p>
+<p>I guess the whole point is, web3 seemed to be a desire to reframe one tool (blockchain content) as a way to usher in a new better world wide web focused on no central authority. We already have that in the forms that it provides value, but for the most part, it adds great complexity and cost, and for little benefit, and when it does work out well to be distributed, a custom tailored solution for a focused need such as bitttorent or tor solves those things and attempts to tamp down the costs of being distributed to make the user experience a good one. </p>
+<p>Perhaps a general purpose distributed crypo ledger for web applications just is like bitmessenger, an interesting idea that doesn&#39;t end up providing enough juice to be worth the squeeze.</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

@@ -1,0 +1,45 @@
+
+        <html>
+            <head>
+                <title>crypto-currencies - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            <h2>Tag: crypto-currencies</h2>
+    
+    <h2><a href="articles/web3----why-hasn-t-it-come-to-be-">Web3... why hasn't it come to be.</a></h2>
+    <div class="variables">
+    <div class="date">@date=2025-05-11</div>
+    <div class="tags">@tags=<a href="tags/web3">web3</a>, <a href="tags/crypto-currencies">crypto-currencies</a>, <a href="tags/bitcoin">bitcoin</a></div>
+    </div>
+    <article>
+        <p>There was a thread on LinkedIn about the fact that web3 hasn&#39;t come to be yet, because it isn&#39;t ready. But I think the problem is simple.</p>
+<p>Web3 lacks any cohesive definition.</p>
+<p>There is a thought cloud of different ideas that somehow get lumped under web3, and some of them have come to be (cryptocu...</p>
+ <p><a class="nowrap" href="articles/web3----why-hasn-t-it-come-to-be-">READ MORE (503 words, 4 minutes)</a></p> 
+    </article>
+    
+            </body>
+        </html>
+    

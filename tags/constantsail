@@ -1,0 +1,55 @@
+
+        <html>
+            <head>
+                <title>constantsail - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            <h2>Tag: constantsail</h2>
+    
+    <h2><a href="articles/constantsail-doing-surprisingly-well">ConstantSail doing surprisingly well</a></h2>
+    <div class="variables">
+    <div class="date">@date=2019-11-21</div>
+    <div class="tags">@tags=<a href="tags/projects">projects</a>, <a href="tags/constantsail">constantsail</a></div>
+    </div>
+    <article>
+        <p><a href="http://constantsail.com">Constant Sail Pirates and Traders</a> analytics seems to do consistently well despite being a page with no content on it other than an old video. I should make it a priority to make this game again with newer tech to support more users than before as there is just a continu...</p>
+ <p><a class="nowrap" href="articles/constantsail-doing-surprisingly-well">READ MORE (60 words, 0 minutes, 1 images)</a></p> 
+    </article>
+    
+    <h2><a href="articles/constantsail-initial-post">Constantsail initial post</a></h2>
+    <div class="variables">
+    <div class="date">@date=2008-11-08</div>
+    <div class="tags">@tags=<a href="tags/constantsun-blogger-post">constantsun-blogger-post</a>, <a href="tags/constantsail">constantsail</a></div>
+    </div>
+    <article>
+        <p>I am working on a great new web game at:
+<a href="http://constantsail.com/">http://constantsail.com/</a>
+It is currently somewhere between alpha and beta phases, and I am</p>
+
+    </article>
+    
+            </body>
+        </html>
+    

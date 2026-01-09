@@ -1,0 +1,49 @@
+
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
+                <title>Monty Python Universe song - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
+
+                <link rel="canonical" href="https://robkohr.com/articles/monty-python-universe-song" />
+                <link rel="stylesheet" href="../neat.css">
+
+                <meta property="og:description" content="Because...  Just because.From the meaning of life we have the Monty Python Universe song. A great rendition that shows just how amazing the universe really is from one ridiculous movie.https://www.you" />
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            
+    <h2><a href="articles/monty-python-universe-song">Monty Python Universe song</a></h2>
+    <div class="variables">
+    <div class="date">@date=2015-01-06</div>
+    <div class="tags">@tags=<a href="tags/funny">funny</a></div>
+    </div>
+    <article>
+        <p>Because...  Just because.</p>
+<p>From the meaning of life we have the Monty Python Universe song. A great rendition that shows just how amazing the universe really is from one ridiculous movie.
+<a href="https://www.youtube.com/watch?v=yq4uCWtQE24">https://www.youtube.com/watch?v=yq4uCWtQE24</a></p>
+
+    </article>
+    
+            </body>
+          </html>
+          

@@ -1,0 +1,60 @@
+
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
+                <title>Favorite Movies - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
+
+                <link rel="canonical" href="https://robkohr.com/articles/favorite-movies" />
+                <link rel="stylesheet" href="../neat.css">
+
+                <meta property="og:description" content="- Big Trouble In Little China- Mr. Right- Enchanted- Full Metal Jacket- Baby Driver- Rango- Moon- Sisu- Nobody- John Dies in the End- Dave Made a Maze- Tucker and Dale vs Evil" />
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            
+    <h2><a href="articles/favorite-movies">Favorite Movies</a></h2>
+    <div class="variables">
+    <div class="date"></div>
+    <div class="tags"></div>
+    </div>
+    <article>
+        <ul>
+<li>Big Trouble In Little China</li>
+<li>Mr. Right</li>
+<li>Enchanted</li>
+<li>Full Metal Jacket</li>
+<li>Baby Driver</li>
+<li>Rango</li>
+<li>Moon</li>
+<li>Sisu</li>
+<li>Nobody</li>
+<li>John Dies in the End</li>
+<li>Dave Made a Maze</li>
+<li>Tucker and Dale vs Evil</li>
+</ul>
+
+    </article>
+    
+            </body>
+          </html>
+          

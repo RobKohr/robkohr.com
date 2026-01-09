@@ -1,0 +1,126 @@
+
+        <html>
+            <head>
+                <title>react - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            <h2>Tag: react</h2>
+    
+    <h2><a href="articles/convert-react-javascript-project-to-typescript---one-file-at-a-time">Convert React Javascript project to Typescript - one file at a time</a></h2>
+    <div class="variables">
+    <div class="date">@date=2024-11-12</div>
+    <div class="tags">@tags=<a href="tags/react">react</a>, <a href="tags/javascript">javascript</a>, <a href="tags/programming">programming</a>, <a href="tags/youtube">youtube</a></div>
+    </div>
+    <article>
+        <p>Have a React project written in JS that you want to convert to Typescript, but not all at once? This step by step guide will help you with that:
+<a href="https://youtu.be/XqC1m2zJc4Y">https://youtu.be/XqC1m2zJc4Y</a></p>
+
+    </article>
+    
+    <h2><a href="articles/one-codebase-to-rule-them-all">One codebase to rule them all</a></h2>
+    <div class="variables">
+    <div class="date">@date=2021-05-25</div>
+    <div class="tags">@tags=<a href="tags/web-dev">web-dev</a>, <a href="tags/react">react</a>, <a href="tags/seo">seo</a>, <a href="tags/adhd">adhd</a></div>
+    </div>
+    <article>
+        <p>A little over a decade ago, I went on a binge and made a bunch of web apps of various sorts:</p>
+<ul>
+<li><a href="http://editthis.info">EditThis.info wiki hosting</a></li>
+<li><a href="http://cueflash.com">Cueflash flashcards study system</a></li>
+<li><a href="http://constantsail.com">ConstantSail pirate and trading game</a></li>
+<li>And atari combat and ast...</li>
+</ul>
+ <p><a class="nowrap" href="articles/one-codebase-to-rule-them-all">READ MORE (729 words, 6 minutes)</a></p> 
+    </article>
+    
+    <h2><a href="articles/easy-instant-github-branch-deployment">Easy instant github branch deployment</a></h2>
+    <div class="variables">
+    <div class="date">@date=2021-04-23</div>
+    <div class="tags">@tags=<a href="tags/servers">servers</a>, <a href="tags/web-dev">web-dev</a>, <a href="tags/react">react</a></div>
+    </div>
+    <article>
+        <p>Want to have your server update itself whenever you deploy to a github branch? Piece of cake:</p>
+<p><a href="https://github.com/RobKohr/github-hook-handler">https://github.com/RobKohr/github-hook-handler</a></p>
+
+    </article>
+    
+    <h2><a href="articles/thoughts-on-using-grommet-for-web-app-design">Thoughts on using grommet for web app design</a></h2>
+    <div class="variables">
+    <div class="date">@date=2020-10-08</div>
+    <div class="tags">@tags=<a href="tags/web-dev">web-dev</a>, <a href="tags/design">design</a>, <a href="tags/react">react</a></div>
+    </div>
+    <article>
+        <p>I used <a href="https://icons.grommet.io/">Grommet</a> for a react project, and here are some of my thoughts on it.</p>
+<p>Things I like</p>
+<ul>
+<li>Works out of the box for most use cases</li>
+<li>Nice for form elements</li>
+<li>Gives a standard look and feel for the site without any need to work out details</li>
+</ul>
+<p>Things I don&#39;t like</p>
+<ul>
+<li>A ...</li>
+</ul>
+ <p><a class="nowrap" href="articles/thoughts-on-using-grommet-for-web-app-design">READ MORE (266 words, 2 minutes)</a></p> 
+    </article>
+    
+    <h2><a href="articles/next-js-vs-create-react-app">Next.js vs Create-React-App</a></h2>
+    <div class="variables">
+    <div class="date">@date=2020-10-08</div>
+    <div class="tags">@tags=<a href="tags/web-dev">web-dev</a>, <a href="tags/react">react</a></div>
+    </div>
+    <article>
+        <p>When doing react, I have on worked with CRA up until now. I just took over a next.js app, and when built and deployed, it is speedy, but didn&#39;t like some of the details of development:</p>
+<ul>
+<li>myApp/pages/page-name/index.js is how you create a route for /page-name. While quick and friendly, I prefer t...</li>
+</ul>
+ <p><a class="nowrap" href="articles/next-js-vs-create-react-app">READ MORE (335 words, 3 minutes)</a></p> 
+    </article>
+    
+    <h2><a href="articles/an-attempted-simple-guide-for-react-hooks-">An attempted simple guide for react hooks.</a></h2>
+    <div class="variables">
+    <div class="date">@date=2020-05-14</div>
+    <div class="tags">@tags=<a href="tags/react">react</a>, <a href="tags/programming">programming</a>, <a href="tags/guides">guides</a></div>
+    </div>
+    <article>
+        <a href="articles/an-attempted-simple-guide-for-react-hooks-"><img class="icon" data-src="images/2020-05-14-14-46-05.png" alt="2020-05-14-14-46-05.png" style="max-width: 100%;" /></a><p>React hooks is what got me to actually like React enough to make it my primary web development framework (at least at this date). They break away from the ugly class based heavily nested object form of React, and make it truly more functional, while giving allowances for managing state in a sta...</p>
+ <p><a class="nowrap" href="articles/an-attempted-simple-guide-for-react-hooks-">READ MORE (776 words, 6 minutes, 1 images)</a></p> 
+    </article>
+    
+    <h2><a href="articles/angular-is-just-easier-to-make-most-web-applications-in-than-react">Angular is just easier to make most web applications in than React</a></h2>
+    <div class="variables">
+    <div class="date">@date=2019-11-25</div>
+    <div class="tags">@tags=<a href="tags/angular">angular</a>, <a href="tags/react">react</a></div>
+    </div>
+    <article>
+        <p>UPDATE: My feelings about this have changed quite a bit, a follow up article is to come. The summary is that React has gotten so much easier with React hooks that my recommendations here have changed.</p>
+<h3>A little background</h3>
+<p>I did about 5 years of AngularJS (not newer Angular) development, 1.5 ...</p>
+ <p><a class="nowrap" href="articles/angular-is-just-easier-to-make-most-web-applications-in-than-react">READ MORE (493 words, 4 minutes, 2 images)</a></p> 
+    </article>
+    
+            </body>
+        </html>
+    

@@ -1,0 +1,47 @@
+
+        <html>
+            <head>
+                <title>Should have never went to metric - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+<link rel="stylesheet" href="libs/highlight/styles/dark.min.css">
+<script src="libs/highlight/highlight.min.js"></script>
+<script src="image-lazy-loader.js"></script>
+
+                <link rel="canonical" href="https://robkohr.com/articles/should-have-never-went-to-metric" />
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            
+    <h2><a href="articles/should-have-never-went-to-metric">Should have never went to metric</a></h2>
+    <div class="variables">
+    <div class="date">@date=2024-02-13</div>
+    <div class="tags">@tags=<a href="tags/math">math</a></div>
+    </div>
+    <article>
+        <p>Ancient civilizations primarily used the base 12 number system. It was perfect because it has factors of 2,3,4,6, and you can even combine together like 8 being 2/3rds of 12. This was the base of mathematics for a long time, and gave rise to concepts such as angles, measurements of time, and was heavily used in tradecrafts that had to rely heavily on division: cooking, woodworking, etc. </p>
+<p>This lasted basically until the Arabic number system which was base 10 was taken on by the Romans who then spread it over the world, but the trades people created measurements that bridged the gap between the two, so you have names for groups of measurements that work off of the base 12 system.</p>
+<p>Now we have further entrenched in base 10, and thanks to technology, we can use digital measurement devices to kinda get by, but it sucks when you decide to just work with a ruler and calculations in your head, because you end up with some long decimals, and even some infinitely repeating ones. Hell even computers have a hell of a time with it because it doesn&#39;t match up with their base 2 number system leading to strange behaviors where numbers that should be equal are not. </p>
+<p>The fun thing is, if we were using base 12, we wouldn&#39;t need metric. All of the imperial measurement names were just a bridge between two bases, and like metric, we might have special names for various scales, but really it would all just be moving the duodecimal point to the left and right. </p>
+<p>We should have went back to base 12 as that was the best, but I am sure that would have been even harder for the world to have embraced.</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

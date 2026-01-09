@@ -1,0 +1,67 @@
+
+        <html>
+            <head>
+                <title>funny - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            <h2>Tag: funny</h2>
+    
+    <h2><a href="articles/parody-atari-game-covers">Parody atari game covers</a></h2>
+    <div class="variables">
+    <div class="date">@date=2023-06-29</div>
+    <div class="tags">@tags=<a href="tags/funny">funny</a>, <a href="tags/retro-gaming">retro-gaming</a></div>
+    </div>
+    <article>
+        <p>2015-01-07T10:52:54-0500</p>
+<p>Parody atari game covers... many look like they would have been fun :)</p>
+<p><a href="http://mightygodking.com/2008/04/21/fun-from-yesterday/">http://mightygodking.com/2008/04/21/fun-from-yesterday/</a></p>
+
+    </article>
+    
+    <h2><a href="articles/monty-python-universe-song">Monty Python Universe song</a></h2>
+    <div class="variables">
+    <div class="date">@date=2015-01-06</div>
+    <div class="tags">@tags=<a href="tags/funny">funny</a></div>
+    </div>
+    <article>
+        <p>Because...  Just because.</p>
+<p>From the meaning of life we have the Monty Python Universe song. A great rendition that shows just how amazing the universe really is from one ridiculous movie.
+<a href="https://www.youtube.com/watch?v=yq4uCWtQE24">https://www.youtube.com/watch?v=yq4uCWtQE24</a></p>
+
+    </article>
+    
+    <h2><a href="articles/photoshop-thing-i-did-in-the-computerlab">Photoshop thing I did in the computerlab</a></h2>
+    <div class="variables">
+    <div class="date">@date=2000-01-01</div>
+    <div class="tags">@tags=<a href="tags/funny">funny</a></div>
+    </div>
+    <article>
+        <p><img data-src="images/Jeeves-2000ish 2.jpg" alt="Jeeves-2000ish 2.jpg" style="max-width: 100%;" /></p>
+
+    </article>
+    
+            </body>
+        </html>
+    

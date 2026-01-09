@@ -1,0 +1,52 @@
+
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
+                <title>Picking a phone number to avoid telemarketers - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
+
+                <link rel="canonical" href="https://robkohr.com/articles/picking-a-phone-number-to-avoid-telemarketers" />
+                <link rel="stylesheet" href="../neat.css">
+
+                <meta property="og:description" content="I grew up in New Jersey, and when I first got a cell phone, T-mobile was using a brand new area code in NJ, 848, which was the area code I received, and I have yet to meet another person with that are" />
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            
+    <h2><a href="articles/picking-a-phone-number-to-avoid-telemarketers">Picking a phone number to avoid telemarketers</a></h2>
+    <div class="variables">
+    <div class="date">@date=2025-03-27</div>
+    <div class="tags">@tags=<a href="tags/telemarketers">telemarketers</a>, <a href="tags/spam">spam</a>, <a href="tags/android-apps">android-apps</a></div>
+    </div>
+    <article>
+        <p>I grew up in New Jersey, and when I first got a cell phone, T-mobile was using a brand new area code in NJ, 848, which was the area code I received, and I have yet to meet another person with that area code. A good reason for that is that I moved away from NJ not too long after college.</p>
+<p>Telemarketers can spoof phone numbers, and tend to like to pick one that match the number they are calling, or sometimes a neighboring area code to that area code.</p>
+<p>This makes it easy to block the vast majority of them since I don&#39;t get calls from that area code, and if you are getting a new phone number, I would recommend doing something similar. Choose an area code where you are extremely unlikely to receive calls from it (maybe Alaska), and then get a good call blocker tool.</p>
+<p>I have android, and unfortunately the app store kinda sucks now with everything being ladled with ads or subscriptions or both.</p>
+<p>I side loaded f-droid, which is an open source oriented app store which has lots of free apps that are not abusive. I am using this one which has blocked hundreds of spam calls, and allows for wildcard area code blocking:</p>
+<p><a href="https://f-droid.org/packages/at.bitfire.nophonespam/">https://f-droid.org/packages/at.bitfire.nophonespam/</a></p>
+
+    </article>
+    
+            </body>
+          </html>
+          

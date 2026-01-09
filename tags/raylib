@@ -1,0 +1,45 @@
+
+        <html>
+            <head>
+                <title>raylib - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
+
+                <link rel="stylesheet" href="../neat.css">
+                <base href="../">
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            <h2>Tag: raylib</h2>
+    
+    <h2><a href="articles/first-day-using-raylib">First day using Raylib</a></h2>
+    <div class="variables">
+    <div class="date">@date=2025-07-15</div>
+    <div class="tags">@tags=<a href="tags/raylib">raylib</a>, <a href="tags/gamedev">gamedev</a></div>
+    </div>
+    <article>
+        <a href="articles/first-day-using-raylib"><img class="icon" data-src="images/Screen Recording 2025-07-15 at 8.20.42 AM.mov" alt="Screen Recording 2025-07-15 at 8.20.42 AM.mov" style="max-width: 100%;" /></a><p>I&#39;ve never done a game before in C, nor one that is 3d. This only took a few hours to bang out.</p>
+<p>I&#39;ve done some in javascript before and some in lua for playdate to make this game: <a href="https://neverall.itch.io/jewel-defender">https://neverall.itch.io/jewel-defender</a></p>
+<p>I am now porting Jewel Defender to a 3d enviornment with a lot more featur...</p>
+ <p><a class="nowrap" href="articles/first-day-using-raylib">READ MORE (231 words, 2 minutes, 1 images)</a></p> 
+    </article>
+    
+            </body>
+        </html>
+    

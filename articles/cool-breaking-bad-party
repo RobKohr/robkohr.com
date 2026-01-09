@@ -1,0 +1,48 @@
+
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
+                <title>Cool breaking bad party - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="/rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
+
+                <link rel="canonical" href="https://robkohr.com/articles/cool-breaking-bad-party" />
+                <link rel="stylesheet" href="../neat.css">
+
+                <meta property="og:description" content="Cool craftiness[I'm in the empire business -- Breaking Bad season finale party](http://fortheloveofnike.com/2013/09/30/im-in-the-empire-business-breaking-bad-season-finale-party)" />
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            
+    <h2><a href="articles/cool-breaking-bad-party">Cool breaking bad party</a></h2>
+    <div class="variables">
+    <div class="date">@date=2014-05-30</div>
+    <div class="tags">@tags=<a href="tags/tv">tv</a></div>
+    </div>
+    <article>
+        <p>Cool craftiness</p>
+<p><a href="http://fortheloveofnike.com/2013/09/30/im-in-the-empire-business-breaking-bad-season-finale-party">I&#39;m in the empire business -- Breaking Bad season finale party</a></p>
+
+    </article>
+    
+            </body>
+          </html>
+          
