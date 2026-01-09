@@ -43,6 +43,8 @@
 ## Designing for Multiplayer Before You Need It
 @tags=gamedev, jewel-defender
 @date=2026-01-09
+![[gamers-fist-bump-after-winning-game.jpg]]
+
 Very often when indies are making a game, they aim to focus on local multiplayer first and punt on making an online multiplayer version of it. This is reasonable—you want to get the game out the door, and networking is hard.
 
 The problem is that local-only architecture quietly bakes in assumptions that are hostile to networking: shared state, immediate input, tight coupling between gameplay logic and rendering, and logic running “wherever it’s convenient.” Once those assumptions exist, adding a server later is not an additive change—it’s a rewrite.
