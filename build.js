@@ -262,7 +262,7 @@ articles.forEach(function (article) {
                 <title>${article.title} - RobKohr's Blog</title>
 ${headerExtras}
                 <link rel="canonical" href="https://robkohr.com/articles/${filename}" />
-                <link rel="stylesheet" href="../neat.css">
+                <link rel="stylesheet" href="./neat.css">
 ${article.icon ? '<meta property="og:image" content="https://robkohr.com/' + article.iconUrl + '" />' : ""}
                 <meta property="og:description" content="${description}" />
             </head>
@@ -290,7 +290,7 @@ Object.keys(tagPages).forEach(function (tag) {
             <head>
                 <title>${tag} - RobKohr's Blog</title>
 ${headerExtras}
-                <link rel="stylesheet" href="../neat.css">
+                <link rel="stylesheet" href="./neat.css">
                 <base href="../">
             </head>
             <body>
@@ -315,7 +315,7 @@ output = `
         <head>
             <title>Tags - RobKohr's Blog</title>
 ${headerExtras}
-            <link rel="stylesheet" href="../neat.css">
+            <link rel="stylesheet" href="./neat.css">
             <base href="../">
         </head>
         <body>

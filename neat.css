@@ -90,6 +90,8 @@ code {
 
 body {
     background-color: var(--light);
+    background-image: url('./backgrounds/clean-gray-paper.png');
+    background-repeat: repeat;
     margin: 0;
     max-width: 800px;
     /* padding: 0 20px 20px 20px; */
@@ -179,6 +181,9 @@ button + button, .button + .button, input[type=submit] + input[type=submit] {
         --lesslight: #333;
         --dark: #eee;
         --moredark: #fefefe;
+    }
+    body {
+        background-image: none;
     }
     /* This fixes an odd blue then white shadow on FF in dark mode */
     *:focus {

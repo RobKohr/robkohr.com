@@ -25,7 +25,7 @@
 <script src="./image-lazy-loader.js"></script>
 
                 <link rel="canonical" href="https://robkohr.com/articles/small-web" />
-                <link rel="stylesheet" href="../neat.css">
+                <link rel="stylesheet" href="./neat.css">
 
                 <meta property="og:description" content="I just found this:https://kagi.com/smallweb/It will present you with a new blog article from various different blogs when every you press the Next Post button. So much more enjoyable than browsing f" />
             </head>

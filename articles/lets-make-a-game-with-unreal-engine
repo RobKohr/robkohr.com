@@ -25,7 +25,7 @@
 <script src="./image-lazy-loader.js"></script>
 
                 <link rel="canonical" href="https://robkohr.com/articles/lets-make-a-game-with-unreal-engine" />
-                <link rel="stylesheet" href="../neat.css">
+                <link rel="stylesheet" href="./neat.css">
 
                 <meta property="og:description" content="So went back to exploring development with different game engines:- Unity	- Skipped partly because of not trusting them anymore	- More so because when I tried building a VR game in the past with them," />
             </head>

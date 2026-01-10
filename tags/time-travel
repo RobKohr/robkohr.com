@@ -21,7 +21,7 @@
 <script src="./libs/highlight/highlight.min.js"></script>
 <script src="./image-lazy-loader.js"></script>
 
-                <link rel="stylesheet" href="../neat.css">
+                <link rel="stylesheet" href="./neat.css">
                 <base href="../">
             </head>
             <body>

@@ -25,7 +25,7 @@
 <script src="./image-lazy-loader.js"></script>
 
                 <link rel="canonical" href="https://robkohr.com/articles/tailwind----quick-thought" />
-                <link rel="stylesheet" href="../neat.css">
+                <link rel="stylesheet" href="./neat.css">
 <meta property="og:image" content="https://robkohr.com/images/Pasted image 20241215105219.png" />
                 <meta property="og:description" content="Look at a bunch of tailwind videos, and thought about how I code to see if the two would be compatiable.Typically I make React components, and I give a class name to the top level of the react compone" />
             </head>

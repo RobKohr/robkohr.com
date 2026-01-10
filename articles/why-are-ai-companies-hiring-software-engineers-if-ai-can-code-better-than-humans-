@@ -25,7 +25,7 @@
 <script src="./image-lazy-loader.js"></script>
 
                 <link rel="canonical" href="https://robkohr.com/articles/why-are-ai-companies-hiring-software-engineers-if-ai-can-code-better-than-humans-" />
-                <link rel="stylesheet" href="../neat.css">
+                <link rel="stylesheet" href="./neat.css">
 
                 <meta property="og:description" content="This post is based on a response I gave to a reddit post with the same title.Ok, I have been a software engineer for over 25 years, and I love myself some AI for coding, but it can't do the thinking f" />
             </head>

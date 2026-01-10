@@ -25,7 +25,7 @@
 <script src="./image-lazy-loader.js"></script>
 
                 <link rel="canonical" href="https://robkohr.com/articles/now" />
-                <link rel="stylesheet" href="../neat.css">
+                <link rel="stylesheet" href="./neat.css">
 
                 <meta property="og:description" content="- Living in Longview, WA- Running a [local boardgame](https://robkohr.com/articles/longview-boardgamers) group (and collecting an every growing collection of games)- Working on https://neverall.com/tr" />
             </head>

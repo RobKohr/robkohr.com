@@ -25,7 +25,7 @@
 <script src="./image-lazy-loader.js"></script>
 
                 <link rel="canonical" href="https://robkohr.com/articles/more-videos-per-row-in-youtube" />
-                <link rel="stylesheet" href="../neat.css">
+                <link rel="stylesheet" href="./neat.css">
 
                 <meta property="og:description" content="I like youtube, but I don't like the recent change they did to make it so only 4 giant video thumbnails show per row on my large computer display. Why did I pay for all these pixels, if not to shove" />
             </head>
