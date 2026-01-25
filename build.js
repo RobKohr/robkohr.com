@@ -125,16 +125,17 @@ var articles = articlesFull.map(function (articleOrig) {
         wordCount / 130
       )} minutes${imageCountLabel})</a></p> `
   ).replace(/<img.+>/g, "");
-  let icon = "";
+  
+  // Extract icon image from article HTML (for both short and long articles)
+  let matches = article.html.match(/<img data-src="(.+)" alt="(.+)" style="max-width: 100%;" \/>/);
+  let icon = matches?.length ? matches[0] : "";
+  if (icon) {
+    icon = `<a href="${articleUrl(article)}">${icon.replace("img", 'img class="icon"')}</a>`;
+    article.iconUrl = matches[1];
+  }
+  
   if (!hasReadMore) {
     article.summary = article.html;
-  } else {
-    let matches = article.html.match(/<img data-src="(.+)" alt="(.+)" style="max-width: 100%;" \/>/);
-    icon = matches?.length ? matches[0] : "";
-    if (icon) {
-      icon = `<a href="${articleUrl(article)}">${icon.replace("img", 'img class="icon"')}</a>`;
-      article.iconUrl = matches[1];
-    }
   }
   article.icon = icon;
 
