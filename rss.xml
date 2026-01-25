@@ -5,9 +5,17 @@
             <link>https://robkohr.com</link>
             <description>RobKohr's Blog</description>
             <language>en-us</language>
-            <lastBuildDate>Fri, 09 Jan 2026 08:00:00 GMT</lastBuildDate>
-            <pubDate>Fri, 09 Jan 2026 08:00:00 GMT</pubDate>
+            <lastBuildDate>Sun, 25 Jan 2026 08:00:00 GMT</lastBuildDate>
+            <pubDate>Sun, 25 Jan 2026 08:00:00 GMT</pubDate>
             <ttl>1800</ttl>
+            <item>
+                <guid>https://robkohr.com/articles/vibe-coding-is-kinda-like-drunk-coding</guid>
+                <title>Vibe coding is kinda like drunk coding</title>
+                <link>https://robkohr.com/articles/vibe-coding-is-kinda-like-drunk-coding</link>
+                <description>Vibe coding is kinda like drunk coding</description>
+                <pubDate>Thu, 25 Dec 2025 00:00:00 GMT</pubDate>
+            </item>
+    
             <item>
                 <guid>https://robkohr.com/articles/designing-for-multiplayer-before-you-need-it</guid>
                 <title>Designing for Multiplayer Before You Need It</title>
@@ -398,14 +406,6 @@
                 <link>https://robkohr.com/articles/working-on-pivotal-tracker-replacement</link>
                 <description>Working on Pivotal Tracker replacement</description>
                 <pubDate>Fri, 23 Aug 2024 00:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/barbell-strategies</guid>
-                <title>Barbell Strategies</title>
-                <link>https://robkohr.com/articles/barbell-strategies</link>
-                <description>Barbell Strategies</description>
-                <pubDate>Sun, 28 Jul 2024 00:00:00 GMT</pubDate>
             </item>
     
         </channel>

@@ -39,6 +39,25 @@
 - Dave Made a Maze
 - Tucker and Dale vs Evil
 
+## Vibe coding is kinda like drunk coding
+@tags=gamedev, jewel-defender
+@date=2026-01-25
+
+![[Pasted image 20260125084917.png]]
+
+Back in my younger dumber days, did plenty of coding while way past the [Balmer Curve](https://xkcd.com/323/). When I was smart, I would wait till the next day while sober to review the code before committing it. 
+
+Reading over it the next day was a mix of "What the hell was I thinking" with a sprinkling of surprise from random brilliance. It was usually a huge amount of code that needed to be refactored, lots of random pathways that were unnecessary, but the positive was that it got the ball rolling on some stuff that was blocked by that "Ugh" feeling you get when you are trying to tackle something that had too many difficult steps. 
+
+Basically if you have to [Eat the frog](https://productivitypatrol.com/eat-the-frog/) you might as well drink some burbon first.
+
+Whenever I have done any amount of [vibe coding](https://en.wikipedia.org/wiki/Vibe_coding) , I have noticed that untangling the output reminds me exactly like drunk coding in my youth. A big mess, with some good ideas that might "work", and the ball definitely gets rolling, but some cleaning up is really necessary. 
+
+This is a good thing, or at least a better thing, because as every creator of anything knows, getting started is a pain.
+
+And on another positive note, being I am getting close to 50, I really don't drink anymore (that shit will kill you), and so instead I just I am just a sober friend to my drunk robot companion. 
+
+Ok, now I have to go find Bender.
 
 ## Designing for Multiplayer Before You Need It
 @tags=gamedev, jewel-defender
@@ -143,6 +162,7 @@ As somewon
 I give chatgpt a list of artists and tell it to produce a playlist of related songs and artists in this format:
 
 Artist 1 - song
+
 Artist 2 - song
 ...
 

@@ -39,8 +39,8 @@
     </div>
     <article>
         <p>I give chatgpt a list of artists and tell it to produce a playlist of related songs and artists in this format:</p>
-<p>Artist 1 - song
-Artist 2 - song
+<p>Artist 1 - song</p>
+<p>Artist 2 - song
 ...</p>
 <p>And then paste it in here:
 <a href="https://www.spotlistr.com/search/textbox">https://www.spotlistr.com/search/textbox</a></p>
