@@ -212,6 +212,10 @@ article {
     margin-bottom: 2em;
 }
 
+article img {
+    max-height: 40vh;
+}
+
 body{
     padding:1em;
     margin-top:1em;

@@ -43,7 +43,7 @@
 @tags=gamedev, jewel-defender
 @date=2026-01-25
 
-![[Pasted image 20260125084917.png]]
+![[20260125084917 Drunk bender - vibe coding.png]]
 
 Back in my younger dumber days, did plenty of coding while way past the [Balmer Curve](https://xkcd.com/323/). When I was smart, I would wait till the next day while sober to review the code before committing it. 
 
