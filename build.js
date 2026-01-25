@@ -126,16 +126,20 @@ var articles = articlesFull.map(function (articleOrig) {
       )} minutes${imageCountLabel})</a></p> `
   ).replace(/<img.+>/g, "");
   
-  // Extract icon image from article HTML (for both short and long articles)
-  let matches = article.html.match(/<img data-src="(.+)" alt="(.+)" style="[^"]*max-width:\s*100%[^"]*" \/>/);
-  let icon = matches?.length ? matches[0] : "";
-  if (icon) {
-    icon = `<a href="${articleUrl(article)}">${icon.replace("img", 'img class="icon"')}</a>`;
-    article.iconUrl = matches[1];
-  }
-  
   if (!hasReadMore) {
     article.summary = article.html;
+  }
+  
+  // Extract icon image from article HTML, but only if summary doesn't already contain images
+  const summaryHasImages = article.summary.match(/<img.+>/g);
+  let icon = "";
+  if (!summaryHasImages) {
+    let matches = article.html.match(/<img data-src="(.+)" alt="(.+)" style="[^"]*max-width:\s*100%[^"]*" \/>/);
+    icon = matches?.length ? matches[0] : "";
+    if (icon) {
+      icon = `<a href="${articleUrl(article)}">${icon.replace("img", 'img class="icon"')}</a>`;
+      article.iconUrl = matches[1];
+    }
   }
   article.icon = icon;
 

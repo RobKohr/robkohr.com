@@ -34,7 +34,7 @@
     <div class="tags">@tags=<a href="tags/raylib">raylib</a>, <a href="tags/blender">blender</a></div>
     </div>
     <article>
-        <a href="articles/working-on-getting-lighting-to-look-like-blender-in-raylib"><img class="icon" data-src="images/Raylib blender lighting 20250724144955.png" alt="Raylib blender lighting 20250724144955.png" style="max-width: 100%;max-height:40vh;" /></a><p><img data-src="images/Raylib blender lighting 20250724144955.png" alt="Raylib blender lighting 20250724144955.png" style="max-width: 100%;max-height:40vh;" /></p>
+        <p><img data-src="images/Raylib blender lighting 20250724144955.png" alt="Raylib blender lighting 20250724144955.png" style="max-width: 100%;max-height:40vh;" /></p>
 
     </article>
     

@@ -34,7 +34,7 @@
     <div class="tags">@tags=<a href="tags/art">art</a>, <a href="tags/pen">pen</a></div>
     </div>
     <article>
-        <a href="articles/chatbot"><img class="icon" data-src="images/2023-07-21 Chatbot.jpg" alt="2023-07-21 Chatbot.jpg" style="max-width: 100%;max-height:40vh;" /></a><p><img data-src="images/2023-07-21 Chatbot.jpg" alt="2023-07-21 Chatbot.jpg" style="max-width: 100%;max-height:40vh;" /></p>
+        <p><img data-src="images/2023-07-21 Chatbot.jpg" alt="2023-07-21 Chatbot.jpg" style="max-width: 100%;max-height:40vh;" /></p>
 
     </article>
     

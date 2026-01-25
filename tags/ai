@@ -28,6 +28,17 @@
             <a href="./index.html">&larr; Home</a>
             <h2>Tag: ai</h2>
     
+    <h2><a href="articles/vibe-coding-is-kinda-like-drunk-coding">Vibe coding is kinda like drunk coding</a></h2>
+    <div class="variables">
+    <div class="date">@date=2026-01-25</div>
+    <div class="tags">@tags=<a href="tags/ai">ai</a>, <a href="tags/coding">coding</a></div>
+    </div>
+    <article>
+        <a href="articles/vibe-coding-is-kinda-like-drunk-coding"><img class="icon" data-src="images/20260125084917 Drunk bender - vibe coding.png" alt="20260125084917 Drunk bender - vibe coding.png" style="max-width: 100%;max-height:40vh;" /></a><p>Back in my younger dumber days, did plenty of coding while way past the <a href="https://xkcd.com/323/">Balmer Curve</a>. When I was smart, I would wait till the next day while sober to review the code before committing it. </p>
+<p>Reading over it the next day was a mix of &quot;What the hell was I thinking&quot; with a ...</p>
+ <p><a class="nowrap" href="articles/vibe-coding-is-kinda-like-drunk-coding">READ MORE (252 words, 2 minutes, 1 images)</a></p> 
+    </article>
+    
     <h2><a href="articles/ai-and-raylib-is-like-peanut-butter-and-jelly">AI and raylib is like peanut butter and jelly</a></h2>
     <div class="variables">
     <div class="date">@date=2025-08-13</div>
@@ -129,7 +140,7 @@ Teslas that people let drive...</p>
     <div class="tags">@tags=<a href="tags/ai">ai</a></div>
     </div>
     <article>
-        <a href="articles/ai-generated-image-of-a-mushroom-house---midjourney"><img class="icon" data-src="images/Mushroom House.png" alt="Mushroom House.png" style="max-width: 100%;max-height:40vh;" /></a><p><img data-src="images/Mushroom House.png" alt="Mushroom House.png" style="max-width: 100%;max-height:40vh;" /></p>
+        <p><img data-src="images/Mushroom House.png" alt="Mushroom House.png" style="max-width: 100%;max-height:40vh;" /></p>
 
     </article>
     

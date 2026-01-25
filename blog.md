@@ -40,7 +40,7 @@
 - Tucker and Dale vs Evil
 
 ## Vibe coding is kinda like drunk coding
-@tags=gamedev, jewel-defender
+@tags=ai, coding
 @date=2026-01-25
 
 ![[20260125084917 Drunk bender - vibe coding.png]]

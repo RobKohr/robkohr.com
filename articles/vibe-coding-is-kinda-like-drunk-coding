@@ -35,7 +35,7 @@
     <h2><a href="articles/vibe-coding-is-kinda-like-drunk-coding">Vibe coding is kinda like drunk coding</a></h2>
     <div class="variables">
     <div class="date">@date=2026-01-25</div>
-    <div class="tags">@tags=<a href="tags/gamedev">gamedev</a>, <a href="tags/jewel-defender">jewel-defender</a></div>
+    <div class="tags">@tags=<a href="tags/ai">ai</a>, <a href="tags/coding">coding</a></div>
     </div>
     <article>
         <p><img data-src="images/20260125084917 Drunk bender - vibe coding.png" alt="20260125084917 Drunk bender - vibe coding.png" style="max-width: 100%;max-height:40vh;" /></p>
