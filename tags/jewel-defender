@@ -34,7 +34,7 @@
     <div class="tags">@tags=<a href="tags/gamedev">gamedev</a>, <a href="tags/jewel-defender">jewel-defender</a></div>
     </div>
     <article>
-        <a href="articles/designing-for-multiplayer-before-you-need-it"><img class="icon" data-src="images/gamers-fist-bump-after-winning-game.jpg" alt="gamers-fist-bump-after-winning-game.jpg" style="max-width: 100%;max-height:40vh;" /></a><p>Very often when indies are making a game, they aim to focus on local multiplayer first and punt on making an online multiplayer version of it. This is reasonable—you want to get the game out the door, and networking is hard.</p>
+        <p>Very often when indies are making a game, they aim to focus on local multiplayer first and punt on making an online multiplayer version of it. This is reasonable—you want to get the game out the door, and networking is hard.</p>
 <p>The problem is that local-only architecture quietly bakes in assumptio...</p>
  <p><a class="nowrap" href="articles/designing-for-multiplayer-before-you-need-it">READ MORE (481 words, 4 minutes, 1 images)</a></p> 
     </article>
