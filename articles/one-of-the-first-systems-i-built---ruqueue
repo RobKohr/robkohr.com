@@ -26,7 +26,7 @@
 
                 <link rel="canonical" href="https://robkohr.com/articles/one-of-the-first-systems-i-built---ruqueue" />
                 <link rel="stylesheet" href="./neat.css">
-
+<meta property="og:image" content="https://robkohr.com/images/Pasted image 20250707144724.png" />
                 <meta property="og:description" content="![[Pasted image 20250707144724.png]]I built this with https://github.com/fultonj for Rutgers University about 20 years ago. It was used by the university to manage all the different types of request t" />
             </head>
             <body>

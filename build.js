@@ -120,11 +120,6 @@ var articles = articlesFull.map(function (articleOrig) {
   const summaryLength = 300;
   const hasReadMore = contentWithoutATags.length > summaryLength;
   
-  // Check if images appear in the summary portion (first 300 chars of content with images)
-  const summaryContent = contentWithoutVariables.substring(0, 300);
-  const summaryHtml = htmlUpdaters(marked.parse(summaryContent + "..."));
-  const summaryHasImages = summaryHtml.match(/<img.+>/g);
-  
   article.summary = htmlUpdaters(
     marked.parse(contentWithoutATags.substring(0, 300) + "...") +
       ` <p><a class="nowrap" href="${articleUrl(article)}">READ MORE (${wordCount} words, ${Math.round(
@@ -137,6 +132,8 @@ var articles = articlesFull.map(function (articleOrig) {
   }
   
   // Extract icon image from article HTML, but only if summary doesn't already contain images
+  // Check the final summary HTML that will be displayed
+  const summaryHasImages = article.summary.match(/<img.+>/g);
   let icon = "";
   if (!summaryHasImages) {
     let matches = article.html.match(/<img data-src="(.+)" alt="(.+)" style="[^"]*max-width:\s*100%[^"]*" \/>/);

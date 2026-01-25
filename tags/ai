@@ -34,7 +34,7 @@
     <div class="tags">@tags=<a href="tags/ai">ai</a>, <a href="tags/coding">coding</a></div>
     </div>
     <article>
-        <p>Back in my younger dumber days, did plenty of coding while way past the <a href="https://xkcd.com/323/">Balmer Curve</a>. When I was smart, I would wait till the next day while sober to review the code before committing it. </p>
+        <a href="articles/vibe-coding-is-kinda-like-drunk-coding"><img class="icon" data-src="images/20260125084917 Drunk bender - vibe coding.png" alt="20260125084917 Drunk bender - vibe coding.png" style="max-width: 100%;max-height:40vh;" /></a><p>Back in my younger dumber days, did plenty of coding while way past the <a href="https://xkcd.com/323/">Balmer Curve</a>. When I was smart, I would wait till the next day while sober to review the code before committing it. </p>
 <p>Reading over it the next day was a mix of &quot;What the hell was I thinking&quot; with a ...</p>
  <p><a class="nowrap" href="articles/vibe-coding-is-kinda-like-drunk-coding">READ MORE (252 words, 2 minutes, 1 images)</a></p> 
     </article>
@@ -45,7 +45,7 @@
     <div class="tags">@tags=<a href="tags/raylib">raylib</a>, <a href="tags/c">c</a>, <a href="tags/programming">programming</a>, <a href="tags/ai">ai</a>, <a href="tags/llms">llms</a></div>
     </div>
     <article>
-        <p>My day job is working on enterprise scale React web applications with thousands of files. </p>
+        <a href="articles/ai-and-raylib-is-like-peanut-butter-and-jelly"><img class="icon" data-src="images/20250813130114 AI and Raylib as peanutbutter and jelly.png" alt="20250813130114 AI and Raylib as peanutbutter and jelly.png" style="max-width: 100%;max-height:40vh;" /></a><p>My day job is working on enterprise scale React web applications with thousands of files. </p>
 <p>Our company is wading into the AI agent realm and I have been using Cursor there and will be trying Claude code next week.</p>
 <p>I have to say it has been a fun time, and pretty eye opening as to what AI is g...</p>
  <p><a class="nowrap" href="articles/ai-and-raylib-is-like-peanut-butter-and-jelly">READ MORE (456 words, 4 minutes, 1 images)</a></p> 
