@@ -34,7 +34,7 @@
     <div class="tags">@tags=<a href="tags/space-battle-game">space-battle-game</a>, <a href="tags/art">art</a>, <a href="tags/concept-art">concept-art</a></div>
     </div>
     <article>
-        <p><img data-src="images/20220726 Concept art for space fighting game.jpg" alt="20220726 Concept art for space fighting game.jpg" style="max-width: 100%;" /></p>
+        <p><img data-src="images/20220726 Concept art for space fighting game.jpg" alt="20220726 Concept art for space fighting game.jpg" style="max-width: 100%;max-height:40vh;" /></p>
 
     </article>
     
@@ -44,7 +44,7 @@
     <div class="tags">@tags=<a href="tags/concept-art">concept-art</a>, <a href="tags/govt">govt</a></div>
     </div>
     <article>
-        <p><img data-src="images/2019-04-24 Govt law monitoring site.jpg" alt="2019-04-24 Govt law monitoring site.jpg" style="max-width: 100%;" /></p>
+        <p><img data-src="images/2019-04-24 Govt law monitoring site.jpg" alt="2019-04-24 Govt law monitoring site.jpg" style="max-width: 100%;max-height:40vh;" /></p>
 
     </article>
     
@@ -54,7 +54,7 @@
     <div class="tags">@tags=<a href="tags/concept-art">concept-art</a>, <a href="tags/playhouse">playhouse</a></div>
     </div>
     <article>
-        <p><img data-src="images/2019-04-24 submarine playhouse.jpg" alt="2019-04-24 submarine playhouse.jpg" style="max-width: 100%;" /></p>
+        <p><img data-src="images/2019-04-24 submarine playhouse.jpg" alt="2019-04-24 submarine playhouse.jpg" style="max-width: 100%;max-height:40vh;" /></p>
 
     </article>
     

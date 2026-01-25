@@ -34,7 +34,7 @@
     <div class="tags">@tags=<a href="tags/comics">comics</a></div>
     </div>
     <article>
-        <p><img data-src="images/Pasted image 20230629075149.png" alt="Pasted image 20230629075149.png" style="max-width: 100%;" /></p>
+        <p><img data-src="images/Pasted image 20230629075149.png" alt="Pasted image 20230629075149.png" style="max-width: 100%;max-height:40vh;" /></p>
 
     </article>
     

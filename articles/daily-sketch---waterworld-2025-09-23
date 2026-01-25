@@ -38,7 +38,7 @@
     <div class="tags">@tags=<a href="tags/daily-sketch">daily-sketch</a></div>
     </div>
     <article>
-        <p><img data-src="images/20250923 Waterworld.jpg" alt="20250923 Waterworld.jpg" style="max-width: 100%;" /></p>
+        <p><img data-src="images/20250923 Waterworld.jpg" alt="20250923 Waterworld.jpg" style="max-width: 100%;max-height:40vh;" /></p>
 
     </article>
     

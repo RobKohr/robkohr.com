@@ -26,7 +26,7 @@
 
                 <link rel="canonical" href="https://robkohr.com/articles/first-day-using-raylib" />
                 <link rel="stylesheet" href="./neat.css">
-<meta property="og:image" content="https://robkohr.com/images/Screen Recording 2025-07-15 at 8.20.42 AM.mov" />
+
                 <meta property="og:description" content="![[Screen Recording 2025-07-15 at 8.20.42 AM.mov]]I've never done a game before in C, nor one that is 3d. This only took a few hours to bang out.I've done some in javascript before and some in lua for" />
             </head>
             <body>
@@ -38,7 +38,7 @@
     <div class="tags">@tags=<a href="tags/raylib">raylib</a>, <a href="tags/gamedev">gamedev</a></div>
     </div>
     <article>
-        <p><img data-src="images/Screen Recording 2025-07-15 at 8.20.42 AM.mov" alt="Screen Recording 2025-07-15 at 8.20.42 AM.mov" style="max-width: 100%;" />
+        <p><img data-src="images/Screen Recording 2025-07-15 at 8.20.42 AM.mov" alt="Screen Recording 2025-07-15 at 8.20.42 AM.mov" style="max-width: 100%;max-height:40vh;" />
 I&#39;ve never done a game before in C, nor one that is 3d. This only took a few hours to bang out.</p>
 <p>I&#39;ve done some in javascript before and some in lua for playdate to make this game: <a href="https://neverall.itch.io/jewel-defender">https://neverall.itch.io/jewel-defender</a></p>
 <p>I am now porting Jewel Defender to a 3d enviornment with a lot more features and will be bring it to steam.</p>

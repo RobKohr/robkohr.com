@@ -38,7 +38,7 @@
     <div class="tags">@tags=<a href="tags/ai">ai</a></div>
     </div>
     <article>
-        <p><img data-src="images/Mushroom House.png" alt="Mushroom House.png" style="max-width: 100%;" /></p>
+        <p><img data-src="images/Mushroom House.png" alt="Mushroom House.png" style="max-width: 100%;max-height:40vh;" /></p>
 
     </article>
     

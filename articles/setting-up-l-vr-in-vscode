@@ -26,7 +26,7 @@
 
                 <link rel="canonical" href="https://robkohr.com/articles/setting-up-l-vr-in-vscode" />
                 <link rel="stylesheet" href="./neat.css">
-<meta property="og:image" content="https://robkohr.com/images/Pasted image 20250429114249.png" />
+
                 <meta property="og:description" content="This was taken down, and I found it in the web archive here:https://web.archive.org/web/20230209043024/https://gist.github.com/ussaohelcim/9eca6eaa903eefff07b4f3e2019de915### Requirements- vscode- Lua" />
             </head>
             <body>
@@ -63,7 +63,7 @@
 <li>search for <code>Lua › Workspace: Library</code></li>
 <li>press add item</li>
 <li>insert the docs api full path 
-<img data-src="images/Pasted image 20250429114249.png" alt="Pasted image 20250429114249.png" style="max-width: 100%;" /></li>
+<img data-src="images/Pasted image 20250429114249.png" alt="Pasted image 20250429114249.png" style="max-width: 100%;max-height:40vh;" /></li>
 <li>you are ready to go</li>
 </ul>
 <hr>

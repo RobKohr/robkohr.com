@@ -26,7 +26,7 @@
 
                 <link rel="canonical" href="https://robkohr.com/articles/failed-to-finish-neverall-tracker-on-time" />
                 <link rel="stylesheet" href="./neat.css">
-<meta property="og:image" content="https://robkohr.com/images/Pasted image 20250430111523.png" />
+
                 <meta property="og:description" content="I had the goal of finishing Neverall Tracker at the beginning of April. Pivotal Tracker shuts down today on April 30th and I wanted a month to try to advertise and get people to export over their data" />
             </head>
             <body>
@@ -40,15 +40,15 @@
     <article>
         <p>I had the goal of finishing Neverall Tracker at the beginning of April. Pivotal Tracker shuts down today on April 30th and I wanted a month to try to advertise and get people to export over their data there to Neverall Tracker. </p>
 <p>Now it is april 30th and this is what we have:
-<img data-src="images/Pasted image 20250430111523.png" alt="Pasted image 20250430111523.png" style="max-width: 100%;" /></p>
+<img data-src="images/Pasted image 20250430111523.png" alt="Pasted image 20250430111523.png" style="max-width: 100%;max-height:40vh;" /></p>
 <p>It can import in from Pivotal Tracker (not that that helps anymore since it is about to go down), You can add stories, you can set the states, you can delete stories, and add titles. You can even drag things around and change their column and order. I even have it so it can send out invite emails and control members on your project. </p>
 <p>What I don&#39;t have is a finished product. It looks like mud, you don&#39;t have all of the form fields implemented. </p>
 <p>I would say the start date for this project was September 10th, 2024. So about 7 months.</p>
 <p>Now, lets keep in mind I work full time, and am an active father with kid sports and such. </p>
 <p>Ideally I should have been working about 1 hr a day 5 days a week. </p>
 <p>Looking at my activity log on github:</p>
-<p><img data-src="images/Pasted image 20250430112113.png" alt="Pasted image 20250430112113.png" style="max-width: 100%;" />
-<img data-src="images/Pasted image 20250430112752.png" alt="Pasted image 20250430112752.png" style="max-width: 100%;" /></p>
+<p><img data-src="images/Pasted image 20250430112113.png" alt="Pasted image 20250430112113.png" style="max-width: 100%;max-height:40vh;" />
+<img data-src="images/Pasted image 20250430112752.png" alt="Pasted image 20250430112752.png" style="max-width: 100%;max-height:40vh;" /></p>
 <p>Though this is a mix of different side project repos and of course this blog as well, but lets say 80% of it is working on this project. </p>
 <p>So with 69 days with commits during these 7 months, that is 55 days on the project at about an hour a day. There are about 4.34 weeks in a month, so across 7 months that is about 30 weeks. So I only worked on this about 1.8 days a week. </p>
 <p>So it failed partly from lack of time commitment. Looking at where I got, if I maintained the goal of working on it 5 days a week, I would have gotten it completed by now. </p>

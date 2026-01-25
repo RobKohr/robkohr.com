@@ -26,7 +26,7 @@
 
                 <link rel="canonical" href="https://robkohr.com/articles/vibe-coding-is-kinda-like-drunk-coding" />
                 <link rel="stylesheet" href="./neat.css">
-<meta property="og:image" content="https://robkohr.com/images/20260125084917 Drunk bender - vibe coding.png" />
+
                 <meta property="og:description" content="![[20260125084917 Drunk bender - vibe coding.png]]Back in my younger dumber days, did plenty of coding while way past the [Balmer Curve](https://xkcd.com/323/). When I was smart, I would wait till the" />
             </head>
             <body>
@@ -38,7 +38,7 @@
     <div class="tags">@tags=<a href="tags/gamedev">gamedev</a>, <a href="tags/jewel-defender">jewel-defender</a></div>
     </div>
     <article>
-        <p><img data-src="images/20260125084917 Drunk bender - vibe coding.png" alt="20260125084917 Drunk bender - vibe coding.png" style="max-width: 100%;" /></p>
+        <p><img data-src="images/20260125084917 Drunk bender - vibe coding.png" alt="20260125084917 Drunk bender - vibe coding.png" style="max-width: 100%;max-height:40vh;" /></p>
 <p>Back in my younger dumber days, did plenty of coding while way past the <a href="https://xkcd.com/323/">Balmer Curve</a>. When I was smart, I would wait till the next day while sober to review the code before committing it. </p>
 <p>Reading over it the next day was a mix of &quot;What the hell was I thinking&quot; with a sprinkling of surprise from random brilliance. It was usually a huge amount of code that needed to be refactored, lots of random pathways that were unnecessary, but the positive was that it got the ball rolling on some stuff that was blocked by that &quot;Ugh&quot; feeling you get when you are trying to tackle something that had too many difficult steps. </p>
 <p>Basically if you have to <a href="https://productivitypatrol.com/eat-the-frog/">Eat the frog</a> you might as well drink some burbon first.</p>

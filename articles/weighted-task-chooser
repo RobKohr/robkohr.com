@@ -26,7 +26,7 @@
 
                 <link rel="canonical" href="https://robkohr.com/articles/weighted-task-chooser" />
                 <link rel="stylesheet" href="./neat.css">
-<meta property="og:image" content="https://robkohr.com/images/2020-06-12-08-34-20.png" />
+
                 <meta property="og:description" content="![[2020-06-12-08-34-20.png]][Weighted task chooser](https://github.com/RobKohr/weighted-task-chooser) is a command line node script that will select a randomly weighted task to do out of a tasklist ma" />
             </head>
             <body>
@@ -38,7 +38,7 @@
     <div class="tags">@tags=<a href="tags/projects">projects</a>, <a href="tags/launched">launched</a></div>
     </div>
     <article>
-        <p><img data-src="images/2020-06-12-08-34-20.png" alt="2020-06-12-08-34-20.png" style="max-width: 100%;" /></p>
+        <p><img data-src="images/2020-06-12-08-34-20.png" alt="2020-06-12-08-34-20.png" style="max-width: 100%;max-height:40vh;" /></p>
 <p><a href="https://github.com/RobKohr/weighted-task-chooser">Weighted task chooser</a> is a command line node script that will select a randomly weighted task to do out of a tasklist markdown file.</p>
 <p>So you have a list of tasks to do in a markdown file:</p>
 <ul>

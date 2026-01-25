@@ -26,7 +26,7 @@
 
                 <link rel="canonical" href="https://robkohr.com/articles/designing-for-multiplayer-before-you-need-it" />
                 <link rel="stylesheet" href="./neat.css">
-<meta property="og:image" content="https://robkohr.com/images/gamers-fist-bump-after-winning-game.jpg" />
+
                 <meta property="og:description" content="![[gamers-fist-bump-after-winning-game.jpg]]Very often when indies are making a game, they aim to focus on local multiplayer first and punt on making an online multiplayer version of it. This is reaso" />
             </head>
             <body>
@@ -38,7 +38,7 @@
     <div class="tags">@tags=<a href="tags/gamedev">gamedev</a>, <a href="tags/jewel-defender">jewel-defender</a></div>
     </div>
     <article>
-        <p><img data-src="images/gamers-fist-bump-after-winning-game.jpg" alt="gamers-fist-bump-after-winning-game.jpg" style="max-width: 100%;" /></p>
+        <p><img data-src="images/gamers-fist-bump-after-winning-game.jpg" alt="gamers-fist-bump-after-winning-game.jpg" style="max-width: 100%;max-height:40vh;" /></p>
 <p>Very often when indies are making a game, they aim to focus on local multiplayer first and punt on making an online multiplayer version of it. This is reasonable—you want to get the game out the door, and networking is hard.</p>
 <p>The problem is that local-only architecture quietly bakes in assumptions that are hostile to networking: shared state, immediate input, tight coupling between gameplay logic and rendering, and logic running “wherever it’s convenient.” Once those assumptions exist, adding a server later is not an additive change—it’s a rewrite.</p>
 <p>One way to bridge this gap is to wire the game as if it were multiplayer without actually implementing online multiplayer yet, and let that shape your code. For some concrete context, I’m doing this right now in <em>Jewel Defender</em>.</p>

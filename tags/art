@@ -34,7 +34,7 @@
     <div class="tags">@tags=<a href="tags/art">art</a>, <a href="tags/halloween">halloween</a>, <a href="tags/daily-sketch">daily-sketch</a></div>
     </div>
     <article>
-        <p><img data-src="images/2025-10-10 A Texas Chainsaw Manicure.jpg" alt="2025-10-10 A Texas Chainsaw Manicure.jpg" style="max-width: 100%;" /></p>
+        <p><img data-src="images/2025-10-10 A Texas Chainsaw Manicure.jpg" alt="2025-10-10 A Texas Chainsaw Manicure.jpg" style="max-width: 100%;max-height:40vh;" /></p>
 
     </article>
     
@@ -44,7 +44,7 @@
     <div class="tags">@tags=<a href="tags/art">art</a>, <a href="tags/gaming">gaming</a>, <a href="tags/thoughts">thoughts</a></div>
     </div>
     <article>
-        <a href="articles/modern-art---indie-gaming"><img class="icon" data-src="images/Pasted image 20250105093107.png" alt="Pasted image 20250105093107.png" style="max-width: 100%;" /></a><p>As GPUs got better, and as computer graphics in games just kept advancing, we eventually reached a point where some games were photorealistic. Not even just the cars and scenery, but even the people themselves. Somehow the gaming industry broke out of the [uncanny valley](<a href="https://en.wikipedia.org">https://en.wikipedia.org</a>...</p>
+        <p>As GPUs got better, and as computer graphics in games just kept advancing, we eventually reached a point where some games were photorealistic. Not even just the cars and scenery, but even the people themselves. Somehow the gaming industry broke out of the [uncanny valley](<a href="https://en.wikipedia.org">https://en.wikipedia.org</a>...</p>
  <p><a class="nowrap" href="articles/modern-art---indie-gaming">READ MORE (769 words, 6 minutes, 13 images)</a></p> 
     </article>
     
@@ -54,7 +54,7 @@
     <div class="tags">@tags=<a href="tags/art">art</a></div>
     </div>
     <article>
-        <p><img data-src="images/2023-12-07 Mountain lake and forest.png" alt="2023-12-07 Mountain lake and forest.png" style="max-width: 100%;" /></p>
+        <p><img data-src="images/2023-12-07 Mountain lake and forest.png" alt="2023-12-07 Mountain lake and forest.png" style="max-width: 100%;max-height:40vh;" /></p>
 
     </article>
     
@@ -77,7 +77,7 @@
     <div class="tags">@tags=<a href="tags/art">art</a>, <a href="tags/pen">pen</a></div>
     </div>
     <article>
-        <p><img data-src="images/2023-07-21 Chatbot.jpg" alt="2023-07-21 Chatbot.jpg" style="max-width: 100%;" /></p>
+        <p><img data-src="images/2023-07-21 Chatbot.jpg" alt="2023-07-21 Chatbot.jpg" style="max-width: 100%;max-height:40vh;" /></p>
 
     </article>
     
@@ -87,7 +87,7 @@
     <div class="tags">@tags=<a href="tags/art">art</a>, <a href="tags/spen">spen</a></div>
     </div>
     <article>
-        <p><img data-src="images/Ice cream 2023-05-13.jpg" alt="Ice cream 2023-05-13.jpg" style="max-width: 100%;" /></p>
+        <p><img data-src="images/Ice cream 2023-05-13.jpg" alt="Ice cream 2023-05-13.jpg" style="max-width: 100%;max-height:40vh;" /></p>
 
     </article>
     
@@ -97,7 +97,7 @@
     <div class="tags">@tags=<a href="tags/art">art</a>, <a href="tags/spen">spen</a>, <a href="tags/food">food</a></div>
     </div>
     <article>
-        <p><img data-src="images/McDonald&#39;s breakfast_2023-03-04.jpg" alt="McDonald&#39;s breakfast_2023-03-04.jpg" style="max-width: 100%;" /></p>
+        <p><img data-src="images/McDonald&#39;s breakfast_2023-03-04.jpg" alt="McDonald&#39;s breakfast_2023-03-04.jpg" style="max-width: 100%;max-height:40vh;" /></p>
 
     </article>
     
@@ -107,8 +107,8 @@
     <div class="tags">@tags=<a href="tags/art">art</a>, <a href="tags/spen">spen</a></div>
     </div>
     <article>
-        <p><img data-src="images/Santa - 2022-12-20.png" alt="Santa - 2022-12-20.png" style="max-width: 100%;" /></p>
-<p><img data-src="images/20221220 Elf.png" alt="20221220 Elf.png" style="max-width: 100%;" /></p>
+        <p><img data-src="images/Santa - 2022-12-20.png" alt="Santa - 2022-12-20.png" style="max-width: 100%;max-height:40vh;" /></p>
+<p><img data-src="images/20221220 Elf.png" alt="20221220 Elf.png" style="max-width: 100%;max-height:40vh;" /></p>
 
     </article>
     
@@ -118,7 +118,7 @@
     <div class="tags">@tags=<a href="tags/art">art</a>, <a href="tags/spen">spen</a></div>
     </div>
     <article>
-        <p><img data-src="images/20220818 Desk.jpg" alt="20220818 Desk.jpg" style="max-width: 100%;" /></p>
+        <p><img data-src="images/20220818 Desk.jpg" alt="20220818 Desk.jpg" style="max-width: 100%;max-height:40vh;" /></p>
 
     </article>
     
@@ -128,7 +128,7 @@
     <div class="tags">@tags=<a href="tags/space-battle-game">space-battle-game</a>, <a href="tags/art">art</a>, <a href="tags/concept-art">concept-art</a></div>
     </div>
     <article>
-        <p><img data-src="images/20220726 Concept art for space fighting game.jpg" alt="20220726 Concept art for space fighting game.jpg" style="max-width: 100%;" /></p>
+        <p><img data-src="images/20220726 Concept art for space fighting game.jpg" alt="20220726 Concept art for space fighting game.jpg" style="max-width: 100%;max-height:40vh;" /></p>
 
     </article>
     
@@ -138,7 +138,7 @@
     <div class="tags">@tags=<a href="tags/art">art</a>, <a href="tags/spen">spen</a></div>
     </div>
     <article>
-        <p><img data-src="images/Mushroom Container - 2021-12-25.jpg" alt="Mushroom Container - 2021-12-25.jpg" style="max-width: 100%;" /></p>
+        <p><img data-src="images/Mushroom Container - 2021-12-25.jpg" alt="Mushroom Container - 2021-12-25.jpg" style="max-width: 100%;max-height:40vh;" /></p>
 
     </article>
     

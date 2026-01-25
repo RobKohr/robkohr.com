@@ -19,7 +19,7 @@ and replace it with this:
 */
 
 function replaceImageLinks(text) {
-  const out = text.replace(/!\[\[(.+)\]\]/g, '<img data-src="images/$1" alt="$1" style="max-width: 100%;" />');
+  const out = text.replace(/!\[\[(.+)\]\]/g, '<img data-src="images/$1" alt="$1" style="max-width: 100%;max-height:40vh;" />');
   /* find all image paths, remove the syntax around them, and put the file names in an array */
   const matches = text.match(/!\[\[(.+)\]\]/g)?.map(function (match) {
     return match.replace(/!\[\[(.+)\]\]/, "$1");

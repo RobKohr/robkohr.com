@@ -38,7 +38,7 @@
     <div class="tags">@tags=<a href="tags/vr">vr</a>, <a href="tags/software-ideas">software-ideas</a></div>
     </div>
     <article>
-        <p><img data-src="images/2020-04-02-11-03-44.png" alt="2020-04-02-11-03-44.png" style="max-width: 100%;" /></p>
+        <p><img data-src="images/2020-04-02-11-03-44.png" alt="2020-04-02-11-03-44.png" style="max-width: 100%;max-height:40vh;" /></p>
 
     </article>
     

@@ -38,7 +38,7 @@
     <div class="tags">@tags=<a href="tags/raylib">raylib</a>, <a href="tags/blender">blender</a></div>
     </div>
     <article>
-        <p><img data-src="images/Raylib blender lighting 20250724144955.png" alt="Raylib blender lighting 20250724144955.png" style="max-width: 100%;" /></p>
+        <p><img data-src="images/Raylib blender lighting 20250724144955.png" alt="Raylib blender lighting 20250724144955.png" style="max-width: 100%;max-height:40vh;" /></p>
 
     </article>
     

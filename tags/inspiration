@@ -34,7 +34,7 @@
     <div class="tags">@tags=<a href="tags/inspiration">inspiration</a>, <a href="tags/motivation">motivation</a></div>
     </div>
     <article>
-        <a href="articles/done-manifesto"><img class="icon" data-src="images/2023-09-22 Done manifesto.png" alt="2023-09-22 Done manifesto.png" style="max-width: 100%;" /></a><blockquote>
+        <blockquote>
 <ol>
 <li>There are three states of being. Not knowing, action and completion.</li>
 <li>Accept that everything is a draft. It helps to get it done.</li>

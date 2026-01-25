@@ -38,8 +38,8 @@
     <div class="tags">@tags=<a href="tags/art">art</a>, <a href="tags/spen">spen</a></div>
     </div>
     <article>
-        <p><img data-src="images/Santa - 2022-12-20.png" alt="Santa - 2022-12-20.png" style="max-width: 100%;" /></p>
-<p><img data-src="images/20221220 Elf.png" alt="20221220 Elf.png" style="max-width: 100%;" /></p>
+        <p><img data-src="images/Santa - 2022-12-20.png" alt="Santa - 2022-12-20.png" style="max-width: 100%;max-height:40vh;" /></p>
+<p><img data-src="images/20221220 Elf.png" alt="20221220 Elf.png" style="max-width: 100%;max-height:40vh;" /></p>
 
     </article>
     
