@@ -34,7 +34,7 @@
     <div class="tags">@tags=<a href="tags/art">art</a>, <a href="tags/halloween">halloween</a>, <a href="tags/daily-sketch">daily-sketch</a></div>
     </div>
     <article>
-        <p><img data-src="images/2025-10-10 A Texas Chainsaw Manicure.jpg" alt="2025-10-10 A Texas Chainsaw Manicure.jpg" style="max-width: 100%;max-height:40vh;" /></p>
+        <a href="articles/a-texas-chainsaw-manicure"><img class="icon" data-src="images/2025-10-10 A Texas Chainsaw Manicure.jpg" alt="2025-10-10 A Texas Chainsaw Manicure.jpg" style="max-width: 100%;max-height:40vh;" /></a><p><img data-src="images/2025-10-10 A Texas Chainsaw Manicure.jpg" alt="2025-10-10 A Texas Chainsaw Manicure.jpg" style="max-width: 100%;max-height:40vh;" /></p>
 
     </article>
     
@@ -44,7 +44,7 @@
     <div class="tags">@tags=<a href="tags/daily-sketch">daily-sketch</a></div>
     </div>
     <article>
-        <p><img data-src="images/IMG_20250925_091907203_HDR~2.jpg" alt="IMG_20250925_091907203_HDR~2.jpg" style="max-width: 100%;max-height:40vh;" /></p>
+        <a href="articles/daily-sketch---the-mask"><img class="icon" data-src="images/IMG_20250925_091907203_HDR~2.jpg" alt="IMG_20250925_091907203_HDR~2.jpg" style="max-width: 100%;max-height:40vh;" /></a><p><img data-src="images/IMG_20250925_091907203_HDR~2.jpg" alt="IMG_20250925_091907203_HDR~2.jpg" style="max-width: 100%;max-height:40vh;" /></p>
 
     </article>
     
@@ -54,7 +54,7 @@
     <div class="tags">@tags=<a href="tags/daily-sketch">daily-sketch</a></div>
     </div>
     <article>
-        <p><img data-src="images/20250923 Waterworld.jpg" alt="20250923 Waterworld.jpg" style="max-width: 100%;max-height:40vh;" /></p>
+        <a href="articles/daily-sketch---waterworld-2025-09-23"><img class="icon" data-src="images/20250923 Waterworld.jpg" alt="20250923 Waterworld.jpg" style="max-width: 100%;max-height:40vh;" /></a><p><img data-src="images/20250923 Waterworld.jpg" alt="20250923 Waterworld.jpg" style="max-width: 100%;max-height:40vh;" /></p>
 
     </article>
     
@@ -64,7 +64,7 @@
     <div class="tags">@tags=<a href="tags/daily-sketch">daily-sketch</a></div>
     </div>
     <article>
-        <p>Built with stone and scraps he trudges on through the millennia. Step by step he gets slower as the overgrowth takes him.
+        <a href="articles/daily-sketch---ancient-robot-2025-07-30"><img class="icon" data-src="images/20250813130328 Ancient Robot.png" alt="20250813130328 Ancient Robot.png" style="max-width: 100%;max-height:40vh;" /></a><p>Built with stone and scraps he trudges on through the millennia. Step by step he gets slower as the overgrowth takes him.
 <img data-src="images/20250813130328 Ancient Robot.png" alt="20250813130328 Ancient Robot.png" style="max-width: 100%;max-height:40vh;" /></p>
 
     </article>
@@ -75,7 +75,7 @@
     <div class="tags">@tags=<a href="tags/daily-sketch">daily-sketch</a></div>
     </div>
     <article>
-        <p><img data-src="images/20250724144955 Daily Sketch Orc.png" alt="20250724144955 Daily Sketch Orc.png" style="max-width: 100%;max-height:40vh;" /></p>
+        <a href="articles/daily-sketch---orc"><img class="icon" data-src="images/20250724144955 Daily Sketch Orc.png" alt="20250724144955 Daily Sketch Orc.png" style="max-width: 100%;max-height:40vh;" /></a><p><img data-src="images/20250724144955 Daily Sketch Orc.png" alt="20250724144955 Daily Sketch Orc.png" style="max-width: 100%;max-height:40vh;" /></p>
 
     </article>
     

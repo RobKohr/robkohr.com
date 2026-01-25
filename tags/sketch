@@ -34,7 +34,7 @@
     <div class="tags">@tags=<a href="tags/drawing">drawing</a>, <a href="tags/sketch">sketch</a>, <a href="tags/excelidraw">excelidraw</a></div>
     </div>
     <article>
-        <p><img data-src="images/2022-08-18 Tree sketch.png" alt="2022-08-18 Tree sketch.png" style="max-width: 100%;max-height:40vh;" /></p>
+        <a href="articles/tree-sketch"><img class="icon" data-src="images/2022-08-18 Tree sketch.png" alt="2022-08-18 Tree sketch.png" style="max-width: 100%;max-height:40vh;" /></a><p><img data-src="images/2022-08-18 Tree sketch.png" alt="2022-08-18 Tree sketch.png" style="max-width: 100%;max-height:40vh;" /></p>
 
     </article>
     

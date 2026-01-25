@@ -34,7 +34,7 @@
     <div class="tags">@tags=<a href="tags/productivity">productivity</a></div>
     </div>
     <article>
-        <p>I find that youtube, facebook, and reddit are a little too consuming of time and attention, but I also sometimes want to go lookup something on them. </p>
+        <a href="articles/auto-blocking-time-consuming-websites"><img class="icon" data-src="images/Pasted image 20250707144404.png" alt="Pasted image 20250707144404.png" style="max-width: 100%;max-height:40vh;" /></a><p>I find that youtube, facebook, and reddit are a little too consuming of time and attention, but I also sometimes want to go lookup something on them. </p>
 <p>To help with this, I block the sites using this /etc/hosts file on my mac:</p>
 <pre><code>
 # Host Database

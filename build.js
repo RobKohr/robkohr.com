@@ -127,7 +127,7 @@ var articles = articlesFull.map(function (articleOrig) {
   ).replace(/<img.+>/g, "");
   
   // Extract icon image from article HTML (for both short and long articles)
-  let matches = article.html.match(/<img data-src="(.+)" alt="(.+)" style="max-width: 100%;" \/>/);
+  let matches = article.html.match(/<img data-src="(.+)" alt="(.+)" style="[^"]*max-width:\s*100%[^"]*" \/>/);
   let icon = matches?.length ? matches[0] : "";
   if (icon) {
     icon = `<a href="${articleUrl(article)}">${icon.replace("img", 'img class="icon"')}</a>`;

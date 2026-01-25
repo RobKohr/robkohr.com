@@ -34,7 +34,7 @@
     <div class="tags">@tags=<a href="tags/design">design</a>, <a href="tags/light-painter">light-painter</a>, <a href="tags/excelidraw">excelidraw</a></div>
     </div>
     <article>
-        <p><img data-src="images/2023-10-03 Light painter picking up blur.png" alt="2023-10-03 Light painter picking up blur.png" style="max-width: 100%;max-height:40vh;" /></p>
+        <a href="articles/light-painter-picking-up-blur"><img class="icon" data-src="images/2023-10-03 Light painter picking up blur.png" alt="2023-10-03 Light painter picking up blur.png" style="max-width: 100%;max-height:40vh;" /></a><p><img data-src="images/2023-10-03 Light painter picking up blur.png" alt="2023-10-03 Light painter picking up blur.png" style="max-width: 100%;max-height:40vh;" /></p>
 
     </article>
     
@@ -44,7 +44,7 @@
     <div class="tags">@tags=<a href="tags/ar">ar</a>, <a href="tags/drawing">drawing</a>, <a href="tags/playground">playground</a>, <a href="tags/design">design</a>, <a href="tags/woodworking">woodworking</a></div>
     </div>
     <article>
-        <p><img data-src="images/20220815 Designing playground structure using AR -.png" alt="20220815 Designing playground structure using AR -.png" style="max-width: 100%;max-height:40vh;" /></p>
+        <a href="articles/designing-playground-structure-using-ar"><img class="icon" data-src="images/20220815 Designing playground structure using AR -.png" alt="20220815 Designing playground structure using AR -.png" style="max-width: 100%;max-height:40vh;" /></a><p><img data-src="images/20220815 Designing playground structure using AR -.png" alt="20220815 Designing playground structure using AR -.png" style="max-width: 100%;max-height:40vh;" /></p>
 
     </article>
     

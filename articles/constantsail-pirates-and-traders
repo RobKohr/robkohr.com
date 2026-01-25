@@ -26,7 +26,7 @@
 
                 <link rel="canonical" href="https://robkohr.com/articles/constantsail-pirates-and-traders" />
                 <link rel="stylesheet" href="./neat.css">
-
+<meta property="og:image" content="https://robkohr.com/images/constantsail.png" />
                 <meta property="og:description" content="[Constant Sail](https://constantsail.com) is a pirate and sailing massive multiplayer game that is in development\![[constantsail.png]]" />
             </head>
             <body>

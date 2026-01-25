@@ -34,7 +34,7 @@
     <div class="tags">@tags=<a href="tags/raylib">raylib</a>, <a href="tags/c">c</a>, <a href="tags/programming">programming</a>, <a href="tags/ai">ai</a>, <a href="tags/llms">llms</a></div>
     </div>
     <article>
-        <p>My day job is working on enterprise scale React web applications with thousands of files. </p>
+        <a href="articles/ai-and-raylib-is-like-peanut-butter-and-jelly"><img class="icon" data-src="images/20250813130114 AI and Raylib as peanutbutter and jelly.png" alt="20250813130114 AI and Raylib as peanutbutter and jelly.png" style="max-width: 100%;max-height:40vh;" /></a><p>My day job is working on enterprise scale React web applications with thousands of files. </p>
 <p>Our company is wading into the AI agent realm and I have been using Cursor there and will be trying Claude code next week.</p>
 <p>I have to say it has been a fun time, and pretty eye opening as to what AI is g...</p>
  <p><a class="nowrap" href="articles/ai-and-raylib-is-like-peanut-butter-and-jelly">READ MORE (456 words, 4 minutes, 1 images)</a></p> 
@@ -129,7 +129,7 @@ Teslas that people let drive...</p>
     <div class="tags">@tags=<a href="tags/ai">ai</a></div>
     </div>
     <article>
-        <p><img data-src="images/Mushroom House.png" alt="Mushroom House.png" style="max-width: 100%;max-height:40vh;" /></p>
+        <a href="articles/ai-generated-image-of-a-mushroom-house---midjourney"><img class="icon" data-src="images/Mushroom House.png" alt="Mushroom House.png" style="max-width: 100%;max-height:40vh;" /></a><p><img data-src="images/Mushroom House.png" alt="Mushroom House.png" style="max-width: 100%;max-height:40vh;" /></p>
 
     </article>
     

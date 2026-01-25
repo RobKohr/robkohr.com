@@ -34,7 +34,7 @@
     <div class="tags">@tags=<a href="tags/lovr">lovr</a>, <a href="tags/coding">coding</a>, <a href="tags/vscode">vscode</a></div>
     </div>
     <article>
-        <p>This was taken down, and I found it in the web archive here:</p>
+        <a href="articles/setting-up-l-vr-in-vscode"><img class="icon" data-src="images/Pasted image 20250429114249.png" alt="Pasted image 20250429114249.png" style="max-width: 100%;max-height:40vh;" /></a><p>This was taken down, and I found it in the web archive here:</p>
 <p><a href="https://web.archive.org/web/20230209043024/https://gist.github.com/ussaohelcim/9eca6eaa903eefff07b4f3e2019de915">https://web.archive.org/web/20230209043024/https://gist.github.com/ussaohelcim/9eca6eaa903eefff07b4f3e2019de915</a></p>
 <h3>Requirements</h3>
 <ul>

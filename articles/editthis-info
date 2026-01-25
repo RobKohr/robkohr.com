@@ -26,7 +26,7 @@
 
                 <link rel="canonical" href="https://robkohr.com/articles/editthis-info" />
                 <link rel="stylesheet" href="./neat.css">
-
+<meta property="og:image" content="https://robkohr.com/images/editthis.png" />
                 <meta property="og:description" content="[Editthis.info](https://editthis.info) is a wiki hosting service where you can create your own wiki in seconds for free!![[editthis.png]]" />
             </head>
             <body>
