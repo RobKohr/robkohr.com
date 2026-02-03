@@ -5,9 +5,17 @@
             <link>https://robkohr.com</link>
             <description>RobKohr's Blog</description>
             <language>en-us</language>
-            <lastBuildDate>Sun, 25 Jan 2026 08:00:00 GMT</lastBuildDate>
-            <pubDate>Sun, 25 Jan 2026 08:00:00 GMT</pubDate>
+            <lastBuildDate>Tue, 03 Feb 2026 08:00:00 GMT</lastBuildDate>
+            <pubDate>Tue, 03 Feb 2026 08:00:00 GMT</pubDate>
             <ttl>1800</ttl>
+            <item>
+                <guid>https://robkohr.com/articles/db-query---explorer-right-in-vscode-cursor</guid>
+                <title>DB query &amp; explorer right in VSCode/Cursor</title>
+                <link>https://robkohr.com/articles/db-query---explorer-right-in-vscode-cursor</link>
+                <description>DB query &amp; explorer right in VSCode/Cursor</description>
+                <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
+            </item>
+    
             <item>
                 <guid>https://robkohr.com/articles/vibe-coding-is-kinda-like-drunk-coding</guid>
                 <title>Vibe coding is kinda like drunk coding</title>
@@ -398,14 +406,6 @@
                 <link>https://robkohr.com/articles/price-gouging</link>
                 <description>Price Gouging</description>
                 <pubDate>Mon, 26 Aug 2024 00:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/working-on-pivotal-tracker-replacement</guid>
-                <title>Working on Pivotal Tracker replacement</title>
-                <link>https://robkohr.com/articles/working-on-pivotal-tracker-replacement</link>
-                <description>Working on Pivotal Tracker replacement</description>
-                <pubDate>Fri, 23 Aug 2024 00:00:00 GMT</pubDate>
             </item>
     
         </channel>

@@ -1,0 +1,51 @@
+
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
+                <title>DB query & explorer right in VSCode/Cursor - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="./rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="./favicon.ico">
+<link rel="stylesheet" href="./libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
+
+                <link rel="canonical" href="https://robkohr.com/articles/db-query---explorer-right-in-vscode-cursor" />
+                <link rel="stylesheet" href="./neat.css">
+<meta property="og:image" content="https://robkohr.com/images/20260201 VSCode db.gif" />
+                <meta property="og:description" content="![[20260201 VSCode db.gif]]In the past I have used a variety of different db management tools, both web based and local apps, but I love not having to use something outside of my code enviornment.This" />
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            
+    <h2><a href="articles/db-query---explorer-right-in-vscode-cursor">DB query & explorer right in VSCode/Cursor</a></h2>
+    <div class="variables">
+    <div class="date">@date=2026-02-01</div>
+    <div class="tags">@tags=<a href="tags/vscode">vscode</a>, <a href="tags/dbs">dbs</a></div>
+    </div>
+    <article>
+        <p><img data-src="images/20260201 VSCode db.gif" alt="20260201 VSCode db.gif" style="max-width: 100%;max-height:40vh;" /></p>
+<p>In the past I have used a variety of different db management tools, both web based and local apps, but I love not having to use something outside of my code enviornment.</p>
+<p>This allows you to connect, browse, and run queries
+<a href="https://open-vsx.org/extension/dbcode/dbcode">https://open-vsx.org/extension/dbcode/dbcode</a></p>
+<p>What is nice is if you have a remote ssh workspace connection, it seems to work perfectly connected to the db as a localhost connection as though you are running on the server. This is nice if you don&#39;t have remote access to your db available (ideal for security).</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

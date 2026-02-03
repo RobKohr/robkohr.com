@@ -28,6 +28,19 @@
             <a href="./index.html">&larr; Home</a>
             <h2>Tag: vscode</h2>
     
+    <h2><a href="articles/db-query---explorer-right-in-vscode-cursor">DB query & explorer right in VSCode/Cursor</a></h2>
+    <div class="variables">
+    <div class="date">@date=2026-02-01</div>
+    <div class="tags">@tags=<a href="tags/vscode">vscode</a>, <a href="tags/dbs">dbs</a></div>
+    </div>
+    <article>
+        <a href="articles/db-query---explorer-right-in-vscode-cursor"><img class="icon" data-src="images/20260201 VSCode db.gif" alt="20260201 VSCode db.gif" style="max-width: 100%;max-height:40vh;" /></a><p>In the past I have used a variety of different db management tools, both web based and local apps, but I love not having to use something outside of my code enviornment.</p>
+<p>This allows you to connect, browse, and run queries
+<a href="https://open-vsx.org/extension/dbcode/dbcode">https://open-vsx.org/extension/dbcode/dbcode</a></p>
+<p>What is nice is if you hav...</p>
+ <p><a class="nowrap" href="articles/db-query---explorer-right-in-vscode-cursor">READ MORE (90 words, 1 minutes, 1 images)</a></p> 
+    </article>
+    
     <h2><a href="articles/setting-up-l-vr-in-vscode">Setting up LÖVR in vscode</a></h2>
     <div class="variables">
     <div class="date">@date=2025-04-27</div>

@@ -39,6 +39,19 @@
 - Dave Made a Maze
 - Tucker and Dale vs Evil
 
+## DB query & explorer right in VSCode/Cursor
+@tags=vscode,dbs
+@date=2026-02-01
+
+![[20260201 VSCode db.gif]]
+
+In the past I have used a variety of different db management tools, both web based and local apps, but I love not having to use something outside of my code enviornment.
+
+This allows you to connect, browse, and run queries
+https://open-vsx.org/extension/dbcode/dbcode
+
+What is nice is if you have a remote ssh workspace connection, it seems to work perfectly connected to the db as a localhost connection as though you are running on the server. This is nice if you don't have remote access to your db available (ideal for security).
+
 ## Vibe coding is kinda like drunk coding
 @tags=ai, coding
 @date=2026-01-25
