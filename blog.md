@@ -39,6 +39,43 @@
 - Dave Made a Maze
 - Tucker and Dale vs Evil
 
+
+## Fasting and weight loss
+@tags=fitness, fasting
+@date=2026-03-27
+![[Screenshot 2026-03-27 at 9.50.30 AM.png]]
+So from 6pm till 5pm the next day I did a fast every week starting back in July. 
+
+Around February I came down with a series of flues and other colds, some lifting injuries, and running a camp, so didn't get back to fasting again till last week in March.
+
+It is fun to see how effective the weekly fast was. Just a smooth straight line down with a small amount of tapering. 
+
+When I stopped fasting, the waist measurement didn't shoot up, but after a couple months it was starting curve back up again. 
+
+I am thinking once I hit my goal waist of 34 inches, a 24 hour fast once every 3-4 weeks will keep me right where I need to be. 
+
+It was nice to see how strongly correlated fasting and non fasting influenced waist (I keep with waist as it is a more stable measurement of body fat - I basically stopped measuring weight as it is just too noisy).
+
+Eating heavy doesn't seem to undo a fast as I eat pretty healthy, but from what I seen in various blips is that high calorie drinks like some of the ones at Starbucks will reverse any fat loss quickly. 
+
+I am currently at 24% bf and will be at 15% by the time I hit my target (using Navy BF formula and a digital tape measurer). 
+
+## Best SVG editor
+@tags=art, graphics, design, tools
+@date=2026-03-08
+
+I've tried a bunch of different ones, mostly free ones, but finally I got what I wanted with a paid one (which thankfully didn't have a stupid subscription plan)
+
+It has all of the features of svgs in it including text to path. The pen tool is a dream to work with (you can constantly retweak paths). Colors, fonts, just everything works.
+
+Layers, it has working layers too. 
+
+Best part: I used the help menu options when I got stuck a few times, and bam, right to useful documentation. 
+
+Finally, and this just warms my nerd heart: the svg output has well formatted code that is easy to visually parse. 
+
+![[Pasted image 20260308090413.png]]
+
 ## DB query & explorer right in VSCode/Cursor
 @tags=vscode,dbs
 @date=2026-02-01
