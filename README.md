@@ -28,6 +28,14 @@ npm install
 npm run build
 ```
 
+## Dark mode
+
+Dark mode is currently disabled. To turn it back on:
+
+1. In `neat.css`, change `color-scheme: light` to `color-scheme: light dark` and uncomment the `@media (prefers-color-scheme: dark)` block at the bottom of the file.
+2. In `build.js`, set `darkMode = true`.
+3. Rebuild with `npm start`.
+
 ## Possible issues
 I use files with no html extensions for output. If you are using nginx you need to add to your config
 

@@ -50,7 +50,7 @@ h2, h1, h3{
 }
 
 :root {
-    color-scheme: light dark;
+    color-scheme: light; /* re-enable dark mode: light dark */
     --light: #fff;
     --lesslight: #efefef;
     --dark: #404040;
@@ -174,7 +174,8 @@ button + button, .button + .button, input[type=submit] + input[type=submit] {
     }
 }
 
-/* Dark mode overrides (confusingly inverse) */
+/* Dark mode disabled — uncomment block below to re-enable */
+/*
 @media (prefers-color-scheme: dark) {
     :root {
         --light: #222;
@@ -185,12 +186,12 @@ button + button, .button + .button, input[type=submit] + input[type=submit] {
     body {
         background-image: none;
     }
-    /* This fixes an odd blue then white shadow on FF in dark mode */
     *:focus {
         outline: var(--light);
         box-shadow: 0 0 0 .25em royalblue;
     }
 }
+*/
 
 /* Printing */
 @media print {

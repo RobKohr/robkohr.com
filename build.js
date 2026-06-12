@@ -1,12 +1,14 @@
 import fs from "fs";
 import { marked } from "marked";
 
+const darkMode = false; // set true to re-enable dark mode
+
 /* Get html content from analytics.html */
 var headerExtras = `
 ${fs.readFileSync("analytics.html", "utf8")}
 <link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="./rss.xml" />
 <link rel="shortcut icon" type="image/ico" href="./favicon.ico">
-<link rel="stylesheet" href="./libs/highlight/styles/dark.min.css">
+<link rel="stylesheet" href="./libs/highlight/styles/${darkMode ? "dark" : "default"}.min.css">
 <script src="./libs/highlight/highlight.min.js"></script>
 <script src="./image-lazy-loader.js"></script>
 `;
