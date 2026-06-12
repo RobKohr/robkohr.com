@@ -28,14 +28,16 @@
             <a href="./index.html">&larr; Home</a>
             <h2>Tag: covid</h2>
     
-    <h2><a href="articles/disney-during-covid">Disney during covid</a></h2>
+    <h2><a href="articles/cloudflare-effects-on-users">Cloudflare effects on users</a></h2>
     <div class="variables">
     <div class="date">@date=2020-09-22</div>
     <div class="tags">@tags=<a href="tags/vacation">vacation</a>, <a href="tags/covid">covid</a></div>
     </div>
     <article>
-        <p>My wife and I went to Disneyworld for our honeymoon this month and it was fantastic. Due to pandemic fears, flights were super cheap, the disney resort was discounted and nearly empty, and lines were nearly non-existent at the parks. Most rides were about a 5 minute wait, with some of the more po...</p>
- <p><a class="nowrap" href="articles/disney-during-covid">READ MORE (230 words, 2 minutes)</a></p> 
+        <a href="articles/cloudflare-effects-on-users"><img class="icon" data-src="images/2020-09-22-15-12-53.png" alt="2020-09-22-15-12-53.png" style="max-width: 100%;max-height:40vh;" /></a><p>For the last few years I have been using cloudflare in front of editthis.info. On the 21st I dropped it, and saw an immediate decrease in average load times (from google analytics):</p>
+<p>This was without any changes to the system at all, and with about 800-900 active users per day.</p>
+<p>Also, as mentio...</p>
+ <p><a class="nowrap" href="articles/cloudflare-effects-on-users">READ MORE (382 words, 3 minutes, 2 images)</a></p> 
     </article>
     
             </body>

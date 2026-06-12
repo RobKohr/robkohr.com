@@ -28,18 +28,6 @@
             <a href="./index.html">&larr; Home</a>
             <h2>Tag: editthis.info</h2>
     
-    <h2><a href="articles/cloudflare-effects-on-users">Cloudflare effects on users</a></h2>
-    <div class="variables">
-    <div class="date">@date=2020-09-22</div>
-    <div class="tags">@tags=<a href="tags/editthis.info">editthis.info</a>, <a href="tags/web-development">web-development</a></div>
-    </div>
-    <article>
-        <a href="articles/cloudflare-effects-on-users"><img class="icon" data-src="images/2020-09-22-15-12-53.png" alt="2020-09-22-15-12-53.png" style="max-width: 100%;max-height:40vh;" /></a><p>For the last few years I have been using cloudflare in front of editthis.info. On the 21st I dropped it, and saw an immediate decrease in average load times (from google analytics):</p>
-<p>This was without any changes to the system at all, and with about 800-900 active users per day.</p>
-<p>Also, as mentio...</p>
- <p><a class="nowrap" href="articles/cloudflare-effects-on-users">READ MORE (150 words, 1 minutes, 2 images)</a></p> 
-    </article>
-    
     <h2><a href="articles/editthis-info-overhaul">Editthis.info overhaul</a></h2>
     <div class="variables">
     <div class="date">@date=2020-09-21</div>

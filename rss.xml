@@ -5,9 +5,41 @@
             <link>https://robkohr.com</link>
             <description>RobKohr's Blog</description>
             <language>en-us</language>
-            <lastBuildDate>Tue, 03 Feb 2026 08:00:00 GMT</lastBuildDate>
-            <pubDate>Tue, 03 Feb 2026 08:00:00 GMT</pubDate>
+            <lastBuildDate>Fri, 12 Jun 2026 07:00:00 GMT</lastBuildDate>
+            <pubDate>Fri, 12 Jun 2026 07:00:00 GMT</pubDate>
             <ttl>1800</ttl>
+            <item>
+                <guid>https://robkohr.com/articles/building-one-set-to-failure</guid>
+                <title>Building One Set To Failure</title>
+                <link>https://robkohr.com/articles/building-one-set-to-failure</link>
+                <description>Building One Set To Failure</description>
+                <pubDate>Tue, 12 May 2026 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/some-experimental-bitcoin-sites-i-made-back-in-2012-13</guid>
+                <title>Some experimental Bitcoin sites I made back in 2012-13</title>
+                <link>https://robkohr.com/articles/some-experimental-bitcoin-sites-i-made-back-in-2012-13</link>
+                <description>Some experimental Bitcoin sites I made back in 2012-13</description>
+                <pubDate>Sat, 04 Apr 2026 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/fasting-and-weight-loss</guid>
+                <title>Fasting and weight loss</title>
+                <link>https://robkohr.com/articles/fasting-and-weight-loss</link>
+                <description>Fasting and weight loss</description>
+                <pubDate>Fri, 27 Feb 2026 01:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/best-svg-editor</guid>
+                <title>Best SVG editor</title>
+                <link>https://robkohr.com/articles/best-svg-editor</link>
+                <description>Best SVG editor</description>
+                <pubDate>Sun, 08 Feb 2026 00:00:00 GMT</pubDate>
+            </item>
+    
             <item>
                 <guid>https://robkohr.com/articles/db-query---explorer-right-in-vscode-cursor</guid>
                 <title>DB query &amp; explorer right in VSCode/Cursor</title>
@@ -374,38 +406,6 @@
                 <link>https://robkohr.com/articles/tailwind----quick-thought</link>
                 <description>Tailwind... quick thought</description>
                 <pubDate>Fri, 15 Nov 2024 00:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/alternative-origin-of-batman---dream</guid>
-                <title>Alternative origin of Batman - dream</title>
-                <link>https://robkohr.com/articles/alternative-origin-of-batman---dream</link>
-                <description>Alternative origin of Batman - dream</description>
-                <pubDate>Mon, 21 Oct 2024 23:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/convert-react-javascript-project-to-typescript---one-file-at-a-time</guid>
-                <title>Convert React Javascript project to Typescript - one file at a time</title>
-                <link>https://robkohr.com/articles/convert-react-javascript-project-to-typescript---one-file-at-a-time</link>
-                <description>Convert React Javascript project to Typescript - one file at a time</description>
-                <pubDate>Fri, 11 Oct 2024 23:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/learning-violin-using-soundslice</guid>
-                <title>Learning Violin Using SoundSlice</title>
-                <link>https://robkohr.com/articles/learning-violin-using-soundslice</link>
-                <description>Learning Violin Using SoundSlice</description>
-                <pubDate>Fri, 04 Oct 2024 23:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/price-gouging</guid>
-                <title>Price Gouging</title>
-                <link>https://robkohr.com/articles/price-gouging</link>
-                <description>Price Gouging</description>
-                <pubDate>Mon, 26 Aug 2024 00:00:00 GMT</pubDate>
             </item>
     
         </channel>

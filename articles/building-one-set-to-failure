@@ -1,0 +1,75 @@
+
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
+                <title>Building One Set To Failure - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="./rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="./favicon.ico">
+<link rel="stylesheet" href="./libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
+
+                <link rel="canonical" href="https://robkohr.com/articles/building-one-set-to-failure" />
+                <link rel="stylesheet" href="./neat.css">
+<meta property="og:image" content="https://robkohr.com/images/body-heatmap.png" />
+                <meta property="og:description" content="![[body-heatmap.png]]I'm working on a gym log app called **One Set To Failure**. HIT-style training — one hard set, real failure, no junk volume. The app is for iOS and Android; store links aren't liv" />
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            
+    <h2><a href="articles/building-one-set-to-failure">Building One Set To Failure</a></h2>
+    <div class="variables">
+    <div class="date">@date=2026-06-12</div>
+    <div class="tags">@tags=<a href="tags/fitness">fitness</a>, <a href="tags/mobile-apps">mobile-apps</a>, <a href="tags/in-progress-projects">in-progress-projects</a></div>
+    </div>
+    <article>
+        <p><img data-src="images/body-heatmap.png" alt="body-heatmap.png" style="max-width: 100%;max-height:40vh;" /></p>
+<p>I&#39;m working on a gym log app called <strong>One Set To Failure</strong>. HIT-style training — one hard set, real failure, no junk volume. The app is for iOS and Android; store links aren&#39;t live yet but the site is up at <a href="https://onesettofailure.app">onesettofailure.app</a>.</p>
+<h3>Why bother</h3>
+<p>Most gym apps want you in there forever. More sets, more taps, more dashboards. I wanted the opposite: log the set that matters, see if you&#39;re recovered, load the bar, leave.</p>
+<h3>What it looks like so far</h3>
+<p>Recovery is the whole game for this kind of training. The muscle heatmap shows every group color-coded so you know what&#39;s ready and what&#39;s still cooked:</p>
+<img src="https://onesettofailure.app/screenshots/body-heatmap.png" alt="Muscle group readiness heatmap" height="500">
+
+<p>Pick a location — garage, commercial gym, hotel — and you only see exercises that exist there:</p>
+<img src="https://onesettofailure.app/screenshots/5%20locations.png" alt="Locations" height="500">
+
+<p>The exercise grid sorts by recovery. Tap what you&#39;re doing next:</p>
+<img src="https://onesettofailure.app/screenshots/2%20exercise_grid.png" alt="Exercise grid" height="500">
+
+<p>Logging is built for shaky hands after a real set:</p>
+<img src="https://onesettofailure.app/screenshots/1%20exercise_set.png" alt="Set logging" height="500">
+
+<p>Workouts are just ordered lists — no bloated program builder:</p>
+<img src="https://onesettofailure.app/screenshots/3%20workout_exercise_list.png" alt="Workout list" height="500">
+
+<p>Plate math on screen so you&#39;re not doing arithmetic between sets:</p>
+<img src="https://onesettofailure.app/screenshots/6%20plate_calculator.png" alt="Plate calculator" height="500">
+
+<p>Charts for strength and body comp — if the trend isn&#39;t moving, something&#39;s wrong:</p>
+<img src="https://onesettofailure.app/screenshots/4%20measurement_charts.png" alt="Measurement charts" height="500">
+
+<h3>Status</h3>
+<p>Still building. App Store and Google Play listings are in progress. I&#39;ll post here when it&#39;s ready to download.</p>
+<p>(Will post to tag completed-projects when done)</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

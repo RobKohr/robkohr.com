@@ -35,7 +35,7 @@
     <h2><a href="articles/cloudflare-effects-on-users">Cloudflare effects on users</a></h2>
     <div class="variables">
     <div class="date">@date=2020-09-22</div>
-    <div class="tags">@tags=<a href="tags/editthis.info">editthis.info</a>, <a href="tags/web-development">web-development</a></div>
+    <div class="tags">@tags=<a href="tags/vacation">vacation</a>, <a href="tags/covid">covid</a></div>
     </div>
     <article>
         <p>For the last few years I have been using cloudflare in front of editthis.info. On the 21st I dropped it, and saw an immediate decrease in average load times (from google analytics):</p>
@@ -45,6 +45,20 @@
 <p><img data-src="images/2020-09-21-10-26-35.png" alt="2020-09-21-10-26-35.png" style="max-width: 100%;max-height:40vh;" /></p>
 <p>These are either inflated numbers, or more worrying actual users who couldn&#39;t get past their overly vigorous captcha screening process.</p>
 <p>I look forward to seeing how this effects user counts overall - some could be from the speed boast and some from lack of captchas. In either case, I won&#39;t be using cloudfront again. I am going to set up a simple nginx proxy in front of the website, and implement some caching there to help increase the speed even further.</p>
+<h1>Disney during covid</h1>
+<p>My wife and I went to Disneyworld for our honeymoon this month and it was fantastic. Due to pandemic fears, flights were super cheap, the disney resort was discounted and nearly empty, and lines were nearly non-existent at the parks. Most rides were about a 5 minute wait, with some of the more popular attractions taking about 30 minutes. Compared to a typical 1hr+ for wait times for major rides, this meant going through a lot of rides was a breeze.</p>
+<p>Some downsides:</p>
+<ul>
+<li>Masks weren&#39;t pleasant in the Florida heat, but some light cloth ones worked out ok.</li>
+<li>The parks closed early, so they were only open about 8 hrs, which means you can&#39;t be to leisurely about trying to hit all the attractions</li>
+<li>due to social distancing, restaurants cannot handle many customers, and so getting reservations for everything is required</li>
+<li>Most of the small food places were closed, and walking with food was not allowed</li>
+<li>No end of day fireworks since parks closed early</li>
+<li>No live shows</li>
+<li>Apparently no housecleaning for the rooms</li>
+<li>Small kids have to wear masks. Seriously, 2 year olds are being required to wear masks.</li>
+</ul>
+<p>The upside of being able to practically have the park for yourself is great though, and worth the tradeoff if you aren&#39;t bringing little kids with you. We&#39;ll be taking them to Disney sometime after the world stops being ruled by hypochondriacs.</p>
 
     </article>
     

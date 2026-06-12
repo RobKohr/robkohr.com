@@ -1,0 +1,52 @@
+
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
+                <title>Best SVG editor - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="./rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="./favicon.ico">
+<link rel="stylesheet" href="./libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
+
+                <link rel="canonical" href="https://robkohr.com/articles/best-svg-editor" />
+                <link rel="stylesheet" href="./neat.css">
+<meta property="og:image" content="https://robkohr.com/images/Pasted image 20260308090413.png" />
+                <meta property="og:description" content="I've tried a bunch of different ones, mostly free ones, but finally I got what I wanted with a paid one (which thankfully didn't have a stupid subscription plan)It has all of the features of svgs in i" />
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            
+    <h2><a href="articles/best-svg-editor">Best SVG editor</a></h2>
+    <div class="variables">
+    <div class="date">@date=2026-03-08</div>
+    <div class="tags">@tags=<a href="tags/art">art</a>, <a href="tags/graphics">graphics</a>, <a href="tags/design">design</a>, <a href="tags/tools">tools</a></div>
+    </div>
+    <article>
+        <p>I&#39;ve tried a bunch of different ones, mostly free ones, but finally I got what I wanted with a paid one (which thankfully didn&#39;t have a stupid subscription plan)</p>
+<p>It has all of the features of svgs in it including text to path. The pen tool is a dream to work with (you can constantly retweak paths). Colors, fonts, just everything works.</p>
+<p>Layers, it has working layers too. </p>
+<p>Best part: I used the help menu options when I got stuck a few times, and bam, right to useful documentation. </p>
+<p>Finally, and this just warms my nerd heart: the svg output has well formatted code that is easy to visually parse. </p>
+<p><img data-src="images/Pasted image 20260308090413.png" alt="Pasted image 20260308090413.png" style="max-width: 100%;max-height:40vh;" /></p>
+
+    </article>
+    
+            </body>
+          </html>
+          

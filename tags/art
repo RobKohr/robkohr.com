@@ -28,6 +28,17 @@
             <a href="./index.html">&larr; Home</a>
             <h2>Tag: art</h2>
     
+    <h2><a href="articles/best-svg-editor">Best SVG editor</a></h2>
+    <div class="variables">
+    <div class="date">@date=2026-03-08</div>
+    <div class="tags">@tags=<a href="tags/art">art</a>, <a href="tags/graphics">graphics</a>, <a href="tags/design">design</a>, <a href="tags/tools">tools</a></div>
+    </div>
+    <article>
+        <a href="articles/best-svg-editor"><img class="icon" data-src="images/Pasted image 20260308090413.png" alt="Pasted image 20260308090413.png" style="max-width: 100%;max-height:40vh;" /></a><p>I&#39;ve tried a bunch of different ones, mostly free ones, but finally I got what I wanted with a paid one (which thankfully didn&#39;t have a stupid subscription plan)</p>
+<p>It has all of the features of svgs in it including text to path. The pen tool is a dream to work with (you can constantly retweak path...</p>
+ <p><a class="nowrap" href="articles/best-svg-editor">READ MORE (111 words, 1 minutes, 1 images)</a></p> 
+    </article>
+    
     <h2><a href="articles/a-texas-chainsaw-manicure">A Texas Chainsaw Manicure</a></h2>
     <div class="variables">
     <div class="date">@date=2025-10-10</div>

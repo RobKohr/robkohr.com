@@ -1,0 +1,48 @@
+
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
+                <title>Some experimental Bitcoin sites I made back in 2012-13 - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="./rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="./favicon.ico">
+<link rel="stylesheet" href="./libs/highlight/styles/dark.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
+
+                <link rel="canonical" href="https://robkohr.com/articles/some-experimental-bitcoin-sites-i-made-back-in-2012-13" />
+                <link rel="stylesheet" href="./neat.css">
+
+                <meta property="og:description" content="https://web.archive.org/web/20121012100052/http://printcoins.com/ - paper based bitcoin currencyhttps://web.archive.org/web/20130217034503/http://coinsmack.com/ - reddit like site where you up/down vo" />
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            
+    <h2><a href="articles/some-experimental-bitcoin-sites-i-made-back-in-2012-13">Some experimental Bitcoin sites I made back in 2012-13</a></h2>
+    <div class="variables">
+    <div class="date">@date=2026-05-04</div>
+    <div class="tags">@tags=<a href="tags/bitcoin">bitcoin</a></div>
+    </div>
+    <article>
+        <p><a href="https://web.archive.org/web/20121012100052/http://printcoins.com/">https://web.archive.org/web/20121012100052/http://printcoins.com/</a> - paper based bitcoin currency
+<a href="https://web.archive.org/web/20130217034503/http://coinsmack.com/">https://web.archive.org/web/20130217034503/http://coinsmack.com/</a> - reddit like site where you up/down vote stories with bitcoins (unfortunately the styles weren&#39;t captured well by webarchive)</p>
+
+    </article>
+    
+            </body>
+          </html>
+          

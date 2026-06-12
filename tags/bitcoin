@@ -28,6 +28,17 @@
             <a href="./index.html">&larr; Home</a>
             <h2>Tag: bitcoin</h2>
     
+    <h2><a href="articles/some-experimental-bitcoin-sites-i-made-back-in-2012-13">Some experimental Bitcoin sites I made back in 2012-13</a></h2>
+    <div class="variables">
+    <div class="date">@date=2026-05-04</div>
+    <div class="tags">@tags=<a href="tags/bitcoin">bitcoin</a></div>
+    </div>
+    <article>
+        <p><a href="https://web.archive.org/web/20121012100052/http://printcoins.com/">https://web.archive.org/web/20121012100052/http://printcoins.com/</a> - paper based bitcoin currency
+<a href="https://web.archive.org/web/20130217034503/http://coinsmack.com/">https://web.archive.org/web/20130217034503/http://coinsmack.com/</a> - reddit like site where you up/down vote stories with bitcoins (unfortunately the styles weren&#39;t captured well by webarchive)</p>
+
+    </article>
+    
     <h2><a href="articles/web3----why-hasn-t-it-come-to-be-">Web3... why hasn't it come to be.</a></h2>
     <div class="variables">
     <div class="date">@date=2025-05-11</div>

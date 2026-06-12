@@ -6,7 +6,8 @@
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node build.js"
+    "start": "node build.js",
+    "publish": "npm install && npm start && git add . && git commit -m 'update' && git push && ssh root@173.255.213.69 'cd /root/web/robkohr.com && git pull'"
   },
   "author": "",
   "license": "ISC",
