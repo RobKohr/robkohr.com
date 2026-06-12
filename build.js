@@ -297,10 +297,10 @@ Object.keys(tagPages).forEach(function (tag) {
   let output = `
         <html>
             <head>
+                <base href="../">
                 <title>${tag} - RobKohr's Blog</title>
 ${headerExtras}
                 <link rel="stylesheet" href="./neat.css">
-                <base href="../">
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>
@@ -322,10 +322,10 @@ ${headerExtras}
 output = `
     <html>
         <head>
+            <base href="../">
             <title>Tags - RobKohr's Blog</title>
 ${headerExtras}
             <link rel="stylesheet" href="./neat.css">
-            <base href="../">
         </head>
         <body>
         <a href="./index.html">&larr; Home</a>

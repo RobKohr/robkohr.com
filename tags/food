@@ -1,6 +1,7 @@
 
         <html>
             <head>
+                <base href="../">
                 <title>food - RobKohr's Blog</title>
 
 <!-- Google tag (gtag.js) -->
@@ -22,7 +23,6 @@
 <script src="./image-lazy-loader.js"></script>
 
                 <link rel="stylesheet" href="./neat.css">
-                <base href="../">
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>
