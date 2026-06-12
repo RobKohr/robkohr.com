@@ -26,8 +26,8 @@
 
                 <link rel="canonical" href="https://robkohr.com/articles/building-one-set-to-failure" />
                 <link rel="stylesheet" href="./neat.css">
-<meta property="og:image" content="https://robkohr.com/images/body-heatmap.png" />
-                <meta property="og:description" content="![[body-heatmap.png]]I'm working on a gym log app called **One Set To Failure**. HIT-style training — one hard set, real failure, no junk volume. The app is for iOS and Android; store links aren't liv" />
+<meta property="og:image" content="https://robkohr.com/images/2026-06-12-body-heatmap-ostf.png" />
+                <meta property="og:description" content="![[2026-06-12-body-heatmap-ostf.png]]I'm working on a gym log app called **One Set To Failure**. HIT-style training — one hard set, real failure, no junk volume. The app is for iOS and Android; store " />
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>
@@ -38,7 +38,7 @@
     <div class="tags">@tags=<a href="tags/fitness">fitness</a>, <a href="tags/mobile-apps">mobile-apps</a>, <a href="tags/in-progress-projects">in-progress-projects</a></div>
     </div>
     <article>
-        <p><img data-src="images/body-heatmap.png" alt="body-heatmap.png" style="max-width: 100%;max-height:40vh;" /></p>
+        <p><img data-src="images/2026-06-12-body-heatmap-ostf.png" alt="2026-06-12-body-heatmap-ostf.png" style="max-width: 100%;max-height:40vh;" /></p>
 <p>I&#39;m working on a gym log app called <strong>One Set To Failure</strong>. HIT-style training — one hard set, real failure, no junk volume. The app is for iOS and Android; store links aren&#39;t live yet but the site is up at <a href="https://onesettofailure.app">onesettofailure.app</a>.</p>
 <h3>Why bother</h3>
 <p>Most gym apps want you in there forever. More sets, more taps, more dashboards. I wanted the opposite: log the set that matters, see if you&#39;re recovered, load the bar, leave.</p>

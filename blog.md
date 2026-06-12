@@ -43,7 +43,7 @@
 @tags=fitness, mobile-apps, in-progress-projects
 @date=2026-06-12
 
-![[body-heatmap.png]]
+![[2026-06-12-body-heatmap-ostf.png]]
 
 I'm working on a gym log app called **One Set To Failure**. HIT-style training — one hard set, real failure, no junk volume. The app is for iOS and Android; store links aren't live yet but the site is up at [onesettofailure.app](https://onesettofailure.app).
 
