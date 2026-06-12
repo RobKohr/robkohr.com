@@ -99,6 +99,7 @@ https://web.archive.org/web/20130217034503/http://coinsmack.com/ - reddit like s
 @tags=fitness, fasting
 @date=2026-03-27
 ![[Screenshot 2026-03-27 at 9.50.30 AM.png]]
+
 So from 6pm till 5pm the next day I did a fast every week starting back in July. 
 
 Around February I came down with a series of flues and other colds, some lifting injuries, and running a camp, so didn't get back to fasting again till last week in March.
