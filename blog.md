@@ -6,7 +6,7 @@
 - <a href="articles/about">ℹ️ About</a>
 - <a href="tags/index.html">🏷️ Tags</a>
 - <a href="articles/projects">🚧 Projects</a>
-- <a href="rss.xml">📰 RSS feed</a>
+- <a href="rss.xml">📰 RSS feed</a> (<a href="https://iheartrss.com/">I &hearts; RSS</a>)
 - <a href="articles/my-stuff">🔭 My stuff out on the web</a>
 
 ## Now

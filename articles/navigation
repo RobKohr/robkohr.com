@@ -27,7 +27,7 @@
                 <link rel="canonical" href="https://robkohr.com/articles/navigation" />
                 <link rel="stylesheet" href="./neat.css">
 
-                <meta property="og:description" content="- ⏰ Now📧 Signup to the Monthly Email List-->- ℹ️ About- 🏷️ Tags- 🚧 Projects- 📰 RSS feed- 🔭 My stuff out on the web" />
+                <meta property="og:description" content="- ⏰ Now📧 Signup to the Monthly Email List-->- ℹ️ About- 🏷️ Tags- 🚧 Projects- 📰 RSS feed (I &hearts; RSS)- 🔭 My stuff out on the web" />
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>
@@ -43,7 +43,7 @@
 <li><a href="articles/about">ℹ️ About</a></li>
 <li><a href="tags/index.html">🏷️ Tags</a></li>
 <li><a href="articles/projects">🚧 Projects</a></li>
-<li><a href="rss.xml">📰 RSS feed</a></li>
+<li><a href="rss.xml">📰 RSS feed</a> (<a href="https://iheartrss.com/">I &hearts; RSS</a>)</li>
 <li><a href="articles/my-stuff">🔭 My stuff out on the web</a></li>
 </ul>
 

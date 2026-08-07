@@ -25,7 +25,7 @@ https://robkohr.com
 - run 
 ```
 npm install
-npm run build
+npm start
 ```
 
 ## Dark mode
