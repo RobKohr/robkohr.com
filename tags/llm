@@ -1,0 +1,45 @@
+
+        <html>
+            <head>
+                <base href="../">
+                <title>llm - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="./rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="./favicon.ico">
+<link rel="stylesheet" href="./libs/highlight/styles/default.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
+
+                <link rel="stylesheet" href="./neat.css">
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            <h2>Tag: llm</h2>
+    
+    <h2><a href="articles/no--gen-ai-will-not-end-civilization">No, Gen AI will not end civilization</a></h2>
+    <div class="variables">
+    <div class="date">@date=2026-09-14</div>
+    <div class="tags">@tags=<a href="tags/AI">AI</a>, <a href="tags/genai">genai</a>, <a href="tags/llm">llm</a></div>
+    </div>
+    <article>
+        <p>Sam Altman and gang constantly lie about how capable their AI is to give investors false dreams that it will replace human workers. </p>
+<p>I use it as a software engineer, one of the main professions targeted, and this year, hiring in my profession is up this year. </p>
+<p>AI makes it so you are way more pr...</p>
+ <p><a class="nowrap" href="articles/no--gen-ai-will-not-end-civilization">READ MORE (268 words, 2 minutes)</a></p> 
+    </article>
+    
+            </body>
+        </html>
+    

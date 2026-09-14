@@ -41,7 +41,7 @@
 
 
 ## No, Gen AI will not end civilization
-@tags=AI, genai, llm, politics
+@tags=AI, genai, llm
 @date=2026-09-14
 
 Sam Altman and gang constantly lie about how capable their AI is to give investors false dreams that it will replace human workers. 

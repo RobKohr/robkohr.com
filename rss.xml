@@ -9,6 +9,14 @@
             <pubDate>Mon, 14 Sep 2026 07:00:00 GMT</pubDate>
             <ttl>1800</ttl>
             <item>
+                <guid>https://robkohr.com/articles/no--gen-ai-will-not-end-civilization</guid>
+                <title>No, Gen AI will not end civilization</title>
+                <link>https://robkohr.com/articles/no--gen-ai-will-not-end-civilization</link>
+                <description>No, Gen AI will not end civilization</description>
+                <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
                 <guid>https://robkohr.com/articles/building-one-set-to-failure</guid>
                 <title>Building One Set To Failure</title>
                 <link>https://robkohr.com/articles/building-one-set-to-failure</link>
@@ -398,14 +406,6 @@
                 <link>https://robkohr.com/articles/wisps</link>
                 <description>Wisps</description>
                 <pubDate>Sat, 23 Nov 2024 00:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/tailwind----quick-thought</guid>
-                <title>Tailwind... quick thought</title>
-                <link>https://robkohr.com/articles/tailwind----quick-thought</link>
-                <description>Tailwind... quick thought</description>
-                <pubDate>Fri, 15 Nov 2024 00:00:00 GMT</pubDate>
             </item>
     
         </channel>

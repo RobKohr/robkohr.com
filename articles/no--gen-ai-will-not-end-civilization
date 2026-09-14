@@ -1,0 +1,57 @@
+
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
+                <title>No, Gen AI will not end civilization - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="./rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="./favicon.ico">
+<link rel="stylesheet" href="./libs/highlight/styles/default.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
+
+                <link rel="canonical" href="https://robkohr.com/articles/no--gen-ai-will-not-end-civilization" />
+                <link rel="stylesheet" href="./neat.css">
+
+                <meta property="og:description" content="Sam Altman and gang constantly lie about how capable their AI is to give investors false dreams that it will replace human workers. I use it as a software engineer, one of the main professions targete" />
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            
+    <h2><a href="articles/no--gen-ai-will-not-end-civilization">No, Gen AI will not end civilization</a></h2>
+    <div class="variables">
+    <div class="date">@date=2026-09-14</div>
+    <div class="tags">@tags=<a href="tags/AI">AI</a>, <a href="tags/genai">genai</a>, <a href="tags/llm">llm</a></div>
+    </div>
+    <article>
+        <p>Sam Altman and gang constantly lie about how capable their AI is to give investors false dreams that it will replace human workers. </p>
+<p>I use it as a software engineer, one of the main professions targeted, and this year, hiring in my profession is up this year. </p>
+<p>AI makes it so you are way more productive, but it doesn&#39;t &quot;think&quot;. It just completes patterns very well. The human in the loop isn&#39;t going anywhere with the current trajectory of LLM advancements.</p>
+<p>But the lead AI firms are facing a hard wall of diminishing returns on their models. Throw all the money in the world at creating new AI models, and all the hardware, and it barely moves the needle anymore. </p>
+<p>They know they are hitting this wall, and competitors are going to come up producing the same product as them on a cheap commodity level and they are terrified. </p>
+<p>Now they are telling us that Generative AI LLMs are going to turn on humans and destroy civilization, and are asking to be regulated.</p>
+<p>Really they want regulation to stop competitors from eating their lunch. They want a moat. They want to dramatically increase the cost of getting into business, and keep them as the trusted guardians of the technology. </p>
+<p>They also know that soon, we will just run AI on our own hardware with open source models and cut them out of the game. </p>
+<p>Too hell with them. </p>
+<p>Let their companies burn. </p>
+<p>They sold themselves to investors on the evil they could do to us, and failed to deliver. Now they are trying to use fear to protect their positions.</p>
+
+    </article>
+    
+            </body>
+          </html>
+          
