@@ -40,7 +40,7 @@
 - Tucker and Dale vs Evil
 
 
-## No, Gen AI will not end civilization.
+## No, Gen AI will not end civilization
 @tags=AI, genai, llm, politics
 @date=2026-09-14
 
