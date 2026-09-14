@@ -26,8 +26,8 @@
 
                 <link rel="canonical" href="https://robkohr.com/articles/no--gen-ai-will-not-end-civilization" />
                 <link rel="stylesheet" href="./neat.css">
-
-                <meta property="og:description" content="Sam Altman and gang constantly lie about how capable their AI is to give investors false dreams that it will replace human workers. I use it as a software engineer, one of the main professions targete" />
+<meta property="og:image" content="https://robkohr.com/images/20260914110221 terminator.png" />
+                <meta property="og:description" content="![[20260914110221 terminator.png]]Sam Altman and gang constantly lie about how capable their AI is to give investors false dreams that it will replace human workers, and now how it will get so smart i" />
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>
@@ -38,7 +38,8 @@
     <div class="tags">@tags=<a href="tags/AI">AI</a>, <a href="tags/genai">genai</a>, <a href="tags/llm">llm</a></div>
     </div>
     <article>
-        <p>Sam Altman and gang constantly lie about how capable their AI is to give investors false dreams that it will replace human workers. </p>
+        <p><img data-src="images/20260914110221 terminator.png" alt="20260914110221 terminator.png" style="max-width: 100%;max-height:40vh;" /></p>
+<p>Sam Altman and gang constantly lie about how capable their AI is to give investors false dreams that it will replace human workers, and now how it will get so smart it will end civilization. </p>
 <p>I use it as a software engineer, one of the main professions targeted, and this year, hiring in my profession is up this year. </p>
 <p>AI makes it so you are way more productive, but it doesn&#39;t &quot;think&quot;. It just completes patterns very well. The human in the loop isn&#39;t going anywhere with the current trajectory of LLM advancements.</p>
 <p>But the lead AI firms are facing a hard wall of diminishing returns on their models. Throw all the money in the world at creating new AI models, and all the hardware, and it barely moves the needle anymore. </p>

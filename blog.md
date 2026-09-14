@@ -44,7 +44,10 @@
 @tags=AI, genai, llm
 @date=2026-09-14
 
-Sam Altman and gang constantly lie about how capable their AI is to give investors false dreams that it will replace human workers. 
+![[20260914110221 terminator.png]]
+
+
+Sam Altman and gang constantly lie about how capable their AI is to give investors false dreams that it will replace human workers, and now how it will get so smart it will end civilization. 
 
 I use it as a software engineer, one of the main professions targeted, and this year, hiring in my profession is up this year. 
 
