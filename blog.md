@@ -39,6 +39,33 @@
 - Dave Made a Maze
 - Tucker and Dale vs Evil
 
+
+## No, Gen AI will not end civilization.
+@tags=AI, genai, llm, politics
+@date=2026-09-14
+
+Sam Altman and gang constantly lie about how capable their AI is to give investors false dreams that it will replace human workers. 
+
+I use it as a software engineer, one of the main professions targeted, and this year, hiring in my profession is up this year. 
+
+AI makes it so you are way more productive, but it doesn't "think". It just completes patterns very well. The human in the loop isn't going anywhere with the current trajectory of LLM advancements.
+
+But the lead AI firms are facing a hard wall of diminishing returns on their models. Throw all the money in the world at creating new AI models, and all the hardware, and it barely moves the needle anymore. 
+
+They know they are hitting this wall, and competitors are going to come up producing the same product as them on a cheap commodity level and they are terrified. 
+
+Now they are telling us that Generative AI LLMs are going to turn on humans and destroy civilization, and are asking to be regulated.
+
+Really they want regulation to stop competitors from eating their lunch. They want a moat. They want to dramatically increase the cost of getting into business, and keep them as the trusted guardians of the technology. 
+
+They also know that soon, we will just run AI on our own hardware with open source models and cut them out of the game. 
+
+Too hell with them. 
+
+Let their companies burn. 
+
+They sold themselves to investors on the evil they could do to us, and failed to deliver. Now they are trying to use fear to protect their positions. 
+
 ## Building One Set To Failure
 @tags=fitness, mobile-apps, in-progress-projects
 @date=2026-06-12
