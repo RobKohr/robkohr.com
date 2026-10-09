@@ -39,6 +39,21 @@
 - Dave Made a Maze
 - Tucker and Dale vs Evil
 
+## Fractional grid graph paper (generate your own PDFs)
+@tags=graph-paper, pdf, python, print
+@date=2026-10-09
+
+
+I wanted dot paper with cm, inch and 1/4 inch base units, and also wanted markings for sub units.
+
+  
+One **base unit** (1 cm, 1 inch, or quarter inch). On top of that you get 4×, 1×, ½×, and ¼× gray dots, plus a red ⅓× overlay and green every-third 1× dot so you can actually see the 3 vs 4 rhythm without squinting. Dots stay the same physical size when you change base; only the spacing moves. Letter or A4, two pages, no margins, top-left starts on a big 4× dot so lining up a ruler isn’t a guess.
+  
+
+`./start.sh` for one file, `./generate-all.sh` if you want every combo in `output/`. README has a cheat sheet for angles if you connect dots on the 1× grid (45°, the 3–4–5 stuff, and “close enough” 30/60).
+
+Repo: [fractional-grid-graph-paper](https://github.com/RobKohr/fractional-grid-graph-paper)
+
 
 ## No, Gen AI will not end civilization
 @tags=AI, genai, llm

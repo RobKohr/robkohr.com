@@ -1,0 +1,44 @@
+
+        <html>
+            <head>
+                <base href="../">
+                <title>pdf - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="./rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="./favicon.ico">
+<link rel="stylesheet" href="./libs/highlight/styles/default.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
+
+                <link rel="stylesheet" href="./neat.css">
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            <h2>Tag: pdf</h2>
+    
+    <h2><a href="articles/fractional-grid-graph-paper--generate-your-own-pdfs-">Fractional grid graph paper (generate your own PDFs)</a></h2>
+    <div class="variables">
+    <div class="date">@date=2026-10-09</div>
+    <div class="tags">@tags=<a href="tags/graph-paper">graph-paper</a>, <a href="tags/pdf">pdf</a>, <a href="tags/python">python</a>, <a href="tags/print">print</a></div>
+    </div>
+    <article>
+        <p>I wanted dot paper with cm, inch and 1/4 inch base units, and also wanted markings for sub units.</p>
+<p>One <strong>base unit</strong> (1 cm, 1 inch, or quarter inch). On top of that you get 4×, 1×, ½×, and ¼× gray dots, plus a red ⅓× overlay and green every-third 1× dot so you can actually see the 3 vs 4 rhyt...</p>
+ <p><a class="nowrap" href="articles/fractional-grid-graph-paper--generate-your-own-pdfs-">READ MORE (138 words, 1 minutes)</a></p> 
+    </article>
+    
+            </body>
+        </html>
+    

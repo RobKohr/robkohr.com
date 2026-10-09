@@ -5,9 +5,17 @@
             <link>https://robkohr.com</link>
             <description>RobKohr's Blog</description>
             <language>en-us</language>
-            <lastBuildDate>Mon, 14 Sep 2026 07:00:00 GMT</lastBuildDate>
-            <pubDate>Mon, 14 Sep 2026 07:00:00 GMT</pubDate>
+            <lastBuildDate>Fri, 09 Oct 2026 07:00:00 GMT</lastBuildDate>
+            <pubDate>Fri, 09 Oct 2026 07:00:00 GMT</pubDate>
             <ttl>1800</ttl>
+            <item>
+                <guid>https://robkohr.com/articles/fractional-grid-graph-paper--generate-your-own-pdfs-</guid>
+                <title>Fractional grid graph paper (generate your own PDFs)</title>
+                <link>https://robkohr.com/articles/fractional-grid-graph-paper--generate-your-own-pdfs-</link>
+                <description>Fractional grid graph paper (generate your own PDFs)</description>
+                <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
+            </item>
+    
             <item>
                 <guid>https://robkohr.com/articles/no--gen-ai-will-not-end-civilization</guid>
                 <title>No, Gen AI will not end civilization</title>
@@ -398,14 +406,6 @@
                 <link>https://robkohr.com/articles/hammered-by-attempted-hackers</link>
                 <description>Hammered by attempted hackers</description>
                 <pubDate>Tue, 03 Dec 2024 00:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/wisps</guid>
-                <title>Wisps</title>
-                <link>https://robkohr.com/articles/wisps</link>
-                <description>Wisps</description>
-                <pubDate>Sat, 23 Nov 2024 00:00:00 GMT</pubDate>
             </item>
     
         </channel>

@@ -1,0 +1,50 @@
+
+<!DOCTYPE html>
+  <html>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />            
+        <base href="../">  
+                <title>Fractional grid graph paper (generate your own PDFs) - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="./rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="./favicon.ico">
+<link rel="stylesheet" href="./libs/highlight/styles/default.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
+
+                <link rel="canonical" href="https://robkohr.com/articles/fractional-grid-graph-paper--generate-your-own-pdfs-" />
+                <link rel="stylesheet" href="./neat.css">
+
+                <meta property="og:description" content="I wanted dot paper with cm, inch and 1/4 inch base units, and also wanted markings for sub units.  One **base unit** (1 cm, 1 inch, or quarter inch). On top of that you get 4×, 1×, ½×, and ¼× gray dot" />
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            
+    <h2><a href="articles/fractional-grid-graph-paper--generate-your-own-pdfs-">Fractional grid graph paper (generate your own PDFs)</a></h2>
+    <div class="variables">
+    <div class="date">@date=2026-10-09</div>
+    <div class="tags">@tags=<a href="tags/graph-paper">graph-paper</a>, <a href="tags/pdf">pdf</a>, <a href="tags/python">python</a>, <a href="tags/print">print</a></div>
+    </div>
+    <article>
+        <p>I wanted dot paper with cm, inch and 1/4 inch base units, and also wanted markings for sub units.</p>
+<p>One <strong>base unit</strong> (1 cm, 1 inch, or quarter inch). On top of that you get 4×, 1×, ½×, and ¼× gray dots, plus a red ⅓× overlay and green every-third 1× dot so you can actually see the 3 vs 4 rhythm without squinting. Dots stay the same physical size when you change base; only the spacing moves. Letter or A4, two pages, no margins, top-left starts on a big 4× dot so lining up a ruler isn’t a guess.</p>
+<p><code>./start.sh</code> for one file, <code>./generate-all.sh</code> if you want every combo in <code>output/</code>. README has a cheat sheet for angles if you connect dots on the 1× grid (45°, the 3–4–5 stuff, and “close enough” 30/60).</p>
+<p>Repo: <a href="https://github.com/RobKohr/fractional-grid-graph-paper">fractional-grid-graph-paper</a></p>
+
+    </article>
+    
+            </body>
+          </html>
+          
