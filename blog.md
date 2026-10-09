@@ -43,6 +43,7 @@
 @tags=graph-paper, pdf, python, print
 @date=2026-10-09
 
+![[20261009100133 dot grid.png]]
 
 I wanted dot paper with cm, inch and 1/4 inch base units, and also wanted markings for sub units.
 
