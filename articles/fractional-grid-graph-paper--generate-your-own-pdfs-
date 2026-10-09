@@ -27,7 +27,7 @@
                 <link rel="canonical" href="https://robkohr.com/articles/fractional-grid-graph-paper--generate-your-own-pdfs-" />
                 <link rel="stylesheet" href="./neat.css">
 <meta property="og:image" content="https://robkohr.com/images/20261009100133 dot grid.png" />
-                <meta property="og:description" content="![[20261009100133 dot grid.png]]I wanted dot paper with cm, inch and 1/4 inch base units, and also wanted markings for sub units.  One **base unit** (1 cm, 1 inch, or quarter inch). On top of that you" />
+                <meta property="og:description" content="![[20261009100133 dot grid.png]]So this is some nerdy dotted paper. Note that this image is a zoom in, the dots are smaller and lighter when printed.   One **base unit** (1 cm, 1 inch, or quarter inch" />
             </head>
             <body>
             <a href="./index.html">&larr; Home</a>
@@ -39,9 +39,12 @@
     </div>
     <article>
         <p><img data-src="images/20261009100133 dot grid.png" alt="20261009100133 dot grid.png" style="max-width: 100%;max-height:40vh;" /></p>
-<p>I wanted dot paper with cm, inch and 1/4 inch base units, and also wanted markings for sub units.</p>
-<p>One <strong>base unit</strong> (1 cm, 1 inch, or quarter inch). On top of that you get 4×, 1×, ½×, and ¼× gray dots, plus a red ⅓× overlay and green every-third 1× dot so you can actually see the 3 vs 4 rhythm without squinting. Dots stay the same physical size when you change base; only the spacing moves. Letter or A4, two pages, no margins, top-left starts on a big 4× dot so lining up a ruler isn’t a guess.</p>
-<p><code>./start.sh</code> for one file, <code>./generate-all.sh</code> if you want every combo in <code>output/</code>. README has a cheat sheet for angles if you connect dots on the 1× grid (45°, the 3–4–5 stuff, and “close enough” 30/60).</p>
+<p>So this is some nerdy dotted paper. Note that this image is a zoom in, the dots are smaller and lighter when printed. </p>
+<p>One <strong>base unit</strong> (1 cm, 1 inch, or quarter inch). On top of that you get 4×, 1×, ½×, and ¼× gray dots, plus a red ⅓× overlay and green every-third 1× dot so you can actually see the 3 vs 4 rhythm. </p>
+<p>You can print this in a4 or letter, and in any one of the 3 base units. </p>
+<p>Of course, the code is open so you can tweak the dot sizes and colors to your heart&#39;s content. </p>
+<p>Or, you can just dig into the output directory and download the page and run with it.</p>
+<p>The pdfs have two duplicate pages in each to help make it easy to do double sided. </p>
 <p>Repo: <a href="https://github.com/RobKohr/fractional-grid-graph-paper">fractional-grid-graph-paper</a></p>
 
     </article>

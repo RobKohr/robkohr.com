@@ -45,13 +45,17 @@
 
 ![[20261009100133 dot grid.png]]
 
-I wanted dot paper with cm, inch and 1/4 inch base units, and also wanted markings for sub units.
-
+So this is some nerdy dotted paper. Note that this image is a zoom in, the dots are smaller and lighter when printed. 
   
-One **base unit** (1 cm, 1 inch, or quarter inch). On top of that you get 4×, 1×, ½×, and ¼× gray dots, plus a red ⅓× overlay and green every-third 1× dot so you can actually see the 3 vs 4 rhythm without squinting. Dots stay the same physical size when you change base; only the spacing moves. Letter or A4, two pages, no margins, top-left starts on a big 4× dot so lining up a ruler isn’t a guess.
-  
+One **base unit** (1 cm, 1 inch, or quarter inch). On top of that you get 4×, 1×, ½×, and ¼× gray dots, plus a red ⅓× overlay and green every-third 1× dot so you can actually see the 3 vs 4 rhythm. 
 
-`./start.sh` for one file, `./generate-all.sh` if you want every combo in `output/`. README has a cheat sheet for angles if you connect dots on the 1× grid (45°, the 3–4–5 stuff, and “close enough” 30/60).
+You can print this in a4 or letter, and in any one of the 3 base units. 
+
+Of course, the code is open so you can tweak the dot sizes and colors to your heart's content. 
+
+Or, you can just dig into the output directory and download the page and run with it.
+
+The pdfs have two duplicate pages in each to help make it easy to do double sided. 
 
 Repo: [fractional-grid-graph-paper](https://github.com/RobKohr/fractional-grid-graph-paper)
 
