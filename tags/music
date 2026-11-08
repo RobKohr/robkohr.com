@@ -28,6 +28,17 @@
             <a href="./index.html">&larr; Home</a>
             <h2>Tag: music</h2>
     
+    <h2><a href="demos/guitar-playground">Guitar Playground</a></h2>
+    <div class="variables">
+    <div class="date">@date=2026-11-20</div>
+    <div class="tags">@tags=<a href="tags/music">music</a></div>
+    </div>
+    <article>
+        <p>Mess around with musical notes on a guitar Fretboard</p>
+<p><a href="demos/guitar-playground"><img class="icon" data-src="images/20261108143910 Guitar Playground.png" alt="20261108143910 Guitar Playground.png" style="max-width: 100%;max-height:40vh;"  /></a></p>
+
+    </article>
+    
     <h2><a href="articles/create-a-spotify-playlist-from-a-text-file">Create a spotify playlist from a text file</a></h2>
     <div class="variables">
     <div class="date">@date=2025-09-30</div>

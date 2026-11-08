@@ -40,7 +40,7 @@
 - Tucker and Dale vs Evil
 
 ## Guitar Playground
-@tags=a, b
+@tags=music
 @date=2026-11-20
 @page=demos/guitar-playground
 
