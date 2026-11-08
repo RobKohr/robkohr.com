@@ -242,6 +242,13 @@
     margin-bottom: 14px;
   }
 
+  .top-bar-controls {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 12px 20px;
+  }
+
   .note-lettering-control {
     display: inline-flex;
     align-items: center;
@@ -320,12 +327,124 @@
     outline: 2px solid #968775;
     outline-offset: 2px;
   }
+
+  /* Vertical fretboard: nut on top, frets toward the bridge below */
+  .fretboard-wrapper.is-vertical {
+    min-width: unset;
+    width: fit-content;
+    margin: 0 auto;
+    padding-left: 0;
+    padding-bottom: 0;
+    padding-top: 42px;
+    padding-right: 36px;
+  }
+
+  .scroll-container:has(.fretboard-wrapper.is-vertical) {
+    overflow-x: visible;
+    overflow-y: auto;
+  }
+
+  .fretboard-wrapper.is-vertical .open-strings {
+    top: 0;
+    left: 0;
+    width: 230px;
+    height: 38px;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    padding: 0 4px;
+  }
+
+  .fretboard-wrapper.is-vertical .open-cell {
+    flex: 1;
+  }
+
+  .fretboard-wrapper.is-vertical .fretboard {
+    width: 230px;
+    height: 720px;
+    min-height: 720px;
+    grid-template-columns: 1fr;
+    grid-template-rows: repeat(12, 1fr);
+    border-radius: 0 0 4px 4px;
+    border-left: 2px solid #968775;
+    border-right: 2px solid #968775;
+    border-bottom: 2px solid #968775;
+    border-top: 7px solid #ffffff;
+    box-shadow: 0 -2px 0 #b8ab9a;
+  }
+
+  .fretboard-wrapper.is-vertical .fret {
+    width: 100%;
+    height: auto;
+    border-right: none;
+    border-bottom: 4px solid #e3ded8;
+    box-shadow: inset 0 -1px 1px rgba(0, 0, 0, 0.15);
+  }
+
+  .fretboard-wrapper.is-vertical .fret:last-child {
+    border-bottom: none;
+  }
+
+  .fretboard-wrapper.is-vertical .inlay.top {
+    top: 50%;
+    left: 30%;
+  }
+
+  .fretboard-wrapper.is-vertical .inlay.bottom {
+    top: 50%;
+    left: 70%;
+  }
+
+  .fretboard-wrapper.is-vertical .inlay.center {
+    top: 50%;
+    left: 50%;
+  }
+
+  .fretboard-wrapper.is-vertical .strings-layer {
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    padding: 0 16px;
+  }
+
+  .fretboard-wrapper.is-vertical .string {
+    width: auto;
+    height: 100%;
+  }
+
+  .fretboard-wrapper.is-vertical .string:nth-child(1) { width: 1.5px; }
+  .fretboard-wrapper.is-vertical .string:nth-child(2) { width: 2px; }
+  .fretboard-wrapper.is-vertical .string:nth-child(3) { width: 2.5px; }
+  .fretboard-wrapper.is-vertical .string:nth-child(4) { width: 3px; }
+  .fretboard-wrapper.is-vertical .string:nth-child(5) { width: 3.5px; }
+  .fretboard-wrapper.is-vertical .string:nth-child(6) { width: 4px; }
+
+  .fretboard-wrapper.is-vertical .notes-layer {
+    grid-template-columns: repeat(6, 1fr);
+    grid-template-rows: repeat(12, 1fr);
+    padding: 0 2px;
+  }
+
+  .fretboard-wrapper.is-vertical .fret-numbers {
+    bottom: auto;
+    left: auto;
+    top: 42px;
+    right: 0;
+    width: 28px;
+    height: 720px;
+    grid-template-columns: 1fr;
+    grid-template-rows: repeat(12, 1fr);
+  }
 </style>
 </head>
 <body>
 
 <div class="top-bar">
-  <label class="note-lettering-control">
+  <div class="top-bar-controls">
+    <label class="sound-toggle">
+      <span>Vertical fretboard</span>
+      <input type="checkbox" id="vertical-fretboard" checked aria-label="Show fretboard vertically with nut at top">
+      <span class="switch" aria-hidden="true"></span>
+    </label>
+    <label class="note-lettering-control">
     <span>Note Lettering</span>
     <select id="note-lettering" aria-label="Note lettering style">
       <option value="standard">Standard equal temperament</option>
@@ -334,7 +453,8 @@
       <option value="c0">C=0, notes 0–11</option>
       <option value="c1">C=1, notes 1–12</option>
     </select>
-  </label>
+    </label>
+  </div>
   <label class="sound-toggle">
     <span>Sound</span>
     <input type="checkbox" id="sound-toggle" checked aria-label="Play note sounds">
@@ -394,6 +514,8 @@
     const hintBarEl = document.getElementById('hint-bar');
     const soundToggleEl = document.getElementById('sound-toggle');
     const noteLetteringEl = document.getElementById('note-lettering');
+    const verticalFretboardEl = document.getElementById('vertical-fretboard');
+    const fretboardWrapperEl = document.querySelector('.fretboard-wrapper');
 
     let letteringMode = noteLetteringEl.value;
     let pressedPitchClass = null;
@@ -405,6 +527,25 @@
     soundToggleEl.addEventListener('change', () => {
       soundEnabled = soundToggleEl.checked;
     });
+
+    function applyFretboardOrientation() {
+      const vertical = verticalFretboardEl.checked;
+      fretboardWrapperEl.classList.toggle('is-vertical', vertical);
+      document.querySelectorAll('.note-cell').forEach(cell => {
+        const f = Number(cell.dataset.fret);
+        const s = Number(cell.dataset.string);
+        if (vertical) {
+          // Low E (string 6) left → high E (string 1) right: EADGBE
+          cell.style.gridColumn = String(7 - s);
+          cell.style.gridRow = String(f);
+        } else {
+          cell.style.gridColumn = String(f);
+          cell.style.gridRow = String(s);
+        }
+      });
+    }
+
+    verticalFretboardEl.addEventListener('change', applyFretboardOrientation);
 
     function formatNoteLabel(pitchClass) {
       const pc = ((pitchClass % 12) + 12) % 12;
@@ -597,10 +738,16 @@
         const pitchClass = (startIndex + f) % 12;
         const cell = document.createElement('div');
         cell.className = 'note-cell';
+        cell.dataset.fret = String(f);
+        cell.dataset.string = String(stringIndex + 1);
+        cell.style.gridColumn = String(f);
+        cell.style.gridRow = String(stringIndex + 1);
         cell.appendChild(createNoteBadge(pitchClass, { stringIndex, fret: f }));
         notesLayerEl.appendChild(cell);
       }
     });
+
+    applyFretboardOrientation();
   } catch (err) {
     console.error('Error rendering fretboard:', err);
   }
