@@ -42,7 +42,7 @@
 ## Guitar Playground
 @tags=music
 @date=2026-11-20
-@page=demos/guitar-playground
+@url=demos/guitar-playground
 
 Mess around with musical notes on a guitar Fretboard
 

@@ -138,7 +138,14 @@ var articles = articlesFull.map(function (articleOrig) {
   if (!hasReadMore) {
     article.summary = article.html;
   }
-  
+
+  if (article.variables.url) {
+    article.summary +=
+      ` <p><a class="nowrap" href="${article.variables.url}">READ MORE (${wordCount} words, ${Math.round(
+        wordCount / 130
+      )} minutes${imageCountLabel})</a></p> `;
+  }
+
   // Extract icon image from article HTML, but only if summary doesn't already contain images
   // Check the final summary HTML that will be displayed
   const summaryHasImages = article.summary.match(/<img.+>/g);
@@ -153,8 +160,8 @@ var articles = articlesFull.map(function (articleOrig) {
   }
   article.icon = icon;
 
-  if (article.variables.page) {
-    const href = article.variables.page;
+  if (article.variables.url) {
+    const href = article.variables.url;
     article.summary = article.summary.replace(
       /<img([^>]+)\/>/g,
       `<a href="${href}"><img class="icon"$1 /></a>`
@@ -234,8 +241,8 @@ function toKebab(str) {
 }
 
 function articleUrl(article) {
-  if (article.variables?.page) {
-    return article.variables.page;
+  if (article.variables?.url) {
+    return article.variables.url;
   }
   return `articles/${toKebab(article.title)}`;
 }
@@ -268,7 +275,9 @@ articles.forEach(function (article) {
   if (article === null) {
     return;
   }
-  output = addArticleToOutput(article, output);
+  if (!article.variables.page) {
+    output = addArticleToOutput(article, output);
+  }
   const filename = `${toKebab(article.title)}`;
 
   //description content for meta tag needs to be less than 200 characters and no html and now double quotes and new lines should be removed
@@ -299,7 +308,7 @@ ${article.icon ? '<meta property="og:image" content="https://robkohr.com/' + art
           </html>
           `;
   const articleHtml = articleStartHtml + addArticleToOutput(article, "", true) + articleEndHtml;
-  if (filename && !article.variables.page) {
+  if (filename && !article.variables.url) {
     fs.writeFileSync(`articles/${filename}`, articleHtml);
   }
 });
@@ -399,8 +408,8 @@ articles
     function encodeHtmlEntities(str) {
       return str.replace(/&/g, "&amp;").replace(/"/g, "&quot;").replace(/'/g, "&#39;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
     }
-    const link = article.variables.page
-      ? `https://robkohr.com/${article.variables.page.replace(/^\.\//, "")}`
+    const link = article.variables.url
+      ? `https://robkohr.com/${article.variables.url.replace(/^\.\//, "")}`
       : `https://robkohr.com/articles/${toKebab(article.title)}`;
 
     output += `
