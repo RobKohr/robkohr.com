@@ -153,6 +153,14 @@ var articles = articlesFull.map(function (articleOrig) {
   }
   article.icon = icon;
 
+  if (article.variables.page) {
+    const href = article.variables.page;
+    article.summary = article.summary.replace(
+      /<img([^>]+)\/>/g,
+      `<a href="${href}"><img class="icon"$1 /></a>`
+    );
+  }
+
   /*
         convert markdown content to html
     */
@@ -226,6 +234,9 @@ function toKebab(str) {
 }
 
 function articleUrl(article) {
+  if (article.variables?.page) {
+    return article.variables.page;
+  }
   return `articles/${toKebab(article.title)}`;
 }
 
@@ -241,7 +252,7 @@ function addArticleToOutput(article, output, full) {
   return (
     output +
     `
-    <h2><a href="articles/${kabab}">${article.title}</a></h2>
+    <h2><a href="${articleUrl(article)}">${article.title}</a></h2>
     <div class="variables">
     <div class="date">${article.variables.date ? `@date=${article.variables.date}` : ""}</div>
     <div class="tags">${tags ? `@tags=${tags}` : ""}</div>
@@ -257,9 +268,7 @@ articles.forEach(function (article) {
   if (article === null) {
     return;
   }
-  if (!article.variables.page) {
-    output = addArticleToOutput(article, output);
-  }
+  output = addArticleToOutput(article, output);
   const filename = `${toKebab(article.title)}`;
 
   //description content for meta tag needs to be less than 200 characters and no html and now double quotes and new lines should be removed
@@ -290,7 +299,7 @@ ${article.icon ? '<meta property="og:image" content="https://robkohr.com/' + art
           </html>
           `;
   const articleHtml = articleStartHtml + addArticleToOutput(article, "", true) + articleEndHtml;
-  if (filename) {
+  if (filename && !article.variables.page) {
     fs.writeFileSync(`articles/${filename}`, articleHtml);
   }
 });
@@ -390,7 +399,9 @@ articles
     function encodeHtmlEntities(str) {
       return str.replace(/&/g, "&amp;").replace(/"/g, "&quot;").replace(/'/g, "&#39;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
     }
-    const link = `https://robkohr.com/articles/${toKebab(article.title)}`;
+    const link = article.variables.page
+      ? `https://robkohr.com/${article.variables.page.replace(/^\.\//, "")}`
+      : `https://robkohr.com/articles/${toKebab(article.title)}`;
 
     output += `
             <item>

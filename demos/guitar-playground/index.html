@@ -1,0 +1,610 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Guitar Fretboard Notes</title>
+<style>
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+  body {
+    background-color: #ffffff;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    padding: 20px;
+  }
+
+  /* Responsive container to prevent horizontal cutoff on small screens */
+  .scroll-container {
+    width: 100%;
+    max-width: 1200px;
+    overflow-x: auto;
+    padding-bottom: 10px;
+  }
+
+  .fretboard-wrapper {
+    position: relative;
+    width: 100%;
+    min-width: 720px;
+    padding-left: 42px;
+    padding-bottom: 36px;
+  }
+
+  /* Board container */
+  .fretboard {
+    position: relative;
+    width: 100%;
+    height: 230px;
+    background-color: #c2b29f;
+    border-top: 2px solid #968775;
+    border-bottom: 2px solid #968775;
+    border-right: 2px solid #968775;
+    border-left: 7px solid #ffffff;
+    box-shadow: -2px 0 0 #b8ab9a;
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    border-radius: 0 4px 4px 0;
+  }
+
+  /* Individual frets */
+  .fret {
+    position: relative;
+    height: 100%;
+    border-right: 4px solid #e3ded8;
+    box-shadow: inset -1px 0 1px rgba(0, 0, 0, 0.15);
+  }
+
+  .fret:last-child {
+    border-right: none;
+  }
+
+  /* Fretboard inlay dots */
+  .inlay {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    background-color: #ffffff;
+    border-radius: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+    pointer-events: none;
+  }
+
+  .inlay.center {
+    top: 50%;
+  }
+
+  .inlay.top {
+    top: 30%;
+  }
+
+  .inlay.bottom {
+    top: 70%;
+  }
+
+  /* Strings overlay */
+  .strings-layer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 16px 0;
+    z-index: 2;
+    pointer-events: none;
+  }
+
+  .string {
+    width: 100%;
+    background-color: #61574c;
+  }
+
+  /* Realistic string thicknesses from high E (top) to low E (bottom) */
+  .string:nth-child(1) { height: 1.5px; }
+  .string:nth-child(2) { height: 2px; }
+  .string:nth-child(3) { height: 2.5px; }
+  .string:nth-child(4) { height: 3px; }
+  .string:nth-child(5) { height: 3.5px; }
+  .string:nth-child(6) { height: 4px; }
+
+  /* Notes grid */
+  .notes-layer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    grid-template-rows: repeat(6, 1fr);
+    padding: 2px 0;
+    z-index: 3;
+  }
+
+  .note-cell {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+  }
+
+  /* Open string notes (left of the nut) */
+  .open-strings {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 38px;
+    height: 230px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 4px 0;
+  }
+
+  .open-cell {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  /* Note circle styling */
+  .note {
+    width: 27px;
+    height: 27px;
+    border-radius: 50%;
+    border: 1px solid #d4cfc9;
+    color: #333333;
+    font-size: 13px;
+    font-weight: 500;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+    user-select: none;
+    touch-action: manipulation;
+    cursor: pointer;
+    transition: transform 0.12s ease, background-color 0.15s ease, color 0.15s ease, border-color 0.15s ease;
+  }
+
+  .note:hover {
+    transform: scale(1.12);
+    border-color: #968775;
+  }
+
+  .note.highlighted {
+    background-color: #333333;
+    color: #ffffff;
+    border-color: #333333;
+    transform: scale(1.1);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+  }
+
+  .note.open {
+    border: 1.5px solid #e0e0e0;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.08);
+  }
+
+  .note.open.highlighted {
+    background-color: #333333;
+    color: #ffffff;
+    border-color: #333333;
+  }
+
+  /* Fret numbers at the bottom */
+  .fret-numbers {
+    position: absolute;
+    bottom: 0;
+    left: 42px;
+    right: 0;
+    height: 28px;
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+  }
+
+  .fret-num {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 15px;
+    font-weight: 600;
+    color: #333333;
+    user-select: none;
+  }
+
+  .hint-bar {
+    margin-top: 12px;
+    font-size: 13px;
+    color: #777777;
+    text-align: center;
+  }
+
+  .top-bar {
+    width: 100%;
+    max-width: 1200px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 12px 20px;
+    margin-bottom: 14px;
+  }
+
+  .note-lettering-control {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 14px;
+    font-weight: 500;
+    color: #333333;
+  }
+
+  .note-lettering-control select {
+    font: inherit;
+    font-weight: 400;
+    color: #333333;
+    padding: 6px 10px;
+    border: 1px solid #d4cfc9;
+    border-radius: 6px;
+    background-color: #ffffff;
+    cursor: pointer;
+    max-width: min(100vw - 40px, 280px);
+  }
+
+  .note-lettering-control select:focus-visible {
+    outline: 2px solid #968775;
+    outline-offset: 2px;
+  }
+
+  .sound-toggle {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 14px;
+    font-weight: 500;
+    color: #333333;
+    cursor: pointer;
+    user-select: none;
+  }
+
+  .sound-toggle input {
+    position: absolute;
+    opacity: 0;
+    width: 0;
+    height: 0;
+  }
+
+  .sound-toggle .switch {
+    position: relative;
+    width: 44px;
+    height: 26px;
+    background-color: #d4cfc9;
+    border-radius: 13px;
+    transition: background-color 0.2s ease;
+  }
+
+  .sound-toggle .switch::after {
+    content: '';
+    position: absolute;
+    top: 3px;
+    left: 3px;
+    width: 20px;
+    height: 20px;
+    background-color: #ffffff;
+    border-radius: 50%;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+    transition: transform 0.2s ease;
+  }
+
+  .sound-toggle input:checked + .switch {
+    background-color: #333333;
+  }
+
+  .sound-toggle input:checked + .switch::after {
+    transform: translateX(18px);
+  }
+
+  .sound-toggle input:focus-visible + .switch {
+    outline: 2px solid #968775;
+    outline-offset: 2px;
+  }
+</style>
+</head>
+<body>
+
+<div class="top-bar">
+  <label class="note-lettering-control">
+    <span>Note Lettering</span>
+    <select id="note-lettering" aria-label="Note lettering style">
+      <option value="standard">Standard equal temperament</option>
+      <option value="a0">A=0, notes 0–11</option>
+      <option value="a1">A=1, notes 1–12</option>
+      <option value="c0">C=0, notes 0–11</option>
+      <option value="c1">C=1, notes 1–12</option>
+    </select>
+  </label>
+  <label class="sound-toggle">
+    <span>Sound</span>
+    <input type="checkbox" id="sound-toggle" checked aria-label="Play note sounds">
+    <span class="switch" aria-hidden="true"></span>
+  </label>
+</div>
+
+<div class="scroll-container">
+  <div class="fretboard-wrapper">
+    <!-- Open String Notes -->
+    <div class="open-strings" id="open-strings"></div>
+
+    <!-- Main Fretboard -->
+    <div class="fretboard" id="fretboard">
+      <!-- Frets & Inlays generated by JS -->
+      <div class="strings-layer">
+        <div class="string"></div>
+        <div class="string"></div>
+        <div class="string"></div>
+        <div class="string"></div>
+        <div class="string"></div>
+        <div class="string"></div>
+      </div>
+      <div class="notes-layer" id="notes-layer"></div>
+    </div>
+
+    <!-- Fret Numbers -->
+    <div class="fret-numbers" id="fret-numbers"></div>
+  </div>
+</div>
+
+<div class="hint-bar" id="hint-bar">Press and hold a note, or slide across notes while held, to see matching pitches.</div>
+
+<script>
+  try {
+    // Open string notes from top (1st string / high E) to bottom (6th string / low E)
+    const openNotes = ['E', 'B', 'G', 'D', 'A', 'E'];
+
+    // Chromatic scale using sharps
+    const chromaticScale = ['C', 'C#', 'D', 'D#', 'E', 'F', 'F#', 'G', 'G#', 'A', 'A#', 'B'];
+
+    const numFrets = 12;
+    const singleInlays = [3, 5, 7, 9];
+    const doubleInlay = 12;
+
+    // MIDI for open strings, high E (string 0) through low E (string 5)
+    const openStringMidi = [64, 59, 55, 50, 45, 40];
+
+    function midiToFrequency(midi) {
+      return 440 * Math.pow(2, (midi - 69) / 12);
+    }
+
+    const openStringsEl = document.getElementById('open-strings');
+    const fretboardEl = document.getElementById('fretboard');
+    const notesLayerEl = document.getElementById('notes-layer');
+    const fretNumbersEl = document.getElementById('fret-numbers');
+    const hintBarEl = document.getElementById('hint-bar');
+    const soundToggleEl = document.getElementById('sound-toggle');
+    const noteLetteringEl = document.getElementById('note-lettering');
+
+    let letteringMode = noteLetteringEl.value;
+    let pressedPitchClass = null;
+    let pressPointerId = null;
+    let lastPlayedBadge = null;
+    let audioCtx = null;
+    let soundEnabled = soundToggleEl.checked;
+
+    soundToggleEl.addEventListener('change', () => {
+      soundEnabled = soundToggleEl.checked;
+    });
+
+    function formatNoteLabel(pitchClass) {
+      const pc = ((pitchClass % 12) + 12) % 12;
+      switch (letteringMode) {
+        case 'a0':
+          return String((pc - 9 + 12) % 12);
+        case 'a1':
+          return String((pc - 9 + 12) % 12 + 1);
+        case 'c0':
+          return String(pc);
+        case 'c1':
+          return String(pc + 1);
+        default:
+          return chromaticScale[pc];
+      }
+    }
+
+    function noteDisplayNumber(pitchClass) {
+      const pc = ((pitchClass % 12) + 12) % 12;
+      switch (letteringMode) {
+        case 'a0':
+          return { number: (pc - 9 + 12) % 12, maxNumber: 11 };
+        case 'a1':
+          return { number: (pc - 9 + 12) % 12 + 1, maxNumber: 12 };
+        case 'c0':
+          return { number: pc, maxNumber: 11 };
+        case 'c1':
+          return { number: pc + 1, maxNumber: 12 };
+        default:
+          return { number: (pc - 9 + 12) % 12, maxNumber: 11 };
+      }
+    }
+
+    function noteButtonBackground(pitchClass) {
+      const { number, maxNumber } = noteDisplayNumber(pitchClass);
+      const hue = 360 * (number / maxNumber);
+      return `lch(75.67% 39 ${hue})`;
+    }
+
+    function applyNoteBadgeAppearance(badge) {
+      const pitchClass = Number(badge.dataset.pitchClass);
+      badge.textContent = formatNoteLabel(pitchClass);
+      if (!badge.classList.contains('highlighted')) {
+        badge.style.backgroundColor = noteButtonBackground(pitchClass);
+      }
+    }
+
+    function applyNoteLettering() {
+      document.querySelectorAll('.note').forEach(applyNoteBadgeAppearance);
+      if (pressedPitchClass !== null) {
+        hintBarEl.textContent = `Showing all "${formatNoteLabel(Number(pressedPitchClass))}" notes — release to clear.`;
+      }
+    }
+
+    noteLetteringEl.addEventListener('change', () => {
+      letteringMode = noteLetteringEl.value;
+      applyNoteLettering();
+    });
+
+    function ensureAudio() {
+      if (!audioCtx) {
+        audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+      }
+      if (audioCtx.state === 'suspended') {
+        audioCtx.resume();
+      }
+      return audioCtx;
+    }
+
+    function playBadgePitch(badge) {
+      if (!soundEnabled) return;
+      const freq = Number(badge.dataset.frequency);
+      if (!Number.isFinite(freq)) return;
+      const ctx = ensureAudio();
+      const now = ctx.currentTime;
+      const osc = ctx.createOscillator();
+      const gain = ctx.createGain();
+      osc.type = 'triangle';
+      osc.frequency.setValueAtTime(freq, now);
+      gain.gain.setValueAtTime(0.0001, now);
+      gain.gain.exponentialRampToValueAtTime(0.22, now + 0.012);
+      gain.gain.exponentialRampToValueAtTime(0.0001, now + 0.55);
+      osc.connect(gain);
+      gain.connect(ctx.destination);
+      osc.start(now);
+      osc.stop(now + 0.56);
+    }
+
+    function noteUnderPointer(clientX, clientY) {
+      const el = document.elementFromPoint(clientX, clientY);
+      return el?.closest?.('.note') ?? null;
+    }
+
+    function showNoteMatches(pitchClass) {
+      const pc = String(pitchClass);
+      if (pressedPitchClass === pc) return;
+      pressedPitchClass = pc;
+      document.querySelectorAll('.note').forEach(badge => {
+        badge.classList.toggle('highlighted', badge.dataset.pitchClass === pc);
+      });
+      hintBarEl.textContent = `Showing all "${formatNoteLabel(Number(pitchClass))}" notes — release to clear.`;
+    }
+
+    function activateBadge(badge) {
+      if (badge?.dataset.pitchClass == null) return;
+      showNoteMatches(badge.dataset.pitchClass);
+      if (badge !== lastPlayedBadge) {
+        lastPlayedBadge = badge;
+        playBadgePitch(badge);
+      }
+    }
+
+    function clearNoteMatches() {
+      pressedPitchClass = null;
+      pressPointerId = null;
+      lastPlayedBadge = null;
+      document.querySelectorAll('.note').forEach(badge => badge.classList.remove('highlighted'));
+      hintBarEl.textContent = 'Press and hold a note, or slide across notes while held, to see matching pitches.';
+    }
+
+    window.addEventListener('pointermove', (e) => {
+      if (pressPointerId === null || e.pointerId !== pressPointerId) return;
+      activateBadge(noteUnderPointer(e.clientX, e.clientY));
+    });
+    window.addEventListener('pointerup', (e) => {
+      if (pressPointerId !== null && e.pointerId === pressPointerId) {
+        clearNoteMatches();
+      }
+    });
+    window.addEventListener('pointercancel', clearNoteMatches);
+
+    // Helper to create a pressable note badge
+    function createNoteBadge(pitchClass, { isOpen = false, stringIndex = 0, fret = 0 } = {}) {
+      const badge = document.createElement('div');
+      badge.className = isOpen ? 'note open' : 'note';
+      badge.dataset.pitchClass = String(pitchClass);
+      applyNoteBadgeAppearance(badge);
+      badge.dataset.frequency = midiToFrequency(openStringMidi[stringIndex] + fret);
+      badge.addEventListener('pointerdown', (e) => {
+        if (e.button !== 0 && e.pointerType === 'mouse') return;
+        pressPointerId = e.pointerId;
+        pressedPitchClass = null;
+        lastPlayedBadge = null;
+        activateBadge(badge);
+      });
+      return badge;
+    }
+
+    // Render open strings
+    openNotes.forEach((note, stringIndex) => {
+      const pitchClass = chromaticScale.indexOf(note);
+      const cell = document.createElement('div');
+      cell.className = 'open-cell';
+      cell.appendChild(createNoteBadge(pitchClass, { isOpen: true, stringIndex, fret: 0 }));
+      openStringsEl.appendChild(cell);
+    });
+
+    // Render frets, inlays, and fret numbers
+    for (let f = 1; f <= numFrets; f++) {
+      const fret = document.createElement('div');
+      fret.className = 'fret';
+
+      if (singleInlays.includes(f)) {
+        const dot = document.createElement('div');
+        dot.className = 'inlay center';
+        fret.appendChild(dot);
+      } else if (f === doubleInlay) {
+        const dotTop = document.createElement('div');
+        dotTop.className = 'inlay top';
+        const dotBottom = document.createElement('div');
+        dotBottom.className = 'inlay bottom';
+        fret.appendChild(dotTop);
+        fret.appendChild(dotBottom);
+      }
+
+      // Insert fret before the strings-layer
+      fretboardEl.insertBefore(fret, fretboardEl.firstChild);
+
+      // Fret number label
+      const numEl = document.createElement('div');
+      numEl.className = 'fret-num';
+      numEl.textContent = f;
+      fretNumbersEl.appendChild(numEl);
+    }
+
+    // Render fretted notes (6 rows x 12 columns)
+    openNotes.forEach((openNote, stringIndex) => {
+      const startIndex = chromaticScale.indexOf(openNote);
+      for (let f = 1; f <= numFrets; f++) {
+        const pitchClass = (startIndex + f) % 12;
+        const cell = document.createElement('div');
+        cell.className = 'note-cell';
+        cell.appendChild(createNoteBadge(pitchClass, { stringIndex, fret: f }));
+        notesLayerEl.appendChild(cell);
+      }
+    });
+  } catch (err) {
+    console.error('Error rendering fretboard:', err);
+  }
+</script>
+
+</body>
+</html>

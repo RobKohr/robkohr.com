@@ -39,6 +39,32 @@
 - Dave Made a Maze
 - Tucker and Dale vs Evil
 
+## Guitar Playground
+@tags=a, b
+@date=2026-11-20
+@page=demos/guitar-playground
+
+Mess around with musical notes on a guitar Fretboard
+
+![[20261108143910 Guitar Playground.png]]
+
+
+## I instill a belief in Santa in my kids
+@tags=kids
+@date=2026-11-08
+
+I've had 7 kids across a 19 year spread and all were believers and all enjoyed it. I even support their beliefs in unicorns and mermaids and such.  
+  
+There is a short period of life where we get to really feel in our bones that magic is real.   
+  
+Eventually they become realists and know otherwise, but somehow they keep their sense of wonder even after the magic is revealed and they take joy in supporting the beliefs in the next.  
+  
+I don't lean hard into the lying and usually answer questions with question of what they think. I let their imagination fill in the blanks and I just sprinkle the tooth fairies glitter around or set off their well constructed leprechaun trap leaving chocolate coins behind.  
+  
+When they figure it out they still like to play along for a couple years more. And when they figure it out I do let them in on the secret.   
+  
+In the end I have imaginative kids who make friends with the winds blowing in the back yard and gives names to imaginary friends. I give them the support and little bits of material to weave their dreams without giving explanations as to how Santa gets down chimneys. That is their job. I'm just a dumb dad that needs their help to figure it out.
+
 ## Fractional grid graph paper (generate your own PDFs)
 @tags=graph-paper, pdf, python, print
 @date=2026-10-09

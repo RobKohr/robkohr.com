@@ -5,9 +5,25 @@
             <link>https://robkohr.com</link>
             <description>RobKohr's Blog</description>
             <language>en-us</language>
-            <lastBuildDate>Fri, 09 Oct 2026 07:00:00 GMT</lastBuildDate>
-            <pubDate>Fri, 09 Oct 2026 07:00:00 GMT</pubDate>
+            <lastBuildDate>Sun, 08 Nov 2026 08:00:00 GMT</lastBuildDate>
+            <pubDate>Sun, 08 Nov 2026 08:00:00 GMT</pubDate>
             <ttl>1800</ttl>
+            <item>
+                <guid>https://robkohr.com/demos/guitar-playground</guid>
+                <title>Guitar Playground</title>
+                <link>https://robkohr.com/demos/guitar-playground</link>
+                <description>Guitar Playground</description>
+                <pubDate>Mon, 19 Oct 2026 23:00:00 GMT</pubDate>
+            </item>
+    
+            <item>
+                <guid>https://robkohr.com/articles/i-instill-a-belief-in-santa-in-my-kids</guid>
+                <title>I instill a belief in Santa in my kids</title>
+                <link>https://robkohr.com/articles/i-instill-a-belief-in-santa-in-my-kids</link>
+                <description>I instill a belief in Santa in my kids</description>
+                <pubDate>Wed, 07 Oct 2026 23:00:00 GMT</pubDate>
+            </item>
+    
             <item>
                 <guid>https://robkohr.com/articles/fractional-grid-graph-paper--generate-your-own-pdfs-</guid>
                 <title>Fractional grid graph paper (generate your own PDFs)</title>
@@ -313,9 +329,9 @@
             </item>
     
             <item>
-                <guid>https://robkohr.com/articles/now</guid>
+                <guid>https://robkohr.com/true</guid>
                 <title>Now</title>
-                <link>https://robkohr.com/articles/now</link>
+                <link>https://robkohr.com/true</link>
                 <description>Now</description>
                 <pubDate>Tue, 25 Feb 2025 01:00:00 GMT</pubDate>
             </item>
@@ -390,22 +406,6 @@
                 <link>https://robkohr.com/articles/modern-art---indie-gaming</link>
                 <description>Modern art = Indie gaming</description>
                 <pubDate>Thu, 05 Dec 2024 00:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/happy-perfect-square-year-45-2---2025</guid>
-                <title>Happy perfect square year 45^2 = 2025</title>
-                <link>https://robkohr.com/articles/happy-perfect-square-year-45-2---2025</link>
-                <description>Happy perfect square year 45^2 = 2025</description>
-                <pubDate>Tue, 03 Dec 2024 00:00:00 GMT</pubDate>
-            </item>
-    
-            <item>
-                <guid>https://robkohr.com/articles/hammered-by-attempted-hackers</guid>
-                <title>Hammered by attempted hackers</title>
-                <link>https://robkohr.com/articles/hammered-by-attempted-hackers</link>
-                <description>Hammered by attempted hackers</description>
-                <pubDate>Tue, 03 Dec 2024 00:00:00 GMT</pubDate>
             </item>
     
         </channel>

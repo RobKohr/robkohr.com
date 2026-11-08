@@ -1,0 +1,45 @@
+
+        <html>
+            <head>
+                <base href="../">
+                <title>kids - RobKohr's Blog</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-600316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-600316-3");
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="RobKohr's Blog" href="./rss.xml" />
+<link rel="shortcut icon" type="image/ico" href="./favicon.ico">
+<link rel="stylesheet" href="./libs/highlight/styles/default.min.css">
+<script src="./libs/highlight/highlight.min.js"></script>
+<script src="./image-lazy-loader.js"></script>
+
+                <link rel="stylesheet" href="./neat.css">
+            </head>
+            <body>
+            <a href="./index.html">&larr; Home</a>
+            <h2>Tag: kids</h2>
+    
+    <h2><a href="articles/i-instill-a-belief-in-santa-in-my-kids">I instill a belief in Santa in my kids</a></h2>
+    <div class="variables">
+    <div class="date">@date=2026-11-08</div>
+    <div class="tags">@tags=<a href="tags/kids">kids</a></div>
+    </div>
+    <article>
+        <p>I&#39;ve had 7 kids across a 19 year spread and all were believers and all enjoyed it. I even support their beliefs in unicorns and mermaids and such.  </p>
+<p>There is a short period of life where we get to really feel in our bones that magic is real.   </p>
+<p>Eventually they become realists and know other...</p>
+ <p><a class="nowrap" href="articles/i-instill-a-belief-in-santa-in-my-kids">READ MORE (236 words, 2 minutes)</a></p> 
+    </article>
+    
+            </body>
+        </html>
+    
