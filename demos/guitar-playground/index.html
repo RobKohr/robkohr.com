@@ -667,6 +667,8 @@
     let letteringMode = noteLetteringEl.value;
     /** @type {Map<number, { pitchClass: string, lastPlayedEl: Element | null, voice?: { osc: OscillatorNode, gain: GainNode, held: boolean, baseFreq: number } | null }>} */
     const activePointers = new Map();
+    /** @type {Map<number, { osc: OscillatorNode, gain: GainNode, held: boolean, baseFreq: number }>} */
+    const pointerVoices = new Map();
     let audioCtx = null;
     let soundEnabled = soundToggleEl.checked;
 
@@ -897,16 +899,26 @@
     }
 
     function stopVoice(voice) {
-      if (!voice || !audioCtx) return;
+      if (!voice || voice.stopped || !audioCtx) return;
+      voice.stopped = true;
+      voice.held = false;
       const now = audioCtx.currentTime;
       try {
         voice.gain.gain.cancelScheduledValues(now);
         voice.gain.gain.setValueAtTime(Math.max(voice.gain.gain.value, 0.0001), now);
-        voice.gain.gain.exponentialRampToValueAtTime(0.0001, now + 0.05);
-        voice.osc.stop(now + 0.06);
+        voice.gain.gain.exponentialRampToValueAtTime(0.0001, now + 0.03);
+        voice.osc.stop(now + 0.035);
       } catch (_) {
         /* already stopped */
       }
+    }
+
+    function stopPointerVoice(pointerId) {
+      const voice = pointerVoices.get(pointerId);
+      if (voice) stopVoice(voice);
+      pointerVoices.delete(pointerId);
+      const entry = activePointers.get(pointerId);
+      if (entry) entry.voice = null;
     }
 
     const HOLD_GAIN = 0.22;
@@ -936,8 +948,7 @@
       const freq = Number(badge.dataset.frequency);
       if (!Number.isFinite(freq)) return;
 
-      const prev = activePointers.get(pointerId);
-      if (prev?.voice) stopVoice(prev.voice);
+      stopPointerVoice(pointerId);
 
       const ctx = ensureAudio();
       const { deltaGamma } = getTiltDeltas();
@@ -952,9 +963,10 @@
       gain.connect(ctx.destination);
       osc.start(now);
 
-      const voice = { osc, gain, held: true, baseFreq: freq };
+      const voice = { osc, gain, held: true, baseFreq: freq, stopped: false };
       applyHeldNoteEnvelope(voice);
 
+      pointerVoices.set(pointerId, voice);
       const entry = activePointers.get(pointerId);
       if (entry) entry.voice = voice;
     }
@@ -971,20 +983,19 @@
       if (prev?.pitchClass === pitchClass && prev.lastPlayedEl === badge && prev?.voice) return;
 
       const lastPlayedEl = prev?.lastPlayedEl ?? null;
-      const voice = badge === lastPlayedEl ? prev?.voice ?? null : null;
+      const needsNewVoice = badge !== lastPlayedEl || !prev?.voice;
+      if (needsNewVoice) stopPointerVoice(pointerId);
+
+      const voice = needsNewVoice ? null : prev.voice;
       activePointers.set(pointerId, { pitchClass, lastPlayedEl: badge, voice });
       updateHighlightsFromActives();
-      if (badge !== lastPlayedEl || !voice) {
+      if (needsNewVoice) {
         startVoiceForPointer(pointerId, badge);
       }
     }
 
     function releasePointer(pointerId) {
-      const entry = activePointers.get(pointerId);
-      if (entry?.voice) {
-        entry.voice.held = false;
-        stopVoice(entry.voice);
-      }
+      stopPointerVoice(pointerId);
       if (!activePointers.delete(pointerId)) return;
       updateHighlightsFromActives();
     }
@@ -996,12 +1007,7 @@
         activateBadgeForPointer(e.pointerId, badge);
         return;
       }
-      const entry = activePointers.get(e.pointerId);
-      if (entry?.voice) {
-        entry.voice.held = false;
-        stopVoice(entry.voice);
-        entry.voice = null;
-      }
+      if (pointerVoices.has(e.pointerId)) stopPointerVoice(e.pointerId);
     });
     window.addEventListener('pointerup', (e) => {
       releasePointer(e.pointerId);
@@ -1031,6 +1037,9 @@
         if (lockVerticalScrollEl.checked) e.preventDefault();
         badge.setPointerCapture(e.pointerId);
         activateBadgeForPointer(e.pointerId, badge);
+      });
+      badge.addEventListener('lostpointercapture', (e) => {
+        releasePointer(e.pointerId);
       });
       return badge;
     }
