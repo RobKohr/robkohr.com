@@ -473,7 +473,7 @@
     padding-left: 0;
     padding-bottom: 0;
     padding-top: 42px;
-    padding-right: 72px;
+    padding-right: 100px;
   }
 
   .scroll-container:has(.fretboard-wrapper.is-vertical) {
@@ -579,7 +579,7 @@
     bottom: auto;
     left: auto;
     top: 42px;
-    right: 36px;
+    right: 68px;
     width: 28px;
     height: 720px;
     grid-template-columns: 1fr;
@@ -590,7 +590,7 @@
     display: flex;
     top: 42px;
     right: 0;
-    width: 32px;
+    width: 64px;
     height: 720px;
   }
 </style>
@@ -986,10 +986,24 @@
       refreshActiveVoiceEnvelopes();
     }
 
+    function releaseSustainPedal() {
+      if (!sustainPedalOn) return;
+      setSustainPedal(false);
+    }
+
     sustainPedalEl.addEventListener('pointerdown', (e) => {
       e.stopPropagation();
-      setSustainPedal(!sustainPedalOn);
+      if (e.button !== 0 && e.pointerType === 'mouse') return;
+      sustainPedalEl.setPointerCapture(e.pointerId);
+      setSustainPedal(true);
     });
+    sustainPedalEl.addEventListener('pointerup', (e) => {
+      if (sustainPedalEl.hasPointerCapture(e.pointerId)) {
+        sustainPedalEl.releasePointerCapture(e.pointerId);
+      }
+      releaseSustainPedal();
+    });
+    sustainPedalEl.addEventListener('pointercancel', releaseSustainPedal);
 
     function updateActiveVoicesFromTilt() {
       if (!audioCtx || activePointers.size === 0) return;
