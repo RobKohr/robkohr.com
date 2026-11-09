@@ -433,6 +433,10 @@
 
   /* Vertical fretboard: nut on top, frets toward the bridge below */
   .fretboard-wrapper.is-vertical {
+    --note-diameter: 34px;
+    /* Row gap was ~26px (60px rows − 34px notes); half gap → 47px rows, no overlap */
+    --vertical-fret-row-height: calc(var(--note-diameter) + 13px);
+    --vertical-fretboard-height: calc(12 * var(--vertical-fret-row-height));
     min-width: unset;
     width: fit-content;
     margin: 0 auto;
@@ -478,10 +482,10 @@
 
   .fretboard-wrapper.is-vertical .fretboard {
     width: 230px;
-    height: 720px;
-    min-height: 720px;
+    height: var(--vertical-fretboard-height);
+    min-height: var(--vertical-fretboard-height);
     grid-template-columns: 1fr;
-    grid-template-rows: repeat(12, 1fr);
+    grid-template-rows: repeat(12, var(--vertical-fret-row-height));
     border-radius: 0 0 4px 4px;
     border-left: 2px solid #968775;
     border-right: 2px solid #968775;
@@ -537,7 +541,7 @@
 
   .fretboard-wrapper.is-vertical .notes-layer {
     grid-template-columns: repeat(6, 1fr);
-    grid-template-rows: repeat(12, 1fr);
+    grid-template-rows: repeat(12, var(--vertical-fret-row-height));
     padding: 0 2px;
   }
 
@@ -547,9 +551,9 @@
     top: 42px;
     right: 0;
     width: 28px;
-    height: 720px;
+    height: var(--vertical-fretboard-height);
     grid-template-columns: 1fr;
-    grid-template-rows: repeat(12, 1fr);
+    grid-template-rows: repeat(12, var(--vertical-fret-row-height));
   }
 </style>
 </head>
