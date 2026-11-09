@@ -231,15 +231,69 @@
     text-align: center;
   }
 
-  .top-bar {
+  .settings-menu {
     width: 100%;
     max-width: 1200px;
+    margin-bottom: 14px;
+  }
+
+  .settings-menu-toggle {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    width: 100%;
+    padding: 10px 14px;
+    font-size: 14px;
+    font-weight: 600;
+    color: #333333;
+    background-color: #f5f3f0;
+    border: 1px solid #d4cfc9;
+    border-radius: 8px;
+    cursor: pointer;
+    user-select: none;
+    list-style: none;
+  }
+
+  .settings-menu-toggle::-webkit-details-marker {
+    display: none;
+  }
+
+  .settings-menu-toggle::after {
+    content: '';
+    flex-shrink: 0;
+    width: 8px;
+    height: 8px;
+    border-right: 2px solid #666666;
+    border-bottom: 2px solid #666666;
+    transform: rotate(45deg);
+    transition: transform 0.2s ease;
+  }
+
+  .settings-menu[open] .settings-menu-toggle::after {
+    transform: rotate(-135deg);
+  }
+
+  .settings-menu-toggle:focus-visible {
+    outline: 2px solid #968775;
+    outline-offset: 2px;
+  }
+
+  .settings-menu-panel {
+    margin-top: 10px;
+    padding: 12px 14px;
+    background-color: #faf9f7;
+    border: 1px solid #e8e4df;
+    border-radius: 8px;
+  }
+
+  .top-bar {
+    width: 100%;
     display: flex;
     justify-content: space-between;
     align-items: center;
     flex-wrap: wrap;
     gap: 12px 20px;
-    margin-bottom: 14px;
   }
 
   .top-bar-controls {
@@ -344,6 +398,21 @@
     overflow-y: auto;
   }
 
+  body.lock-vertical-scroll {
+    overflow: hidden;
+    overscroll-behavior-y: none;
+    touch-action: pan-x;
+  }
+
+  .scroll-container.lock-vertical-scroll {
+    overflow-y: hidden !important;
+    overscroll-behavior-y: none;
+  }
+
+  .fretboard-wrapper.touch-playfield {
+    touch-action: none;
+  }
+
   .fretboard-wrapper.is-vertical .open-strings {
     top: 0;
     left: 0;
@@ -437,30 +506,40 @@
 </head>
 <body>
 
-<div class="top-bar">
-  <div class="top-bar-controls">
-    <label class="sound-toggle">
-      <span>Vertical fretboard</span>
-      <input type="checkbox" id="vertical-fretboard" checked aria-label="Show fretboard vertically with nut at top">
-      <span class="switch" aria-hidden="true"></span>
-    </label>
-    <label class="note-lettering-control">
-    <span>Note Lettering</span>
-    <select id="note-lettering" aria-label="Note lettering style">
-      <option value="standard">Standard equal temperament</option>
-      <option value="a0">A=0, notes 0–11</option>
-      <option value="a1">A=1, notes 1–12</option>
-      <option value="c0">C=0, notes 0–11</option>
-      <option value="c1">C=1, notes 1–12</option>
-    </select>
-    </label>
+<details class="settings-menu" id="settings-menu" open>
+  <summary class="settings-menu-toggle">Settings</summary>
+  <div class="settings-menu-panel">
+    <div class="top-bar">
+      <div class="top-bar-controls">
+        <label class="sound-toggle">
+          <span>Vertical fretboard</span>
+          <input type="checkbox" id="vertical-fretboard" checked aria-label="Show fretboard vertically with nut at top">
+          <span class="switch" aria-hidden="true"></span>
+        </label>
+        <label class="sound-toggle">
+          <span>Lock vertical scroll</span>
+          <input type="checkbox" id="lock-vertical-scroll" checked aria-label="Prevent vertical page scrolling while playing">
+          <span class="switch" aria-hidden="true"></span>
+        </label>
+        <label class="note-lettering-control">
+          <span>Note Lettering</span>
+          <select id="note-lettering" aria-label="Note lettering style">
+            <option value="standard">Standard equal temperament</option>
+            <option value="a0">A=0, notes 0–11</option>
+            <option value="a1">A=1, notes 1–12</option>
+            <option value="c0">C=0, notes 0–11</option>
+            <option value="c1">C=1, notes 1–12</option>
+          </select>
+        </label>
+      </div>
+      <label class="sound-toggle">
+        <span>Sound</span>
+        <input type="checkbox" id="sound-toggle" checked aria-label="Play note sounds">
+        <span class="switch" aria-hidden="true"></span>
+      </label>
+    </div>
   </div>
-  <label class="sound-toggle">
-    <span>Sound</span>
-    <input type="checkbox" id="sound-toggle" checked aria-label="Play note sounds">
-    <span class="switch" aria-hidden="true"></span>
-  </label>
-</div>
+</details>
 
 <div class="scroll-container">
   <div class="fretboard-wrapper">
@@ -486,7 +565,7 @@
   </div>
 </div>
 
-<div class="hint-bar" id="hint-bar">Press and hold a note, or slide across notes while held, to see matching pitches.</div>
+<div class="hint-bar" id="hint-bar">Press and hold notes (use multiple fingers for chords), or slide while held, to see matching pitches.</div>
 
 <script>
   try {
@@ -515,12 +594,16 @@
     const soundToggleEl = document.getElementById('sound-toggle');
     const noteLetteringEl = document.getElementById('note-lettering');
     const verticalFretboardEl = document.getElementById('vertical-fretboard');
+    const lockVerticalScrollEl = document.getElementById('lock-vertical-scroll');
+    const scrollContainerEl = document.querySelector('.scroll-container');
     const fretboardWrapperEl = document.querySelector('.fretboard-wrapper');
 
+    const defaultHint =
+      'Press and hold notes (use multiple fingers for chords), or slide while held, to see matching pitches.';
+
     let letteringMode = noteLetteringEl.value;
-    let pressedPitchClass = null;
-    let pressPointerId = null;
-    let lastPlayedBadge = null;
+    /** @type {Map<number, { pitchClass: string, lastPlayedEl: Element | null }>} */
+    const activePointers = new Map();
     let audioCtx = null;
     let soundEnabled = soundToggleEl.checked;
 
@@ -546,6 +629,16 @@
     }
 
     verticalFretboardEl.addEventListener('change', applyFretboardOrientation);
+
+    function applyScrollLock() {
+      const locked = lockVerticalScrollEl.checked;
+      document.body.classList.toggle('lock-vertical-scroll', locked);
+      scrollContainerEl.classList.toggle('lock-vertical-scroll', locked);
+      fretboardWrapperEl.classList.toggle('touch-playfield', locked);
+    }
+
+    lockVerticalScrollEl.addEventListener('change', applyScrollLock);
+    applyScrollLock();
 
     function formatNoteLabel(pitchClass) {
       const pc = ((pitchClass % 12) + 12) % 12;
@@ -593,10 +686,33 @@
       }
     }
 
+    function activePitchClasses() {
+      return new Set([...activePointers.values()].map(entry => entry.pitchClass));
+    }
+
+    function updateHighlightsFromActives() {
+      const pitchClasses = activePitchClasses();
+      document.querySelectorAll('.note').forEach(badge => {
+        badge.classList.toggle('highlighted', pitchClasses.has(badge.dataset.pitchClass));
+      });
+      if (pitchClasses.size === 0) {
+        hintBarEl.textContent = defaultHint;
+      } else if (pitchClasses.size === 1) {
+        const pc = [...pitchClasses][0];
+        hintBarEl.textContent = `Showing all "${formatNoteLabel(Number(pc))}" notes — release to clear.`;
+      } else {
+        const labels = [...pitchClasses]
+          .map(pc => formatNoteLabel(Number(pc)))
+          .sort((a, b) => a.localeCompare(b, undefined, { numeric: true }))
+          .join('", "');
+        hintBarEl.textContent = `Showing "${labels}" — release fingers to clear.`;
+      }
+    }
+
     function applyNoteLettering() {
       document.querySelectorAll('.note').forEach(applyNoteBadgeAppearance);
-      if (pressedPitchClass !== null) {
-        hintBarEl.textContent = `Showing all "${formatNoteLabel(Number(pressedPitchClass))}" notes — release to clear.`;
+      if (activePointers.size > 0) {
+        updateHighlightsFromActives();
       }
     }
 
@@ -639,43 +755,36 @@
       return el?.closest?.('.note') ?? null;
     }
 
-    function showNoteMatches(pitchClass) {
-      const pc = String(pitchClass);
-      if (pressedPitchClass === pc) return;
-      pressedPitchClass = pc;
-      document.querySelectorAll('.note').forEach(badge => {
-        badge.classList.toggle('highlighted', badge.dataset.pitchClass === pc);
-      });
-      hintBarEl.textContent = `Showing all "${formatNoteLabel(Number(pitchClass))}" notes — release to clear.`;
-    }
-
-    function activateBadge(badge) {
+    function activateBadgeForPointer(pointerId, badge) {
       if (badge?.dataset.pitchClass == null) return;
-      showNoteMatches(badge.dataset.pitchClass);
-      if (badge !== lastPlayedBadge) {
-        lastPlayedBadge = badge;
+      const pitchClass = badge.dataset.pitchClass;
+      const prev = activePointers.get(pointerId);
+      if (prev?.pitchClass === pitchClass && prev.lastPlayedEl === badge) return;
+
+      const lastPlayedEl = prev?.lastPlayedEl ?? null;
+      activePointers.set(pointerId, { pitchClass, lastPlayedEl: badge });
+      updateHighlightsFromActives();
+      if (badge !== lastPlayedEl) {
         playBadgePitch(badge);
       }
     }
 
-    function clearNoteMatches() {
-      pressedPitchClass = null;
-      pressPointerId = null;
-      lastPlayedBadge = null;
-      document.querySelectorAll('.note').forEach(badge => badge.classList.remove('highlighted'));
-      hintBarEl.textContent = 'Press and hold a note, or slide across notes while held, to see matching pitches.';
+    function releasePointer(pointerId) {
+      if (!activePointers.delete(pointerId)) return;
+      updateHighlightsFromActives();
     }
 
     window.addEventListener('pointermove', (e) => {
-      if (pressPointerId === null || e.pointerId !== pressPointerId) return;
-      activateBadge(noteUnderPointer(e.clientX, e.clientY));
+      if (!activePointers.has(e.pointerId)) return;
+      const badge = noteUnderPointer(e.clientX, e.clientY);
+      if (badge) activateBadgeForPointer(e.pointerId, badge);
     });
     window.addEventListener('pointerup', (e) => {
-      if (pressPointerId !== null && e.pointerId === pressPointerId) {
-        clearNoteMatches();
-      }
+      releasePointer(e.pointerId);
     });
-    window.addEventListener('pointercancel', clearNoteMatches);
+    window.addEventListener('pointercancel', (e) => {
+      releasePointer(e.pointerId);
+    });
 
     // Helper to create a pressable note badge
     function createNoteBadge(pitchClass, { isOpen = false, stringIndex = 0, fret = 0 } = {}) {
@@ -686,10 +795,9 @@
       badge.dataset.frequency = midiToFrequency(openStringMidi[stringIndex] + fret);
       badge.addEventListener('pointerdown', (e) => {
         if (e.button !== 0 && e.pointerType === 'mouse') return;
-        pressPointerId = e.pointerId;
-        pressedPitchClass = null;
-        lastPlayedBadge = null;
-        activateBadge(badge);
+        if (lockVerticalScrollEl.checked) e.preventDefault();
+        badge.setPointerCapture(e.pointerId);
+        activateBadgeForPointer(e.pointerId, badge);
       });
       return badge;
     }
