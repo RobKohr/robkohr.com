@@ -162,6 +162,7 @@
 
   /* Note circle styling (34px = 27px + 25% strike diameter) */
   .note {
+    position: relative;
     width: 34px;
     height: 34px;
     border-radius: 50%;
@@ -201,6 +202,22 @@
     background-color: #333333;
     color: #ffffff;
     border-color: #333333;
+  }
+
+  .note-label {
+    line-height: 1;
+    pointer-events: none;
+  }
+
+  .note-octave {
+    position: absolute;
+    right: 3px;
+    bottom: 2px;
+    font-size: 8px;
+    font-weight: 700;
+    line-height: 1;
+    pointer-events: none;
+    opacity: 0.9;
   }
 
   /* Fret numbers at the bottom */
@@ -582,8 +599,15 @@
     // MIDI for open strings, high E (string 0) through low E (string 5)
     const openStringMidi = [64, 59, 55, 50, 45, 40];
 
+    // Octave 0 spans A (MIDI 33) through G#; low E open (40) is 0; low E fret 5 A (45) is 1
+    const OCTAVE_REF_MIDI = 33;
+
     function midiToFrequency(midi) {
       return 440 * Math.pow(2, (midi - 69) / 12);
+    }
+
+    function displayOctave(midi) {
+      return Math.floor((midi - OCTAVE_REF_MIDI) / 12);
     }
 
     const openStringsEl = document.getElementById('open-strings');
@@ -680,7 +704,12 @@
 
     function applyNoteBadgeAppearance(badge) {
       const pitchClass = Number(badge.dataset.pitchClass);
-      badge.textContent = formatNoteLabel(pitchClass);
+      const labelEl = badge.querySelector('.note-label');
+      const octaveEl = badge.querySelector('.note-octave');
+      if (labelEl) labelEl.textContent = formatNoteLabel(pitchClass);
+      if (octaveEl) {
+        octaveEl.textContent = String(displayOctave(Number(badge.dataset.midi)));
+      }
       if (!badge.classList.contains('highlighted')) {
         badge.style.backgroundColor = noteButtonBackground(pitchClass);
       }
@@ -790,9 +819,18 @@
     function createNoteBadge(pitchClass, { isOpen = false, stringIndex = 0, fret = 0 } = {}) {
       const badge = document.createElement('div');
       badge.className = isOpen ? 'note open' : 'note';
+      const midi = openStringMidi[stringIndex] + fret;
       badge.dataset.pitchClass = String(pitchClass);
+      badge.dataset.midi = String(midi);
+      badge.dataset.frequency = midiToFrequency(midi);
+      const labelEl = document.createElement('span');
+      labelEl.className = 'note-label';
+      const octaveEl = document.createElement('span');
+      octaveEl.className = 'note-octave';
+      octaveEl.setAttribute('aria-hidden', 'true');
+      badge.appendChild(labelEl);
+      badge.appendChild(octaveEl);
       applyNoteBadgeAppearance(badge);
-      badge.dataset.frequency = midiToFrequency(openStringMidi[stringIndex] + fret);
       badge.addEventListener('pointerdown', (e) => {
         if (e.button !== 0 && e.pointerType === 'mouse') return;
         if (lockVerticalScrollEl.checked) e.preventDefault();
