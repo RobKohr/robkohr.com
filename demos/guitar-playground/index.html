@@ -612,7 +612,7 @@
     <!-- Fret Numbers -->
     <div class="fret-numbers" id="fret-numbers"></div>
 
-    <button type="button" class="tilt-sensor" id="tilt-sensor" aria-label="Device tilt level; tap to set center">
+    <button type="button" class="tilt-sensor" id="tilt-sensor" aria-label="Tilt: left-right tone, forward-back sustain; tap to reset center">
       <span class="tilt-sensor-dot" id="tilt-sensor-dot" aria-hidden="true"></span>
     </button>
   </div>
@@ -664,7 +664,7 @@
       'Press and hold notes (use multiple fingers for chords), or slide while held, to see matching pitches.';
 
     let letteringMode = noteLetteringEl.value;
-    /** @type {Map<number, { pitchClass: string, lastPlayedEl: Element | null }>} */
+    /** @type {Map<number, { pitchClass: string, lastPlayedEl: Element | null, voice?: { osc: OscillatorNode, filter: BiquadFilterNode, gain: GainNode, held: boolean } | null }>} */
     const activePointers = new Map();
     let audioCtx = null;
     let soundEnabled = soundToggleEl.checked;
@@ -713,6 +713,16 @@
       tiltSensorEl.style.top = `${top}px`;
     }
 
+    function getTiltDeltas() {
+      if (!lastOrientation || tiltCenterBeta == null || tiltCenterGamma == null) {
+        return { deltaGamma: 0, deltaBeta: 0 };
+      }
+      return {
+        deltaGamma: lastOrientation.gamma - tiltCenterGamma,
+        deltaBeta: lastOrientation.beta - tiltCenterBeta,
+      };
+    }
+
     function updateTiltDot(deltaGamma, deltaBeta) {
       const x = Math.max(-TILT_DOT_MAX_PX, Math.min(TILT_DOT_MAX_PX, deltaGamma * TILT_DEGREE_SCALE));
       const y = Math.max(-TILT_DOT_MAX_PX, Math.min(TILT_DOT_MAX_PX, deltaBeta * TILT_DEGREE_SCALE));
@@ -724,6 +734,7 @@
       tiltCenterBeta = lastOrientation.beta;
       tiltCenterGamma = lastOrientation.gamma;
       updateTiltDot(0, 0);
+      updateActiveVoicesFromTilt();
     }
 
     function onDeviceOrientation(e) {
@@ -733,7 +744,9 @@
         tiltCenterBeta = e.beta;
         tiltCenterGamma = e.gamma;
       }
-      updateTiltDot(e.gamma - tiltCenterGamma, e.beta - tiltCenterBeta);
+      const { deltaGamma, deltaBeta } = getTiltDeltas();
+      updateTiltDot(deltaGamma, deltaBeta);
+      updateActiveVoicesFromTilt();
     }
 
     async function ensureOrientationPermission() {
@@ -867,23 +880,105 @@
       return audioCtx;
     }
 
-    function playBadgePitch(badge) {
+    const TILT_DEG_FULL = 28;
+
+    /** X tilt → low-pass cutoff (center ≈ open / current brightness). */
+    function toneCutoffFromTilt(deltaGamma) {
+      const norm = Math.max(-1, Math.min(1, deltaGamma / TILT_DEG_FULL));
+      if (Math.abs(norm) < 0.06) return 14000;
+      const cutoff = 5200 * Math.pow(2, norm * 1.35);
+      return Math.max(280, Math.min(14000, cutoff));
+    }
+
+    /** Y tilt → decay / hold (center = original ~0.55s pluck, no hold). */
+    function sustainFromTilt(deltaBeta) {
+      const attack = 0.012;
+      const peak = 0.22;
+      const norm = Math.max(-1, Math.min(1, deltaBeta / TILT_DEG_FULL));
+      if (Math.abs(norm) < 0.08) {
+        return { attack, peak, release: 0.538, sustainGain: 0.0001, holdWhilePressed: false };
+      }
+      if (norm < 0) {
+        const release = Math.max(0.06, 0.55 * Math.pow(2, norm * 2.2));
+        return { attack, peak, release, sustainGain: 0.0001, holdWhilePressed: false };
+      }
+      const release = Math.min(3.2, 0.55 * Math.pow(2, norm * 2.4));
+      const sustainGain = Math.min(0.16, 0.035 + norm * 0.12);
+      return { attack, peak, release, sustainGain, holdWhilePressed: true };
+    }
+
+    function stopVoice(voice) {
+      if (!voice || !audioCtx) return;
+      const now = audioCtx.currentTime;
+      try {
+        voice.gain.gain.cancelScheduledValues(now);
+        voice.gain.gain.setValueAtTime(Math.max(voice.gain.gain.value, 0.0001), now);
+        voice.gain.gain.exponentialRampToValueAtTime(0.0001, now + 0.05);
+        voice.osc.stop(now + 0.06);
+      } catch (_) {
+        /* already stopped */
+      }
+    }
+
+    function applyEnvelopeToVoice(voice, sustain) {
+      if (!audioCtx) return;
+      const now = audioCtx.currentTime;
+      const { attack, peak, release, sustainGain, holdWhilePressed } = sustain;
+      voice.gain.gain.cancelScheduledValues(now);
+      voice.gain.gain.setValueAtTime(0.0001, now);
+      voice.gain.gain.exponentialRampToValueAtTime(peak, now + attack);
+      const tail = holdWhilePressed && voice.held ? sustainGain : 0.0001;
+      voice.gain.gain.exponentialRampToValueAtTime(tail, now + attack + release);
+    }
+
+    function updateActiveVoicesFromTilt() {
+      if (!audioCtx || activePointers.size === 0) return;
+      const { deltaGamma, deltaBeta } = getTiltDeltas();
+      const cutoff = toneCutoffFromTilt(deltaGamma);
+      const sustain = sustainFromTilt(deltaBeta);
+      const now = audioCtx.currentTime;
+      for (const entry of activePointers.values()) {
+        const voice = entry.voice;
+        if (!voice) continue;
+        voice.filter.frequency.setTargetAtTime(cutoff, now, 0.06);
+        if (voice.held) {
+          applyEnvelopeToVoice(voice, sustain);
+        }
+      }
+    }
+
+    function startVoiceForPointer(pointerId, badge) {
       if (!soundEnabled) return;
       const freq = Number(badge.dataset.frequency);
       if (!Number.isFinite(freq)) return;
+
+      const prev = activePointers.get(pointerId);
+      if (prev?.voice) stopVoice(prev.voice);
+
       const ctx = ensureAudio();
+      const { deltaGamma, deltaBeta } = getTiltDeltas();
       const now = ctx.currentTime;
+      const sustain = sustainFromTilt(deltaBeta);
+
       const osc = ctx.createOscillator();
+      const filter = ctx.createBiquadFilter();
       const gain = ctx.createGain();
+      filter.type = 'lowpass';
+      filter.Q.value = 0.85;
+      filter.frequency.setValueAtTime(toneCutoffFromTilt(deltaGamma), now);
       osc.type = 'triangle';
       osc.frequency.setValueAtTime(freq, now);
-      gain.gain.setValueAtTime(0.0001, now);
-      gain.gain.exponentialRampToValueAtTime(0.22, now + 0.012);
-      gain.gain.exponentialRampToValueAtTime(0.0001, now + 0.55);
-      osc.connect(gain);
+
+      osc.connect(filter);
+      filter.connect(gain);
       gain.connect(ctx.destination);
       osc.start(now);
-      osc.stop(now + 0.56);
+
+      const voice = { osc, filter, gain, held: true };
+      applyEnvelopeToVoice(voice, sustain);
+
+      const entry = activePointers.get(pointerId);
+      if (entry) entry.voice = voice;
     }
 
     function noteUnderPointer(clientX, clientY) {
@@ -898,14 +993,20 @@
       if (prev?.pitchClass === pitchClass && prev.lastPlayedEl === badge) return;
 
       const lastPlayedEl = prev?.lastPlayedEl ?? null;
-      activePointers.set(pointerId, { pitchClass, lastPlayedEl: badge });
+      const voice = badge !== lastPlayedEl ? null : prev?.voice ?? null;
+      activePointers.set(pointerId, { pitchClass, lastPlayedEl: badge, voice });
       updateHighlightsFromActives();
       if (badge !== lastPlayedEl) {
-        playBadgePitch(badge);
+        startVoiceForPointer(pointerId, badge);
       }
     }
 
     function releasePointer(pointerId) {
+      const entry = activePointers.get(pointerId);
+      if (entry?.voice) {
+        entry.voice.held = false;
+        stopVoice(entry.voice);
+      }
       if (!activePointers.delete(pointerId)) return;
       updateHighlightsFromActives();
     }
