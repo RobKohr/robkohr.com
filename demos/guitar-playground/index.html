@@ -273,40 +273,6 @@
     will-change: transform;
   }
 
-  .sustain-pedal {
-    display: none;
-    position: absolute;
-    z-index: 11;
-    padding: 8px 4px;
-    border: 2px solid #968775;
-    border-radius: 8px;
-    background-color: #f5f3f0;
-    color: #333333;
-    font-size: 13px;
-    font-weight: 600;
-    letter-spacing: 0.04em;
-    cursor: pointer;
-    touch-action: manipulation;
-    user-select: none;
-    writing-mode: vertical-rl;
-    text-orientation: mixed;
-    align-items: center;
-    justify-content: center;
-    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
-    transition: background-color 0.15s ease, border-color 0.15s ease, color 0.15s ease;
-  }
-
-  .sustain-pedal:focus-visible {
-    outline: 2px solid #968775;
-    outline-offset: 2px;
-  }
-
-  .sustain-pedal.is-active {
-    background-color: #333333;
-    border-color: #333333;
-    color: #ffffff;
-  }
-
   .hint-bar {
     margin-top: 12px;
     font-size: 13px;
@@ -473,7 +439,7 @@
     padding-left: 0;
     padding-bottom: 0;
     padding-top: 42px;
-    padding-right: 100px;
+    padding-right: 36px;
   }
 
   .scroll-container:has(.fretboard-wrapper.is-vertical) {
@@ -579,19 +545,11 @@
     bottom: auto;
     left: auto;
     top: 42px;
-    right: 68px;
+    right: 0;
     width: 28px;
     height: 720px;
     grid-template-columns: 1fr;
     grid-template-rows: repeat(12, 1fr);
-  }
-
-  .fretboard-wrapper.is-vertical .sustain-pedal {
-    display: flex;
-    top: 42px;
-    right: 0;
-    width: 64px;
-    height: 720px;
   }
 </style>
 </head>
@@ -654,10 +612,6 @@
     <!-- Fret Numbers -->
     <div class="fret-numbers" id="fret-numbers"></div>
 
-    <button type="button" class="sustain-pedal" id="sustain-pedal" aria-pressed="false" aria-label="Sustain">
-      Sustain
-    </button>
-
     <button type="button" class="tilt-sensor" id="tilt-sensor" aria-label="Tilt: left-right pitch bend up to two semitones; tap to reset center">
       <span class="tilt-sensor-dot" id="tilt-sensor-dot" aria-hidden="true"></span>
     </button>
@@ -705,9 +659,7 @@
     const fretboardWrapperEl = document.querySelector('.fretboard-wrapper');
     const tiltSensorEl = document.getElementById('tilt-sensor');
     const tiltSensorDotEl = document.getElementById('tilt-sensor-dot');
-    const sustainPedalEl = document.getElementById('sustain-pedal');
 
-    let sustainPedalOn = false;
 
     const defaultHint =
       'Press and hold notes (use multiple fingers for chords), or slide while held, to see matching pitches.';
@@ -957,53 +909,15 @@
       }
     }
 
-    const SUSTAIN_HOLD_GAIN = 0.09;
+    const HOLD_GAIN = 0.22;
 
-    function applyNoteEnvelope(voice) {
+    function applyHeldNoteEnvelope(voice) {
       if (!audioCtx) return;
       const now = audioCtx.currentTime;
       voice.gain.gain.cancelScheduledValues(now);
       voice.gain.gain.setValueAtTime(0.0001, now);
-      voice.gain.gain.exponentialRampToValueAtTime(0.22, now + 0.012);
-      if (sustainPedalOn && voice.held) {
-        voice.gain.gain.exponentialRampToValueAtTime(SUSTAIN_HOLD_GAIN, now + 0.2);
-      } else {
-        voice.gain.gain.exponentialRampToValueAtTime(0.0001, now + 0.55);
-      }
+      voice.gain.gain.exponentialRampToValueAtTime(HOLD_GAIN, now + 0.02);
     }
-
-    function refreshActiveVoiceEnvelopes() {
-      if (!audioCtx) return;
-      for (const entry of activePointers.values()) {
-        if (entry.voice?.held) applyNoteEnvelope(entry.voice);
-      }
-    }
-
-    function setSustainPedal(on) {
-      sustainPedalOn = on;
-      sustainPedalEl.classList.toggle('is-active', on);
-      sustainPedalEl.setAttribute('aria-pressed', String(on));
-      refreshActiveVoiceEnvelopes();
-    }
-
-    function releaseSustainPedal() {
-      if (!sustainPedalOn) return;
-      setSustainPedal(false);
-    }
-
-    sustainPedalEl.addEventListener('pointerdown', (e) => {
-      e.stopPropagation();
-      if (e.button !== 0 && e.pointerType === 'mouse') return;
-      sustainPedalEl.setPointerCapture(e.pointerId);
-      setSustainPedal(true);
-    });
-    sustainPedalEl.addEventListener('pointerup', (e) => {
-      if (sustainPedalEl.hasPointerCapture(e.pointerId)) {
-        sustainPedalEl.releasePointerCapture(e.pointerId);
-      }
-      releaseSustainPedal();
-    });
-    sustainPedalEl.addEventListener('pointercancel', releaseSustainPedal);
 
     function updateActiveVoicesFromTilt() {
       if (!audioCtx || activePointers.size === 0) return;
@@ -1039,7 +953,7 @@
       osc.start(now);
 
       const voice = { osc, gain, held: true, baseFreq: freq };
-      applyNoteEnvelope(voice);
+      applyHeldNoteEnvelope(voice);
 
       const entry = activePointers.get(pointerId);
       if (entry) entry.voice = voice;
@@ -1054,13 +968,13 @@
       if (badge?.dataset.pitchClass == null) return;
       const pitchClass = badge.dataset.pitchClass;
       const prev = activePointers.get(pointerId);
-      if (prev?.pitchClass === pitchClass && prev.lastPlayedEl === badge) return;
+      if (prev?.pitchClass === pitchClass && prev.lastPlayedEl === badge && prev?.voice) return;
 
       const lastPlayedEl = prev?.lastPlayedEl ?? null;
-      const voice = badge !== lastPlayedEl ? null : prev?.voice ?? null;
+      const voice = badge === lastPlayedEl ? prev?.voice ?? null : null;
       activePointers.set(pointerId, { pitchClass, lastPlayedEl: badge, voice });
       updateHighlightsFromActives();
-      if (badge !== lastPlayedEl) {
+      if (badge !== lastPlayedEl || !voice) {
         startVoiceForPointer(pointerId, badge);
       }
     }
@@ -1078,7 +992,16 @@
     window.addEventListener('pointermove', (e) => {
       if (!activePointers.has(e.pointerId)) return;
       const badge = noteUnderPointer(e.clientX, e.clientY);
-      if (badge) activateBadgeForPointer(e.pointerId, badge);
+      if (badge) {
+        activateBadgeForPointer(e.pointerId, badge);
+        return;
+      }
+      const entry = activePointers.get(e.pointerId);
+      if (entry?.voice) {
+        entry.voice.held = false;
+        stopVoice(entry.voice);
+        entry.voice = null;
+      }
     });
     window.addEventListener('pointerup', (e) => {
       releasePointer(e.pointerId);
