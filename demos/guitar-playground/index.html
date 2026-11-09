@@ -241,6 +241,38 @@
     user-select: none;
   }
 
+  .tilt-sensor {
+    position: absolute;
+    z-index: 12;
+    width: 32px;
+    height: 32px;
+    padding: 0;
+    border: 2px solid #61574c;
+    border-radius: 50%;
+    background-color: #faf9f7;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12);
+    cursor: pointer;
+    touch-action: manipulation;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+  }
+
+  .tilt-sensor:focus-visible {
+    outline: 2px solid #968775;
+    outline-offset: 2px;
+  }
+
+  .tilt-sensor-dot {
+    width: 9px;
+    height: 9px;
+    border-radius: 50%;
+    background-color: #333333;
+    transition: transform 0.06s linear;
+    will-change: transform;
+  }
+
   .hint-bar {
     margin-top: 12px;
     font-size: 13px;
@@ -579,6 +611,10 @@
 
     <!-- Fret Numbers -->
     <div class="fret-numbers" id="fret-numbers"></div>
+
+    <button type="button" class="tilt-sensor" id="tilt-sensor" aria-label="Device tilt level; tap to set center">
+      <span class="tilt-sensor-dot" id="tilt-sensor-dot" aria-hidden="true"></span>
+    </button>
   </div>
 </div>
 
@@ -621,6 +657,8 @@
     const lockVerticalScrollEl = document.getElementById('lock-vertical-scroll');
     const scrollContainerEl = document.querySelector('.scroll-container');
     const fretboardWrapperEl = document.querySelector('.fretboard-wrapper');
+    const tiltSensorEl = document.getElementById('tilt-sensor');
+    const tiltSensorDotEl = document.getElementById('tilt-sensor-dot');
 
     const defaultHint =
       'Press and hold notes (use multiple fingers for chords), or slide while held, to see matching pitches.';
@@ -650,9 +688,78 @@
           cell.style.gridRow = String(s);
         }
       });
+      requestAnimationFrame(positionTiltSensor);
     }
 
     verticalFretboardEl.addEventListener('change', applyFretboardOrientation);
+
+    const TILT_DOT_MAX_PX = 10;
+    const TILT_DEGREE_SCALE = 0.35;
+    let lastOrientation = null;
+    let tiltCenterBeta = null;
+    let tiltCenterGamma = null;
+    let orientationListening = false;
+
+    function positionTiltSensor() {
+      const firstFretNum = fretNumbersEl.querySelector('.fret-num');
+      if (!firstFretNum || !tiltSensorEl) return;
+      const wrap = fretboardWrapperEl.getBoundingClientRect();
+      const num = firstFretNum.getBoundingClientRect();
+      const size = 32;
+      const gap = 4;
+      const left = num.left - wrap.left + num.width / 2 - size / 2;
+      const top = num.top - wrap.top - size - gap;
+      tiltSensorEl.style.left = `${left}px`;
+      tiltSensorEl.style.top = `${top}px`;
+    }
+
+    function updateTiltDot(deltaGamma, deltaBeta) {
+      const x = Math.max(-TILT_DOT_MAX_PX, Math.min(TILT_DOT_MAX_PX, deltaGamma * TILT_DEGREE_SCALE));
+      const y = Math.max(-TILT_DOT_MAX_PX, Math.min(TILT_DOT_MAX_PX, deltaBeta * TILT_DEGREE_SCALE));
+      tiltSensorDotEl.style.transform = `translate(${x}px, ${y}px)`;
+    }
+
+    function calibrateTiltCenter() {
+      if (!lastOrientation || lastOrientation.beta == null || lastOrientation.gamma == null) return;
+      tiltCenterBeta = lastOrientation.beta;
+      tiltCenterGamma = lastOrientation.gamma;
+      updateTiltDot(0, 0);
+    }
+
+    function onDeviceOrientation(e) {
+      if (e.beta == null || e.gamma == null) return;
+      lastOrientation = e;
+      if (tiltCenterBeta == null || tiltCenterGamma == null) {
+        tiltCenterBeta = e.beta;
+        tiltCenterGamma = e.gamma;
+      }
+      updateTiltDot(e.gamma - tiltCenterGamma, e.beta - tiltCenterBeta);
+    }
+
+    async function ensureOrientationPermission() {
+      const OrientationEvent = window.DeviceOrientationEvent;
+      if (OrientationEvent && typeof OrientationEvent.requestPermission === 'function') {
+        return (await OrientationEvent.requestPermission()) === 'granted';
+      }
+      return true;
+    }
+
+    async function startTiltListening() {
+      if (orientationListening) return true;
+      const granted = await ensureOrientationPermission();
+      if (!granted) return false;
+      window.addEventListener('deviceorientation', onDeviceOrientation, { passive: true });
+      orientationListening = true;
+      return true;
+    }
+
+    tiltSensorEl.addEventListener('pointerdown', async (e) => {
+      e.stopPropagation();
+      await startTiltListening();
+      calibrateTiltCenter();
+    });
+
+    window.addEventListener('resize', positionTiltSensor);
 
     function applyScrollLock() {
       const locked = lockVerticalScrollEl.checked;
@@ -894,6 +1001,12 @@
     });
 
     applyFretboardOrientation();
+    positionTiltSensor();
+
+    if (window.DeviceOrientationEvent && typeof DeviceOrientationEvent.requestPermission !== 'function') {
+      window.addEventListener('deviceorientation', onDeviceOrientation, { passive: true });
+      orientationListening = true;
+    }
   } catch (err) {
     console.error('Error rendering fretboard:', err);
   }
